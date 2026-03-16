@@ -1,41 +1,56 @@
+import msal
+import requests
 from office365.sharepoint.client_context import ClientContext
-from office365.runtime.auth.authentication_context import AuthenticationContext
-from office365.sharepoint.files.file import File
-from office365.sharepoint.folders.folder import Folder
+from office365.runtime.auth.user_credential import UserCredential
 from pathlib import Path
 
 SITE_URL = "https://<tenant>.sharepoint.com/sites/ProductManagement"
 LIBRARY = "Product Management Library"
 
-def connect():
-    auth = AuthenticationContext(SITE_URL)
-    auth.acquire_token_interactive()   # MFA login popup
-    return ClientContext(SITE_URL, auth)
+CLIENT_ID = "04f0c124-f2bc-4f59-9d9b-89fddf3f8f32"  # Microsoft’s official public client (no app reg needed)
+SCOPES = ["https://<tenant>.sharepoint.com/.default"]   # Replace with your tenant
 
-def download_recursive(ctx, folder: Folder, local_root: Path):
-    folder = folder.expand(["Folders", "Files"]).get().execute_query()
+def acquire_token():
+    app = msal.PublicClientApplication(
+        client_id=CLIENT_ID,
+        authority=f"https://login.microsoftonline.com/common"
+    )
 
-    # Create local folder
+    # Try silent login first
+    accounts = app.get_accounts()
+    if accounts:
+        result = app.acquire_token_silent(SCOPES, account=accounts[0])
+        if result:
+            return result["access_token"]
+
+    # Force interactive login (browser popup)
+    result = app.acquire_token_interactive(SCOPES)
+    return result["access_token"]
+
+def build_context():
+    token = acquire_token()
+    ctx = ClientContext(SITE_URL).with_access_token(token)
+    return ctx
+
+def download_recursive(ctx, folder, local_root):
+    folder = folder.expand(["Files", "Folders"]).get().execute_query()
+
     local_path = local_root / folder.serverRelativeUrl.replace("/", "_")
     local_path.mkdir(parents=True, exist_ok=True)
 
-    # Download .docx files
-    for f in folder.files:  # type: File
+    for f in folder.files:
         if f.name.lower().endswith(".docx"):
-            out = local_path / f.name
             print("Downloading:", f.name)
-            with open(out, "wb") as fh:
+            with open(local_path / f.name, "wb") as fh:
                 f.download(fh).execute_query()
 
-    # Recurse
-    for sf in folder.folders:
-        download_recursive(ctx, sf, local_root)
+    for sub in folder.folders:
+        download_recursive(ctx, sub, local_root)
 
 def fetch_all_sd_files():
-    ctx = connect()
-
-    root_folder = ctx.web.get_folder_by_server_relative_url(LIBRARY)
-    download_recursive(ctx, root_folder, Path("input"))
+    ctx = build_context()
+    root = ctx.web.get_folder_by_server_relative_url(LIBRARY)
+    download_recursive(ctx, root, Path("input"))
 
 if __name__ == "__main__":
     fetch_all_sd_files()
