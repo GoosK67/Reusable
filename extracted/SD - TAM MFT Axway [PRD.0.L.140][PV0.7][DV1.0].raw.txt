@@ -1,0 +1,209 @@
+ 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Technical Application Management
+The Service provides the tasks and activities needed to manage an Axway application (The Application) from a technical perspective. Together with the underlaying obligatory Platform services, Cegeka unburdens the customer with all technical aspects from infrastructure up to the technical Application.
+The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.  Cegeka ensures the functionalities of the Application.
+The Customer is accountable for the definitions of the file transfers with are then requested to Cegeka for technical setup.
+
+The Application
+Axway Managed  File  Transfer  (MFT)  is  a  technology  platform  that  uses  administrative  controls,  support  for  security protocols (like HTTPS, SFTP, FTPS), and automation capabilities to help customers securely share various types of data, including sensitive or compliance-protected data as well as high-volume data. MFT  provides  a  more  secure  method  of  file  transfer outpacing  and  outperforming  applications  such  as  file transfer protocol (FTP), hypertext transfer protocol (HTTP) and other methods.
+Axway consists out of 4 major services:
+CFT (Cross File Transfer) as a standalone or multi-node cluster, installed on end-points (servers)
+ST (Secure Transport) as a gateway that transfers files with partners
+FM (Flow Manager) which is a configuration management tool and deployment tool to deploy applications/flows from FM towards CFT’s and/or ST systems
+Sentinel as monitoring component, it receives events from CFT’s and ST’s and dashboard capabilities to overlook the activity of the MFT environment.
+Service features 
+Standard Service features 
+Application knowledge
+Cegeka ensures skilled engineers with experience on the Axway MFT technology in order to perform the Service.
+Technical setup
+Cegeka advises in the setup of the underlaying platform in order to set it up according to the technology requirements of the Application. This may be different for each Customer environment (DTAP - Development, Test, Acceptance, Production and it’s variants).
+High availability setup: this setup advise includes also the setup of HA (High Available) environments where needed. Cegeka will advise a cost effective solution within the context  of the available platform(s) of the Customer and the best practices of the Application.
+
+Cegeka performs and maintains the technical installation of the Application on the agreed platform ensuring its correct working. 
+Technical setup is documented on operational level and is available to the Customer.
+Technical management
+Cegeka is responsible for the technical operation of the Application and to assure it’s correct running during the agreed availability windows.
+The Service provides the tasks and activities needed to manage a Axway MFT systems from a technical perspective. This includes operational activities such as creating Flows,  creating an external partner, etc. The Service features have as focus to keep the systems up-and-running, to keep them secure and to optimize their technical parameters. This applies to the MFT Core servers and CFT (Cross File Transfer) application configuration. How source files are placed on the application servers is the responsibility of the Customer.
+Source files provided by external partners are the responsibility of the external partners, Cegeka is responsible for transferring them to their destination, but cannot be held responsible in case the external partner’s infra is not available (for both directions of MFT traffic). Cegeka does provide guidance on the required configuration and parameters for these clients. Cegeka provides anti-virus scanning on the files being transferred from and towards the external partners (even before being placed on the destination file folder).
+
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Application. Automation is applied where possible. 
+Proactive management
+Housekeeping includes following regular checks:
+The technical setup and the running of the Application on its platform
+Inspection of the technical Application log content on irregularities
+Inspection of technical Application settings on irregularities
+system trends (trends of CPU/memory/disk usage) on deviations in evolution
+perform and check log rotation (cleanup of older logs)
+assure application settings are part of the backup of the underlaying platform
+
+Resolution actions are triggered when needed and followed to assure the SLA.
+
+Patching
+The service includes a maximum patching according to the patch rithm of the technology vendor for:
+ST (Secure Transport)
+FM (Flow manager)
+CFT (Cross File Transfer) and Sentinel components
+ (inclusive the system database(s) if applicable). Patching is done in accordance to the operational Patch Plan.
+Additional patching can be done on RFC basis. 
+Patching of the underlying platform is part of the Service of that platform.
+Life Cycle Management
+Cegeka monitors the Technology version of the service and notifies the Customer in accordance with the agreed LCM policy (see cross-functional Services) when used versions are subject to end-of-support or end-of-life. Appropriate actions (updates, replacement or other actions) are planned in accordance with agreed maintenance windows and will be executed on T&M basis in case of major updates. Patches and minor updates are included in the service cost as part of ‘Patching’.
+
+Monitoring
+Cegeka monitors the correct working of the Application on all Customer environments.
+This is done by means of scripts to check the correct technical application functionality.
+The checks are executed every 3 minutes.
+CFT Agents : The functionality of agents residing on source and target systems within the customer network are checked each 15  minutes in a production context and each hour in a non-production context. Resources are measured and verified as defined in the monitoring plan 
+Transfers : Each transfer is being monitored and incidents are automatically created based on the following incidents: 
+Cancelled transfers: Transfers which end in a fault status due to for example not having sufficient disk space at the target systems. 
+To begin transfers: Transfers which are not able ‘to begin’ due to the target host not being available or other ‘transport’ failures. These transfers will not end but rather stay in a continuous ‘trying cycle’. When thresholds are exceeded the necessary actions are initiated via service desk and/or the technical application management teams. For the avoidance of doubt, monitoring notification will be emailed automatically to the responsible resolver customer group. The customer is not responsible for forwarding notifications to Service Desk or Technical Application Management teams.  
+Cegeka alerts towards the Customer about monitoring tickets for Transfers.
+Monitoring improvements will be done during the lifecycle of the Service and are based on evaluation of incidents, problem management or other suggestions.
+The underlaying platform is also monitored according to the related Service Description of the platform.
+Monitoring events are evaluated during the Service Window in accordance to the Service Level of the individual environment. Notable events are treated as Incident tickets and are handled according to regular incident management.
+Security and Compliance
+Management of technical users
+The management of technical users (for engineers) is done by Cegeka in agreement with the Customer and in accordance to the Customer IAM policies.
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+SIEM
+Additional monitoring can be done based on System and/or Application logs, which can be forwarded to a Customer SIEM solution (Security reason) or other solution (compliance reason, e.g. central collection of application logs to oversee the application stack) on request.
+Underlaying Platform hardening
+The underlaying platform and OS will be hardened as part of and according to the Service Description of the related Services.
+Backup and Restore
+The operational Backup Plan contains the information on frequency and retention of the backups in accordance to the Customer backup policy.
+Restores can be done both on file and on full system level. These can be requested via the regular RFC process.
+Duration of a restore is dependant of the request (file or full; size of the item(s) to be restored).
+Application settings are subject to the backup of the underlaying platform. 
+Incident and problem management
+Besides monitoring incidents (see ‘Monitoring’) also other incidents can be reported by both the Customer and Cegeka. These will be subject to the regular incident management process (See Cross-functionals).
+Related to incident management, Cegeka performs also problem management (See Cross-functionals).
+Customers responsibility
+The functional setup and monitoring of the Application is the responsibility of the Customer.
+Each flow will need to have a defined functional flow owner at the customer side who will be able to resolve functional incidents or incidents due to the unavailability of a target systems outside of the customer network Dependencies 
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+
+The following optional features are possible with the Service:
+(there are no optional features)
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+
+
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. Specifically: 
+Infrastructure and OS services (platform) required for running the GoldenGate application  
+License purchase and ownership 
+Functional management of the Application  
+
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+Platform : virtual machine on Cegeka Cloud and/or on PCA appliance with OS management
+Backup/Restore services
+Active licenses and support contracts from the application vendor are required 
+Cegeka owned Licenses and/or subscriptions
+The licenses and/or subscriptions listed in this section and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+Customer owned Licenses and/or subscriptions
+The licenses and/or subscriptions listed in this section and their cost are not included in this Service.
+It is the customers responsibility to maintain license and/or subscription compliance.
+Conditions 
+n/a
+Service delivery location
+This Service is delivered remotely from the Cegeka (virtual) Office environment.
+Service Reporting
+The Cross-functional reporting is part of this Service Reporting where it is applicable for this service (see section ‘Relation to Cross-Functional Services’).
+
+Specific reports are provided: 
+Monthly overview of all flow statistics
+Real-time dashboard with a view on selected flows  
+Data classification
+Cegeka requires no access to confidential and/or personal data to perform this Service.
+Engineer credentials do not need to access such data for the purpose of this Service.
+In case of assistance in investigations of functional issues, Cegeka personnel may see or receive fragments of such data in case it is shared by the Customer (data fragments in the sense of exports, screen sharing, screen shots, etc. for investigation purposes).
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+ (none)
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+(none)
+Miscellaneous 
+n/a
+RACI Matrix
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+
+Adherence to Cross-Functional Services 
+
+The Service described in this Service Description adheres to the Cross-functional Services as described in  the contract where this Service is residing unless documented in the table below:
+All Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+Service Level Management
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+The actual mapping of the operational service instances towards these KPI’s are documented on the Service Delivery site under ‘Operational documentation’.
+
+
+Availability
+
+The following Availability Performance Metrics are provided for the Service:
+
+ 
+The availability measurement is monthly and calculated as:
+(Total time of service window of the measured period – time of outage based on Cegeka infrastructure monitoring during the measured period) / Total time of service window of the measured period) * 100
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+The actual mapping of the operational service instances towards these billing elements are documented on the Service Delivery site under ‘Operational documentation’.
+
+ 
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+the quantities are determined by the number of platforms (DTAP), internal and external flows which are used in the billing month.
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+n/a
+Change Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis. 
+Document control
+
+
+Document approval
+	

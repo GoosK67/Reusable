@@ -1,0 +1,190 @@
+	 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Infrastructure management
+This Service is the management and administration of a dedicated LAN platform.
+The Dedicated LAN platform Management is a Cegeka managed service which consist of the monitoring, management, maintenance, supervision, administration and planning of all functions relating to infrastructure and components of local LAN network. 
+The Managed LAN service unburdens the Customer from the day-to-day management of the LAN infrastructure. Cegeka manages the LAN network on a remote (i.e. off-site) basis from our operation center, proactively fixing faults and keeping the service running. Cegeka provides reports on the status of the managed  network and informs the Customer about incidents that occur.
+
+Service features 
+Standard Service features 
+The following standard features are included in this Service:
+Availability monitoring of the switches.
+Incident Management, second level support, and the Request and Change Management concerning configuration changes: add, change, disposal (charged in T&M)
+Incident and problem management includes the creation and follow up of tickets at vendors / constructors if applicable. This implies that a valid maintenance contract (break and fix) is available.
+Asset management. All Configuration Items are stored in the Cegeka CMDB. The LAN devices and functionality is monitored proactively by a central monitoring system in the Cegeka datacenter in terms of performance, errors and capacity. In case of problems or abnormal circumstances, the systems will be supported remotely.
+The scope of the Managed LAN service covers the management of all active and manageable physical LAN components which are subject to this service.
+The demarcation line is the starting point of the WAN infrastructure of the WAN service provider. The WAN connectivity (incl. routers) and management of the servers and desktops is not part of this service. These functions can be delivered via other Cegeka services.
+The managed LAN equipment is owned by the Customer.
+Infrastructure knowledge
+Cegeka ensures skilled engineers with experience on the infrastructure in or der to perform the Service.
+Technical setup
+Cegeka advises in the setup of the Infrastructure in order to set it up according to the technology requirements of the Infrastructure and in line with the best practices of the vendor. 
+This may be different for each Customer environment (DTAP - Development, Test, Acceptance, Production and it’s variants).
+Technical setup is documented on operational level and is available to the Customer.
+Technical management
+Cegeka is responsible for the technical operation of the Infrastructure and to assure it’s correct running during the agreed availability windows.
+
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Infrastructure. Automation is applied where possible. 
+Proactive management
+Housekeeping includes following regular checks:
+The technical setup and the running of the Infrastructure
+Maintain optimal performance by monitoring and measuring - on an ongoing basis - the key performance indicators 
+Analyze and diagnose the infrastructure to achieve efficient use of capacity to deliver service requirements
+
+Resolution actions are triggered when needed and followed to assure the SLA.
+
+Patching
+The service includes a maximum of 2 patch cycles (per environment) per year for the managed Infrastructure. Patching is done in accordance to the operational Patch Plan.
+Life Cycle Management
+Cegeka monitors the Infrastructure and notifies the Customer timely when they are subject to end-of-life. This includes, if applicable, the extension or replacement of the Infrastructure.
+Cegeka also notifies the Customer upon newer versions of the Infrastructure in order to plan the update of the platform in time within the followed (relative) version (for example N-1).
+Life Cycle Updates will be planned in accordance with the agreed maintenance windows and will be executed on T&M basis.
+The customer will be informed at least 6 months in advance to properly plan the upgrade, as significant customer effort is required in application testing. 
+Monitoring
+Cegeka monitors the correct working of the Infrastructure.
+Cegeka has developed a wide range of infrastructure checks to monitor availability of different components and available resource capacity. Most of them are pro-active based on target thresholds while others are reactive. The monitoring checks and associated thresholds are documented in the monitoring plan.
+Monitoring improvements will be done during the lifecycle of the Service.
+Monitoring events are evaluated during the Service Window in accordance to the Service Level of the individual environment. Notable events are treated as Incident tickets and are handled according to regular incident management.
+
+Security and Compliance
+Management of technical users
+The management of technical users (for engineers) is done by Cegeka in agreement with the Customer and in accordance to the Customer IAM policies.
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+SIEM
+Additional monitoring can be done based on System and/or Application logs, which can be forwarded to a Customer SIEM solution (Security reason) or other solution (compliance reason, e.g. central collection of application logs to oversee the application stack) on request.
+Underlaying Platform hardening
+Not applicable for this Service.
+Backup and Restore
+Backup and restore of the network component configurations is part of the Cegeka management.
+Configuration backup are always taken upon change of the configuration.
+Incident and problem management
+Besides monitoring incidents (see ‘Monitoring’) also other incidents can be reported by both the Customer and Cegeka. These will be subject to the regular incident management process (See Cross-functionals).
+Related to incident management, Cegeka performs also problem management (See Cross-functionals).
+Customers responsibility
+Acquisition of the LAN devices. Please note that Cegeka needs to approve the manageability of the LAN devices prior to being able to manage them to ensure Cegeka knowledge of these devices.
+Removal and destruction of the devices at end-of-use.
+
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+
+The following optional features are possible with the Service:
+Hardware maintenance contracts
+Hardware refresh and the design aspects of the LAN setup.
+
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. 
+Certain LAN Switches have network modules or network management functionality (e.g. load balancing, firewall, blade server, virtual chassis, etc.). The management of such functionality is not included in the LAN Service.
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+(none)
+Cegeka owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+
+Customer owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are not included in this Service.
+It is the customers responsibility to maintain license and/or subscription compliance.
+
+License compliancy 
+Customer has to share the available licenses with Cegeka. 
+Cegeka will assist in customer license compliance by providing knowledge and reporting on use of licenses and license requirements.
+Cegeka ensures to implement or activate features that are only in-line with the licenses owned by the customer.
+Conditions 
+This service supports the following products:
+All switches must be manageable and valid maintenance contracts (break and fix) are available.
+The Cegeka managed services personnel needs to have network access to the switches.
+The Cegeka managed services personnel needs to have a login with full administrative access on switches conform the Customer Security policies.
+Service delivery location
+This Service is delivered remotely from the Cegeka (virtual) Office environment.
+Service Reporting
+Monthly reporting will be provided to inform on the availability and meeting the SLA’s and to provide insights on the capacity and expected extensions required.
+
+Specific reports are provided: 
+Reports as part of the monthly service review: availability in the general SLA report.
+Reports available upon request: Overview of switches managed by this service.
+Data classification
+Cegeka requires no access to confidential and/or personal data to perform this Service.
+Engineer credentials do not need to access such data for the purpose of this Service.
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+(none)
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+(none)
+Miscellaneous 
+n/a
+RACI Matrix
+
+
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+Adherence to Cross-Functional Services 
+The Service described in this Service Description adheres to the Cross-functional Services as described in the contract where this Service is residing unless documented in the table below:
+
+The Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+Service Level Agreement
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+
+The service is handled according to the cross-functional services. The availability of the service is guaranteed by the incident handling SLA’s (resolve times).
+
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+
+
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+Fixed amount per month
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+n/a
+Change Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis.
+
+Document control
+
+
+Document approval
+	

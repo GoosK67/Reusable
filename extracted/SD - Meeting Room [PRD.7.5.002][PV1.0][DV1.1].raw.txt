@@ -1,0 +1,260 @@
+
+ 
+
+
+
+
+
+Standard Service Description
+
+Introduction
+The My Meeting Room service offers a solution to enhance the organization’s collaboration and communication capabilities. This service is designed to streamline Meeting Rooms, improve productivity and create a seamless experience for both in-person and remote participants. With modern devices, technologies and integrated features, the service aims to transform your Meeting Rooms into modern, efficient and collaborative spaces. 
+The service assumes the use of a central management platform for a Meeting Room.
+What is the added business value?
+The My Meeting Room service aims to standardize and streamline your Meeting Room experience by focussing on key features such as high quality audio & video, seamless connectivity, interactive displays, wireless content sharing and room scheduling & management all while doing this in a way to ensure security and privacy.
+The solution is designed to empower organizations with modern collaboration tools that foster innovation, efficiency and effective communication. By leveraging the aforementioned key features, our service transforms Meeting Rooms into hubs of productivity and creativity, whether participants are gathered in person or attending remotely.
+What is included in the service?
+
+Our Meeting Room service contains the following minimum set of devices and software:
+Display
+Audio (Microphone/Speakers)
+Video (Camera)
+Control (Touch display for interacting with the Meeting Room)
+Video input
+Note that these functionalities are not always realized by separate devices as many of them can be combined into multipurpose devices (e.g. soundbar with built-in camera, all-in-one solution, etc.).
+Standard Services
+The following standard services are available for My Meeting Room: 
+Meeting room Software Management
+Meeting room Hardware Management
+Hardware Lifecycle Management (HWLCM) 
+Warranty packs
+Platform Management: a general Platform Management service component provides a single management environment for all Meeting Room types.
+Figure below gives an overview for the different Meeting Room types (explained in more detail in Section ‘Meeting Room types’):
+
+The next Sections will detail all Service Components for a meeting room.
+Meeting Room Software Management
+A Meeting Room contains the following software components:
+Managed Meeting Room hardware device Operating Systems (Windows/Android)
+Control software (Windows/Android)
+The following services are provided for the Meeting Room:
+Management of software
+Proactive monitoring
+Available metrics in the Meeting Room management platform (device health status, Meeting Room status) are monitored and based on those, actions can be taken/set out to remediate these issues before end users are impacted.
+Remote L2/L3 Technical Incident Handling
+Troubleshooting/resolving technical issues remotely
+The aforementioned services are provided using the Platform Management Service.
+Meeting room Hardware Management
+Hardware Lifecycle Management 
+We refer to Cegeka’s Service Description for “Device Lifecycle Management Services”, where following Meeting Room hardware device types:
+Display(s)
+Camera(s)
+Microphone(s)
+Speaker(s)
+Touch Panel(s)
+Compute Device(s)
+Soundbar(s) (microphone/speaker combination)
+Soundbar(s) with built-in camera
+Tabletop devices (touch panel with microphone/speaker combination)
+All in one (e.g. Surface Hub)
+Connectivity (Cable and/or Wireless connectivity with Meeting Room device)
+will be managed accordingly.
+Cegeka aims to be vendor independent (A list of partner Vendors can be found in Section ‘Conditions’).
+Through workshops – providing guidance to customers to find the ‘best-fit-for-purpose’ equipment, both from an operational as a budgetary point of view - a Hardware Product Catalogue is created, containing
+Meeting Room hardware device types + corresponding vendor
+Meeting Room hardware device pricing
+Meeting Room hardware device technical specifications
+for all hardware devices in a specific Meeting Room Type.
+This Hardware Product Catalogue is reviewed and adapted based on AV vendor market evolution and agreed upon in mutual understanding.
+Warranty packs
+We offer different support packages to suit our customers’ need throughout the lifecycle.
+These packages affect the following HWLCM service activities:
+Support
+Break & Fix support
+Security
+IT Asset Disposition	
+
+
+Meeting room types
+This section describes the components for each meeting room type.
+
+Figure below gives an overview:
+
+Standard Warranty Pack association with Meeting Room Types:
+Small: Silver Warranty Pack
+Medium: Silver Warranty Pack
+Large: Silver Warranty Pack
+Collaborative: Silver Warranty Pack
+Executive: Platinum Warranty Pack
+Small Meeting Room
+The Small Meeting Room consists of the following components:
+Display: Large TV or monitor.
+Audio: Speakers or soundbar.
+Video: Webcam or conference camera.
+Control: Dedicated control panel and/or touchscreen interface.
+Connectivity: Wired and/or wireless connectivity options (HDMI, USB-C, AirPlay, Miracast).
+Meeting Room OS: Android/Windows OS designed to combine all the above components into a functional Meeting Room.
+
+The Small Meeting Room:
+can host 3-5 people
+has a surface area of  +/- 14 m² 
+Medium Meeting Room
+The Medium Meeting Room consists of the following components:
+Display: Large TV or monitor.
+Audio: Speakers or soundbar.
+Video: Webcam or conference camera.
+Control: Dedicated control panel and/or touchscreen interface.
+Connectivity: Wired and/or wireless connectivity options (HDMI, USB-C, AirPlay, Miracast).
+Meeting Room OS: Android/Windows OS designed to combine all the above components into a functional Meeting Room.
+
+The Medium Meeting Room:
+can host 6-11 people
+has a surface area of  +/- 28 m² 
+Large Meeting Room
+The large Meeting Room consists of the following components:
+Display: Large TV or monitor.
+Audio: Speakers or soundbar.
+Video:  Webcam or conference camera.
+Control: Dedicated control panel and/or touchscreen interface.
+Connectivity: Wired and/or wireless connectivity options (HDMI, USB-C, AirPlay, Miracast).
+Meeting Room OS: Android/Windows OS designed to combine all the above components into a functional Meeting Room.
+
+The Large Meeting Room:
+can host 11-15 people
+has a surface area of  +/- 46 m² 
+Collaborative Meeting Room
+The collaborative Meeting Room consists of the following components:
+Display: Interactive display with whiteboarding capabilities.
+Audio: Built-in speaker system.
+Video: Built-in camera.
+Control: Integrated touch control panel with room scheduling.
+Connectivity: Multiple wired and/or wireless options (HDMI, USB-C, AirPlay, Bluetooth).
+Meeting Room OS: Android/Windows OS designed to combine all the above components into a functional Meeting Room.
+
+The Collaborative Meeting Room:
+can host a flexible amount of people
+has a flexible surface area 
+Executive Boardroom
+The executive boardroom consists of the following components:
+Display: Premium display solution.
+Audio: Premium sound system.
+Video: Premium video solution.
+Control: Customized control interface with room automation and integration.
+Connectivity: Advanced connectivity options, including video conferencing systems, AV matrix switchers, and control systems.
+Meeting Room OS: Android/Windows OS designed to combine all the above components into a functional Meeting Room.
+Seen the high complexity factor of the Executive Boardroom, a ballpark figure can only be given during the Advisory Services.
+
+The Executive Meeting Room:
+can host a minimum of 8 people
+has a flexible surface area 
+Platform management
+The Platform Management Service contains following management platforms
+Central Meeting Room management platform
+Device Management platform (manage Meeting Room configurations)
+Cloud based mail platform (manage Meeting Room mailboxes)
+which allow for the Management of the Platform (configuration and analysis):
+Platform management: 
+Maintain & support the management platforms (Central Meeting Room management platform, Device Management platform & Cloud based mail platform) 
+Proactive monitoring
+Acting on alerts in the platform, support the platform if a Meeting Room related platform service is down or degraded, including communication with the vendor and customer
+Maintain & support the configured Compliance, Configuration and device restrictions Policies
+Maintain the existing policies and keep them in line with our evolving standards
+The following services are considered platform services as they are generally performed for most/all devices simultaneously:
+Management of software
+Always up-to-date
+Patching of control software (based on release schedule of vendor)
+Patching of managed Meeting Room hardware device OS (monthly or based on release schedule and recommendations of vendor)
+Upgrade of managed Meeting Room hardware device OS (based on release schedule and recommendations of vendor)
+Integrated security
+Antivirus:
+Update the antivirus definitions of managed Meeting Room hardware device OS based on release schedule of vendor (if applicable)
+
+Reporting
+Monthly reporting of following parameters per active Meeting Room in scope (where applicable)
+OS patch level
+Meeting Room software version
+Antivirus definition level
+Antivirus state
+Detected malware
+Encryption state
+Compliance
+Management of the drivers/firmware of the managed Meeting Room hardware devices
+Review and update of drivers/firmware when made available by vendors.
+Support
+Cegeka applies following Support flux:
+Customer contacts 1st line support
+If resolved, incident is closed
+If not resolved, (Cegeka) Service Desk transfers the incident ticket to Cegeka MR Software Management Resolver Group who provides Remote Support only
+If resolved, incident is closed
+If not resolved, Cegeka MR Software Management Resolver Group transfers the incident ticket to MR HW Management Resolver Group (Customer’s own support people or Cegeka’s existing on-site support people or Cegeka’s optional on-site support people (if not existing on-site support))
+If resolved, incident is closed
+If not resolved, MR HW Management Resolver Group transfers the incident ticket to the Cegeka Field Support swap team that performs a Break-Fix activity
+Incident can be resolved if hardware is still under vendor warranty 
+Offer will be made by Cegeka or a new device has to be acquired by the Customer if hardware is not under vendor warranty
+Optional Services
+The following optional services are available for My Meeting Room:
+Physical booking system
+Adds an additional hardware component outside the Meeting Room which shows availability of Meeting Room and allows for ad hoc booking of Meeting Room. This service receives the same software management services, hardware lifecycle management services & Platform management services as specified per Meeting Room in the standard services.
+Responsibility Matrix
+Responsibility Matrix below provides the appropriate RACI tags for Customer and Cegeka with respect to the activities for the Standard and Optional Services.
+
+= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive.
+= Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive.
+= Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive.
+= Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.
+SKU overview  
+Service SKUs
+Measurement
+The monthly price of the Meeting Room service is based upon a Unit price (P) for following
+Standard service components
+The software management per Meeting Room
+The hardware lifecycle management with corresponding Warranty Pack per Meeting Room
+The central Meeting Room management platform service for all Meeting Rooms.
+Optional service components
+The management of a Physical Booking System
+and the quantity of Meeting Rooms, Physical Booking System (Q). The corresponding Unit of Measurement is mentioned in Table above.
+Definition for central Meeting Room management platform and Meeting Room are mentioned in Section ‘Conditions’.
+Calculation
+[(software management per Meeting Room)*(Quantity of Meeting Rooms) + (HCLM Warranty Pack)*( Quantity of Meeting Rooms per Warranty Pack) + (Platform cost)]+[(management Physical Booking System)*(Quantity of Physical Booking Systems)]+ )]
+Standard changes SKUs
+Table below represents the Standard Changes for this Service, where each Standard Change
+has a corresponding fixed one-off price as mentioned in the Pricing Model
+has a corresponding  ‘Service Level Target (SLT) for each Standard Change, expressed in elapsed working days as mentioned in Table below
+follows the ‘Standard Change Management process’ as mentioned in Section “Cross-functional services”
+
+These SLT’s assume that the required hardware is available on Customer location. If hardware needs to be ordered, the delivery times of the vendor will be added to these timings.
+
+Non-standard changes SKUs
+Non-standard changes
+are billed in time & material
+follow the ‘Change Management process’ as mentioned in Section “Cross-functional services”
+
+Service Level Agreement
+Service Support Window
+Table below gives an overview of the applicable Service Support Windows for each Standard & Optional service.
+
+Specific Service Levels
+3rd Party SLA
+This service makes use of a third party PAAS provider. For the SLA’s concerning uptime and/or availability of the 3rd party platform we refer to the following documentation  Service Level Agreements (SLA) for Online Services
+Conditions
+The Cegeka Service Desk should be in place.
+The Service requires an instance of the Microsoft 365 SaaS platform component Teams and the necessary license per Meeting Room for Microsoft Teams.
+Meeting Room hardware needs to be Microsoft Teams Certified.
+The necessary licenses (Microsoft Teams Rooms Basic or Pro license) are available and assigned to the Meeting Rooms.
+Cegeka has full access to Teams via the “Teams Administrator” role.
+Cegeka has full access to Intune via the “Intune Administrator” role (for creation and management of Meeting Room device configuration profiles).
+Cegeka has full access to Exchange Online via the “Exchange Online Administrator” role.
+The Meeting Room software is the Microsoft Teams Rooms application
+The cloud based mail platform needs to be Exchange Online.
+The device management platform needs to be Intune.
+The central Meeting Room management platform needs to be Teams.
+The necessary network configuration is in place to allow communication between the Meeting Room devices and the necessary Microsoft services for full functionality.
+For the Hardware Lifecycle Management Services Cegeka refers to the Service Description for “Device Lifecycle Management Services”.
+Cegeka is brand-independent and works closely together with Poly, Logitech, Cisco, Lenovo, Microsoft and other manufacturers.
+A Meeting Room is defined as the hardware/software components listed under the standard hardware lifecycle management and software services, more specifically under ‘Meeting Room types’.
+Out of scope
+The necessary structural works to enable Meeting Room setup, such as (but not limited to) cabling, wall mounting brackets, electrical wiring, furniture, etc.
+Support for non-Teams Certified setups.
+The physical components like the actual physical building (ceiling, walls, floor)/room and equipment like furniture, power outlets, network connectivity (wifi/LAN), telephony connection, HVAC, coffee and other beverages machines, fire detection systems, refrigerators and other kitchen equipment, lighting, curtains, carpet, whiteboards are out of scope.
+Handling of Service related incidents by the Cegeka Service Desk (L1 support activities)
+Cross-functional services
+In order to guarantee the Service quality, Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's.

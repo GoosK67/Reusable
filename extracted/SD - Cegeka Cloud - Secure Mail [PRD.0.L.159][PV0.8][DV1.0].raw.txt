@@ -1,0 +1,52 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+End of sale
+This service is end of sale. The service can still be used for customers where this service is already in use. The service can’t be used for new customers. 
+
+
+Security & Networking
+Secure Mail
+Service summary
+For email servers that are hosted within the Cegeka datacenter, Cegeka can offer anti-spam and anti-virus measures to protect incoming and outgoing email. The service is based on Cisco IronPort
+SPAM filtering is the process of determining whether a given mail is unsollicited and reacting accordingly by deleting, quarantining, tagging this mail. Virus scanning is running the files, attached to a mail through a virus scanner, and blocking infected mails, to prevent viruses from entering the network. Virus scanning uses standard available anti-virus software, which is embedded in the email security gateway.
+SPAM filtering uses a number of different techniques to determine whether mails are legitimate.
+Reputation filtering: each sending mail server’s ip address is given a reputation based on historical performance: the number of mails through this ip address, the amount of SPAM coming from this address, the number of blacklists this address is listed in, etc. This results in a number, the reputation score. Based on this score, different actions can be taken for mails (good reputation makes the mails pass, bad reputation blocks the mail. The Ironport Email Security appliances use the reputation service from Senderbase.org
+Pattern matching: the appliances have an internal database of known words, phrases, that occur in SPAM messages. All mail is checked against this database, to determine whether they are SPAM or not. 
+The customer can choose to use the standard policy configuration that Cegeka manages or can request to have a dedicated and specific policy to match (more or less stringent) requirements a customer has.
+Standard service components
+Cegeka shall be responsible in providing the following Services:
+Management of the platform and the anti-virus and anti-spam definitions
+Management of the standard and specific policies
+Security
+The Service is certified against ISO27001. Processes for managing this service are part of the yearly ISAE3000 statement. 
+Patching & Lifecycle management
+Cegeka performs patches according to the vendor's schedule. 
+Capacity Management
+Cegeka performs proactive capacity management. When necessary, Cegeka performs upgrades on the central equipment.
+Optional service components
+Advanced Malware Protection
+Eligibility and Prerequisites
+Conditions
+The service may not be used for sending bulk (commercial) email. If a customer sends (or receives) bulk mailings that jeopardize the mail flow through the e-mail security gateway, the mail traffic of this customer will be throttled.
+The customer must configure its servers or systems to adhere to SMTP guidelines and protocols when using the Cegeka service. When the e-mail traffic of a customer impedes the distribution of the e-mail traffic over all the available platform nodes, this customer’s e-mail traffic will be throttled. If Cegeka is responsible for managing the email server(s) of a customers, these demands are met by default.
+The throttling is temporarily and only until the data flow traffic normalizes.
+Maintenance & Licenses 
+Cegeka is responsible for the proper operation of the service. This includes the number of licenses and maintenance.
+Responsibility matrix
+
+Monitoring & Reporting
+A monthly report will be made available on de Horizon Portal.
+Order & billing information
+Part numbers
+O.0450_0010_0010_A_S.000 Secure mail gateway (IronPort) - including 5000 emails (in and out)
+O.0450_0010_0020_A_S.000 Secure mail gateway (IronPort) - additional emails (per 100 in and out)
+
+Measurement
+A report is generated on a monthly basis, this report is based on the CMDB and lists all mailservers and will be made available on the Horizon Portal.
+Billing
+The units are billed against the price of their respective part numbers.
+Changes
+Changes are brought up through the normal service management process.

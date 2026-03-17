@@ -1,0 +1,214 @@
+	 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Infrastructure management
+The Service provides the tasks and activities needed to manage the Cegeka Cloud Housing (The Infrastructure) from a technical perspective. Cegeka unburdens the customer with all technical aspects for this infrastructure.
+The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.
+The Infrastructure
+The Cegeka Housing Service offers physical locations for the installation of hardware in the Cegeka datacentres.
+The housing service comes with three flavors: Shared rack spaceClosed dedicated rack
+A cage is a closed fenced location in a Cegeka Datacentre which is only accessible by Cegeka Datacentre personnel and identified Customer contacts under supervision of Cegeka Datacentre personnel. 
+The physical location can be used to house Customer dedicated equipment (servers, network equipment, storage, etc.) and can provide redundant power, redundant network and redundant SAN connectivity.
+Customer dedicated equipment:
+all equipment residing in the Cegeka Datacentres is documented in the CMDB (CI), in which ownership (contact information) of the system is documented.
+redundant power connection is possible by connection to 2 different power sockets (equipment needs to have 2 power supplies)
+redundant network connectivity is possible by connection to 2 different access switches and fully redundant network connections on the equipment side (configured correctly) – there are no SPOFS with redundant network connections on a device
+redundant SAN connectivity is possible by connection to 2 different SAN switches and fully redundant SAN boards on the equipment side (configured correctly) – there are no SPOFS with redundant SAN connections on a device
+Power cabling is normally provided with the equipment
+Network and SAN cabling is mandatory provided by Cegeka and will be charged to the Customer.
+
+
+The housing services come with following features: The physical location for the housing
+24/7 access control and security of the building and housing location
+Redundant electrical installation (2 outlets) of the housing (electric distribution, generator, UPS system)
+Inline UPS system that also protects the IT equipment from power surges and power peaks
+Redundant climate control (heating, ventilation and air conditioning) of the housing – server inlet 22° ±2°, Relative humidity: 45% ± 15% 
+Fire detection and extinguishers of the housing – based on inert gas, not harmful for humans/equipment
+Optional office space for the purpose of fallback in case of disaster recovery
+Optional use of bladecenter infrastructure for the housing of Customer provided server blades
+Certified Cegeka Datacentre personnel for all aspects above.
+
+Cegeka Datacentres are geographically spread over 3 locations: two in Belgium (Hasselt) and Brussels (BRU4). BRU4 location is private cage only Cegeka authorized personnel, and one in the Netherlands (Geleen), 
+, guaranteeing high availability, redundancy, operational continuity and safety and security. 
+Cegeka provides also additional connectivity POP (Point of Presence) locations in Brussels (Zaventem) and the Amsterdam (Oude Meer), where Customer network access endpoint equipment can be placed.
+The Cegeka Datacentres and POPs are interconnected by Cegeka private and redundant data connection lines. Bandwidth is continuously and pro-actively monitored. Cegeka will take appropriate actions such as increasing the total available bandwidth for all customers as part of its capacity management process. 
+Please note that the locations and interconnection of the Cegeka Datacentres and POPs may change over time. Such changes are always communicated upfront to relevant Customers and do not impact the nature of this Service.
+
+Service features 
+Standard Service features 
+Infrastructure knowledge
+Cegeka ensures skilled and certified engineers with experience on all housing components in order to perform the Service. Cegeka works together with contracted vendors to provide continuity on these components.
+Technical setup
+Cegeka continue evaluates and adapts the housing environment to ensure optimal technical setup (racks, cabling, physical security measurements, power supply, etc.).
+Cegeka advises the Customer on housing needs and proposes optimal solutions for each case.
+Cegeka performs and maintains the technical installation of the Infrastructure ensuring its correct working in accordance with Tier 3 Datacentre standards. 
+Technical setup is documented on operational level but is not available to the Customer. It can be subject to formal Customer auditing upon prior announcement. Documents can be shown but are not distributed.
+Technical management
+Cegeka is responsible for the technical operation of the Infrastructure and to assure it’s correct running during the agreed availability windows.
+Examples of technical management activities: Cooling, Generators, Low tension, high tension, UPS - maintenance activities 
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Infrastructure. 
+Cegeka consider following housekeeping tasks: cable management, environmental monitoring and maintenance, PUDs inspections, fire suppression equipment. 
+Proactive management
+Cegeka performs housekeeping activities on all aspects of the housing service.
+Resolution actions are triggered when needed and followed to assure the SLA.
+Monitoring
+Cegeka monitors the correct working of the housing infrastructure on a 24/7 basis (power, climate, access, etc.) Alerts are treated and appropriate resolution actions are triggered and followed to assure the SLA.
+Security and Compliance
+Physical security
+The housing locations and the Cegeka Datacentre and POP locations are permanent physically secured and monitored.
+Access is strictly arranged by the Cegeka Access Control procedure:
+Technicians have to require access at least 24 hours upfront
+Customer visits have to be requested at least 5 days upfront
+Cegeka evaluates the access/visit requests
+Visits are always logged with proof of identity
+Visitors and Technicians are always accompanied by classified Cegeka DC personnel
+
+Management of technical users
+The management of technical users (for engineers) is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+.
+
+Customers responsibility
+The Customer remains responsible for the equipment placed in the housing locations. This may be by the Customer itself, a Third Party or by an adjacent Cegeka Service.
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+There is No self service access. A Data Center engineer has to validate all accesses.
+
+The following optional features are possible with the Service:
+SAN storage and connectivity for physical servers
+Networking services
+Shared Internet
+Cloud connectivity
+Shared LAN
+....
+
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+Additional or complex requests from the Customer will be treated as Projects.
+
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. 
+
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+USD (ITSM)
+CMDBCegeka owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+Customer owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are not included in this Service.
+It is the customers responsibility to maintain license and/or subscription compliance.
+Conditions 
+For the usage of rack space, the equipment must be industry standard 19” rack compatible
+For the usage of server blades, the equipment must be compatible with the Cegeka blade infrastructure (to be discussed on a need basis)
+Equipment must have a front to back airflow. 
+Equipment must be 230V or 400V (3 phases, max 32A) or 230V (1 phase, max 32A)
+Service delivery location
+This Service is delivered from within the physical Cegeka Datacentre and POP locations.
+
+Service Reporting
+Monthly reporting will be provided to inform on the availability and meeting the SLA’s and to provide insights on the capacity and expected extensions required.
+
+Specific reports are provided: 
+Datacentre access report (Customer specific only)
+Data classification
+Cegeka requires no access to confidential and/or personal data to perform this Service.
+Cegeka Datacentre personnel may see fragments of data in case it is shared by the Customer (data fragments in the sense of information on screens, etc.)
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+(none)
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+Penta Datacenter Geleen (DC Geleen)
+Miscellaneous 
+n/a
+RACI Matrix
+
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+
+Adherence to Cross-Functional Services 
+The Service described in this Service Description adheres to the Cross-functional Services as described in the contract where this Service is residing unless documented in the table below:
+
+The Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+Service Level Agreement
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+The actual mapping of the operational service instances towards these KPI’s are documented on the Service Delivery site under ‘Operational documentation’.
+
+
+Availability
+
+The following Availability KPI’s are provided for the Service:
+
+ 
+The availability measurement is monthly and calculated as:
+(Total time of service window of the measured period – time of outage based on Cegeka infrastructure monitoring during the measured period) / Total time of service window of the measured period) * 100
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+The actual mapping of the operational service instances towards these billing elements are documented on the Service Delivery site under ‘Operational documentation’.
+
+
+
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+# items according to the billing units in the table above
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+The service is billed on a monthly basis.
+
+
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+# items according to the billing units in the table above
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Change Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis.
+
+Document control
+
+
+Document approval
+	

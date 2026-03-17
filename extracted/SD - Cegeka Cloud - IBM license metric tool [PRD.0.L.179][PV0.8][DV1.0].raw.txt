@@ -1,0 +1,36 @@
+IBM License Metric Tool
+Introduction
+The IBM License Metric Tool helps you maintain an inventory of the Processor Value Unit (PVU) based software deployed for your Full Capacity or Virtualization (Sub-) Capacity environment, and measures the PVU licenses required by software Product. It is intended to help you manage your IBM software licensing requirements, and help you maintain an audit ready posture.
+Service description
+Standard services 
+The IBM License Metric Tool service provides a platform to:
+Inventorize IBM software installed on workstations and servers (physical and virtual);
+Standard IBM license reporting (custom reports are covered by the service ‘Reporting’);
+Offer the location in which the latest versions of the agents are stored;
+Types of agent per customer;
+Types of agent per Operating System.
+
+Reporting
+Monthly creation of a report that will be emailed to the service delivery manager. The report provides information about computers in your infrastructure and information about the computer health:
+When the computer last connected to BigFix
+What version of the client is installed on the computer
+What version of the catalog is available on the computer
+When was the last attempt to run the scan
+Whether each type of the software scan was successful
+Whether the computer misses scan results
+Whether it is running out of disk space
+Whether it misses some prerequisites
+
+Scope
+The service IBM License Metric Tool manages the components of the IBM License Metric Tool infrastructure. These components are:
+IBM BigFix server;
+ILMT software;
+BigFix relay software;
+BigFix client software;
+
+Conditions
+Cegeka has the right to refuse customers that endanger the operation of the platform. STAID will always try to find another solution for these customers.
+Current relay supporting max. 1.000 clients
+
+Part number
+RACI

@@ -1,0 +1,38 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+
+
+Digital Workplace
+Print service traditional (My Prints)
+Service summary
+The My Prints service delivers the management and operation for the printer queues of all supported and contracted network printers, multi-functionals and plotters. Through this Service we manage the local printing infrastructure from a technical perspective to support printing functionality for authorized users.
+This Service includes the operational monitoring and administration for the print management service infrastructure. 
+Standard service components
+Cegeka shall be responsible in providing the following Services: 
+Print driver management: With this Service, Cegeka will deliver and install print drivers, for all different workplace versions and operating systems in scope; 
+Print queue management: Cegeka will manage the different print queues, operating systems (of the central print management service infrastructure), software and other assets in order to provide seamless printing experience.
+Optional service components
+Integration with third-party print solutions which enable:
+Follow-me functionality;
+Secure printing solutions;
+Scanning.
+Eligibility and Prerequisites
+Conditions
+OS Management service by Cegeka is mandatory for this service;
+The availability of a system to function as Print Server;
+A functional Active Directory.
+Out of scope
+The provisioning of printers, multifunctional devices and associated supplies are not included in this Service.
+Cross-functional services
+In order to guarantee the Service quality as specified in
+“Service Level Definitions.doc”
+Section “Service Level Agreement” in this document for possible specific service levels for this Service
+Cegeka provides the required Cross-Functional Services as specified in “Cross-Functional-Services.doc”
+Responsibility matrix
+Responsibility Matrix below provides the appropriate RACI tags for Customer and Cegeka with respect to the activities for the Standard and Optional Services.
+
+Order & billing information
+Service SKUs

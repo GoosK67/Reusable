@@ -1,0 +1,111 @@
+
+
+Service description
+
+Introduction
+The “Workspace Engine” Service (the ‘Service’) ensures the proper operation of the creation and evolution of collaboration workspaces. By using this solution, information workers can easily request workspaces themselves without needing IT support. This by just selecting the desired predefined and corporate approved template, entering the required information, routing the workspace through an optional approval process and the Workspace Engine will do the rest. 
+The added value for your company is a more standardized way of working, increased productivity, lifecycle management, reduced risks and maintenance costs. 
+In the addendum “Workspace Engine addendum.docx” the Customer gets an overview of all supported functionalities of the Service. 
+What is the added business value?
+
+Enabling the new world of self-service workspace creation
+
+The Workspace Engine (The Service) serves as a management tool, automating the creation, archiving, and governance of workspaces through the use of templates. This integration ensures that not only document creation but also entire workspace management follows standardized processes, enhancing efficiency, compliance, and control throughout the organization. With the Workspace Engine, users can easily access and utilize approved templates, further streamlining workspace-related tasks, and promoting consistency and compliance.
+Incorporating standardized templates not only increases your organization's efficiency but also empowers individual users by simplifying tasks and ensuring they deliver high-quality, materials.
+
+
+
+
+A must have for your information workers
+The Workspace Engine (The Service) is an indispensable tool for information workers because it addresses several critical needs:
+Enforce standardization: By automating workspace creation and governance through templates, the Workspace Engine ensures that all workspaces adhere to standardized structures and guidelines. This not only maintains consistency but also enforces compliance with internal and external regulations.
+Empower end-users: Information workers gain the ability to independently create and manage workspaces, reducing their reliance on IT departments. This empowerment fosters a sense of ownership and autonomy, enabling them to work more efficiently.
+Streamline process lifecycle: The Workspace Engine simplifies the entire lifecycle of workspace management, from creation to archiving. This streamlining reduces administrative overhead and allows information workers to focus on their core tasks and projects.
+Overcome information silos: With standardized workspaces and automated governance, the Workspace Engine breaks down information silos. Information workers can collaborate seamlessly across departments and projects, leading to improved communication and knowledge sharing.
+Unburden IT department: By placing workspace creation and management in the hands of end-users, the Workspace Engine unburdens the IT department from routine administrative tasks. This allows IT teams to concentrate on strategic initiatives and complex technical challenges.
+In summary, the Workspace Engine is essential for information workers as it not only ensures standardization and compliance but also empowers them, streamlines processes, promotes collaboration, and lightens the IT department's workload. It's a catalyst for productivity and efficiency in the modern digital workplace.
+
+Standardized and compliant collaboration
+Together with the Business Stakeholders we define the requirements of the workspaces. We make sure that functional and technical requirements meet the company’s policies. The added value of these templates is that all requested workspaces are based on a standardized approved corporate template and follow the lifecycle from creation upon to archiving. Each Workspace will contain the same set of functionalities, security configuration and much more. In the end, we achieve compliancy through empowered information workers and minimize the risk of non-standardized workspaces and shadow IT.   
+Which services are included?
+Standard services
+Automated Workspace Management based on Standardized Workspace templates. These templates are defined and based on the Business & IT requirements of the customer (e.g. Project Management Workspace). However, Cegeka can provide base templates (based on Best Practices) which can be refined as a new template via a non-standard change:   
+Information workers can request a standardized workspace without going to IT/Service Desk
+Information workers can request a standardized workspace from within an integrated line of business application
+Information workers can trigger a Workspace update by changing the status of the Workspace. The Workspace will then be enriched with additional functionalities as defined in the base template. (e.g. move project phase from initialisation to implementation). 
+Reporting dashboard allowing for Workspace status follow-up. This role based access dashboard provides the allowed workspace information for information workers in the organization and allows decision makers to see how the Service is being used: 
+Requested number of workspaces in the last month
+Updated number of workspaces in the last month
+Archived number of workspaces in the last month
+Number of Workspaces by status or type (e.g. project, dossier)
+Security management by giving information workers access based on the Business and IT requirements (based on the security groups, defined in the base templates) (e.g. Project Managers have access to all Project Management Workspaces). If an end-user his/her role changes within the organization, the user will have access to the Workspaces for that specific role. 
+Archiving of a Workspace (automatically or triggered by the workspace owner) by changing the access rights of the Workspace members. Based on the business requirements, we can choose to revoke all access rights, change all access rights to read only or only give access to the Workspace Owner(s). Archiving of a Workspace to another location is not included in the standard service and is handled as a non-standard change. 
+Technical incident handling related to the Standard Services
+Optional services
+Not applicable.
+Responsibility matrix
+This Responsibility Matrix provides the appropriate RACI tags for the customer and Cegeka with respect to the activities for the Standard and Optional Services.
+
+= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive.
+= Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive.
+= Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive.
+= Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.
+SKU overview
+Service SKUs
+* mandatory SKU – at least 1 to be selected per subsection
+** A user is an individual who can create/read/collaborate on the provisioned sites. External users, with a Microsoft live id, (Office 365) don’t need a license.
+
+Measurement
+The pricing of the Service is based on the number of users. 
+
+Calculation
+Price (range) x number of users
+
+Standard changes SKUs
+Table below represents the Standard Changes for this Service, where each Standard Change
+has a corresponding fixed one-off price as mentioned in the Pricing Model
+has a corresponding  ‘Service Level Target (SLO) for each Standard Change, expressed in elapsed working days as mentioned in Table below
+follows the ‘Standard Change Management process’ as mentioned in Section “Cross-Functional Services”
+
+Non-standard changes SKUs
+Non-standard changes
+are billed in time & material
+follow the ‘Change Management process’ as mentioned in Section “Cross-Functional Services services”
+List below is an non exhaustive list of non-standard changes.
+
+Service level agreement
+Service support window
+Table below gives an overview of the applicable Service support Windows for each Standard & Optional service
+
+Specific service levels
+N/A
+Conditions
+This Service is only applicable to Microsoft SharePoint (Online) and Microsoft Teams. The Service provisions Teams/SharePoint sites and in the background additional services are impacted (Exchange Online, Office Groups). This impact is not created by the Service but is done by Microsoft as Teams or SharePoint make use of these other services. 
+This Service is running as a service in the Microsoft Azure Cloud on the Cegeka environment. This Azure cost is included in the price of the Service. 
+This Service does not have any impact on the standard functionalities of the Cloud platform. In case the customer decides to deactivate the Service, there will be no loss of, customer, specific (meta) data (e.g. AD group info,…). Only automated activities will be no longer available. 
+A tenant admin account is (temporary) needed for the installation and management of the Service (see also chapter 1.6.1). 
+A service account is needed for the Run of the service (see also chapter 1.6.1)
+Service requirements
+Please find below a table with the required privileges to deploy the Workspace Engine on the customer tenant:
+
+The Workspace Engine requires 1 or 2 app registrations to be registered in Azure AD in the customer tenant. These app registrations are used to connect to Microsoft 365 and MS Graph to create all the artifacts required to a workspace. One app registration is an app only, meaning it contains only AppOnly permissions. The other one is a Delegated app registration, where delegated permissions are required. Both grants can also be added to the same app registration. Cegeka advises this unified app registration.
+Please be aware that some of these permissions require admin consent before they can be used. With new features these grants may change.
+
+Out of scope
+All activities not listed under "Which services are included". 
+Handling of Service related incidents by the Cegeka Service Desk (L1 support activities)
+
+Cross-functional services
+In order to guarantee the Service quality Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's.
+Lifecycle Management
+Lifecycle management of the (Workspace Engine) Service is part of the service offered by Cegeka. The LCM (updates, features, version upgrades) process is performed:
+Automatically, by Cegeka, each quarter if new functionalities are made available. The Service Manager informs the customer about these new functionalities. The new functionalities are not automatically incorporated into existing templates. Changes to existing templates will be handled as a (non) standard change. 
+On-demand when a customer needs new Workspace functionalities/requirements that are not standard available (via Planned Maintenance):
+if requirements are supported by the standard operational WSE functionalities, the request will be handled as a (non) standard change depending on the specific requirements (e.g. update of existing template/rolled-out workspaces). 
+if requirements are not supported by the standard operational WSE functionalities, the request will be handled as a non-standard change. 
+The Service is partially based on the PnP Framework (Link) - by Microsoft and the Community- , who do not commit on a roadmap or lead time, meaning that Cegeka can only evaluate the new functionalities when they are made available by the PnP Framework, and if useful/necessary for the Client these will be included into the Service not later than 1 quarter of the release in the PnP Framework. 
+Customers are informed about the LCM (updates, features, version upgrades) schedule and possible impact of the LCM-activities (updates, features, version upgrades).
+In case that The Service will no longer be provisioned by Cegeka (due to Microsoft Strategy) to the customer, Cegeka will assess the possible impact of Microsoft’s change in strategy on The Service and discuss this impact with the customer.
+Changes in the Workspace Engine follow the standard Change Management process.
+
+Annexes 

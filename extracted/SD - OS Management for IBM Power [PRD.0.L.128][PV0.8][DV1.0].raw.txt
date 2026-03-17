@@ -1,0 +1,65 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+
+
+Hybrid Cloud
+OS Management – iSeries OS
+Service summary
+This Service manages all aspects related to <klant>’s iSeries implementation hosted at Cegeka.
+Standard service components
+iSeries OS management
+Assuring availability of the OS corresponding to <klant>’s Service Level;
+Analysis of system logs, identification and resolving of issues;
+Documentation of system configurations;
+Performance tuning of the OS;
+Active management of files and disk space;
+License management of the OS and underlying components.
+Patching & Lifecycle management
+Implement interim patches issued via security alerts through Cegeka’s emergency change process;
+Implement patches addressing specific issues for The <klant> (after agreement with the <klant>, via Cegeka’s emergency change process);
+Each Quarter the Systems are fully patched.
+This service doesn’t include:
+The configuration and/or activation of additional features;
+Necessary changes and project activities caused by patch management;
+Software updates for which it’s necessary to change the application and/or reconfigure related systems with which the application interacts.
+Backup & Restore management
+This feature contains:
+Backup and Restore of iSeries will be documented in the backup plan as part of the Document for Agreements and Procedures (DAP).
+Management of the backup solution to a dedicated tape robot
+Offsite storage of the tapes (via courier)
+Management of the backup schemes
+Restore on request
+Physical iSeries Management
+This feature contains:
+Management of the hardware support contracts
+Firmware patch management
+Eligibility and Prerequisites
+Conditions
+The Cegeka managed services personnel needs to have network access to the Managed iSeries Server.
+The Cegeka managed services personnel needs to have a login with full administrative access on the Managed iSeries Server.
+Responsibility matrix
+
+Monitoring & Reporting
+This feature is focused on status and availability monitoring and includes:
+Measurement of system parameters of <klant>’s iSeries OS;
+Verification of availability of services, processes and ports of the <klant> applications. Detailed requirements need to be agreed upon separately with <klant>, and will be documented in the monitoring plan; 
+Notification via e-mail and/or SMS when exceeding predefined thresholds and predefined statuses;
+Visualization of monitoring results (events and trends) via a central monitoring portal.
+The list of standard monitoring settings and the list of monitored system parameters are documented in a standard monitoring plan. This is used as a basis for a customized monitoring plan to fit the needs of <klant>. 
+<klant> has an insight in the outcome of monitoring by means of monthly reports. An external monitoring portal can be provided as an option to <klant>.
+Order & billing information
+Part numbers
+O.0140_0010_0010_M_S.000 SPH platform management - Shared Power Hosting - platform management
+O.0300_0010_0010_A_S.000 Single Datacenter - Virtual Server Resources (IBM i  / IOS) - IBM i; sytem unit single datacenter / 76 CPW / 1 GB Ram / unlimited i5 OS V7Rx + user licenses / BU agent License (BRMS) / (minimum 7 units per partition required)
+O.0320_0060_0010_A_S.000 Single Datacenter - Storage (IBM i  / IOS) - Managed SAN capacity  / GB (single storage system/datacenter) - High End (FS900 Flash) (S-T0) (Min 200 GiB + extra 50 GiB blocks)
+O.0340_0060_0010_A_S.000 Backup (IBM i  / IOS) - LPAR back-up - per GB used (compressed) space on back-up storage device (EMC² data domain) (Min 200 GiB + extra 50 GiB blocks) - Storage Replication
+Measurement
+A report is generated on a monthly basis, this report is based on the CMDB and lists all servers and service details for which a Cegeka datacentre – Managed iSeries OS Service is delivered.
+Billing
+The units are billed against the price of their respective SKU’s.
+(“Price/Unit” x “Quantity of Virtual – Gold Units”) +
+(“Price/Unit” x “Quantity of Virtual – Silver Units”) + 
+(“Price/Unit” x “Quantity of Virtual – Bronze Units”).

@@ -1,0 +1,219 @@
+	 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Infrastructure management
+The Service provides the tasks and activities needed to manage the shared LAN to provide LAN functionality to virtual and physical systems in the Cegeka Datacentres (The Infrastructure). 
+The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.
+The Infrastructure
+The datacentre LAN in the network for connecting and interconnecting the infrastructure.
+Within the datacentre LAN, there are 2 sub layers:
+Collapsed core layer
+Access layer
+The core layer is used for:
+Interconnecting the access layer
+Interconnecting datacentres
+All equipment to the core is connected redundantly.
+The access layer is used for:
+Networking equipment (e.g. firewall services, routers (e.g. Customer WAN lines), remote access, backup switches)
+Endpoints, such as servers, blade chassis
+Connections to the access layer can be through a layer 2 switched port or through a layer 3 routed port. 
+
+The Cegeka Datacentres and POPs are redundantly interconnected providing stretched LANs over these locations. Cegeka continuously monitors the capacity of the interconnections, assuring the capacity for all needed traffic over these lines.
+Service features 
+Standard Service features 
+Infrastructure knowledge
+Cegeka ensures skilled engineers with experience on the networking environment in order to perform the Service. 
+Cegeka is responsible in providing the following:
+Management of the components of datacentre LAN infrastructure in the Cegeka datacentres. Components managed: 
+Core switches;
+Access switches;
+Cabling and termination equipment (e.g. GBICs).
+Delivery of the platform in the Cegeka datacentres to offer Ethernet on a physical carrier: 
+Connect servers to the central switching infrastructure 
+Divide networks in segments (VLANs)
+Group multiple network ports in a link aggregate (trunking) 
+Delivery of the following speeds, depending on server requirements:
+1 Gbps/100Mbps
+10 Gbps
+
+Technical setup
+Cegeka’s datacentre LAN design consists of a redundant Cisco Nexus 7000 series core switches. 
+The same type of setup is deployed in the access layer. The setup consists of 2x 5000 series Cisco Nexus switches connected to 2000 series Cisco Nexus fabric extenders (FEX). Servers in the datacentre are always redundantly connected to two different fabric extenders. These fabric extenders are connected to different Nexus 5000 parent switches. The setup is designed to have no SPOF’s regarding network and power supply.
+The access switches are LACP port-channels. This ensures redundancy via the aggregation of two physical cables into one logical connection. Blade switches are configured with link state groups. In case of an uplink failure in the core switches, the link status is propagated to the server connections in the chassis.
+On the server side, all network interface cards are redundantly patched on separate access switches. 
+An endpoint that requires 1 Gbps or less is connected to a Nexus 2000 switch. It is absolutely recommended to dual home the server by connecting it to the network by at least 2 cables. The network must be configured in an active/passive manner. Active/Active configurations are exceptionally possible and have to be discussed and investigated case by case.
+An endpoint that requires 10 Gbps or more is connected to a Nexus 5000 switch. In every other aspect, it’s the same as an endpoint that is connected at 1 Gbps. As a standard, the server shall be connected to the network by at least 2 cables. The network shall be configured in an active/passive manner.
+Technical management
+Cegeka is responsible for the technical operation of the Infrastructure and to assure it’s correct running during the agreed availability windows.
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Infrastructure. Automation is applied where possible. 
+Proactive management
+Housekeeping includes following regular checks:
+The technical setup and the running of the Physical infrastructure
+The functional setup of the network components and their configuration
+Maintain optimal performance by monitoring and measuring - on an ongoing basis - the key performance indicators 
+Analyse and diagnose the infrastructure to achieve efficient use of capacity to deliver service requirements
+Troubleshooting of incidents and problems with appliance components, escalating support calls to vendor when required 
+Resolution actions are triggered when needed and followed to assure the SLA.
+
+Patching
+The service includes patching of the Infrastructure. Patching is transparent for the customer due to the nature of the shared service. 
+
+Life Cycle Management
+Cegeka monitors the Infrastructure and updates the underlaying hardware and software transparent for the customer. Cegeka follows the constructor’s end of support where applicable and in line with the contractual obligations (for instance vulnerability patching in the cross-functionals).
+
+Monitoring
+Cegeka monitors the correct working of the Infrastructure.
+Cegeka has developed a wide range of infrastructure checks to monitor availability of different components and available resource capacity. Most of them are pro-active based on target thresholds while others are reactive.
+All components of the infrastructure are monitored on a 24/7 basis. 
+Monitoring improvements will be done during the lifecycle of the Service.
+Monitoring events are evaluated during the Service Window in accordance to the Service Level of the individual environment. Notable events are treated as Incident tickets and are handled according to regular incident management.
+The effectiveness of the Datacentre LAN service relies on various factors, including the interface speed, uplink saturation, buffer usage on switches, and several other parameters. The essential metrics are consistently monitored and flagged by both the shared monitoring service and the Datacentre LAN platform. Should specific metrics approach their upper thresholds, Cegeka takes proactive measures to augment capacity as necessary.
+Note: networks are separated in such way that customers do not interfere each other (eg broadcasts). Furthermore by continuously monitoring,  Cegeka will detect abnormal behaviour and will promptly investigate and resolve.
+
+Security and Compliance
+Management of technical users
+The management of technical users (for engineers) is done by Cegeka in accordance to the Customer security policies.
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+SIEM
+SIEM is part of the Cegeka internal service and not deliverable to the Customer.
+
+Underlaying Platform hardening
+Not applicable for this Service.
+
+
+Backup and Restore
+Backup and restore of the network component configurations is part of the Cegeka management.
+Incident and problem management
+Besides monitoring incidents (see ‘Monitoring’) also other incidents can be reported by both the Customer and Cegeka. These will be subject to the regular incident management process (See Cross-functionals).
+Related to incident management, Cegeka performs also problem management (See Cross-functionals).
+Customers responsibility
+n/a
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+
+The following optional features are possible with the Service:
+Rental of dedicated datacentre-interconnect capacity (usage of Cegeka existing lines, using a separate wavelength) for the purpose of switch infrastructure not managed by Cegeka.
+Physical connective monitoring
+Rental of other communication lines (e.g. PSTN lines, etc.) – SD is not applicable
+
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. 
+
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+Cloud Housing services 
+Cegeka owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+
+Customer owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are not included in this Service.
+It is the customers responsibility to provide licenses for applications and maintain license and/or subscription compliance.
+
+Conditions 
+The connected equipment must contain industry standard GBIC’s or Ethernet ports to be connected to the datacentre LAN. For servers that are sized by Cegeka, this is guaranteed.
+Customer performance is significantly influenced by how their landscapes and applications are constructed, aspects beyond the scope of the Datacentre LAN service. The architecture of a customer's landscape and its applications plays a crucial role in both the actual and perceived performance of business applications. Given the complexities involved, which are beyond the service's control, the Datacentre LAN service cannot be held accountable for addressing challenges arising from this complexity.
+Service delivery location
+This Service is delivered remotely from the Cegeka (virtual) Office environment.
+Service Reporting
+Monthly reporting will be provided to inform on the availability and meeting the SLA’s and to provide insights on the capacity and expected extensions required.
+
+Specific reports are provided: 
+n/a
+Data classification
+Cegeka requires no access to confidential and/or personal data to perform this Service.
+Engineer credentials do not need to access such data for the purpose of this Service.
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+Cisco Systems Belgium
+Arcadiz Telecom
+KPN
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+(none)
+Miscellaneous 
+n/a
+RACI Matrix
+
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+
+Adherence to Cross-Functional Services 
+The Service described in this Service Description adheres to the Cross-functional Services as described in the contract where this Service is residing unless documented in the table below:
+
+The Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+Service Level Agreement
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+The actual mapping of the operational service instances towards these KPI’s are documented on the Service Delivery site under ‘Operational documentation’.
+
+
+Availability
+
+The following Availability KPI’s are provided for the Service:
+
+ 
+The availability measurement is monthly and calculated as:
+For the availability KPI’s: (Total time of service window of the measured period – time of outage based on Cegeka infrastructure monitoring during the measured period) / Total time of service window of the measured period) * 100
+For the mean time KPI: incident registration
+
+
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+The actual mapping of the operational service instances towards these billing elements are documented on the Service Delivery site under ‘Operational documentation’.
+
+
+
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+# billing units per element based in CMDB and storage information (documented in invoice)
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+Change Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis.
+
+Document control
+
+
+Document approval
+	
