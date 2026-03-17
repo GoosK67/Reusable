@@ -1,27 +1,9 @@
-Extract the following fields from the attached Service Description.
-
-Return ONLY JSON.
-
-Fields:
-  title
-  service_summary
-  business_context
-  key_features
-  standard_services
-  optional_services
-  operational_services
-  prerequisites
-  out_of_scope
-  conditions
-  sla
-  pricing
-  risks
-  assumptions
-  differentiators
-  missing_information
+!!! STRICT JSON OUTPUT ONLY !!!
 
 Rules:
-- Do not invent.
-- If not found → null.
-- Preserve exact wording.
-- Use arrays where appropriate.
+- Output MUST be valid JSON.
+- No text outside JSON.
+- No markdown.
+- No code fences.
+- No explanation.
+- Output must begin with '{' and end with '}'.
