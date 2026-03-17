@@ -1,0 +1,46 @@
+mappings:
+  Product Summary:
+    - "service summary"
+    - "summary"
+    - "overview"
+
+  Key Features & Functionalities:
+    - "features and functionalities"
+    - "features"
+    - "functionalities"
+
+  Product Description:
+    - "standard services"
+    - "service description"
+    - "approach"
+
+  Value Proposition:
+    - "optional services"
+    - "business value"
+    - "value"
+
+  Operational Support:
+    - "operational services"
+    - "incident"
+    - "support"
+
+  Requirements & Prerequisites:
+    - "prerequisite"
+    - "eligibility"
+
+  Scope / Out-of-Scope:
+    - "out of scope"
+    - "scope"
+
+  Terms & Conditions:
+    - "conditions"
+
+  SLA & KPI Management:
+    - "service level agreement"
+    - "sla"
+    - "kpi"
+
+  Pricing Elements:
+    - "order & billing"
+    - "skus"
+    - "pricing"

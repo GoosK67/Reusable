@@ -1,0 +1,14 @@
+synonyms:
+  implementation: onboarding
+  deployment: onboarding
+  runbook: operational documentation
+  support window: service hours
+  failover: disaster recovery
+
+preferred_terms:
+  customer: customer
+  Cegeka: Cegeka
+
+forbidden_terms:
+  TBD
+  lorem ipsum

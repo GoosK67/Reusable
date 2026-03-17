@@ -1,0 +1,15 @@
+mandatory_sections:
+  - Product Summary
+  - Product Description
+  - Key Features & Functionalities
+  - Scope / Out-of-Scope
+  - Requirements & Prerequisites
+  - Value Proposition
+  - Key Differentiators
+  - Operational Support
+  - SLA & KPI Management
+
+fail_if:
+  - invented facts
+  - empty critical sections
+  - factual inconsistency with JSON

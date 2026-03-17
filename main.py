@@ -11,16 +11,34 @@ TEMPLATE_PATH = Path("templates/presales_template.docx")
 
 
 def _to_fill_fields(mapped_sections):
-    """Convert human-readable template keys to DOCX tag field keys."""
-    return {
-        "ProductSummary": mapped_sections.get("Product Summary", ""),
-        "ValueProposition": mapped_sections.get("Value Proposition", ""),
-        "ProductDescription": mapped_sections.get("Product Description", ""),
-        "Requirements": mapped_sections.get("Requirements & Prerequisites", ""),
-        "Scope": mapped_sections.get("Scope / Out of Scope", ""),
-        "SLA": mapped_sections.get("SLA", ""),
-        "OperationalSupport": mapped_sections.get("Operational Support", ""),
-    }
+    """Convert human-readable template keys to DOCX tag field keys.
+    
+    When full_section=True with include_tables=True, mapped_sections values
+    may be dicts with {text, tables}. We return a structure that preserves this."""
+    # Extract the source titles mapping before processing
+    source_titles = mapped_sections.pop("_source_titles", {})
+    
+    result = {}
+    for template_field, field_key in [
+        ("Product Summary", "ProductSummary"),
+        ("Value Proposition", "ValueProposition"),
+        ("Product Description", "ProductDescription"),
+        ("Requirements & Prerequisites", "Requirements"),
+        ("Scope / Out of Scope", "Scope"),
+        ("SLA", "SLA"),
+        ("Operational Support", "OperationalSupport"),
+    ]:
+        value = mapped_sections.get(template_field, "")
+        if isinstance(value, dict):
+            # Structure: {text: str, tables: list}
+            result[field_key] = value
+        else:
+            # Backward compatible: plain string
+            result[field_key] = {"text": value, "tables": []}
+    
+    # Add the source titles mapping for the generator
+    result["_source_titles"] = source_titles
+    return result
 
 
 def process_all_sd_files(root_folder, template_path, output_folder, rewrite_profile=DEFAULT_REWRITE_PROFILE):
@@ -42,6 +60,10 @@ def process_all_sd_files(root_folder, template_path, output_folder, rewrite_prof
     for sd_file in root.rglob("*.docx"):
         sd_resolved = sd_file.resolve()
 
+        # Only process Service Description files (filename must start with "SD").
+        if not sd_file.name.lower().startswith("sd"):
+            continue
+
         # Avoid processing the template itself or already generated files.
         if sd_resolved == template_resolved:
             continue
@@ -50,9 +72,19 @@ def process_all_sd_files(root_folder, template_path, output_folder, rewrite_prof
 
         print(f"Processing: {sd_file}")
         try:
+            from docx import Document
+            source_doc = Document(sd_file)
             sections = extract_sections(sd_file)
-            mapped_sections = map_sd_to_template(sections, rewrite_profile=rewrite_profile)
+            mapped_sections = map_sd_to_template(
+                sections,
+                rewrite_profile=rewrite_profile,
+                full_section=True,
+                preserve_titles=True,
+                include_tables=True,
+            )
             fields = _to_fill_fields(mapped_sections)
+            fields["_source_doc"] = source_doc
+            fields["_source_sections"] = sections
 
             output_file = output / f"{sd_file.stem} - Presales Guide.docx"
             fill_template(template, output_file, fields)

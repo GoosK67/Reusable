@@ -26,6 +26,28 @@ def _is_numbered_heading(paragraph_text):
     return bool(HEADING_PATTERN.match(paragraph_text.strip()))
 
 
+def _heading_level(paragraph):
+    """Return the numeric heading level (1, 2, 3 ...) or 0 for non-headings."""
+    name = paragraph.style.name  # e.g. "Heading 1", "Heading 2"
+    if name.startswith("Heading"):
+        parts = name.split()
+        if len(parts) == 2 and parts[1].isdigit():
+            return int(parts[1])
+        return 1  # unnamed Heading style → treat as top-level
+    return 0
+
+
+def _is_section_heading(paragraph):
+    """Only Heading 1/2 and numbered text paragraphs start a new section.
+    Heading 3+ text is accumulated into the parent section as body text."""
+    level = _heading_level(paragraph)
+    if level in (1, 2):
+        return bool(paragraph.text.strip())
+    if level == 0:
+        return _is_numbered_heading(paragraph.text)
+    return False  # Heading 3, 4, 5 … → body text
+
+
 def _table_to_rows(table):
     rows = []
     for row in table.rows:
@@ -59,7 +81,7 @@ def extract_sections(docx_file):
             if not text:
                 continue
 
-            if _is_numbered_heading(text):
+            if _is_section_heading(block):
                 current_title = text
                 sections[current_title] = {
                     "section_title": current_title,

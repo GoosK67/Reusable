@@ -94,8 +94,73 @@ def _extract_titles_and_texts(sections):
     return extracted
 
 
-def _keyword_score(title, keywords):
-    """Combine hard keyword hits with fuzzy similarity for flexible matching."""
+def _build_section_lookup(sections):
+    """Return a normalized lookup: title -> {section_title, section_text, tables}."""
+    lookup = {}
+    for title, value in sections.items():
+        if str(title).lower() == "tables":
+            continue
+
+        if isinstance(value, dict):
+            section_title = str(value.get("section_title", title))
+            section_text = str(value.get("section_text", "") or "")
+            tables = value.get("tables", []) or []
+        else:
+            section_title = str(title)
+            section_text = str(value or "") if isinstance(value, str) else ""
+            tables = []
+
+        lookup[section_title] = {
+            "section_title": section_title,
+            "section_text": section_text,
+            "tables": tables,
+        }
+
+    return lookup
+
+
+def _tables_to_text(tables):
+    """Render DOCX table payload to readable plain text."""
+    blocks = []
+    for table_index, table in enumerate(tables, start=1):
+        blocks.append(f"Table {table_index}:")
+        for row in table:
+            cells = [str(cell).strip() for cell in row]
+            blocks.append(" | ".join(cells))
+    return "\n".join(blocks)
+
+
+def _compose_section_content(section_payload, preserve_title=False, include_tables=False):
+    """Return text content WITHOUT tables. Tables are handled separately by the caller."""
+    if not section_payload:
+        return ""
+
+    parts = []
+    if preserve_title:
+        parts.append(section_payload["section_title"])
+
+    text = section_payload.get("section_text", "").strip()
+    if text:
+        parts.append(text)
+
+    return "\n\n".join(part for part in parts if part).strip()
+
+
+def _get_section_tables(section_payload):
+    """Extract the raw table payload from a section (not converted to text)."""
+    if not section_payload:
+        return []
+    return section_payload.get("tables", []) or []
+
+
+def _keyword_score(title, keywords, body_text=""):
+    """Score a section against template-field keywords.
+
+    Title matches score 0–1.0.
+    Body-text keyword hits contribute a reduced bonus (max 0.35) so that
+    a weak title but strong body text can surface the right section when
+    the title match alone is inconclusive.
+    """
     normalized_title = _normalize(title)
     title_words = normalized_title.split()
     best = 0.0
@@ -105,6 +170,7 @@ def _keyword_score(title, keywords):
         if not normalized_keyword:
             continue
 
+        # Exact substring in title → perfect score
         if normalized_keyword in normalized_title:
             best = max(best, 1.0)
             continue
@@ -113,6 +179,19 @@ def _keyword_score(title, keywords):
 
         for word in title_words:
             best = max(best, SequenceMatcher(None, word, normalized_keyword).ratio() * 0.9)
+
+    # Body-text bonus: if a keyword appears literally in the section text,
+    # add a bonus so content-rich sections can surface.
+    # Multi-word keywords (e.g. "out of scope") carry a 0.50 bonus because
+    # literal phrase presence is a strong signal; single-word keywords give 0.30.
+    if body_text:
+        normalized_body = _normalize(body_text)
+        for keyword in keywords:
+            normalized_keyword = _normalize(keyword)
+            if normalized_keyword and normalized_keyword in normalized_body:
+                bonus = 0.50 if " " in normalized_keyword else 0.30
+                best = max(best, bonus)
+                break
 
     return best
 
@@ -139,7 +218,7 @@ def get_match_diagnostics(sections):
         best_title = None
 
         for title, _text in titles_and_texts:
-            score = _keyword_score(title, keywords)
+            score = _keyword_score(title, keywords, body_text=_text)
             if score >= best_score:
                 best_score = score
                 best_title = title
@@ -153,43 +232,84 @@ def get_match_diagnostics(sections):
     return diagnostics
 
 
-def map_sd_to_template(sections, rewrite_profile=DEFAULT_REWRITE_PROFILE):
+def map_sd_to_template(
+    sections,
+    rewrite_profile=DEFAULT_REWRITE_PROFILE,
+    full_section=False,
+    preserve_titles=False,
+    include_tables=False,
+):
     """
     Map SD sections to template blocks using keyword + fuzzy title matching.
 
     Args:
         sections (dict): output from extract_sections(docx_file) or legacy extract_sd(path)
         rewrite_profile (str): commercial rewrite profile for Product Description
+        full_section (bool): when True, return the full matched chapter content
+        preserve_titles (bool): include the matched section title in output text
+        include_tables (bool): include section tables in output text
 
     Returns:
-        dict: template block -> summarized matched section text (max 8 lines)
+        dict: template block -> mapped section text, plus _source_titles for tracing
     """
     titles_and_texts = _extract_titles_and_texts(sections)
+    section_lookup = _build_section_lookup(sections)
 
     mapped = {template_field: "" for template_field in TEMPLATE_RULES}
+    source_titles = {}  # Maps template_field -> source_title for formatting preservation
     for template_field, keywords in TEMPLATE_RULES.items():
         best_score = 0.0
+        best_title = None
         best_text = ""
+        best_score_with_content = 0.0
+        best_title_with_content = None
+        best_text_with_content = ""
 
         for title, text in titles_and_texts:
-            score = _keyword_score(title, keywords)
+            score = _keyword_score(title, keywords, body_text=text)
             # Use >= so that among equal-scoring sections the *last* one in
-            # document order wins.  SD documents go from general (top-level
-            # headings) to specific (numbered sub-sections), so the deepest
-            # relevant section reliably replaces a shallow one with the same score.
+            # document order wins. SD documents often go from generic to specific.
             if score >= best_score:
                 best_score = score
+                best_title = title
                 best_text = text
+            if text.strip() and score >= best_score_with_content:
+                best_score_with_content = score
+                best_title_with_content = title
+                best_text_with_content = text
 
-        # Keep weak/accidental fuzzy hits out of the final mapping.
+        source_title = best_title if best_score >= 0.45 else None
         source_text = best_text if best_score >= 0.45 else ""
 
-        if template_field == "Product Description":
-            source_text = rewrite_commercial(source_text, profile=rewrite_profile)
+        # If the best-matched section is empty (shell heading), fall back to
+        # the best-scoring section that actually has content.
+        if not source_text.strip() and best_score_with_content >= 0.80:
+            source_title = best_title_with_content
+            source_text = best_text_with_content
 
-        summary = summarize(source_text)
-        mapped[template_field] = _trim_to_max_lines(summary, MAX_SUMMARY_LINES)
+        # Track which source section matched this template field
+        source_titles[template_field] = source_title
 
+        if full_section:
+            payload = section_lookup.get(source_title or "")
+            source_text = _compose_section_content(
+                payload,
+                preserve_title=preserve_titles,
+                include_tables=False,  # Keep tables separate; don't convert to text
+            )
+            if include_tables:
+                # Return a dict with both text and tables when full_section + include_tables
+                mapped[template_field] = {
+                    "text": source_text,
+                    "tables": _get_section_tables(payload) if payload else [],
+                }
+            else:
+                mapped[template_field] = source_text
+        else:
+            summary = summarize(source_text)
+            mapped[template_field] = _trim_to_max_lines(summary, MAX_SUMMARY_LINES)
+
+    mapped["_source_titles"] = source_titles
     return mapped
 
 
