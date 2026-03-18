@@ -1,9 +1,0 @@
-{
-  "preamble": "Introduction\nThe content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only.\nIt is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)\nDocument history\nVersion\nDate\nComment\nAuthor\n0.9\n12-10-2023\nInitial document\nLodewijk van der Sloot\n",
-  "hybrid cloud": "",
-  "san & storage device management": "",
-  "service summary": "The SAN & storage device management service is a Cegeka managed service which consist of the monitoring, management, maintenance, supervision, administration and planning of all functions for Storage systems.\n",
-  "standard service components": "The following standard features are included in this Service:\nGeneral activities\nDaily operations and administration\n",
-  "eligibility and prerequisites": "Conditions\nResponsibility matrix\nActivity\nCustomer\nCegeka\nTechnical platform management\nI\nR, A\nChange management\nC\nR, A\nExecuting standard requests\nI\nR, A\nExecuting non-standard requests\nI\nR, A\nOn-site interventions outside Cegeka datacenter\nA, I\nR, I\n",
-  "order & billing information": "Part numbers\nO.0320_0090_0010_M_TM.000 SAN & storage device management\nData management policies are provided by the customer ↑\nOn request we can deliver this information ↑\n"
-}
