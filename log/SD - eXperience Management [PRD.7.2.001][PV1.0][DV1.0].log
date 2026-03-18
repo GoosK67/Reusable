@@ -1,0 +1,161 @@
+[2026-03-17 23:34:13] [TID:10644] Start processing SD: SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:34:13] [TID:10644] Extracting HTML...
+[2026-03-17 23:34:14] [TID:10644] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:34] [TID:24184] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:39:34] [TID:24184] Extracting HTML...
+[2026-03-17 23:39:35] [TID:24184] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:45] [TID:23024] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:44:45] [TID:23024] Extracting HTML...
+[2026-03-17 23:44:47] [TID:23024] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:13] [TID:29672] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:47:13] [TID:29672] Extracting HTML...
+[2026-03-17 23:47:15] [TID:29672] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:43] [TID:28188] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:54:43] [TID:28188] Extracting HTML...
+[2026-03-17 23:54:45] [TID:28188] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:08] [TID:29204] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:02:08] [TID:29204] Extracting HTML...
+[2026-03-18 00:02:09] [TID:29204] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:21] [TID:6988] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:11:21] [TID:6988] Extracting HTML...
+[2026-03-18 00:11:23] [TID:6988] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:43] [TID:6152] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:24:43] [TID:6152] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:44] [TID:6152] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:24:45] [TID:6152] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:45] [TID:6152] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:43] [TID:29492] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:28:43] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:43] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:28:44] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:44] [TID:29492] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:44] [TID:12044] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:39:44] [TID:12044] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:44] [TID:12044] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:39:45] [TID:12044] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:45] [TID:12044] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:01] [TID:26580] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:52:01] [TID:26580] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:01] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:52:02] [TID:26580] [DEBUG][stdout] âœ” HTML saved for SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 00:52:02] [TID:26580] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:02] [TID:26580] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:02] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html']
+[2026-03-18 00:52:03] [TID:26580] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 00:52:03] [TID:26580] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:03] [TID:26580] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:03] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json']
+[2026-03-18 00:52:03] [TID:26580] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:03] [TID:26580] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:19] [TID:22128] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:01:19] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:19] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:01:19] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:01:19] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:19] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:19] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:01:21] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:01:21] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:21] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:21] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:01:21] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:21] [TID:22128] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:54] [TID:19856] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:16:54] [TID:19856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:54] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:16:55] [TID:19856] [DEBUG][stdout] âœ” HTML saved for SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:16:55] [TID:19856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:55] [TID:19856] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:55] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:16:57] [TID:19856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:16:57] [TID:19856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:57] [TID:19856] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:14] [TID:16984] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:33:14] [TID:16984] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:14] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:33:15] [TID:16984] [DEBUG][stdout] HTML saved: SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:33:15] [TID:16984] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:15] [TID:16984] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:15] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:33:16] [TID:16984] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:33:16] [TID:16984] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:16] [TID:16984] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:16] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:33:16] [TID:16984] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:16] [TID:16984] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:24] [TID:23252] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:40:24] [TID:23252] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:24] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:40:25] [TID:23252] [DEBUG][stdout] HTML saved: SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:40:25] [TID:23252] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:25] [TID:23252] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:25] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:40:26] [TID:23252] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:40:26] [TID:23252] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:26] [TID:23252] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:26] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:40:26] [TID:23252] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:26] [TID:23252] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1

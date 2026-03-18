@@ -1,0 +1,1054 @@
+[2026-03-18 01:30:46] [TID:29460] Scanning SD directory: C:\Users\koengo\Cegeka\Product Management - Product Management Library
+[2026-03-18 01:30:47] [TID:29460] Found 105 SD files
+[2026-03-18 01:30:47] [TID:2584] START SD - IBM Power on Premise [DV0.9].docx
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 01:30:47] [TID:24236] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.1] Cegeka IBM Power Services & Solutions\\SD - IBM Power on Premise [DV0.9].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.5] Cegeka Digital Cloud Platforms\\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - IBM Power on Premise [DV0.9].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka Cloud - IBM license metric tool [PRD.0.L.179][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] START SD - Cegeka Cloud - Monitoring Services [PRD0.L.178][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] START SD - Cegeka Cloud - Secure Mail [PRD.0.L.159][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] START SD - Cegeka Cloud Compute IaaS Services [PRD.0.L.108][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud - IBM license metric tool [PRD.0.L.179][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud - Monitoring Services [PRD0.L.178][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud - Secure Mail [PRD.0.L.159][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Compute IaaS Services [PRD.0.L.108][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Cegeka Cloud - Monitoring Services [PRD0.L.178][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Cegeka Cloud - Secure Mail [PRD.0.L.159][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Cegeka Cloud - IBM license metric tool [PRD.0.L.179][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Cegeka Cloud Housing services [PRD.0.L.101][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:940] START SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Cegeka Cloud Compute IaaS Services [PRD.0.L.108][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka Cloud Shared LAN Services [PRD.0.L.102][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Housing services [PRD.0.L.101][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared LAN Services [PRD.0.L.102][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Cegeka Cloud Housing services [PRD.0.L.101][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:2584] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Cegeka Cloud Shared LAN Services [PRD.0.L.102][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:30:47] [TID:24236] START SD - Generic - OS Management Windows.docx
+[2026-03-18 01:30:47] [TID:25364] START SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - OS Management Windows.docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - SAN & Storage Device Management.docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Generic Service Catalogue.docx
+[2026-03-18 01:30:47] [TID:2584] START SD - JBaas for Argenta [PRD.0.L.145][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Generic - SAN & Storage Device Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Generic - OS Management Windows.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic Service Catalogue.docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - JBaas for Argenta [PRD.0.L.145][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Generic Service Catalogue.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - JBaas for Argenta [PRD.0.L.145][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Oracle Engineered System Management [PRD.0.L.202][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] START SD - OS Management for IBM Power [PRD.0.L.128][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Engineered System Management [PRD.0.L.202][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - OS Management for IBM Power [PRD.0.L.128][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] START SD - Release and Deploy services for Argenta [PRD.0.L.191][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Release and Deploy services for Argenta [PRD.0.L.191][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Oracle Engineered System Management [PRD.0.L.202][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - OS Management for IBM Power [PRD.0.L.128][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - SAS Application Management [PRD.A.L.002][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] START SD - SNOW agent installation and agent support [PRD.0.L.180][PV0.7][DV1.1].docx
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - SAS Application Management [PRD.A.L.002][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - SNOW agent installation and agent support [PRD.0.L.180][PV0.7][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Release and Deploy services for Argenta [PRD.0.L.191][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Takensysteem Application Management [PRD.0.L.188][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] START SD - TAM IPaaS Boomi [PRD.0.L.142][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Takensysteem Application Management [PRD.0.L.188][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM IPaaS Boomi [PRD.0.L.142][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - SNOW agent installation and agent support [PRD.0.L.180][PV0.7][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] ERROR SD - SAS Application Management [PRD.A.L.002][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - TAM IWS IBM Workload Scheduler [PRD.0.L.185][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] START SD - TAM MFT Axway [PRD.0.L.140][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM IWS IBM Workload Scheduler [PRD.0.L.185][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM MFT Axway [PRD.0.L.140][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - TAM IPaaS Boomi [PRD.0.L.142][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Takensysteem Application Management [PRD.0.L.188][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] START SD - TAM Oracle Enterprise Metadata Manager OEMM [PRD.0.L.186][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM Oracle Enterprise Metadata Manager OEMM [PRD.0.L.186][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - TAM IWS IBM Workload Scheduler [PRD.0.L.185][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] START SD - TAM Oracle Goldengate [PRD.0.L.137][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] ERROR SD - TAM MFT Axway [PRD.0.L.140][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] START SD - TAM Secure File Transfer Liquidfiles [PRD.0.L.187][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM Oracle Goldengate [PRD.0.L.137][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - TAM Secure File Transfer Liquidfiles [PRD.0.L.187][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - Technical Database management Microsoft SQL [PRD.0.L.129][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Technical Database management Microsoft SQL [PRD.0.L.129][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - TAM Oracle Enterprise Metadata Manager OEMM [PRD.0.L.186][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Technical Database management Oracle [PRD.0.L.130][PV0.8][DV1.1].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Technical Database management Oracle [PRD.0.L.130][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - TAM Oracle Goldengate [PRD.0.L.137][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Power AIX (PAAS) [PRD.0.1.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] ERROR SD - TAM Secure File Transfer Liquidfiles [PRD.0.L.187][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.1] Cegeka IBM Power Services & Solutions\\[PRD.0.1.002] Power AIX\\SD - Power AIX (PAAS) [PRD.0.1.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] START SD - Cegeka IBM Power Cloud(Legacy) [PRD.0.1.003][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Technical Database management Microsoft SQL [PRD.0.L.129][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.1] Cegeka IBM Power Services & Solutions\\[PRD.0.1.003] Cegeka IBM Power Cloud\\SD - Cegeka IBM Power Cloud(Legacy) [PRD.0.1.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] START SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.1] Cegeka IBM Power Services & Solutions\\[PRD.0.1.004] Power IBM i\\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Technical Database management Oracle [PRD.0.L.130][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka Azure Advisory Services - Cloud Configuration, Security & Risk Optimization Assessment [PRD.0.2.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.2] Cegeka Azure Services & Solutions\\[PRD.0.2.002] Cegeka Azure Advisory Services\\SD - Cegeka Azure Advisory Services - Cloud Configuration, Security & Risk Optimization Assessment [PRD.0.2.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Power AIX (PAAS) [PRD.0.1.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Cegeka Azure Advisory Services - Microsoft Azure Cloud Solution Provider [PRD.0.2.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.2] Cegeka Azure Services & Solutions\\[PRD.0.2.002] Cegeka Azure Advisory Services\\SD - Cegeka Azure Advisory Services - Microsoft Azure Cloud Solution Provider [PRD.0.2.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Cegeka IBM Power Cloud(Legacy) [PRD.0.1.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Azure Managed Platform Services [PRD.0.2.020][PV2.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.2] Cegeka Azure Services & Solutions\\[PRD.0.2.020] Cegeka Azure Managed Platform Services\\SD - Azure Managed Platform Services [PRD.0.2.020][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Cegeka Azure Advisory Services - Cloud Configuration, Security & Risk Optimization Assessment [PRD.0.2.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - Cegeka OCI Managed Platform Services [PRD.0.4.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka ExaCC Services [PRD.0.4.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.4] Cegeka Oracle Cloud Services & Solutions\\[PRD.0.4.001] Cegeka OCI Managed Platform Services\\SD - Cegeka OCI Managed Platform Services [PRD.0.4.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.4] Cegeka Oracle Cloud Services & Solutions\\[PRD.0.4.002] Cegeka ExaCC Services\\SD - Cegeka ExaCC Services [PRD.0.4.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Cegeka Azure Advisory Services - Microsoft Azure Cloud Solution Provider [PRD.0.2.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Cegeka Cloud-Native Platform on Cegeka Cloud - Platform Engineering as a Service [PRD.0.5.001][PV2.2][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.5] Cegeka Digital Cloud Platforms\\[PRD.0.5.001] Cegeka Cloud-Native Platform on Cegeka Cloud\\SD - Cegeka Cloud-Native Platform on Cegeka Cloud - Platform Engineering as a Service [PRD.0.5.001][PV2.2][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Azure Managed Platform Services [PRD.0.2.020][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Cegeka Cloud-Native Platform on Cegeka Cloud [PRD.0.5.001][PV2.2][DV1.2].docx
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.5] Cegeka Digital Cloud Platforms\\[PRD.0.5.001] Cegeka Cloud-Native Platform on Cegeka Cloud\\SD - Cegeka Cloud-Native Platform on Cegeka Cloud [PRD.0.5.001][PV2.2][DV1.2].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Cegeka ExaCC Services [PRD.0.4.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Cegeka OCI Managed Platform Services [PRD.0.4.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Cegeka Technical Application Management [PRD.0.6.001][PV1.2][DV1.1].docx
+[2026-03-18 01:30:47] [TID:24236] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - Cegeka Technical Application Management [PRD.0.6.001][PV1.2][DV1.1].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Cegeka Cloud-Native Platform on Cegeka Cloud - Platform Engineering as a Service [PRD.0.5.001][PV2.2][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Cegeka Managed File Transfer Services [PRD.0.6.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.002] Cegeka Managed File Transfer Services\\SD - Cegeka Managed File Transfer Services [PRD.0.6.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka Cloud-Native Platform on Cegeka Cloud [PRD.0.5.001][PV2.2][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka Oracle Enterprise Manager [PRD.0.L.139][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.L.139] Cegeka Oracle Enterprise Manager\\SD - Cegeka Oracle Enterprise Manager [PRD.0.L.139][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka VM Cyber Protection & Recovery Service [PRD.0.8.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka Technical Application Management [PRD.0.6.001][PV1.2][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka DBMS for Oracle on Azure [PRD.0.8.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.8] Cegeka Cyber Recovery Services & Solutions\\[PRD.0.8.001] Cegeka VM Cyber Protection & Recovery Service\\SD - Cegeka VM Cyber Protection & Recovery Service [PRD.0.8.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.9] Cegeka Database Management\\[PRD.0.9.001] Cegeka DBMS for Oracle on Azure\\SD - Cegeka DBMS for Oracle on Azure [PRD.0.8.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cegeka Managed File Transfer Services [PRD.0.6.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Cegeka Cloud Housing Services [PRD.0.L.101][PV0.8][DV1.2].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka Cloud Services & Solutions\\[PRD.0.L.101] Cegeka Housing Services\\SD - Cegeka Cloud Housing Services [PRD.0.L.101][PV0.8][DV1.2].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka Oracle Enterprise Manager [PRD.0.L.139][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka Housing Services [PRD.0.L.101][PV0.8][DV1.3].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka Cloud Services & Solutions\\[PRD.0.L.101] Cegeka Housing Services\\SD - Cegeka Housing Services [PRD.0.L.101][PV0.8][DV1.3].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Cegeka VM Cyber Protection & Recovery Service [PRD.0.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Repository Managed Service [PRD.0.L.300][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka Cloud Services & Solutions\\[PRD.0.L.300] Repository Managed Service\\SD - Repository Managed Service [PRD.0.L.300][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka DBMS for Oracle on Azure [PRD.0.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] START SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cegeka Cloud Housing Services [PRD.0.L.101][PV0.8][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] START SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka Cloud Services & Solutions\\[PRD.0.L.301] Jenkins Managed Service\\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka Cloud Services & Solutions\\[PRD.0.L.302] Automation as a Service\\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka Housing Services [PRD.0.L.101][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka OS Management - Windows on Cegeka Cloud [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Cegeka Cloud [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Repository Managed Service [PRD.0.L.300][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka OS Management - Linux on Cegeka Cloud [PRD.0.L.126][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.126] Cegeka OS Management Linux\\SD - Cegeka OS Management - Linux on Cegeka Cloud [PRD.0.L.126][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] START SD - Cegeka OS Management - Linux on Microsoft Azure [PRD.0.L.126][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.126] Cegeka OS Management Linux\\SD - Cegeka OS Management - Linux on Microsoft Azure [PRD.0.L.126][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka OS Management - Windows on Cegeka Cloud [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - My Prints (Traditional Print Service) [PRD.7.3.002][PV0.8][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.L] Outsourcing Services\\SD - My Prints (Traditional Print Service) [PRD.7.3.002][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] START SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka OS Management - Linux on Cegeka Cloud [PRD.0.L.126][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] START SD - Digital Workplace Security [PRD.7.1.001][PV1.0][DV2.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.0] Cegeka Reselling\\[PRD.7.0.001] License Management\\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cegeka OS Management - Linux on Microsoft Azure [PRD.0.L.126][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.001] Digital Workplace Security\\SD - Digital Workplace Security [PRD.7.1.001][PV1.0][DV2.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - My Prints (Traditional Print Service) [PRD.7.3.002][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Device Lifecycle Management [PRD.7.3.001][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.3.001] Device Lifecycle Management\\SD - Device Lifecycle Management [PRD.7.3.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] START SD - Physical Workplace Management [PRD.7.4.001][PV1.1][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Digital Workplace Security [PRD.7.1.001][PV1.0][DV2.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.001] Physical Workplace Management\\SD - Physical Workplace Management [PRD.7.4.001][PV1.1][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] START SD - Application Packaging & Update Management [PRD.7.4.005][PV1.1][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Device Lifecycle Management [PRD.7.3.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] START SD - Secure Workplace Access [PRD.7.4.007][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.005] Application Packaging & Update Management\\SD - Application Packaging & Update Management [PRD.7.4.005][PV1.1][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.007] Secure Workplace Access\\SD - Secure Workplace Access [PRD.7.4.007][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Physical Workplace Management [PRD.7.4.001][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] START SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Application Packaging & Update Management [PRD.7.4.005][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] START SD - Digital Identity Services [PRD.7.5.005][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.002] Meeting Room\\SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Secure Workplace Access [PRD.7.4.007][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] START SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.005] Digital Identity Services\\SD - Digital Identity Services [PRD.7.5.005][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.2.001] eXperience Management\\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Workspace Engine (Addendum) [PRD.7.7.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.7.001] Workspace Engine\\SD - Workspace Engine (Addendum) [PRD.7.7.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Workspace Engine [PRD.7.7.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.7.001] Workspace Engine\\SD - Workspace Engine [PRD.7.7.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Digital Identity Services [PRD.7.5.005][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Workplace Assistant [PRD.7.7.002][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] START SD - Adoption & Change Management - Coaching & Support [PRD.7.8.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.7.002] Workplace Assistant\\SD - Workplace Assistant [PRD.7.7.002][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.8.001] Adoption & Change Management\\SD - Adoption & Change Management - Coaching & Support [PRD.7.8.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Workspace Engine (Addendum) [PRD.7.7.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Adoption & Change Management - Purpose & Culture [PRD.7.8.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.8.001] Adoption & Change Management\\SD - Adoption & Change Management - Purpose & Culture [PRD.7.8.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Workspace Engine [PRD.7.7.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Adoption & Change Management - Skilling & Growth [PRD.7.8.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.8.001] Adoption & Change Management\\SD - Adoption & Change Management - Skilling & Growth [PRD.7.8.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Workplace Assistant [PRD.7.7.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Adoption & Change Management - Coaching & Support [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Adoption & Change Management - Purpose & Culture [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.002] Onsite Support\\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Adoption & Change Management - Skilling & Growth [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Dedicated LAN platform management [PRD.4.5.003][PV0.8][DV1.1].docx
+[2026-03-18 01:30:48] [TID:940] START SD - Generic - Site-to Site VPN.docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Dedicated LAN platform management [PRD.4.5.003][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Generic - Site-to Site VPN.docx']
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Dedicated LAN platform management [PRD.4.5.003][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Cegeka Security Advisory Framework - Active Directory Security Scan - PingCastle [PRD.4.1.004][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Generic - Site-to Site VPN.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.1.004] Cegeka Security Advisory Framework\\SD - Cegeka Security Advisory Framework - Active Directory Security Scan - PingCastle [PRD.4.1.004][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka Security Advisory Framework - CISO Office as a Service [PRD.4.1.004][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.1.004] Cegeka Security Advisory Framework\\SD - Cegeka Security Advisory Framework - CISO Office as a Service [PRD.4.1.004][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka Security Advisory Framework - IGA Assessment - Elimity [PRD.4.1.004][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.1.004] Cegeka Security Advisory Framework\\SD - Cegeka Security Advisory Framework - IGA Assessment - Elimity [PRD.4.1.004][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Security Advisory Framework - Third Party Risk Assessment - RiskRecon [PRD.4.1.004][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.1.004] Cegeka Security Advisory Framework\\SD - Cegeka Security Advisory Framework - Third Party Risk Assessment - RiskRecon [PRD.4.1.004][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cegeka Security Advisory Framework - Active Directory Security Scan - PingCastle [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka Security Advisory Framework - CISO Office as a Service [PRD.4.1.004][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Cegeka Security Advisory Framework - IGA Assessment - Elimity [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka Modern SOC - CrowdStrike - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka Modern SOC - CrowdStrike - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka Security Advisory Framework - Third Party Risk Assessment - RiskRecon [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - CrowdStrike - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - CrowdStrike - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Cegeka Modern SOC - CrowdStrike - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Cegeka Modern SOC - CrowdStrike - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Cegeka Modern SOC - Microsoft - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:940] START SD - Cegeka Modern SOC - Recorded Future - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Microsoft - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:2584] ERROR SD - Cegeka Modern SOC - Microsoft - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:2584] START SD - Cegeka Modern SOC - Sentinel One - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:49] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:24236] ERROR SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:940] ERROR SD - Cegeka Modern SOC - Recorded Future - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:25364] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:24236] START SD - Cegeka Modern SOC - Vectra - EU [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:49] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Sentinel One - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:940] START SD - Cegeka Modern SOC - Vectra - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:49] [TID:25364] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:30:49] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Vectra - EU [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Vectra - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:30:49] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:2584] ERROR SD - Cegeka Modern SOC - Sentinel One - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:2584] START SD - Connection Kit [PRD.9.L.116][PV0.8][DV1.0].docx
+[2026-03-18 01:30:49] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Practice - Enabling Services\\[9.L] Processes\\[PRD.9.L.116] Connection KIT\\SD - Connection Kit [PRD.9.L.116][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:24236] ERROR SD - Cegeka Modern SOC - Vectra - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:25364] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:940] ERROR SD - Cegeka Modern SOC - Vectra - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:2584] ERROR SD - Connection Kit [PRD.9.L.116][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - IBM Power on Premise [DV0.9].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud - Monitoring Services [PRD0.L.178][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud - Secure Mail [PRD.0.L.159][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud - IBM license metric tool [PRD.0.L.179][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Compute IaaS Services [PRD.0.L.108][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Housing services [PRD.0.L.101][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Shared LAN Services [PRD.0.L.102][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Generic - SAN & Storage Device Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Generic - OS Management Windows.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Generic Service Catalogue.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - JBaas for Argenta [PRD.0.L.145][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Oracle Engineered System Management [PRD.0.L.202][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - OS Management for IBM Power [PRD.0.L.128][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Release and Deploy services for Argenta [PRD.0.L.191][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - SNOW agent installation and agent support [PRD.0.L.180][PV0.7][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - SAS Application Management [PRD.A.L.002][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM IPaaS Boomi [PRD.0.L.142][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Takensysteem Application Management [PRD.0.L.188][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM IWS IBM Workload Scheduler [PRD.0.L.185][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM MFT Axway [PRD.0.L.140][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM Oracle Enterprise Metadata Manager OEMM [PRD.0.L.186][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM Oracle Goldengate [PRD.0.L.137][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM Secure File Transfer Liquidfiles [PRD.0.L.187][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Technical Database management Microsoft SQL [PRD.0.L.129][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Technical Database management Oracle [PRD.0.L.130][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Power AIX (PAAS) [PRD.0.1.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka IBM Power Cloud(Legacy) [PRD.0.1.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Azure Advisory Services - Cloud Configuration, Security & Risk Optimization Assessment [PRD.0.2.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Azure Advisory Services - Microsoft Azure Cloud Solution Provider [PRD.0.2.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Azure Managed Platform Services [PRD.0.2.020][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka ExaCC Services [PRD.0.4.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka OCI Managed Platform Services [PRD.0.4.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud-Native Platform on Cegeka Cloud - Platform Engineering as a Service [PRD.0.5.001][PV2.2][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud-Native Platform on Cegeka Cloud [PRD.0.5.001][PV2.2][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Technical Application Management [PRD.0.6.001][PV1.2][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Managed File Transfer Services [PRD.0.6.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Oracle Enterprise Manager [PRD.0.L.139][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka VM Cyber Protection & Recovery Service [PRD.0.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka DBMS for Oracle on Azure [PRD.0.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud Housing Services [PRD.0.L.101][PV0.8][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Housing Services [PRD.0.L.101][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Repository Managed Service [PRD.0.L.300][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka OS Management - Windows on Cegeka Cloud [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka OS Management - Linux on Cegeka Cloud [PRD.0.L.126][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka OS Management - Linux on Microsoft Azure [PRD.0.L.126][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - My Prints (Traditional Print Service) [PRD.7.3.002][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Digital Workplace Security [PRD.7.1.001][PV1.0][DV2.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Device Lifecycle Management [PRD.7.3.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Physical Workplace Management [PRD.7.4.001][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Application Packaging & Update Management [PRD.7.4.005][PV1.1][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Secure Workplace Access [PRD.7.4.007][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Digital Identity Services [PRD.7.5.005][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Workspace Engine (Addendum) [PRD.7.7.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Workspace Engine [PRD.7.7.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Workplace Assistant [PRD.7.7.002][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Adoption & Change Management - Coaching & Support [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Adoption & Change Management - Purpose & Culture [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Adoption & Change Management - Skilling & Growth [PRD.7.8.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Dedicated LAN platform management [PRD.4.5.003][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Generic - Site-to Site VPN.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Security Advisory Framework - Active Directory Security Scan - PingCastle [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Security Advisory Framework - CISO Office as a Service [PRD.4.1.004][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Security Advisory Framework - IGA Assessment - Elimity [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Security Advisory Framework - Third Party Risk Assessment - RiskRecon [PRD.4.1.004][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - CrowdStrike - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - CrowdStrike - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Microsoft - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Recorded Future - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Sentinel One - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Vectra - EU [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Cegeka Modern SOC - Vectra - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] ERROR SD - Connection Kit [PRD.9.L.116][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:29460] Generating dashboard...
+[2026-03-18 01:30:52] [TID:29460] 🚀 FULL RUN COMPLETED (UTF‑8 SAFE + DASHBOARD FIXED)

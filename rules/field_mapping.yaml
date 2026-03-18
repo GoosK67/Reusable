@@ -1,46 +1,59 @@
 mappings:
-  Product Summary:
-    - "service summary"
-    - "summary"
-    - "overview"
 
-  Key Features & Functionalities:
-    - "features and functionalities"
-    - "features"
-    - "functionalities"
-
-  Product Description:
-    - "standard services"
+  title:
     - "service description"
-    - "approach"
 
-  Value Proposition:
-    - "optional services"
-    - "business value"
-    - "value"
+  service_summary:
+    - "service introduction"
+    - "service overview"
 
-  Operational Support:
-    - "operational services"
-    - "incident"
-    - "support"
+  key_features:
+    - "technical implementation"
+    - "operational readiness"
+    - "management services"
+    - "security management"
+    - "service management"
+    - "platform management"
 
-  Requirements & Prerequisites:
-    - "prerequisite"
-    - "eligibility"
+  standard_services:
+    - "run services"
+    - "management services"
+    - "security management"
+    - "service management"
 
-  Scope / Out-of-Scope:
+  optional_services:
+    - "standard changes"
+
+  operational_services:
+    - "governance"
+    - "process"
+    - "technology"
+
+  prerequisites:
+    - "eligibility and prerequisites"
+
+  out_of_scope:
     - "out of scope"
-    - "scope"
 
-  Terms & Conditions:
+  conditions:
     - "conditions"
+    - "limiting conditions of the services"
 
-  SLA & KPI Management:
-    - "service level agreement"
-    - "sla"
-    - "kpi"
+  sla:
+    - "service level"
+    - "availability"
 
-  Pricing Elements:
-    - "order & billing"
-    - "skus"
-    - "pricing"
+  pricing:
+    - "service billing"
+    - "optional service billing"
+    - "change request billing"
+
+  risks:
+    - "risk"
+
+  assumptions:
+    - "assumption"
+
+  differentiators:
+    - "miscellaneous"
+    - "technology"

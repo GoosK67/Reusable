@@ -1,0 +1,161 @@
+[2026-03-17 23:34:15] [TID:21548] Start processing SD: SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-17 23:34:15] [TID:21548] Extracting HTML...
+[2026-03-17 23:34:17] [TID:21548] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:36] [TID:13704] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-17 23:39:36] [TID:13704] Extracting HTML...
+[2026-03-17 23:39:37] [TID:13704] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:47] [TID:16732] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-17 23:44:47] [TID:16732] Extracting HTML...
+[2026-03-17 23:44:48] [TID:16732] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:16] [TID:3024] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-17 23:47:16] [TID:3024] Extracting HTML...
+[2026-03-17 23:47:17] [TID:3024] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:46] [TID:21020] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-17 23:54:46] [TID:21020] Extracting HTML...
+[2026-03-17 23:54:47] [TID:21020] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:10] [TID:4276] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:02:10] [TID:4276] Extracting HTML...
+[2026-03-18 00:02:11] [TID:4276] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:24] [TID:11148] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:11:24] [TID:11148] Extracting HTML...
+[2026-03-18 00:11:25] [TID:11148] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:48] [TID:29648] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:24:48] [TID:29648] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:49] [TID:29648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 00:24:49] [TID:29648] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:49] [TID:29648] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:47] [TID:12148] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:28:47] [TID:12148] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:47] [TID:12148] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 00:28:48] [TID:12148] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:49] [TID:12148] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:49] [TID:22268] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:39:49] [TID:22268] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:49] [TID:22268] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 00:39:50] [TID:22268] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:50] [TID:22268] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:06] [TID:18100] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 00:52:06] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:06] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 00:52:07] [TID:18100] [DEBUG][stdout] âœ” HTML saved for SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html']
+[2026-03-18 00:52:07] [TID:18100] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:07] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json']
+[2026-03-18 00:52:07] [TID:18100] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:07] [TID:18100] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:24] [TID:22128] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:01:24] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:24] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:01:25] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html']
+[2026-03-18 01:01:25] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:25] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json']
+[2026-03-18 01:01:25] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:25] [TID:22128] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:59] [TID:28236] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:16:59] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:59] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:17:00] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+
+[2026-03-18 01:17:00] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:17:00] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:17:00] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html']
+[2026-03-18 01:17:01] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+
+[2026-03-18 01:17:01] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:17:01] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:17:01] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json']
+[2026-03-18 01:17:01] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:17:01] [TID:28236] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:19] [TID:28596] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:33:19] [TID:28596] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:19] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:33:19] [TID:28596] [DEBUG][stdout] HTML saved: SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+
+[2026-03-18 01:33:19] [TID:28596] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:19] [TID:28596] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:19] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html']
+[2026-03-18 01:33:20] [TID:28596] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+
+[2026-03-18 01:33:20] [TID:28596] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:20] [TID:28596] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:20] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json']
+[2026-03-18 01:33:20] [TID:28596] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:20] [TID:28596] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:29] [TID:27512] START SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 01:40:29] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:29] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx']
+[2026-03-18 01:40:29] [TID:27512] [DEBUG][stdout] HTML saved: SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+
+[2026-03-18 01:40:29] [TID:27512] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:29] [TID:27512] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:29] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html']
+[2026-03-18 01:40:30] [TID:27512] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+
+[2026-03-18 01:40:30] [TID:27512] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:30] [TID:27512] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:30] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json']
+[2026-03-18 01:40:30] [TID:27512] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:30] [TID:27512] ERROR SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx: [auto_map] FAILED with exit code 1

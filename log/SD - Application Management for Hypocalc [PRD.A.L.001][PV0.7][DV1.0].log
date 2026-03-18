@@ -1,0 +1,166 @@
+[2026-03-17 23:34:00] [TID:22888] Start processing SD: SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-17 23:34:00] [TID:22888] Extracting HTML...
+[2026-03-17 23:34:01] [TID:22888] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:21] [TID:13704] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-17 23:39:21] [TID:13704] Extracting HTML...
+[2026-03-17 23:39:23] [TID:13704] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:33] [TID:16732] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-17 23:44:33] [TID:16732] Extracting HTML...
+[2026-03-17 23:44:35] [TID:16732] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:00] [TID:16752] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-17 23:47:00] [TID:16752] Extracting HTML...
+[2026-03-17 23:47:02] [TID:16752] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:30] [TID:21020] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-17 23:54:31] [TID:21020] Extracting HTML...
+[2026-03-17 23:54:32] [TID:21020] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:56] [TID:27268] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:01:57] [TID:27268] Extracting HTML...
+[2026-03-18 00:01:58] [TID:27268] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:07] [TID:6988] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:11:08] [TID:6988] Extracting HTML...
+[2026-03-18 00:11:09] [TID:6988] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:19] [TID:29648] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:24:19] [TID:29648] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:19] [TID:29648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:24:20] [TID:29648] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:20] [TID:29648] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:20] [TID:26240] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:28:21] [TID:26240] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:21] [TID:26240] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:28:22] [TID:26240] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:22] [TID:26240] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:21] [TID:1172] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:39:21] [TID:1172] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:21] [TID:1172] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:39:22] [TID:1172] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:22] [TID:1172] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:46:53] [TID:7220] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:46:53] [TID:7220] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:54] [TID:7220] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:46:54] [TID:7220] [DEBUG][stdout] âœ” HTML saved for SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+
+[2026-03-18 00:51:40] [TID:26580] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:51:40] [TID:26580] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:40] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:51:41] [TID:26580] [DEBUG][stdout] âœ” HTML saved for SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+
+[2026-03-18 00:51:41] [TID:26580] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:41] [TID:26580] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:41] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html']
+[2026-03-18 00:51:42] [TID:26580] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json
+
+[2026-03-18 00:51:42] [TID:26580] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:42] [TID:26580] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:42] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json']
+[2026-03-18 00:51:42] [TID:26580] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:42] [TID:26580] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:00:57] [TID:28604] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:00:57] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:00:57] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:00:58] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+
+[2026-03-18 01:00:58] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:00:58] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:00:58] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html']
+[2026-03-18 01:00:59] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json
+
+[2026-03-18 01:00:59] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:00:59] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:00:59] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json']
+[2026-03-18 01:00:59] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:00:59] [TID:28604] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:33] [TID:18856] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:16:33] [TID:18856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:33] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:16:33] [TID:18856] [DEBUG][stdout] âœ” HTML saved for SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+
+[2026-03-18 01:16:33] [TID:18856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:33] [TID:18856] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:33] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html']
+[2026-03-18 01:16:34] [TID:18856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json
+
+[2026-03-18 01:16:34] [TID:18856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:34] [TID:18856] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:34] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json']
+[2026-03-18 01:16:34] [TID:18856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:34] [TID:18856] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:940] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:940] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:52] [TID:16984] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:32:52] [TID:16984] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:52] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:32:53] [TID:16984] [DEBUG][stdout] HTML saved: SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html
+
+[2026-03-18 01:32:53] [TID:16984] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:32:53] [TID:16984] [DEBUG] Running step: parse_html
+[2026-03-18 01:32:53] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html']
+[2026-03-18 01:32:54] [TID:16984] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json
+
+[2026-03-18 01:32:54] [TID:16984] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:32:54] [TID:16984] [DEBUG] Running step: auto_map
+[2026-03-18 01:32:54] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json']
+[2026-03-18 01:32:54] [TID:16984] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:32:54] [TID:16984] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:04] [TID:5648] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 01:40:04] [TID:5648] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:04] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 01:40:04] [TID:5648] [DEBUG][stdout] HTML saved: SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html
+
+[2026-03-18 01:40:04] [TID:5648] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:04] [TID:5648] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:04] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].html']
+[2026-03-18 01:40:05] [TID:5648] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json
+
+[2026-03-18 01:40:05] [TID:5648] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:05] [TID:5648] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:05] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].json']
+[2026-03-18 01:40:05] [TID:5648] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:05] [TID:5648] ERROR SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1

@@ -1,0 +1,161 @@
+[2026-03-17 23:34:01] [TID:22888] Start processing SD: SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-17 23:34:02] [TID:22888] Extracting HTML...
+[2026-03-17 23:34:03] [TID:22888] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:23] [TID:15860] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-17 23:39:23] [TID:15860] Extracting HTML...
+[2026-03-17 23:39:24] [TID:15860] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:35] [TID:22760] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-17 23:44:35] [TID:22760] Extracting HTML...
+[2026-03-17 23:44:36] [TID:22760] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:02] [TID:29672] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-17 23:47:02] [TID:29672] Extracting HTML...
+[2026-03-17 23:47:03] [TID:29672] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:32] [TID:22136] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-17 23:54:32] [TID:22136] Extracting HTML...
+[2026-03-17 23:54:34] [TID:22136] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:58] [TID:22876] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:01:58] [TID:22876] Extracting HTML...
+[2026-03-18 00:01:59] [TID:22876] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:09] [TID:5760] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:11:09] [TID:5760] Extracting HTML...
+[2026-03-18 00:11:11] [TID:5760] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:23] [TID:14908] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:24:23] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:23] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 00:24:24] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:24] [TID:14908] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:24] [TID:29492] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:28:24] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:24] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 00:28:25] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:25] [TID:29492] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:24] [TID:22268] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:39:24] [TID:22268] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:24] [TID:22268] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 00:39:25] [TID:22268] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:25] [TID:22268] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:44] [TID:18100] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 00:51:44] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:44] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 00:51:45] [TID:18100] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+
+[2026-03-18 00:51:45] [TID:18100] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:45] [TID:18100] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:45] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html']
+[2026-03-18 00:51:46] [TID:18100] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json
+
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json']
+[2026-03-18 00:51:46] [TID:18100] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:46] [TID:18100] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:01] [TID:22128] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:01:01] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:01] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:01:03] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html']
+[2026-03-18 01:01:03] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json
+
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json']
+[2026-03-18 01:01:03] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:03] [TID:22128] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:38] [TID:28776] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:16:38] [TID:28776] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:38] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:16:39] [TID:28776] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html']
+[2026-03-18 01:16:39] [TID:28776] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json
+
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json']
+[2026-03-18 01:16:39] [TID:28776] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:39] [TID:28776] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:57] [TID:16984] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:32:57] [TID:16984] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:57] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:32:58] [TID:16984] [DEBUG][stdout] HTML saved: SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html
+
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Running step: parse_html
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html']
+[2026-03-18 01:32:58] [TID:16984] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json
+
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Running step: auto_map
+[2026-03-18 01:32:58] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json']
+[2026-03-18 01:32:58] [TID:16984] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:32:58] [TID:16984] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:07] [TID:5648] START SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx
+[2026-03-18 01:40:07] [TID:5648] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:07] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx']
+[2026-03-18 01:40:08] [TID:5648] [DEBUG][stdout] HTML saved: SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html
+
+[2026-03-18 01:40:08] [TID:5648] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:08] [TID:5648] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:08] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].html']
+[2026-03-18 01:40:09] [TID:5648] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json
+
+[2026-03-18 01:40:09] [TID:5648] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:09] [TID:5648] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:09] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].json']
+[2026-03-18 01:40:09] [TID:5648] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:09] [TID:5648] ERROR SD - Cegeka Cloud Shared NAS Services [PRD.0.L.109][PV0.8][DV1.3].docx: [auto_map] FAILED with exit code 1

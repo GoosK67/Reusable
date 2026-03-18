@@ -1,0 +1,90 @@
+[2026-03-17 23:34:10] [TID:19352] Start processing SD: SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-17 23:34:10] [TID:19352] Extracting HTML...
+[2026-03-17 23:34:11] [TID:19352] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:31] [TID:27424] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-17 23:39:32] [TID:27424] Extracting HTML...
+[2026-03-17 23:39:32] [TID:27424] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:43] [TID:22212] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-17 23:44:43] [TID:22212] Extracting HTML...
+[2026-03-17 23:44:44] [TID:22212] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:11] [TID:25432] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-17 23:47:11] [TID:25432] Extracting HTML...
+[2026-03-17 23:47:12] [TID:25432] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:41] [TID:22136] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-17 23:54:41] [TID:22136] Extracting HTML...
+[2026-03-17 23:54:42] [TID:22136] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:05] [TID:4276] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:02:06] [TID:4276] Extracting HTML...
+[2026-03-18 00:02:06] [TID:4276] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:18] [TID:19732] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:11:18] [TID:19732] Extracting HTML...
+[2026-03-18 00:11:19] [TID:19732] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:39] [TID:4384] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:24:39] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:39] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 00:24:39] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 00:24:39] [TID:4384] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:39] [TID:18548] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:28:39] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:39] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 00:28:40] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 00:28:40] [TID:18548] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:39] [TID:1172] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:39:39] [TID:1172] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:40] [TID:1172] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 00:39:40] [TID:1172] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 00:39:40] [TID:1172] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:57] [TID:5928] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 00:51:57] [TID:5928] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:57] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 00:51:57] [TID:5928] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 00:51:57] [TID:5928] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:01:15] [TID:19944] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:01:15] [TID:19944] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:15] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:01:15] [TID:19944] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 01:01:15] [TID:19944] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:16:51] [TID:18856] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:16:51] [TID:18856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:51] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:16:51] [TID:18856] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 01:16:51] [TID:18856] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:09] [TID:28000] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:33:09] [TID:28000] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:09] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:33:10] [TID:28000] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 01:33:10] [TID:28000] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:40:20] [TID:27512] START SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx
+[2026-03-18 01:40:20] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:20] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx']
+[2026-03-18 01:40:20] [TID:27512] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Cegeka OS Management\\[PRD.0.L.124] Cegeka OS Management Windows\\SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx'
+
+[2026-03-18 01:40:20] [TID:27512] ERROR SD - Cegeka OS Management - Windows on Microsoft Azure [PRD.0.L.124][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1

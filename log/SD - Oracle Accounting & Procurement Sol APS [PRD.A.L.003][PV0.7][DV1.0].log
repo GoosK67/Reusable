@@ -1,0 +1,161 @@
+[2026-03-17 23:34:03] [TID:22228] Start processing SD: SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-17 23:34:03] [TID:22228] Extracting HTML...
+[2026-03-17 23:34:05] [TID:22228] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:24] [TID:27424] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-17 23:39:24] [TID:27424] Extracting HTML...
+[2026-03-17 23:39:26] [TID:27424] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:36] [TID:2816] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-17 23:44:36] [TID:2816] Extracting HTML...
+[2026-03-17 23:44:38] [TID:2816] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:03] [TID:25432] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-17 23:47:03] [TID:25432] Extracting HTML...
+[2026-03-17 23:47:05] [TID:25432] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:34] [TID:4172] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-17 23:54:34] [TID:4172] Extracting HTML...
+[2026-03-17 23:54:35] [TID:4172] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:59] [TID:28120] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:01:59] [TID:28120] Extracting HTML...
+[2026-03-18 00:02:01] [TID:28120] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:11] [TID:14484] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:11:11] [TID:14484] Extracting HTML...
+[2026-03-18 00:11:13] [TID:14484] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:25] [TID:14908] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:24:25] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:25] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 00:24:26] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:26] [TID:14908] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:26] [TID:29492] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:28:26] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:26] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 00:28:27] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:27] [TID:29492] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:26] [TID:22268] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:39:26] [TID:22268] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:26] [TID:22268] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 00:39:28] [TID:22268] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:28] [TID:22268] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:47] [TID:1204] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 00:51:47] [TID:1204] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:47] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 00:51:47] [TID:1204] [DEBUG][stdout] âœ” HTML saved for SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+
+[2026-03-18 00:51:47] [TID:1204] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:47] [TID:1204] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:47] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html']
+[2026-03-18 00:51:48] [TID:1204] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json
+
+[2026-03-18 00:51:48] [TID:1204] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:48] [TID:1204] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:48] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json']
+[2026-03-18 00:51:48] [TID:1204] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:48] [TID:1204] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:04] [TID:28604] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:01:04] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:04] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:01:05] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+
+[2026-03-18 01:01:05] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:05] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:05] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html']
+[2026-03-18 01:01:06] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json
+
+[2026-03-18 01:01:06] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:06] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:06] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json']
+[2026-03-18 01:01:06] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:06] [TID:28604] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:40] [TID:28236] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:16:40] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:40] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:16:41] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+
+[2026-03-18 01:16:41] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:41] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:41] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html']
+[2026-03-18 01:16:42] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json
+
+[2026-03-18 01:16:42] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:42] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:42] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json']
+[2026-03-18 01:16:42] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:42] [TID:28236] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:59] [TID:19504] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:32:59] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:59] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:33:00] [TID:19504] [DEBUG][stdout] HTML saved: SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html
+
+[2026-03-18 01:33:00] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:00] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:00] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html']
+[2026-03-18 01:33:01] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json
+
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json']
+[2026-03-18 01:33:01] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:01] [TID:19504] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:10] [TID:27512] START SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx
+[2026-03-18 01:40:10] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:10] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx']
+[2026-03-18 01:40:10] [TID:27512] [DEBUG][stdout] HTML saved: SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html
+
+[2026-03-18 01:40:10] [TID:27512] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:10] [TID:27512] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:10] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].html']
+[2026-03-18 01:40:11] [TID:27512] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json
+
+[2026-03-18 01:40:11] [TID:27512] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:11] [TID:27512] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:11] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].json']
+[2026-03-18 01:40:11] [TID:27512] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:11] [TID:27512] ERROR SD - Oracle Accounting & Procurement Sol APS [PRD.A.L.003][PV0.7][DV1.0].docx: [auto_map] FAILED with exit code 1

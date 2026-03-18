@@ -1,0 +1,161 @@
+[2026-03-17 23:34:17] [TID:1284] Start processing SD: SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-17 23:34:17] [TID:1284] Extracting HTML...
+[2026-03-17 23:34:19] [TID:1284] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:38] [TID:7988] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-17 23:39:38] [TID:7988] Extracting HTML...
+[2026-03-17 23:39:40] [TID:7988] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:49] [TID:2816] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-17 23:44:49] [TID:2816] Extracting HTML...
+[2026-03-17 23:44:51] [TID:2816] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:17] [TID:16752] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-17 23:47:18] [TID:16752] Extracting HTML...
+[2026-03-17 23:47:19] [TID:16752] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:48] [TID:20428] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-17 23:54:49] [TID:20428] Extracting HTML...
+[2026-03-17 23:54:51] [TID:20428] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:12] [TID:27268] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:02:12] [TID:27268] Extracting HTML...
+[2026-03-18 00:02:13] [TID:27268] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:26] [TID:19732] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:11:26] [TID:19732] Extracting HTML...
+[2026-03-18 00:11:27] [TID:19732] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:53] [TID:29648] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:24:53] [TID:29648] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:53] [TID:29648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 00:24:54] [TID:29648] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:54] [TID:29648] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:51] [TID:29492] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:28:51] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:51] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 00:28:52] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:53] [TID:29492] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:53] [TID:12044] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:39:53] [TID:12044] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:53] [TID:12044] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 00:39:54] [TID:12044] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:54] [TID:12044] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:09] [TID:26580] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 00:52:09] [TID:26580] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:09] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 00:52:10] [TID:26580] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+
+[2026-03-18 00:52:10] [TID:26580] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:10] [TID:26580] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:10] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html']
+[2026-03-18 00:52:10] [TID:26580] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json
+
+[2026-03-18 00:52:10] [TID:26580] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:10] [TID:26580] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:11] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json']
+[2026-03-18 00:52:11] [TID:26580] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:11] [TID:26580] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:27] [TID:19944] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:01:27] [TID:19944] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:27] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:01:28] [TID:19944] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+
+[2026-03-18 01:01:28] [TID:19944] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:28] [TID:19944] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:28] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html']
+[2026-03-18 01:01:29] [TID:19944] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json
+
+[2026-03-18 01:01:29] [TID:19944] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:29] [TID:19944] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:29] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json']
+[2026-03-18 01:01:29] [TID:19944] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:29] [TID:19944] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:17:02] [TID:19856] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:17:02] [TID:19856] [DEBUG] Running step: extract_html
+[2026-03-18 01:17:02] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:17:03] [TID:19856] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+
+[2026-03-18 01:17:03] [TID:19856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:17:03] [TID:19856] [DEBUG] Running step: parse_html
+[2026-03-18 01:17:03] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html']
+[2026-03-18 01:17:04] [TID:19856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json
+
+[2026-03-18 01:17:04] [TID:19856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:17:04] [TID:19856] [DEBUG] Running step: auto_map
+[2026-03-18 01:17:04] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json']
+[2026-03-18 01:17:04] [TID:19856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:17:04] [TID:19856] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:30:49] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:25364] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:22] [TID:28000] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:33:22] [TID:28000] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:22] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:33:23] [TID:28000] [DEBUG][stdout] HTML saved: SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html
+
+[2026-03-18 01:33:23] [TID:28000] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:23] [TID:28000] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:23] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html']
+[2026-03-18 01:33:24] [TID:28000] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json
+
+[2026-03-18 01:33:24] [TID:28000] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:24] [TID:28000] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:24] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json']
+[2026-03-18 01:33:24] [TID:28000] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:24] [TID:28000] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:32] [TID:28640] START SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 01:40:32] [TID:28640] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:32] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.3.008] Cegeka Modern SOC\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx']
+[2026-03-18 01:40:33] [TID:28640] [DEBUG][stdout] HTML saved: SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html
+
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].html']
+[2026-03-18 01:40:33] [TID:28640] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json
+
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:33] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].json']
+[2026-03-18 01:40:33] [TID:28640] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:33] [TID:28640] ERROR SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0].docx: [auto_map] FAILED with exit code 1

@@ -1,0 +1,161 @@
+[2026-03-17 23:34:14] [TID:27000] Start processing SD: SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-17 23:34:14] [TID:27000] Extracting HTML...
+[2026-03-17 23:34:16] [TID:27000] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:35] [TID:7988] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-17 23:39:35] [TID:7988] Extracting HTML...
+[2026-03-17 23:39:37] [TID:7988] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:47] [TID:22760] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-17 23:44:47] [TID:22760] Extracting HTML...
+[2026-03-17 23:44:48] [TID:22760] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:15] [TID:24732] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-17 23:47:15] [TID:24732] Extracting HTML...
+[2026-03-17 23:47:17] [TID:24732] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:45] [TID:14824] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-17 23:54:45] [TID:14824] Extracting HTML...
+[2026-03-17 23:54:47] [TID:14824] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:09] [TID:23568] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:02:09] [TID:23568] Extracting HTML...
+[2026-03-18 00:02:11] [TID:23568] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:23] [TID:15816] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:11:23] [TID:15816] Extracting HTML...
+[2026-03-18 00:11:25] [TID:15816] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:46] [TID:6152] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:24:47] [TID:6152] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:47] [TID:6152] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 00:24:48] [TID:6152] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:48] [TID:6152] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:45] [TID:26240] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:28:45] [TID:26240] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:46] [TID:26240] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 00:28:47] [TID:26240] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:47] [TID:26240] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:47] [TID:1172] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:39:47] [TID:1172] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:47] [TID:1172] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 00:39:48] [TID:1172] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:48] [TID:1172] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:03] [TID:26580] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 00:52:03] [TID:26580] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:03] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 00:52:04] [TID:26580] [DEBUG][stdout] âœ” HTML saved for SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+
+[2026-03-18 00:52:04] [TID:26580] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:04] [TID:26580] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:04] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html']
+[2026-03-18 00:52:05] [TID:26580] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json
+
+[2026-03-18 00:52:05] [TID:26580] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:05] [TID:26580] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:05] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json']
+[2026-03-18 00:52:05] [TID:26580] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:05] [TID:26580] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:21] [TID:19944] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:01:21] [TID:19944] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:21] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:01:22] [TID:19944] [DEBUG][stdout] âœ” HTML saved for SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+
+[2026-03-18 01:01:22] [TID:19944] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:22] [TID:19944] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:22] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html']
+[2026-03-18 01:01:23] [TID:19944] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json
+
+[2026-03-18 01:01:23] [TID:19944] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:23] [TID:19944] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:23] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json']
+[2026-03-18 01:01:23] [TID:19944] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:23] [TID:19944] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:57] [TID:19856] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:16:57] [TID:19856] [DEBUG][stdout] âœ” HTML saved for SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:57] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html']
+[2026-03-18 01:16:59] [TID:19856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json
+
+[2026-03-18 01:16:59] [TID:19856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:59] [TID:19856] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:59] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json']
+[2026-03-18 01:16:59] [TID:19856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:59] [TID:19856] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:16] [TID:16984] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:33:16] [TID:16984] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:16] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:33:17] [TID:16984] [DEBUG][stdout] HTML saved: SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html
+
+[2026-03-18 01:33:17] [TID:16984] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:17] [TID:16984] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:17] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html']
+[2026-03-18 01:33:18] [TID:16984] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json
+
+[2026-03-18 01:33:18] [TID:16984] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:18] [TID:16984] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:18] [TID:16984] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json']
+[2026-03-18 01:33:18] [TID:16984] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:18] [TID:16984] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:26] [TID:23252] START SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx
+[2026-03-18 01:40:26] [TID:23252] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:26] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.4] Cegeka Support Solutions\\[PRD.7.6.001] Remote Support\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx']
+[2026-03-18 01:40:27] [TID:23252] [DEBUG][stdout] HTML saved: SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html
+
+[2026-03-18 01:40:27] [TID:23252] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:27] [TID:23252] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:27] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].html']
+[2026-03-18 01:40:28] [TID:23252] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json
+
+[2026-03-18 01:40:28] [TID:23252] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:28] [TID:23252] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:28] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].json']
+[2026-03-18 01:40:28] [TID:23252] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:28] [TID:23252] ERROR SD - Remote Support [PRD.7.6.001][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1

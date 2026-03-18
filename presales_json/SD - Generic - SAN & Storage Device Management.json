@@ -1,0 +1,22 @@
+{
+  "title": "",
+  "service_summary": "",
+  "key_features": [],
+  "standard_services": [],
+  "optional_services": [],
+  "operational_services": [],
+  "prerequisites": "Conditions\nResponsibility matrix\n<TABLE>\n| Activity | Customer | Cegeka |\n| Technical platform management | I | R, A |\n| Change management | C | R, A |\n| Executing standard requests | I | R, A |\n| Executing non-standard requests | I | R, A |\n| On-site interventions outside Cegeka datacenter | A, I | R, I |\n</TABLE>\nActivity\nCustomer\nCegeka\nTechnical platform management\nI\nR, A\nChange management\nC\nR, A\nExecuting standard requests\nI\nR, A\nExecuting non-standard requests\nI\nR, A\nOn-site interventions outside Cegeka datacenter\nA, I\nR, I",
+  "out_of_scope": "",
+  "conditions": "",
+  "sla": "",
+  "pricing": "Part numbers\nO.0320_0090_0010_M_TM.000 SAN & storage device management\nData management policies are provided by the customer ↑\nOn request we can deliver this information ↑",
+  "risks": [],
+  "assumptions": [],
+  "differentiators": [
+    "Introduction\nThe content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only.\nIt is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)\nDocument history\n<TABLE>\n| Version | Date | Comment | Author |\n| 0.9 | 12-10-2023 | Initial document | Lodewijk van der Sloot |\n|  |  |  |  |\n|  |  |  |  |\n</TABLE>\nVersion\nDate\nComment\nAuthor\n0.9\n12-10-2023\nInitial document\nLodewijk van der Sloot",
+    "",
+    "",
+    "The SAN & storage device management service is a Cegeka managed service which consist of the monitoring, management, maintenance, supervision, administration and planning of all functions for Storage systems.",
+    "The following standard features are included in this Service:\nGeneral activities\nDaily operations and administration"
+  ]
+}

@@ -1,0 +1,90 @@
+[2026-03-17 23:34:09] [TID:1284] Start processing SD: SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-17 23:34:09] [TID:1284] Extracting HTML...
+[2026-03-17 23:34:10] [TID:1284] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:30] [TID:19068] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-17 23:39:30] [TID:19068] Extracting HTML...
+[2026-03-17 23:39:31] [TID:19068] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:41] [TID:22760] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-17 23:44:41] [TID:22760] Extracting HTML...
+[2026-03-17 23:44:42] [TID:22760] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:09] [TID:24732] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-17 23:47:09] [TID:24732] Extracting HTML...
+[2026-03-17 23:47:10] [TID:24732] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:39] [TID:20428] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-17 23:54:39] [TID:20428] Extracting HTML...
+[2026-03-17 23:54:40] [TID:20428] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:04] [TID:29204] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:02:04] [TID:29204] Extracting HTML...
+[2026-03-18 00:02:05] [TID:29204] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:16] [TID:16360] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:11:16] [TID:16360] Extracting HTML...
+[2026-03-18 00:11:17] [TID:16360] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:35] [TID:14908] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:24:35] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:35] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 00:24:36] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 00:24:36] [TID:14908] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:35] [TID:18548] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:28:35] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:35] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 00:28:36] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 00:28:36] [TID:18548] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:36] [TID:3812] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:39:36] [TID:3812] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:36] [TID:3812] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 00:39:37] [TID:3812] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 00:39:37] [TID:3812] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:55] [TID:18100] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 00:51:55] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:55] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 00:51:55] [TID:18100] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 00:51:55] [TID:18100] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:01:13] [TID:28604] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:01:13] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:13] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:01:14] [TID:28604] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 01:01:14] [TID:28604] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:16:49] [TID:28236] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:16:49] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:49] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:16:49] [TID:28236] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 01:16:49] [TID:28236] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:08] [TID:19504] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:33:08] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:08] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:33:08] [TID:19504] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 01:33:08] [TID:19504] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:40:18] [TID:5648] START SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx
+[2026-03-18 01:40:18] [TID:5648] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:18] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx']
+[2026-03-18 01:40:19] [TID:5648] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.6] Cegeka Application & Integration Management\\[PRD.0.6.001] Cegeka Technical Application Management\\SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx'
+
+[2026-03-18 01:40:19] [TID:5648] ERROR SD - TAM Services [PRD.0.6.001][PV1.1][DV1.1] - Word file.docx: [extract_html] FAILED with exit code 1

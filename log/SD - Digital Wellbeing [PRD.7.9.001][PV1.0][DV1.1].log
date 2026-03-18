@@ -1,0 +1,161 @@
+[2026-03-17 23:34:14] [TID:22888] Start processing SD: SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-17 23:34:14] [TID:22888] Extracting HTML...
+[2026-03-17 23:34:16] [TID:22888] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:35] [TID:15860] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-17 23:39:35] [TID:15860] Extracting HTML...
+[2026-03-17 23:39:36] [TID:15860] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:46] [TID:2816] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-17 23:44:46] [TID:2816] Extracting HTML...
+[2026-03-17 23:44:47] [TID:2816] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:15] [TID:16752] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-17 23:47:15] [TID:16752] Extracting HTML...
+[2026-03-17 23:47:16] [TID:16752] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:45] [TID:4172] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-17 23:54:45] [TID:4172] Extracting HTML...
+[2026-03-17 23:54:46] [TID:4172] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:09] [TID:27268] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:02:09] [TID:27268] Extracting HTML...
+[2026-03-18 00:02:10] [TID:27268] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:23] [TID:19732] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:11:23] [TID:19732] Extracting HTML...
+[2026-03-18 00:11:24] [TID:19732] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:46] [TID:14908] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:24:46] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:46] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 00:24:47] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:47] [TID:14908] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:45] [TID:29492] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:28:45] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:45] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 00:28:46] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:46] [TID:29492] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:47] [TID:12044] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:39:47] [TID:12044] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:47] [TID:12044] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 00:39:47] [TID:12044] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:48] [TID:12044] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:03] [TID:5928] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 00:52:03] [TID:5928] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:03] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 00:52:04] [TID:5928] [DEBUG][stdout] âœ” HTML saved for SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+
+[2026-03-18 00:52:04] [TID:5928] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:04] [TID:5928] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:04] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html']
+[2026-03-18 00:52:05] [TID:5928] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json
+
+[2026-03-18 00:52:05] [TID:5928] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:05] [TID:5928] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:05] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json']
+[2026-03-18 00:52:05] [TID:5928] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:05] [TID:5928] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:21] [TID:22128] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:01:21] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:21] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:01:22] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+
+[2026-03-18 01:01:22] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:22] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:22] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html']
+[2026-03-18 01:01:23] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json
+
+[2026-03-18 01:01:23] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:23] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:23] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json']
+[2026-03-18 01:01:23] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:23] [TID:22128] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:57] [TID:18856] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:16:57] [TID:18856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:57] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:16:57] [TID:18856] [DEBUG][stdout] âœ” HTML saved for SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+
+[2026-03-18 01:16:57] [TID:18856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:57] [TID:18856] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:57] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html']
+[2026-03-18 01:16:58] [TID:18856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json
+
+[2026-03-18 01:16:58] [TID:18856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:58] [TID:18856] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:58] [TID:18856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json']
+[2026-03-18 01:16:58] [TID:18856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:58] [TID:18856] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:940] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:940] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:940] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:940] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:16] [TID:28596] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:33:16] [TID:28596] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:16] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:33:17] [TID:28596] [DEBUG][stdout] HTML saved: SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html
+
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html']
+[2026-03-18 01:33:17] [TID:28596] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json
+
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:17] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json']
+[2026-03-18 01:33:18] [TID:28596] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:18] [TID:28596] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:26] [TID:5648] START SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx
+[2026-03-18 01:40:26] [TID:5648] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:26] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.2] Cegeka Employee Empowerment Solutions\\[PRD.7.9.001] Digital Wellbeing\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx']
+[2026-03-18 01:40:26] [TID:5648] [DEBUG][stdout] HTML saved: SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html
+
+[2026-03-18 01:40:26] [TID:5648] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:26] [TID:5648] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:26] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].html']
+[2026-03-18 01:40:27] [TID:5648] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json
+
+[2026-03-18 01:40:27] [TID:5648] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:27] [TID:5648] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:27] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].json']
+[2026-03-18 01:40:28] [TID:5648] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:28] [TID:5648] ERROR SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1].docx: [auto_map] FAILED with exit code 1

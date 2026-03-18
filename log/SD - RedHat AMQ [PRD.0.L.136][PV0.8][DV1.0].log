@@ -1,0 +1,161 @@
+[2026-03-17 23:34:04] [TID:10644] Start processing SD: SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-17 23:34:04] [TID:10644] Extracting HTML...
+[2026-03-17 23:34:05] [TID:10644] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:24] [TID:15860] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-17 23:39:25] [TID:15860] Extracting HTML...
+[2026-03-17 23:39:26] [TID:15860] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:37] [TID:27780] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-17 23:44:37] [TID:27780] Extracting HTML...
+[2026-03-17 23:44:38] [TID:27780] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:03] [TID:29672] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-17 23:47:04] [TID:29672] Extracting HTML...
+[2026-03-17 23:47:05] [TID:29672] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:34] [TID:22136] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-17 23:54:34] [TID:22136] Extracting HTML...
+[2026-03-17 23:54:35] [TID:22136] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:00] [TID:22876] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:02:00] [TID:22876] Extracting HTML...
+[2026-03-18 00:02:01] [TID:22876] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:11] [TID:5760] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:11:11] [TID:5760] Extracting HTML...
+[2026-03-18 00:11:13] [TID:5760] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:26] [TID:14908] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:24:26] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:26] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 00:24:27] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:27] [TID:14908] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:27] [TID:29492] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:28:27] [TID:29492] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:27] [TID:29492] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 00:28:28] [TID:29492] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:28] [TID:29492] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:28] [TID:22268] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:39:28] [TID:22268] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:28] [TID:22268] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 00:39:28] [TID:22268] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:28] [TID:22268] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:48] [TID:1204] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 00:51:48] [TID:1204] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:48] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 00:51:49] [TID:1204] [DEBUG][stdout] âœ” HTML saved for SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html']
+[2026-03-18 00:51:49] [TID:1204] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json
+
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:49] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json']
+[2026-03-18 00:51:49] [TID:1204] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:49] [TID:1204] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:06] [TID:28604] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:01:06] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:06] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:01:07] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html']
+[2026-03-18 01:01:07] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json
+
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:07] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json']
+[2026-03-18 01:01:08] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:08] [TID:28604] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:42] [TID:28236] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:16:42] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:42] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:16:43] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html']
+[2026-03-18 01:16:43] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json
+
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:43] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json']
+[2026-03-18 01:16:43] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:43] [TID:28236] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:01] [TID:19504] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:33:01] [TID:19504] [DEBUG][stdout] HTML saved: SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html
+
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:01] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html']
+[2026-03-18 01:33:02] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json
+
+[2026-03-18 01:33:02] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:02] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:02] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json']
+[2026-03-18 01:33:02] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:02] [TID:19504] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:11] [TID:27512] START SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx
+[2026-03-18 01:40:11] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:11] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx']
+[2026-03-18 01:40:12] [TID:27512] [DEBUG][stdout] HTML saved: SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html
+
+[2026-03-18 01:40:12] [TID:27512] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:12] [TID:27512] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:12] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].html']
+[2026-03-18 01:40:13] [TID:27512] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json
+
+[2026-03-18 01:40:13] [TID:27512] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:13] [TID:27512] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:13] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].json']
+[2026-03-18 01:40:13] [TID:27512] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:13] [TID:27512] ERROR SD - RedHat AMQ [PRD.0.L.136][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1

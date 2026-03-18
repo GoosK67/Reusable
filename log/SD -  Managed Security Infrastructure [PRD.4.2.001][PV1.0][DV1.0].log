@@ -1,0 +1,161 @@
+[2026-03-17 23:34:16] [TID:27000] Start processing SD: SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:34:16] [TID:27000] Extracting HTML...
+[2026-03-17 23:34:18] [TID:27000] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:37] [TID:22428] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:39:37] [TID:22428] Extracting HTML...
+[2026-03-17 23:39:38] [TID:22428] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:48] [TID:22760] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:44:48] [TID:22760] Extracting HTML...
+[2026-03-17 23:44:50] [TID:22760] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:17] [TID:24732] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:47:17] [TID:24732] Extracting HTML...
+[2026-03-17 23:47:18] [TID:24732] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:47] [TID:4172] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-17 23:54:48] [TID:4172] Extracting HTML...
+[2026-03-17 23:54:49] [TID:4172] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:11] [TID:23568] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:02:11] [TID:23568] Extracting HTML...
+[2026-03-18 00:02:12] [TID:23568] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:25] [TID:5760] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:11:25] [TID:5760] Extracting HTML...
+[2026-03-18 00:11:26] [TID:5760] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:50] [TID:14908] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:24:50] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:51] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:24:52] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:52] [TID:14908] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:49] [TID:18548] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:28:49] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:49] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:28:50] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:50] [TID:18548] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:51] [TID:1172] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:39:51] [TID:1172] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:51] [TID:1172] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:39:52] [TID:1172] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:52] [TID:1172] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:07] [TID:5928] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 00:52:07] [TID:5928] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:07] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:52:07] [TID:5928] [DEBUG][stdout] âœ” HTML saved for SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 00:52:07] [TID:5928] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:07] [TID:5928] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:07] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html']
+[2026-03-18 00:52:08] [TID:5928] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 00:52:08] [TID:5928] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:08] [TID:5928] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:08] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json']
+[2026-03-18 00:52:08] [TID:5928] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:08] [TID:5928] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:25] [TID:28604] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:01:25] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:25] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:01:25] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:01:25] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:25] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:25] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:01:26] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:01:26] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:26] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:26] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:01:26] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:26] [TID:28604] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:17:00] [TID:28776] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:17:00] [TID:28776] [DEBUG] Running step: extract_html
+[2026-03-18 01:17:00] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:17:01] [TID:28776] [DEBUG][stdout] âœ” HTML saved for SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:17:01] [TID:28776] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:17:01] [TID:28776] [DEBUG] Running step: parse_html
+[2026-03-18 01:17:01] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:17:01] [TID:28776] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:17:01] [TID:28776] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:17:02] [TID:28776] [DEBUG] Running step: auto_map
+[2026-03-18 01:17:02] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:17:02] [TID:28776] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:17:02] [TID:28776] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:20] [TID:19504] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:33:20] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:20] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:33:20] [TID:19504] [DEBUG][stdout] HTML saved: SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:33:20] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:20] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:20] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:33:21] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:33:21] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:21] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:21] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:33:21] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:21] [TID:19504] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:30] [TID:23252] START SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx
+[2026-03-18 01:40:30] [TID:23252] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:30] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.1] Cybersecurity\\[PRD.4.2.001] Managed Security Infrastructure\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:40:30] [TID:23252] [DEBUG][stdout] HTML saved: SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:40:30] [TID:23252] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:30] [TID:23252] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:30] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].html']
+[2026-03-18 01:40:31] [TID:23252] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:40:31] [TID:23252] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:31] [TID:23252] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:31] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].json']
+[2026-03-18 01:40:31] [TID:23252] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:31] [TID:23252] ERROR SD -  Managed Security Infrastructure [PRD.4.2.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1

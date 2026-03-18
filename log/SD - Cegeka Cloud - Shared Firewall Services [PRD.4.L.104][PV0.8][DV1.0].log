@@ -1,0 +1,161 @@
+[2026-03-17 23:34:14] [TID:10644] Start processing SD: SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-17 23:34:14] [TID:10644] Extracting HTML...
+[2026-03-17 23:34:16] [TID:10644] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:35] [TID:24184] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-17 23:39:36] [TID:24184] Extracting HTML...
+[2026-03-17 23:39:36] [TID:24184] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:47] [TID:22212] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-17 23:44:47] [TID:22212] Extracting HTML...
+[2026-03-17 23:44:48] [TID:22212] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:15] [TID:29672] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-17 23:47:15] [TID:29672] Extracting HTML...
+[2026-03-17 23:47:16] [TID:29672] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:45] [TID:28188] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-17 23:54:45] [TID:28188] Extracting HTML...
+[2026-03-17 23:54:47] [TID:28188] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:09] [TID:29204] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:02:10] [TID:29204] Extracting HTML...
+[2026-03-18 00:02:10] [TID:29204] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:23] [TID:22472] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:11:23] [TID:22472] Extracting HTML...
+[2026-03-18 00:11:24] [TID:22472] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:46] [TID:4384] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:24:47] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:47] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 00:24:48] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:48] [TID:4384] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:46] [TID:18548] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:28:46] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:46] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 00:28:47] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:47] [TID:18548] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:47] [TID:3812] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:39:47] [TID:3812] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:48] [TID:3812] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 00:39:48] [TID:3812] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:48] [TID:3812] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:04] [TID:18100] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 00:52:04] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:04] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 00:52:04] [TID:18100] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+
+[2026-03-18 00:52:04] [TID:18100] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:04] [TID:18100] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:04] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html']
+[2026-03-18 00:52:05] [TID:18100] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json
+
+[2026-03-18 00:52:05] [TID:18100] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:05] [TID:18100] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:05] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json']
+[2026-03-18 00:52:05] [TID:18100] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:05] [TID:18100] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:21] [TID:28604] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:01:21] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:21] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:01:22] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+
+[2026-03-18 01:01:22] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:22] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:22] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html']
+[2026-03-18 01:01:23] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json
+
+[2026-03-18 01:01:23] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:23] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:23] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json']
+[2026-03-18 01:01:23] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:23] [TID:28604] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:57] [TID:28236] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:16:57] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:57] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:16:58] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html']
+[2026-03-18 01:16:58] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json
+
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:58] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json']
+[2026-03-18 01:16:58] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:58] [TID:28236] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:17] [TID:28000] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:33:17] [TID:28000] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:17] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:33:17] [TID:28000] [DEBUG][stdout] HTML saved: SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html
+
+[2026-03-18 01:33:17] [TID:28000] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:17] [TID:28000] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:17] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html']
+[2026-03-18 01:33:18] [TID:28000] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json
+
+[2026-03-18 01:33:18] [TID:28000] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:18] [TID:28000] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:18] [TID:28000] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json']
+[2026-03-18 01:33:18] [TID:28000] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:18] [TID:28000] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:26] [TID:27512] START SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx
+[2026-03-18 01:40:26] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:26] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.L] Outsourcing Services\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx']
+[2026-03-18 01:40:27] [TID:27512] [DEBUG][stdout] HTML saved: SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html
+
+[2026-03-18 01:40:27] [TID:27512] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:27] [TID:27512] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:27] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].html']
+[2026-03-18 01:40:28] [TID:27512] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json
+
+[2026-03-18 01:40:28] [TID:27512] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:28] [TID:27512] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:28] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].json']
+[2026-03-18 01:40:28] [TID:27512] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:28] [TID:27512] ERROR SD - Cegeka Cloud - Shared Firewall Services [PRD.4.L.104][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1

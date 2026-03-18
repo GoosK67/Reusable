@@ -1,0 +1,161 @@
+[2026-03-17 23:34:19] [TID:22228] Start processing SD: SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-17 23:34:19] [TID:22228] Extracting HTML...
+[2026-03-17 23:34:21] [TID:22228] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:40] [TID:27424] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-17 23:39:40] [TID:27424] Extracting HTML...
+[2026-03-17 23:39:41] [TID:27424] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:51] [TID:17020] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-17 23:44:51] [TID:17020] Extracting HTML...
+[2026-03-17 23:44:52] [TID:17020] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:19] [TID:12148] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-17 23:47:19] [TID:12148] Extracting HTML...
+[2026-03-17 23:47:20] [TID:12148] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:50] [TID:8392] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-17 23:54:50] [TID:8392] Extracting HTML...
+[2026-03-17 23:54:52] [TID:8392] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:13] [TID:28120] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:02:14] [TID:28120] Extracting HTML...
+[2026-03-18 00:02:15] [TID:28120] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:28] [TID:15816] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:11:28] [TID:15816] Extracting HTML...
+[2026-03-18 00:11:29] [TID:15816] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:54] [TID:4384] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:24:55] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:55] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 00:24:56] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:56] [TID:4384] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:53] [TID:26240] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:28:53] [TID:26240] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:53] [TID:26240] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 00:28:54] [TID:26240] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:54] [TID:26240] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:55] [TID:12044] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:39:55] [TID:12044] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:55] [TID:12044] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 00:39:56] [TID:12044] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:56] [TID:12044] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:52:11] [TID:26580] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 00:52:11] [TID:26580] [DEBUG] Running step: extract_html
+[2026-03-18 00:52:11] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 00:52:12] [TID:26580] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html']
+[2026-03-18 00:52:12] [TID:26580] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:12] [TID:26580] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json']
+[2026-03-18 00:52:12] [TID:26580] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:12] [TID:26580] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:29] [TID:22128] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:01:29] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:29] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:01:30] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+
+[2026-03-18 01:01:30] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:30] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:30] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html']
+[2026-03-18 01:01:31] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+
+[2026-03-18 01:01:31] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:31] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:31] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json']
+[2026-03-18 01:01:31] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:31] [TID:22128] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:17:04] [TID:28236] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:17:04] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:17:04] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:17:05] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+
+[2026-03-18 01:17:05] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:17:05] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:17:05] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html']
+[2026-03-18 01:17:06] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+
+[2026-03-18 01:17:06] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:17:06] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:17:06] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json']
+[2026-03-18 01:17:06] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:17:06] [TID:28236] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:49] [TID:25364] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:30:49] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:49] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:30:49] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:49] [TID:25364] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:24] [TID:28596] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:33:24] [TID:28596] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:24] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:33:25] [TID:28596] [DEBUG][stdout] HTML saved: SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+
+[2026-03-18 01:33:25] [TID:28596] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:25] [TID:28596] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:25] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html']
+[2026-03-18 01:33:26] [TID:28596] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+
+[2026-03-18 01:33:26] [TID:28596] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:26] [TID:28596] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:26] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json']
+[2026-03-18 01:33:26] [TID:28596] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:26] [TID:28596] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:33] [TID:27512] START SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 01:40:33] [TID:27512] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:33] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Security & Compliance\\[4.5] Networking\\[PRD.4.5.002] Cegeka Managed SD-WAN\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx']
+[2026-03-18 01:40:34] [TID:27512] [DEBUG][stdout] HTML saved: SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+
+[2026-03-18 01:40:34] [TID:27512] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:34] [TID:27512] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:34] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html']
+[2026-03-18 01:40:35] [TID:27512] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+
+[2026-03-18 01:40:35] [TID:27512] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:35] [TID:27512] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:35] [TID:27512] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json']
+[2026-03-18 01:40:35] [TID:27512] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:35] [TID:27512] ERROR SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx: [auto_map] FAILED with exit code 1

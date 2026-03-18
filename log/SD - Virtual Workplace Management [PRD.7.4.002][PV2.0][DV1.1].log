@@ -1,0 +1,90 @@
+[2026-03-17 23:34:12] [TID:27000] Start processing SD: SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-17 23:34:12] [TID:27000] Extracting HTML...
+[2026-03-17 23:34:13] [TID:27000] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:33] [TID:7988] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-17 23:39:33] [TID:7988] Extracting HTML...
+[2026-03-17 23:39:34] [TID:7988] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:44] [TID:22760] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-17 23:44:45] [TID:22760] Extracting HTML...
+[2026-03-17 23:44:45] [TID:22760] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:12] [TID:25432] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-17 23:47:13] [TID:25432] Extracting HTML...
+[2026-03-17 23:47:13] [TID:25432] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:42] [TID:4172] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-17 23:54:42] [TID:4172] Extracting HTML...
+[2026-03-17 23:54:43] [TID:4172] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:07] [TID:23568] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:02:07] [TID:23568] Extracting HTML...
+[2026-03-18 00:02:08] [TID:23568] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:20] [TID:15816] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:11:20] [TID:15816] Extracting HTML...
+[2026-03-18 00:11:21] [TID:15816] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:41] [TID:4384] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:24:42] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:42] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 00:24:43] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 00:24:43] [TID:4384] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:41] [TID:18548] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:28:41] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:42] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 00:28:42] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 00:28:42] [TID:18548] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:42] [TID:3812] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:39:42] [TID:3812] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:42] [TID:3812] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 00:39:43] [TID:3812] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 00:39:43] [TID:3812] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:59] [TID:18100] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 00:51:59] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:59] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 00:51:59] [TID:18100] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 00:51:59] [TID:18100] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:01:16] [TID:28604] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:01:16] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:16] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:01:17] [TID:28604] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 01:01:17] [TID:28604] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:16:52] [TID:28236] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:16:52] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:52] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:16:53] [TID:28236] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 01:16:53] [TID:28236] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:25364] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:25364] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:11] [TID:19504] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:33:11] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:11] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:33:12] [TID:19504] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 01:33:12] [TID:19504] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:40:22] [TID:28640] START SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx
+[2026-03-18 01:40:22] [TID:28640] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:22] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx']
+[2026-03-18 01:40:22] [TID:28640] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.4.002] Virtual Workplace Management\\SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx'
+
+[2026-03-18 01:40:22] [TID:28640] ERROR SD - Virtual Workplace Management [PRD.7.4.002][PV2.0][DV1.1].docx: [extract_html] FAILED with exit code 1

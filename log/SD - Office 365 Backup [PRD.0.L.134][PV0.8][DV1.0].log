@@ -1,0 +1,161 @@
+[2026-03-17 23:34:03] [TID:27000] Start processing SD: SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-17 23:34:03] [TID:27000] Extracting HTML...
+[2026-03-17 23:34:04] [TID:27000] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:24] [TID:19068] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-17 23:39:24] [TID:19068] Extracting HTML...
+[2026-03-17 23:39:26] [TID:19068] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:36] [TID:22212] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-17 23:44:36] [TID:22212] Extracting HTML...
+[2026-03-17 23:44:37] [TID:22212] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:03] [TID:3024] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-17 23:47:03] [TID:3024] Extracting HTML...
+[2026-03-17 23:47:04] [TID:3024] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:33] [TID:20428] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-17 23:54:34] [TID:20428] Extracting HTML...
+[2026-03-17 23:54:35] [TID:20428] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:59] [TID:29204] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:01:59] [TID:29204] Extracting HTML...
+[2026-03-18 00:02:00] [TID:29204] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:11] [TID:11148] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:11:11] [TID:11148] Extracting HTML...
+[2026-03-18 00:11:12] [TID:11148] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:25] [TID:29648] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:24:25] [TID:29648] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:25] [TID:29648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 00:24:25] [TID:29648] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:26] [TID:29648] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:26] [TID:26240] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:28:26] [TID:26240] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:26] [TID:26240] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 00:28:27] [TID:26240] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:27] [TID:26240] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:26] [TID:12044] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:39:26] [TID:12044] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:26] [TID:12044] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 00:39:27] [TID:12044] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:27] [TID:12044] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:46] [TID:18100] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 00:51:46] [TID:18100] [DEBUG][stdout] âœ” HTML saved for SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:46] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html']
+[2026-03-18 00:51:47] [TID:18100] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json
+
+[2026-03-18 00:51:47] [TID:18100] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:47] [TID:18100] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:47] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json']
+[2026-03-18 00:51:47] [TID:18100] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:47] [TID:18100] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:03] [TID:22128] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:03] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:01:04] [TID:22128] [DEBUG][stdout] âœ” HTML saved for SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+
+[2026-03-18 01:01:04] [TID:22128] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:04] [TID:22128] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:04] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html']
+[2026-03-18 01:01:05] [TID:22128] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json
+
+[2026-03-18 01:01:05] [TID:22128] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:05] [TID:22128] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:05] [TID:22128] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json']
+[2026-03-18 01:01:05] [TID:22128] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:05] [TID:22128] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:39] [TID:28776] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:39] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:16:40] [TID:28776] [DEBUG][stdout] âœ” HTML saved for SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+
+[2026-03-18 01:16:40] [TID:28776] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:40] [TID:28776] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:40] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html']
+[2026-03-18 01:16:41] [TID:28776] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json
+
+[2026-03-18 01:16:41] [TID:28776] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:41] [TID:28776] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:41] [TID:28776] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json']
+[2026-03-18 01:16:41] [TID:28776] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:41] [TID:28776] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:25364] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:25364] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:25364] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:25364] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:58] [TID:28596] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:32:58] [TID:28596] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:58] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:32:59] [TID:28596] [DEBUG][stdout] HTML saved: SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html
+
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Running step: parse_html
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html']
+[2026-03-18 01:32:59] [TID:28596] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json
+
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Running step: auto_map
+[2026-03-18 01:32:59] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json']
+[2026-03-18 01:33:00] [TID:28596] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:00] [TID:28596] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:09] [TID:28640] START SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx
+[2026-03-18 01:40:09] [TID:28640] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:09] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx']
+[2026-03-18 01:40:10] [TID:28640] [DEBUG][stdout] HTML saved: SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html
+
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].html']
+[2026-03-18 01:40:10] [TID:28640] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json
+
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:10] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].json']
+[2026-03-18 01:40:10] [TID:28640] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:10] [TID:28640] ERROR SD - Office 365 Backup [PRD.0.L.134][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1

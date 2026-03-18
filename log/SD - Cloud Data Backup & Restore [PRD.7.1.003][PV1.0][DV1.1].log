@@ -1,0 +1,90 @@
+[2026-03-17 23:34:11] [TID:19352] Start processing SD: SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-17 23:34:11] [TID:19352] Extracting HTML...
+[2026-03-17 23:34:12] [TID:19352] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:32] [TID:27424] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-17 23:39:33] [TID:27424] Extracting HTML...
+[2026-03-17 23:39:33] [TID:27424] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:44] [TID:22212] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-17 23:44:44] [TID:22212] Extracting HTML...
+[2026-03-17 23:44:45] [TID:22212] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:12] [TID:17696] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-17 23:47:12] [TID:17696] Extracting HTML...
+[2026-03-17 23:47:13] [TID:17696] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:42] [TID:22136] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-17 23:54:42] [TID:22136] Extracting HTML...
+[2026-03-17 23:54:43] [TID:22136] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:06] [TID:22624] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:02:07] [TID:22624] Extracting HTML...
+[2026-03-18 00:02:07] [TID:22624] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:19] [TID:16360] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:11:19] [TID:16360] Extracting HTML...
+[2026-03-18 00:11:20] [TID:16360] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:41] [TID:29648] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:24:41] [TID:29648] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:41] [TID:29648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 00:24:41] [TID:29648] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 00:24:41] [TID:29648] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:41] [TID:26240] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:28:41] [TID:26240] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:41] [TID:26240] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 00:28:41] [TID:26240] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 00:28:41] [TID:26240] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:41] [TID:22268] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:39:41] [TID:22268] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:42] [TID:22268] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 00:39:42] [TID:22268] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 12, in <module>
+    with open(sd_file, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 00:39:42] [TID:22268] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:58] [TID:5928] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 00:51:58] [TID:5928] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:58] [TID:5928] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 00:51:58] [TID:5928] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 00:51:58] [TID:5928] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:01:16] [TID:19944] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:01:16] [TID:19944] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:16] [TID:19944] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:01:16] [TID:19944] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 01:01:16] [TID:19944] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:16:51] [TID:28236] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:16:52] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:52] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:16:52] [TID:28236] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 01:16:52] [TID:28236] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:2584] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:30:48] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:2584] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:11] [TID:28596] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:33:11] [TID:28596] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:11] [TID:28596] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:33:11] [TID:28596] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 01:33:11] [TID:28596] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:40:21] [TID:5648] START SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx
+[2026-03-18 01:40:21] [TID:5648] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:21] [TID:5648] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx']
+[2026-03-18 01:40:21] [TID:5648] [DEBUG][stdout] EXTRACT ERROR: [Errno 2] No such file or directory: 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.1.003] Cloud Data Backup & Restore\\SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx'
+
+[2026-03-18 01:40:21] [TID:5648] ERROR SD - Cloud Data Backup & Restore [PRD.7.1.003][PV1.0][DV1.1].docx: [extract_html] FAILED with exit code 1

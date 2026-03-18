@@ -1,0 +1,164 @@
+[2026-03-17 23:34:00] [TID:21548] Start processing SD: SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-17 23:34:00] [TID:21548] Extracting HTML...
+[2026-03-17 23:34:02] [TID:21548] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:21] [TID:22428] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-17 23:39:21] [TID:22428] Extracting HTML...
+[2026-03-17 23:39:23] [TID:22428] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:33] [TID:17020] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-17 23:44:33] [TID:17020] Extracting HTML...
+[2026-03-17 23:44:35] [TID:17020] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:00] [TID:17696] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-17 23:47:00] [TID:17696] Extracting HTML...
+[2026-03-17 23:47:02] [TID:17696] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:30] [TID:29564] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-17 23:54:31] [TID:29564] Extracting HTML...
+[2026-03-17 23:54:32] [TID:29564] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:56] [TID:24992] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:01:57] [TID:24992] Extracting HTML...
+[2026-03-18 00:01:58] [TID:24992] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:07] [TID:22472] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:11:07] [TID:22472] Extracting HTML...
+[2026-03-18 00:11:09] [TID:22472] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:19] [TID:4384] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:24:19] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:19] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:24:20] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:20] [TID:4384] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:20] [TID:18548] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:28:20] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:21] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:28:22] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:22] [TID:18548] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:21] [TID:3812] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:39:21] [TID:3812] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:21] [TID:3812] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:39:22] [TID:3812] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:22] [TID:3812] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:46:53] [TID:4980] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:46:53] [TID:4980] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:54] [TID:4980] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:51:40] [TID:1204] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:51:40] [TID:1204] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:40] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:51:41] [TID:1204] [DEBUG][stdout] âœ” HTML saved for SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+
+[2026-03-18 00:51:41] [TID:1204] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:41] [TID:1204] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:41] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html']
+[2026-03-18 00:51:42] [TID:1204] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json
+
+[2026-03-18 00:51:42] [TID:1204] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:42] [TID:1204] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:42] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json']
+[2026-03-18 00:51:42] [TID:1204] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:42] [TID:1204] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:00:57] [TID:14528] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:00:57] [TID:14528] [DEBUG] Running step: extract_html
+[2026-03-18 01:00:57] [TID:14528] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:00:58] [TID:14528] [DEBUG][stdout] âœ” HTML saved for SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+
+[2026-03-18 01:00:58] [TID:14528] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:00:58] [TID:14528] [DEBUG] Running step: parse_html
+[2026-03-18 01:00:58] [TID:14528] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html']
+[2026-03-18 01:00:59] [TID:14528] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json
+
+[2026-03-18 01:00:59] [TID:14528] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:00:59] [TID:14528] [DEBUG] Running step: auto_map
+[2026-03-18 01:00:59] [TID:14528] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json']
+[2026-03-18 01:00:59] [TID:14528] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:00:59] [TID:14528] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:33] [TID:19856] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:16:33] [TID:19856] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:33] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:16:34] [TID:19856] [DEBUG][stdout] âœ” HTML saved for SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html']
+[2026-03-18 01:16:34] [TID:19856] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json
+
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:34] [TID:19856] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json']
+[2026-03-18 01:16:34] [TID:19856] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:34] [TID:19856] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:24236] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:30:47] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:24236] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:52] [TID:19504] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:32:52] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:52] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:32:53] [TID:19504] [DEBUG][stdout] HTML saved: SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html
+
+[2026-03-18 01:32:53] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:32:53] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:32:53] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html']
+[2026-03-18 01:32:54] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json
+
+[2026-03-18 01:32:54] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:32:54] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:32:54] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json']
+[2026-03-18 01:32:54] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:32:54] [TID:19504] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:04] [TID:23252] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 01:40:04] [TID:23252] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:04] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 01:40:04] [TID:23252] [DEBUG][stdout] HTML saved: SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html
+
+[2026-03-18 01:40:04] [TID:23252] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:04] [TID:23252] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:04] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].html']
+[2026-03-18 01:40:05] [TID:23252] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json
+
+[2026-03-18 01:40:05] [TID:23252] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:05] [TID:23252] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:05] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].json']
+[2026-03-18 01:40:05] [TID:23252] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:05] [TID:23252] ERROR SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx: [auto_map] FAILED with exit code 1

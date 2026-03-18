@@ -1,0 +1,161 @@
+[2026-03-17 23:34:12] [TID:19352] Start processing SD: SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-17 23:34:13] [TID:19352] Extracting HTML...
+[2026-03-17 23:34:14] [TID:19352] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:33] [TID:22428] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-17 23:39:33] [TID:22428] Extracting HTML...
+[2026-03-17 23:39:35] [TID:22428] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:45] [TID:17020] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-17 23:44:45] [TID:17020] Extracting HTML...
+[2026-03-17 23:44:46] [TID:17020] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:13] [TID:25624] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-17 23:47:13] [TID:25624] Extracting HTML...
+[2026-03-17 23:47:14] [TID:25624] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:43] [TID:8392] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-17 23:54:43] [TID:8392] Extracting HTML...
+[2026-03-17 23:54:44] [TID:8392] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:02:07] [TID:24992] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:02:08] [TID:24992] Extracting HTML...
+[2026-03-18 00:02:09] [TID:24992] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:20] [TID:22472] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:11:20] [TID:22472] Extracting HTML...
+[2026-03-18 00:11:22] [TID:22472] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:43] [TID:14908] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:24:43] [TID:14908] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:43] [TID:14908] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:24:43] [TID:14908] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:44] [TID:14908] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:42] [TID:12148] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:28:42] [TID:12148] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:42] [TID:12148] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:28:43] [TID:12148] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:43] [TID:12148] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:43] [TID:1172] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:39:44] [TID:1172] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:44] [TID:1172] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:39:45] [TID:1172] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:45] [TID:1172] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:59] [TID:18100] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 00:51:59] [TID:18100] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:59] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 00:52:00] [TID:18100] [DEBUG][stdout] âœ” HTML saved for SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+
+[2026-03-18 00:52:00] [TID:18100] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:52:00] [TID:18100] [DEBUG] Running step: parse_html
+[2026-03-18 00:52:00] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html']
+[2026-03-18 00:52:01] [TID:18100] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json
+
+[2026-03-18 00:52:01] [TID:18100] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:52:01] [TID:18100] [DEBUG] Running step: auto_map
+[2026-03-18 00:52:01] [TID:18100] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json']
+[2026-03-18 00:52:01] [TID:18100] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:52:01] [TID:18100] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:17] [TID:28604] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:01:17] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:17] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:01:17] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:01:17] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:17] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:17] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html']
+[2026-03-18 01:01:19] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:01:19] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:19] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:19] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json']
+[2026-03-18 01:01:19] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:19] [TID:28604] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:53] [TID:28236] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:16:53] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:53] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:16:53] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+
+[2026-03-18 01:16:53] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:53] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:53] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html']
+[2026-03-18 01:16:55] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:16:55] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:55] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:55] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json']
+[2026-03-18 01:16:55] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:55] [TID:28236] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:48] [TID:24236] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:48] [TID:24236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:30:48] [TID:24236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:48] [TID:24236] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:33:12] [TID:19504] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:33:12] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:33:12] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:33:12] [TID:19504] [DEBUG][stdout] HTML saved: SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:33:12] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:33:12] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:33:12] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html']
+[2026-03-18 01:33:14] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:33:14] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:33:14] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:33:14] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json']
+[2026-03-18 01:33:14] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:33:14] [TID:19504] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:22] [TID:28640] START SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx
+[2026-03-18 01:40:22] [TID:28640] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:22] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Digital Employee eXperience\\[7.1] Cegeka Digital Workplace Solutions\\[PRD.7.5.001] Teamwork\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx']
+[2026-03-18 01:40:23] [TID:28640] [DEBUG][stdout] HTML saved: SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html
+
+[2026-03-18 01:40:23] [TID:28640] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:23] [TID:28640] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:23] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].html']
+[2026-03-18 01:40:24] [TID:28640] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json
+
+[2026-03-18 01:40:24] [TID:28640] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:24] [TID:28640] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:24] [TID:28640] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].json']
+[2026-03-18 01:40:24] [TID:28640] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:24] [TID:28640] ERROR SD - Teamwork [PRD.7.5.001][PV1.0][DV1.0].docx: [auto_map] FAILED with exit code 1

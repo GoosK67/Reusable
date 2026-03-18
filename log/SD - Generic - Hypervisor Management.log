@@ -1,0 +1,161 @@
+[2026-03-17 23:34:02] [TID:21548] Start processing SD: SD - Generic - Hypervisor Management.docx
+[2026-03-17 23:34:02] [TID:21548] Extracting HTML...
+[2026-03-17 23:34:03] [TID:21548] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-17 23:39:23] [TID:22428] START SD - Generic - Hypervisor Management.docx
+[2026-03-17 23:39:23] [TID:22428] Extracting HTML...
+[2026-03-17 23:39:24] [TID:22428] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-17 23:44:35] [TID:17020] START SD - Generic - Hypervisor Management.docx
+[2026-03-17 23:44:35] [TID:17020] Extracting HTML...
+[2026-03-17 23:44:36] [TID:17020] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-17 23:47:02] [TID:17696] START SD - Generic - Hypervisor Management.docx
+[2026-03-17 23:47:02] [TID:17696] Extracting HTML...
+[2026-03-17 23:47:03] [TID:17696] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-17 23:54:32] [TID:29564] START SD - Generic - Hypervisor Management.docx
+[2026-03-17 23:54:33] [TID:29564] Extracting HTML...
+[2026-03-17 23:54:33] [TID:29564] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-18 00:01:58] [TID:24992] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:01:58] [TID:24992] Extracting HTML...
+[2026-03-18 00:01:59] [TID:24992] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-18 00:11:09] [TID:22472] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:11:10] [TID:22472] Extracting HTML...
+[2026-03-18 00:11:10] [TID:22472] ERROR SD - Generic - Hypervisor Management.docx: Command '['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']' returned non-zero exit status 1.
+[2026-03-18 00:24:23] [TID:4384] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:24:23] [TID:4384] [DEBUG] Running step: extract_html
+[2026-03-18 00:24:23] [TID:4384] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 00:24:24] [TID:4384] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:24:24] [TID:4384] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:28:25] [TID:18548] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:28:25] [TID:18548] [DEBUG] Running step: extract_html
+[2026-03-18 00:28:25] [TID:18548] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 00:28:25] [TID:18548] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:28:25] [TID:18548] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:39:25] [TID:3812] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:39:25] [TID:3812] [DEBUG] Running step: extract_html
+[2026-03-18 00:39:25] [TID:3812] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 00:39:26] [TID:3812] [DEBUG][stderr] Traceback (most recent call last):
+  File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 17, in <module>
+    print(f"\u2714 HTML saved \u2192 {out_file}")
+  File "C:\Users\koengo\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2714' in position 0: character maps to <undefined>
+
+[2026-03-18 00:39:26] [TID:3812] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 00:51:44] [TID:1204] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 00:51:44] [TID:1204] [DEBUG] Running step: extract_html
+[2026-03-18 00:51:44] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 00:51:45] [TID:1204] [DEBUG][stdout] âœ” HTML saved for SD - Generic - Hypervisor Management.docx
+
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Step 'extract_html' OK
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Running step: parse_html
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Generic - Hypervisor Management.html']
+[2026-03-18 00:51:45] [TID:1204] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Generic - Hypervisor Management.json
+
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Step 'parse_html' OK
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Running step: auto_map
+[2026-03-18 00:51:45] [TID:1204] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Generic - Hypervisor Management.json']
+[2026-03-18 00:51:45] [TID:1204] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 00:51:45] [TID:1204] ERROR SD - Generic - Hypervisor Management.docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:01:02] [TID:28604] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:01:02] [TID:28604] [DEBUG] Running step: extract_html
+[2026-03-18 01:01:02] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:01:02] [TID:28604] [DEBUG][stdout] âœ” HTML saved for SD - Generic - Hypervisor Management.docx
+
+[2026-03-18 01:01:02] [TID:28604] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:01:02] [TID:28604] [DEBUG] Running step: parse_html
+[2026-03-18 01:01:02] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Generic - Hypervisor Management.html']
+[2026-03-18 01:01:03] [TID:28604] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Generic - Hypervisor Management.json
+
+[2026-03-18 01:01:03] [TID:28604] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:01:03] [TID:28604] [DEBUG] Running step: auto_map
+[2026-03-18 01:01:03] [TID:28604] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Generic - Hypervisor Management.json']
+[2026-03-18 01:01:03] [TID:28604] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:01:03] [TID:28604] ERROR SD - Generic - Hypervisor Management.docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:16:38] [TID:28236] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:16:38] [TID:28236] [DEBUG] Running step: extract_html
+[2026-03-18 01:16:38] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:16:38] [TID:28236] [DEBUG][stdout] âœ” HTML saved for SD - Generic - Hypervisor Management.docx
+
+[2026-03-18 01:16:38] [TID:28236] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:16:38] [TID:28236] [DEBUG] Running step: parse_html
+[2026-03-18 01:16:38] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Generic - Hypervisor Management.html']
+[2026-03-18 01:16:39] [TID:28236] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Generic - Hypervisor Management.json
+
+[2026-03-18 01:16:39] [TID:28236] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:16:39] [TID:28236] [DEBUG] Running step: auto_map
+[2026-03-18 01:16:39] [TID:28236] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Generic - Hypervisor Management.json']
+[2026-03-18 01:16:39] [TID:28236] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:16:39] [TID:28236] ERROR SD - Generic - Hypervisor Management.docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:30:47] [TID:2584] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Running step: extract_html
+[2026-03-18 01:30:47] [TID:2584] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:30:47] [TID:2584] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\extract_html.py", line 31
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:30:47] [TID:2584] ERROR SD - Generic - Hypervisor Management.docx: [extract_html] FAILED with exit code 1
+[2026-03-18 01:32:57] [TID:19504] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:32:57] [TID:19504] [DEBUG] Running step: extract_html
+[2026-03-18 01:32:57] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:32:57] [TID:19504] [DEBUG][stdout] HTML saved: SD - Generic - Hypervisor Management.html
+
+[2026-03-18 01:32:57] [TID:19504] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:32:57] [TID:19504] [DEBUG] Running step: parse_html
+[2026-03-18 01:32:57] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Generic - Hypervisor Management.html']
+[2026-03-18 01:32:58] [TID:19504] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Generic - Hypervisor Management.json
+
+[2026-03-18 01:32:58] [TID:19504] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:32:58] [TID:19504] [DEBUG] Running step: auto_map
+[2026-03-18 01:32:58] [TID:19504] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Generic - Hypervisor Management.json']
+[2026-03-18 01:32:58] [TID:19504] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:32:58] [TID:19504] ERROR SD - Generic - Hypervisor Management.docx: [auto_map] FAILED with exit code 1
+[2026-03-18 01:40:08] [TID:23252] START SD - Generic - Hypervisor Management.docx
+[2026-03-18 01:40:08] [TID:23252] [DEBUG] Running step: extract_html
+[2026-03-18 01:40:08] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Generic - Hypervisor Management.docx']
+[2026-03-18 01:40:08] [TID:23252] [DEBUG][stdout] HTML saved: SD - Generic - Hypervisor Management.html
+
+[2026-03-18 01:40:08] [TID:23252] [DEBUG] Step 'extract_html' OK
+[2026-03-18 01:40:08] [TID:23252] [DEBUG] Running step: parse_html
+[2026-03-18 01:40:08] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\parse_html_sections.py', 'extracted_html\\SD - Generic - Hypervisor Management.html']
+[2026-03-18 01:40:09] [TID:23252] [DEBUG][stdout] âœ” Robust parsed â†’ output\json\SD - Generic - Hypervisor Management.json
+
+[2026-03-18 01:40:09] [TID:23252] [DEBUG] Step 'parse_html' OK
+[2026-03-18 01:40:09] [TID:23252] [DEBUG] Running step: auto_map
+[2026-03-18 01:40:09] [TID:23252] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\auto_map_sections.py', 'output\\json\\SD - Generic - Hypervisor Management.json']
+[2026-03-18 01:40:09] [TID:23252] [DEBUG][stderr]   File "C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\scripts\auto_map_sections.py", line 26
+    ``
+    ^
+SyntaxError: invalid syntax
+
+[2026-03-18 01:40:09] [TID:23252] ERROR SD - Generic - Hypervisor Management.docx: [auto_map] FAILED with exit code 1

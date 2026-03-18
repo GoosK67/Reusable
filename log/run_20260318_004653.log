@@ -1,0 +1,16 @@
+[2026-03-18 00:46:53] [TID:29260] Scanning in C:\Users\koengo\Cegeka\Product Management - Product Management Library
+[2026-03-18 00:46:53] [TID:29260] Found 105 SD files
+[2026-03-18 00:46:53] [TID:29520] START SD - IBM Power on Premise [DV0.9].docx
+[2026-03-18 00:46:53] [TID:17312] START SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 00:46:53] [TID:4980] START SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx
+[2026-03-18 00:46:53] [TID:7220] START SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+[2026-03-18 00:46:53] [TID:29520] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:53] [TID:17312] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:53] [TID:4980] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:53] [TID:7220] [DEBUG] Running step: extract_html
+[2026-03-18 00:46:53] [TID:29520] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.1] Cegeka IBM Power Services & Solutions\\SD - IBM Power on Premise [DV0.9].docx']
+[2026-03-18 00:46:53] [TID:17312] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.5] Cegeka Digital Cloud Platforms\\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx']
+[2026-03-18 00:46:54] [TID:4980] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0].docx']
+[2026-03-18 00:46:54] [TID:7220] [DEBUG] Command: ['C:\\Users\\koengo\\AppData\\Local\\Programs\\Python\\Python312\\python.exe', 'C:\\Users\\koengo\\OneDrive - Cegeka\\Documents\\Reusable Assets\\Products\\scripts\\extract_html.py', 'C:\\Users\\koengo\\Cegeka\\Product Management - Product Management Library\\Business Line - Cloud and Digital Platforms\\[0.L] Outsourcing Services\\SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx']
+[2026-03-18 00:46:54] [TID:7220] [DEBUG][stdout] âœ” HTML saved for SD - Application Management for Hypocalc [PRD.A.L.001][PV0.7][DV1.0].docx
+
