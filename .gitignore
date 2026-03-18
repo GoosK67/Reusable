@@ -4,3 +4,17 @@ Thumbs.db
 
 # Editor settings
 .vscode/
+
+# Build artifacts
+output/
+mapped/
+log/
+extracted/
+extracted_html/
+input/
+output_docx/
+presales/
+prasales_json/
+structured/
+templates/
+
