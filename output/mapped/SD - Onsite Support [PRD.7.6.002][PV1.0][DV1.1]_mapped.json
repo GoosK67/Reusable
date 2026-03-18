@@ -1,0 +1,152 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "DIGITAL WORKPLACE My Support - Managed Onsite Support Services SD - Onsite Support  Prepared by: My Onsite Support Team Date: 19/11/2024 Cegeka reference: MOSS Service Description CONFIDENTIAL DOCUMENT HISTORY for PRODUCT MANAGER(S) Version Date Comment Author 2.0 21/10/2024 Revised version of Service Description MOSS Berty Van Eijgen 2.1 07/11/2024 Reviewed on following topics: general structure, Introduction, Profile Overview, SKU’s and Responsibility Matrix. Berty Van Eijgen; Bram Smets 2.2 22/11/2024 Ready for review by Strategy (Bart Weemaels) Berty Van Eijgen; Bram Smets README for (PRE)SALES Document can be used in two ways: ACTIONS TO BE TAKEN: Delete this page when sending the document towards the customer Table of contents 1\tIntroduction\t4 2\tAdded Value\t4 3\tApproach\t5 4\tStandard Services\t6 4.1\tStaffing Services\t6 4.1.1\tManaged Staffing\t6 4.1.2\tNon-Managed Staffing\t6 4.2\tProfiles\t6 4.2.1\tOnsite Service Desk Agent (OSDA)\t7 4.2.2\tOnsite Workplace Engineer (OWE)\t8 4.2.3\tOnsite Technical Engineer (OTE)\t9 4.2.4\tOnsite System Engineer (OSE)\t10 4.2.5\tOnsite Team Lead (OTL)\t11 5\tOptional Services\t12 5.1\tTemporary Staffing\t12 5.2\tScheduled Site Visits\t12 5.3\tAd Hoc Support Services\t12 6\tService SKU overview\t13 7\tService Level Agreement\t14 7.1\tService Windows\t14 7.2\tService Levels\t14 7.3\tService Delivery Locations\t15 7.4\tResponsibility Matrix (RACI)\t15 8\tConditions\t18 9\tPrerequisites\t19 10\tOut of scope\t19 11\tGlossary\t19 11.1\tResponsibility matrix\t19 11.2\tDefinition IMACD\t20"
+  },
+  "Introduction": {
+    "header": "Introduction",
+    "category": "GENERAL",
+    "content": "A successful digital workplace is built on the ease with which users can engage with their digital tools. Through our User Enablement services, we provide everything our customer needs to empower their people to work comfortably and efficiently. Clients can rely on us for hardware, software, and comprehensive support. Cegeka Managed Onsite Support Services (MOSS) provides a staffing solution tailored to technical and coordination roles, with a strong focus on supporting end users and their workplace devices at customer locations. Our adaptable staffing levels ensure we can meet changing business needs, supported by a team of customer-trained backup engineers to maintain consistent service delivery."
+  },
+  "Added Value": {
+    "header": "Added Value",
+    "category": "GENERAL",
+    "content": "Ensured Staffing Our Managed Onsite Support Services prioritize operational stability and continuity by ensuring backup coverage is in place within one business day. This proactive approach ensures consistent support coverage across the service period, in line with SLA requirements, and provides a high standard of continuity and operational reliability. This approach allows your business to sustain optimal operational efficiency without the risk of unplanned staffing gaps or service interruptions. Cost-Effective Support We optimize staffing levels based on the size, number of locations, and dynamic delivery needs of our customers. By aligning our services with specific operational requirements, we provide cost-effective solutions that maximize both resource efficiency and service value. As integral part of the digital workplace, MOSS constantly seeks for efficiencies across Cegeka teams to ensure top-tier and cost-effective support. Adaptable Resource Allocation Designed to meet the fluid needs of your business, our service provides on-demand access to skilled backup engineers. This scalable model adjusts seamlessly for seasonal workload increases or temporary operational changes, allowing you to sustain the right level of support without compromising service quality. Expertise and Certification Our Managed Onsite Support Engineers bring the technical knowledge and targeted certifications required for end-user support, workplace devices, and peripherals. This expertise not only complements your existing IT team but also fills any knowledge gaps within your organization, offering immediate business value through specialized support. Enhanced End-User Satisfaction A dedicated onsite team, supported by skilled backup engineers, ensures end users receive consistent, efficient support from familiar professionals who quickly resolve issues. This approach enhances service continuity and user satisfaction by minimizing disruptions. Engineers are fluent in both the local language and English, ensuring seamless communication and collaboration across your organization, including remote IT teams, for smoother operational alignment."
+  },
+  "Approach": {
+    "header": "Approach",
+    "category": "GENERAL",
+    "content": "Cegeka ensures the successful creation of dedicated onsite teams through a structured, three-phase approach: Analysis and Design , Building the Team , and Ensured Staffing . This methodology guarantees a tailored solution aligned with the customer’s IT support requirements, operational goals, and culture. Analysis and High-Level Team Design The process begins with developing a high-level staffing proposal during the pre-sales phase. This proposal outlines the recommended for technical and governance profiles needed to meet the customer’s onsite IT support demands. Cegeka combines industry best practices with customer-provided data — such as technical requirements, historical workload volumes, current staffing levels, and the number of office locations — to craft an optimized staffing plan tailored to the customer’s specific needs. Building the Dedicated Team During the build phase of creating a tailored dedicated onsite team, Cegeka meticulously composes the team by pre-selecting profiles that align with the customer’s specific requirements. Beyond ensuring the necessary technical and generic skills for each role, we prioritize finding candidates who are an excellent match in terms of soft skills and personality, both with Cegeka’s culture and the customer’s environment. To ensure alignment, our proposed candidate can be made available for an independent interview with a relevant customer representative. This step will provide valuable insights for the customer, ensuring full confidence in the selected team member. Ensured Staffing with Skilled Backup To ensure optimal staffing continuity within the dedicated customer team, Cegeka maintains a pool of highly skilled backup engineers who are specifically trained on the customer's environment. These engineers are ready to provide seamless operational support during both planned and unplanned absences, ensuring no disruption to service delivery. To uphold the quality of knowledge transfer, we implement the concepts of shadowing and reverse-shadowing during the onboarding process. This approach facilitates comprehensive knowledge intake and ensures backup engineers are fully equipped to perform effectively. The training duration is customized to reflect the complexity and specific requirements of the customer’s IT environment. It is typically defined in collaboration with the customer’s IT department during the transition phase and covers:"
+  },
+  "Standard Services": {
+    "header": "Standard Services",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Staffing Services": {
+    "header": "Staffing Services",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Managed Staffing": {
+    "header": "Managed Staffing",
+    "category": "GENERAL",
+    "content": "We provide managed staffing services based on a full-time equivalent (FTE) model, prioritizing operational stability and continuity by ensuring backup coverage is in place within one business day. This service covers key technical engineering profiles, with skilled backup engineers available to ensure continuous support for each role within the dedicated customer team."
+  },
+  "Non-Managed Staffing": {
+    "header": "Non-Managed Staffing",
+    "category": "GENERAL",
+    "content": "All technical onsite profiles outlined in the standard services can also be onboarded under a non-managed staffing model. In this model, continuity during planned or unplanned absences will be restored upon the return of the primary resource. If necessary, an earlier replacement may be provided on a best-effort basis by an engineer without prior customer-specific training and without a defined SLA."
+  },
+  "Profiles": {
+    "header": "Profiles",
+    "category": "GENERAL",
+    "content": "Build a team by selecting from the standard profiles provided below. Each profile has been crafted to meet key skill sets and responsibilities, ensuring a well-rounded and capable team composition tailored to your specific project needs. Overview of standard profiles Onsite Service Desk Agent (OSDA) Onsite Workplace Engineer (OWE) Onsite Technical Engineer (OTE) Onsite System Engineer (OSE) Onsite Team Lead (OTL) Type Technical Technical Technical Technical Governance Location Dedicated onsite Dedicated onsite Remote possibility Remote possibility Dedicated onsite Technical Level (DWP) Basic Intermediate Advanced Expert Experienced Managed Staffing    Unmanaged Staffing      Description Provides first-line user support, handling walk-in inquiries and troubleshooting basic IT issues. Manages and maintains workplace devices, focusing on hardware setup, software installations, and troubleshooting. Delivers technical support, specializing in complex issue resolution and infrastructure management. Provides advanced system-level support, handling technical issues and managing system configurations and integrations. Coordinates and oversees onsite support activities, ensuring efficient team performance and service quality."
+  },
+  "Onsite Service Desk Agent (OSDA)": {
+    "header": "Onsite Service Desk Agent (OSDA)",
+    "category": "FUNCTIONAL",
+    "content": "The Onsite Service Desk Agent serves as the single point of contact (SPOC) for end users, providing remote support through email or phone. Their primary goal is to resolve issues at the first point of contact, documenting all interactions in the ITSM system according to ITIL guidelines and a customer-defined priority matrix. In cases requiring further technical analysis, the agent escalates issues to the appropriate IT teams while maintaining responsibility for tracking and following up on tickets, ensuring regular updates are provided to users throughout the resolution process. The Onsite Service Desk Agent (OSDA) is available through both MANAGED and UNMANAGED staffing services. Responsibilities: Skillset:"
+  },
+  "Onsite Workplace Engineer (OWE)": {
+    "header": "Onsite Workplace Engineer (OWE)",
+    "category": "GENERAL",
+    "content": "The Onsite Workplace Engineer is responsible for managing incidents and requests that require physical, onsite intervention, providing direct support at the end-user’s workplace while also acting as the \"hands-and-eyes\" for remote IT teams. Operating with greater mobility than the Onsite Service Desk Agent, the OWE performs interventions across various buildings or locations as needed and may function at both L1 (e.g., interacting with users at a walk-in desk) and L2 levels, depending on IT processes. All incidents and requests are processed and tracked using the existing ITSM tool, in accordance with established procedures. The Onsite Workplace Engineer (OWE) is available through both MANAGED and UNMANAGED staffing services. Responsibilities: Skillset:"
+  },
+  "Onsite Technical Engineer (OTE)": {
+    "header": "Onsite Technical Engineer (OTE)",
+    "category": "GENERAL",
+    "content": "The Onsite Technical Engineer is a crucial resource for maintaining and optimizing IT infrastructure, specializing in resolving complex incidents and implementing change requests at Level 3 (L3). Operating either from Cegeka or directly at your location, the OTE focuses on improving the workplace environment through advanced technical interventions such as scripting, automation, and shift-to-left strategies. Additionally, the OTE is skilled in handling datacentre-related IMACD services, ensuring stability and efficiency in operations. Their deep technical expertise not only resolves advanced issues but also supports the ongoing enhancement and future-proofing of your IT environment. The Onsite Technical Engineer (OTE) is available through both MANAGED and UNMANAGED staffing services. Responsibilities: Skillset:"
+  },
+  "Onsite System Engineer (OSE)": {
+    "header": "Onsite System Engineer (OSE)",
+    "category": "GENERAL",
+    "content": "The Onsite System Engineer brings a high level of technical expertise, focusing on the broader IT infrastructure beyond workplace management. While the Onsite Technical Engineer specializes in maintaining and enhancing the workplace environment, the OSE addresses more complex, system-wide challenges by analysing, developing, and implementing advanced projects related to data centres, virtual environments, and server farms. This role aligns business requirements with long-term technical solutions, driving strategic improvements across the infrastructure. The OSE is essential for resolving critical incidents, performing root cause analysis, and future-proofing systems through innovation and automation, ultimately ensuring the stability, efficiency, and continuous growth of the IT environment. The Onsite System Engineer (OSE) is only available as an UNMANAGED staffing service. Responsibilities: Skillset:"
+  },
+  "Onsite Team Lead (OTL)": {
+    "header": "Onsite Team Lead (OTL)",
+    "category": "GENERAL",
+    "content": "The Onsite Team Lead plays a pivotal role in managing and optimizing the operational efficiency of the onsite support team within the customer’s environment, ensuring that internal IT services are effectively supported and day-to-day operations run smoothly. This individual combines technical expertise with strong leadership skills to oversee the onsite team and serves as the primary liaison between the customer and Cegeka. The Onsite Team Lead fosters a collaborative atmosphere that enhances service delivery and promotes continuous improvement in the IT landscape while overseeing daily resource planning, providing team development through feedback and coaching, and offering insights on projects and operational enhancements. Additionally, they coordinate incidents, changes, and problem tickets, maintain appropriate stock levels of end-user hardware, and deliver timely reports on Service Level Agreements (SLAs) and Experience Level Agreements (XLAs). The Onsite Team Lead (OTL) is only available as an UNMANAGED staffing service. Responsibilities: Skillset:"
+  },
+  "Optional Services": {
+    "header": "Optional Services",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Temporary Staffing": {
+    "header": "Temporary Staffing",
+    "category": "GENERAL",
+    "content": "To support and enhance the dedicated onsite IT team, Cegeka offers both customer-trained skilled backup engineers and non-customer-trained \"smart hands\" engineers for a specified period. Staffing levels are customized to meet your specific needs and requirements, determined in close collaboration with you. Additional resources can be requested for a minimum of one working day. Depending on the urgency of the request, we will ensure timely staffing to align with your operational demands. REQUEST TYPE TYPE ENGINEER USE CASE DURATION TIMING REQUEST Additional smart hands 1 FTE Non-customer trained In case of small projects or short peak of workload Max. 1 week Minimum 1 week before requested start date Additional skilled backup 1 FTE Customer trained In case of small projects or short peak of workload Max. 1 week Minimum 2 weeks before requested start date Temporary upstaffing 1 FTE Non-customer trained In case of larger projects or prolonged high workload Max. 3 months Minimum 3 weeks before requested start date Temporary upstaffing 1 FTE Customer trained In case of larger projects or prolonged high workload Max. 3 months Minimum 4 weeks before requested start date Fixed upstaffing 1 FTE Non-customer trained In case of add. locations and/or Solution Points More than 3 months Minimum 5 weeks before requested start date Fixed upstaffing 1 FTE Customer trained In case of permanent change in workload More than 3 months Minimum 6 weeks before requested start date"
+  },
+  "Scheduled Site Visits": {
+    "header": "Scheduled Site Visits",
+    "category": "GENERAL",
+    "content": "Cegeka offers flexible scheduling for onsite visits with technical experts. During these visits, a designated engineer will complete necessary tasks and provide a detailed report on the work performed and any pending issues. This allows our customer to focus on core business operations, knowing that critical IT tasks are being managed. Common activities during these visits include routine checks of essential IT systems and updates to management tools. Only Onsite Workplace Engineers (OWE) and Onsite Technical Engineers (OTE) handle these tasks, ensuring the work is carried out by professionals with the appropriate expertise."
+  },
+  "Ad Hoc Support Services": {
+    "header": "Ad Hoc Support Services",
+    "category": "FUNCTIONAL",
+    "content": "Cegeka maintains a team of skilled Onsite Workplace Engineers, readily available to address unplanned disruptions within our customer’s IT workplace environment. These engineers provide on-site, hands-on support to resolve technical issues swiftly, either by directly assisting end users or by collaborating with remote IT teams to restore business operations with minimal downtime. Access to this standby service is secured through a retainer fee, adjusted according to the customer’s geographical location. Two response options are available: same-day support with an engineer on-site within four hours, available 24/7, or guaranteed next-business-day support. The specific Service Level Agreement (SLA) will be tailored based on the location, ensuring prompt and reliable service delivery."
+  },
+  "Service SKU overview": {
+    "header": "Service SKU overview",
+    "category": "FUNCTIONAL",
+    "content": "NAME SKU UNIT Standard services Recurring Onsite Service Desk Agent incl. backup M-OSDA FTE* Based monthly fee Onsite Workplace Engineer incl. backup M-OWE FTE* Based monthly fee Onsite Technical Engineer incl. backup M-OTE FTE* Based monthly fee *FTE based on 21 days per month Optional services Recurring Onsite Service Desk Agent excl. backup NM-OSDA FTE** Based monthly fee Onsite Workplace Engineer excl. backup NM-OWE FTE** Based monthly fee Onsite Technical Engineer excl. backup NM-OTE FTE** Based monthly fee Onsite System Engineer excl. backup NM-OSE FTE** Based monthly fee Onsite Team Lead NM-OTL FTE** Based monthly fee Scheduled Site Visit by OWE SSV-OWE Day rate Scheduled Site Visit by OTE SSV-OTE Day rate Ad Hoc Support Service – Next Business Day ADHOC-NBD Monthly fee / country in scope Ad Hoc Support Service  – 24/7 – onsite within 4 hours ADHOC-24-7-4H Monthly fee / country in scope Non-Recurring Ad Hoc Support Services ADHOC-SUPPORT Intervention Based **FTE based on 17.5 days per month"
+  },
+  "Service Level Agreement": {
+    "header": "Service Level Agreement",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Service Windows": {
+    "header": "Service Windows",
+    "category": "FUNCTIONAL",
+    "content": "Table below gives an overview of the applicable Service Windows for each Standard & Optional service Service windows description SERVICE Office hours Monday through Friday (8x5) All standard and optional services extended office hours 6AM – 10PM, Monday through Friday (16x5) All standard and optional services 24x7 24x7 Only for optional “Ad Hoc Support Services”"
+  },
+  "Service Levels": {
+    "header": "Service Levels",
+    "category": "FUNCTIONAL",
+    "content": "Managed Staffing In case of the standard service Managed Staffing including 'Skilled Backup'. The following staffing SLA is applied for cases where a resource of the dedicated customer is not available: EVENT TYPE BACKUP SAME DAY BACKUP NEXT BUSINESS DAY Unplanned absence Illness, etc. Best effort Ensured, for remainder of the absence Planned absence Holiday, training, etc. Ensured Ensured, for remainder of the absence Temporary Staffing REQUEST TYPE TYPE ENGINEER USE CASE DURATION TIMING REQUEST Additional smart hands 1 FTE Non-customer trained In case of small projects or short peak of workload Max. 1 week Minimum 1 week before requested start date Additional skilled backup 1 FTE Customer trained In case of small projects or short peak of workload Max. 1 week Minimum 2 weeks before requested start date Temporary upstaffing 1 FTE Non-customer trained In case of large projects or prolonged high workload Max. 3 months Minimum 3 weeks before requested start date Temporary upstaffing 1 FTE Customer trained In case of large projects or prolonged high workload Max. 3 months Minimum 4 weeks before requested start date Fixed upstaffing 1 FTE Non-customer trained In case of add. locations and/or Solution Points More than 3 months Minimum 5 weeks before requested start date Fixed upstaffing 1 FTE Customer trained In case of permanent change in workload More than 3 months Minimum 6 weeks before requested start date Ad Hoc Support Services EVENT TYPE SAME DAY NEXT BUSINESS DAY AD HOC support services Unplanned, urgent request Within 4 hours* Guaranteed *In case of 24/7 retainer, otherwise best effort"
+  },
+  "Service Delivery Locations": {
+    "header": "Service Delivery Locations",
+    "category": "FUNCTIONAL",
+    "content": "Service Location(s) Dedicated onsite team All EU countries, including United Kingdom and Switzerland . Other countries on request. Upstaffing of resource(s) All EU countries, including United Kingdom and Switzerland . Other countries on request. Scheduled/recurring site visits All EU countries, including United Kingdom and Switzerland . Other countries on request. Skilled backup All EU countries, including United Kingdom and Switzerland . Other countries on request. AD HOC interventions All EU countries, including United Kingdom and Switzerland . Other countries on request."
+  },
+  "Responsibility Matrix (RACI)": {
+    "header": "Responsibility Matrix (RACI)",
+    "category": "GENERAL",
+    "content": "Responsibility matrix for Managed Staffing DESCRIPTION CEGEKA CUSTOMER STANDARD SERVICES – MANAGED STAFFING Propose a pre-selection of candidates matching the profile requirements   Final selection of the candidate within 3 business days after the final interview   Deliver the specific engineer during the required period   Provide the engineer with a detailed role and task description *   Customer specific training of the new resource and operational management of the engineer *   Provide input on performance of resources, relevant for Cegeka people management process *   People management (e.g. Hiring, managed staffing and planning*,  yearly evaluation)   Timesheet sign-off   Determine the required number of trained backup engineers per dedicated customer team   Final selection of the backup engineers and ensuring proper technical level of backup engineers   Customer specific training and operational management of new backup engineers *   Communicate (un)planned absences of dedicated engineers to the customer (team) and expected/forecasted return-to-work date   Ensure resource backup planning according to SLA   * If a Cegeka  Onsite Team Lead (OSTL) is included in the dedicated onsite team, they will be responsible for this task. In the absence of either profile, collaboration or additional input from both Cegeka and the customer may be necessary for task completion. Responsibility matrix for Non-Managed Staffing Description CEgeka Customer STANDARD SERVICES – NON MANAGED STAFFING Propose a pre-selection of candidates matching the profile requirements   Final selection of the candidate within 3 business days after the final interview   Deliver the specific engineer during the required period   Provide the engineer with a detailed role and task description *   Customer specific training of the new resource and operational management of the engineer *   Provide input on performance of resources, relevant for Cegeka people management process *   People management (e.g. Hiring, managed staffing and planning*,  yearly evaluation)   Timesheet sign-off   Communicate (un)planned absences of dedicated engineers to the customer (team) and expected/forecasted return-to-work date   * If a Cegeka  Onsite Team Lead (OSTL) is included in the dedicated onsite team, they will be responsible for this task. In the absence of either profile, collaboration or additional input from both Cegeka and the customer may be necessary for task completion. Responsibility matrix for Temporary Staffing Description CEgeka Customer optional Services – Temporary staffing Initiate the request for up staffing according to given timings, and provide preferred start and end date of the adjusted staffing level(s)   Ensure timely on- or offboarding to achieve the adjusted staffing level(s) according to given timings   Operational management of the additional engineer(s)*   ensuring proper technical level of the additional engineers   * If a Cegeka Onsite Team Lead (OSTL) is included in the dedicated onsite team, they will be responsible for this task. In the absence of either profile, collaboration or additional input from both Cegeka and the customer may be necessary for task completion. Responsibility Matrix for Scheduled Site Visits Description CEgeka Customer optional Services – Scheduled  site visits Determination of the required profile, by describing all detailed and specific requirements (e.g. Language) and/or preferences (e.g. Region).   Provide a detailed role and task description, and determine the preferred recurrence and start date.   Select a dedicated, properly skilled engineer to conduct the regular site visits.   Ensure planning of the specific engineer according to requested recurrence.   Provide the engineer with a detailed role and task description, and operational management during the site visit.   Provide a completed checklist and detailed site visit report to the customer after each site visit.   Responsibility matrix for Ad Hoc Support Services Description CEgeka Customer optional Services – ad hoc Support services Determination of the required SLA per customer location and/or country.   Setup and communicate flow to report ad hoc intervention request.   Report ad hoc intervention request through provided flow.   Provide contact details for local or remote customer engineering team(s).   Ensure onsite presence of onsite smart hands engineer according to specific SLA.   Provide recurring progress reports during the ad hoc intervention, and a detailed report of actions taken during ad hoc intervention to the customer at the end of the intervention."
+  },
+  "Conditions": {
+    "header": "Conditions",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Prerequisites": {
+    "header": "Prerequisites",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Out of scope": {
+    "header": "Out of scope",
+    "category": "SCOPE",
+    "content": "Cegeka MOSS Management will not handle any customer operational matters or coordination. Responsibilities towards operational governance are stipulated in the corresponding Responsibility matrix. Everything that is not included in this service description is by default out of scope."
+  },
+  "Glossary": {
+    "header": "Glossary",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Responsibility matrix": {
+    "header": "Responsibility matrix",
+    "category": "GENERAL",
+    "content": "= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive. = Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive. = Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive. = Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive."
+  },
+  "Definition IMACD": {
+    "header": "Definition IMACD",
+    "category": "GENERAL",
+    "content": "In the context of IT workplace management, IMACD refers to the process of installing, moving, adding, changing, and disposing of IT assets. It is a critical function that enables organizations to maintain and optimize their IT infrastructure while ensuring business continuity. Effective IMACD requires a structured approach and careful planning to minimize disruption to the organization’s operations and ensure that changes are implemented smoothly and reliably. The process typically involves several stages, including:"
+  }
+}

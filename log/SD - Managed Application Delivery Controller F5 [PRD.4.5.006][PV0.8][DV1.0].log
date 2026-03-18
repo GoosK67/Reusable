@@ -1,0 +1,33 @@
+[2026-03-18 14:28:04] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 14:28:04] HTML saved: extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 14:28:04] extract_html OK
+[2026-03-18 14:28:05] START parse_html for: extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 14:28:05] PARSE OK → output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 14:49:47] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 14:49:47] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 14:49:47] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 14:49:48] HTML saved: extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 14:49:48] extract_html OK
+[2026-03-18 14:49:48] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 14:49:48] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 14:49:48] PARSE OK → output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 14:49:48] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 14:49:48] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 14:49:48] auto_map OK → output\mapped\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.json
+[2026-03-18 14:49:48] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:49:48] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:49:49] PIPELINE OK
+[2026-03-18 15:03:35] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 15:03:35] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 15:03:35] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].docx
+[2026-03-18 15:03:35] HTML saved: extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 15:03:35] extract_html OK
+[2026-03-18 15:03:35] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 15:03:36] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].html
+[2026-03-18 15:03:36] PARSE OK → output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 15:03:36] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 15:03:36] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0].json
+[2026-03-18 15:03:36] auto_map OK → output\mapped\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.json
+[2026-03-18 15:03:36] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 15:03:36] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Application Delivery Controller F5 [PRD.4.5.006][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 15:03:36] PIPELINE OK

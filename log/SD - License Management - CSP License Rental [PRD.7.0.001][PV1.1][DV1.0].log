@@ -1,0 +1,47 @@
+[2026-03-18 14:27:56] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:27:57] HTML saved: extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:27:57] extract_html OK
+[2026-03-18 14:27:57] START parse_html for: extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:27:57] PARSE OK → output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:43:14] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:43:14] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:43:14] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:43:14] HTML saved: extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:43:14] extract_html OK
+[2026-03-18 14:43:14] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:43:15] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:43:15] PARSE OK → output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:43:15] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:43:15] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:43:15] auto_map OK → output\mapped\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.json
+[2026-03-18 14:43:15] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 14:43:15] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 14:43:16] PIPELINE OK
+[2026-03-18 14:48:46] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:48:46] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:48:46] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 14:48:47] HTML saved: extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:48:47] extract_html OK
+[2026-03-18 14:48:47] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:48:47] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 14:48:47] PARSE OK → output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:48:47] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:48:47] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 14:48:47] auto_map OK → output\mapped\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.json
+[2026-03-18 14:48:47] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 14:48:47] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 14:48:48] PIPELINE OK
+[2026-03-18 15:02:34] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 15:02:34] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 15:02:34] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.0] Cegeka Reselling\[PRD.7.0.001] License Management\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].docx
+[2026-03-18 15:02:35] HTML saved: extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 15:02:35] extract_html OK
+[2026-03-18 15:02:35] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 15:02:35] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].html
+[2026-03-18 15:02:35] PARSE OK → output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 15:02:35] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 15:02:36] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0].json
+[2026-03-18 15:02:36] auto_map OK → output\mapped\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.json
+[2026-03-18 15:02:36] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 15:02:36] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - License Management - CSP License Rental [PRD.7.0.001][PV1.1][DV1.0]_mapped.xml
+[2026-03-18 15:02:36] PIPELINE OK

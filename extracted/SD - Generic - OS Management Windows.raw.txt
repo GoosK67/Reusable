@@ -1,0 +1,105 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+
+
+Hybrid Cloud
+OS Management – Windows
+Service summary
+The Windows OS management service includes the technical management of a Windows server – physical or virtual. 
+Standard service components
+Operating system management
+This Service includes technical management of the Windows operating system running on a physical or virtual server. Cegeka shall be responsible in providing the following Services with the objective to maintain system availability within the defined SLA for the respective OS:
+Assuring availability of the Windows server OS;
+Routine audits of the Windows server OS;
+Analysis of system logs, identification and proactive resolving of potential issues;
+Documentation of system configurations;
+Performance tuning of the Windows server OS in relation to the functional requirements defined for that server based on vendor specifications;
+Active management of files and disk space.
+Incident & Problem Management
+Reactive support
+Create incident records in the Cegeka service management tool
+Receive, track and resolve incident tickets.
+Identify the cause of an incident.
+Registration of standard solutions for incidents.
+Proactive support
+Based on incidents logged by monitoring, Cegeka proactively takes the following actions:
+Detect and solve incident within the monitored environment.
+Detect and solve incidents on the supporting infrastructure.
+Proactively report issues and propose how certain issues can be resolved.
+Perform correlation for incidents identifying the underlying problem and make recommendations to fix the problem. 
+Implement fixes or workarounds for problems if there are no dependencies on other services.
+User & Access Management
+For domain joined servers, regular user and access management will be configured and controlled via Microsoft Active Directory.  This shall be configured as outlined in Cegeka’s Best Practice document for both ADDS setup and AD Delegation.
+
+For Workgroup servers, typically stand-alone machines part of DMZ therefore not limited to, a particular set-up will be foreseen which will be consequently roll-out on every stand-alone machine.
+Security
+Antivirus
+The ‘managed windows’ service ensures the security of the operating system against malware, viruses and rootkits. It also protects the managed Windows server from threats at network level. The antivirus agent handles scanning of local file systems during read and write operations. 
+Cegeka’s anti-virus service protects the managed device against security threats. The endpoint protection central environment automatically deploys updates to each agent and provides an overview over the agent status and events.
+Patching & Lifecycle management
+Patches in scope 
+The patches in scope for this service are related to the Windows server operating system. The following categorization is applied:
+Critical updates
+Security updates
+Cegeka installs all patches related to ‘critical updates’ and ‘security updates’, in agreement with <KLANT>. All other patches are out of scope. 
+Cegeka implements interim patches issued via security alerts through Cegeka’s emergency change process; these may be “urgent critical” patches or patches related to an ongoing incident.
+Patch frequency
+The managed Windows OS service ensures that a managed server is updated to the most recent patches every month. This frequency may be different depending on specific separate agreements, this can be provided as an option in this service.
+Service packs
+In accordance with the Microsoft Product Support Lifecycle, the policy concerning service packs is the following:
+When a new service pack is released, Cegeka will provide 12 months support on the previous service pack.
+When a new service pack is released, Cegeka will inform <KLANT> through the agreed procedures related to the product lifecycle policy. Cegeka will also inform <KLANT> on the support lifecycle timeline of the new and previous service pack. 
+When the support of a Windows server version ends, then the support for all service packs of that version will end. In such a case, Cegeka is willing to discuss with <KLANT> the need to continue to provide support on a best effort basis.
+Supported versions
+Cegeka applies a support version lifecycle policy on the managed Windows server service, for which the Microsoft support lifecycle is used: 
+Cegeka supports all Windows server versions for which the extended support period has not yet expired. Older versions can be managed on a “best effort” basis.
+Cegeka will inform <KLANT> when a new Windows version becomes available or when the extended support period expires through the agreed procedures related to the product lifecycle policy.
+Optional service components
+Backup & restore management
+This feature is the management of the OS backups and restores from an operational perspective. It is dependent on the presence of the shared backup service. This option should typically be standard for production systems but might be left out for Test/Dev Environments.
+License management of the OS and underlying components
+This feature is the management of the OS licenses for the managed system or components installed on the system. For this option to be available Cegeka needs certain authorizations with respect to the licenses in question, which will depend on the exact product.
+Non-standard patch frequency
+Specific patch frequencies can be agreed for named systems.
+Custom activity list
+This feature provides the possibility for <KLANT> to define custom activities (e.g. in the form of a workbook) to be executed by Cegeka.
+Eligibility and Prerequisites
+Conditions
+The Cegeka managed services personnel needs to have network access to the managed Windows server.
+The Cegeka managed services personnel needs to have a login with full administrative access on the managed Windows server.
+Out of scope
+The following patches are out of scope:
+Update Rollup
+Feature Pack
+Update
+The Cegeka technical architect assigned to <KLANT> discusses the out of scope patches on a regular basis and on request of <KLANT>.
+Out of scope patches for which it is decided to implement them and not a part of another in scope service, will be implemented through separate RFC’s but using the regular patching process or emergency change process.
+Management of the applications running on the windows servers is not in scope with Cegeka. In the Service Delivery Plan, specific agreements need to be documented on the installation and upgrade of applications on servers and the required permissions to do so. The following options exist:
+Cegeka receives the installation package and a release guide and installs the application on the server;
+<KLANT> or a supplier receives temporary permissions to install the application
+An employee of <KLANT> or the supplier sit together with an engineer from Cegeka to do the installation/upgrade together.
+Similar agreements need to be made and documented in the SDP with respect to the management of the applications on the servers, especially concerning the permissions that are required for this application management.
+Maintenance & Licenses 
+<KLANT> is responsible for managing licensing compliancy for the OS licenses needed to run the windows operating system.
+For servers running on the Cegeka Cloud platform, Cegeka will provide full management of the Windows OS licensing Trough the SPLA program and customers are relieved of responsibility for license compliance for the Widows server OS for all versions of Windows Server Operating System still actively supported by Microsoft under their normal, not extended, support license agreement. From the moment an OS version leaves MS normal support regime under any circumstance it’s the customers responsibility to provide Cegeka with licenses which provide extended support to remain eligible to install critical security patches.
+Responsibility matrix
+
+Order & billing information
+Part numbers
+O.0120_0020_0010_C_S.000 - Physical – OS Gold
+O.0120_0020_0020_C_S.000 - Physical – OS Silver
+O.0120_0020_0030_C_S.000 - Physical – OS Bronze
+O.0120_0020_0040_C_S.000 - Virtual – OS Gold
+O.0120_0020_0050_C_S.000 - Virtual – OS Silver
+O.0120_0020_0060_C_S.000 - Virtual – OS Bronze
+
+Measurement
+A report is generated on a monthly basis, this report is based on the CMDB and lists all servers and service details for which a Cegeka datacentre – Managed Windows OS Service is delivered.
+Billing
+The units are billed against the price of their respective part numbers.
+(“Price per Unit” x “Quantity of Virtual – Gold Units”) +
+(“Price per Unit” x “Quantity of Virtual – Silver Units”) + 
+(“Price per Unit” x “Quantity of Virtual – Bronze Units”).

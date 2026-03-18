@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ServiceDescription>
+  <Section name="UNCLASSIFIED">
+    <Header>UNCLASSIFIED</Header>
+    <Category>GENERAL</Category>
+    <Content>Introduction The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.) Document history Version Date Comment Author 0.9 12-10-2023 Initial document Lodewijk van der Sloot</Content>
+  </Section>
+  <Section name="Hybrid Cloud">
+    <Header>Hybrid Cloud</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="OS Management – iSeries OS">
+    <Header>OS Management – iSeries OS</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service summary">
+    <Header>Service summary</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>This Service manages all aspects related to &lt;klant&gt;’s iSeries implementation hosted at Cegeka.</Content>
+  </Section>
+  <Section name="Standard service components">
+    <Header>Standard service components</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>iSeries OS management Patching &amp; Lifecycle management This service doesn’t include: Backup &amp; Restore management This feature contains: Physical iSeries Management This feature contains:</Content>
+  </Section>
+  <Section name="Eligibility and Prerequisites">
+    <Header>Eligibility and Prerequisites</Header>
+    <Category>GENERAL</Category>
+    <Content>Conditions The Cegeka managed services personnel needs to have network access to the Managed iSeries Server. The Cegeka managed services personnel needs to have a login with full administrative access on the Managed iSeries Server. Responsibility matrix Activity Customer Cegeka Operating System Create OS build for servers I RA Installing system software (OS, monitoring tools) I RA Distribution (installation) of packages to target systems (business applications) RA Maintain system documentation I RA Creating file systems and other movements at storage level I RA Clean up of root file system and/or other file systems I RA System (super) user creating/mutate I RA Rolling out system release/service packs/patches I RA Identifying technical system errors and problems I RA Technical troubleshooting system errors and incidents I RA Performance tuning analysis I RA System parameterization for performance (tuning) I RA Starting/stopping OS specific batches I RA Creating and/or restoring backups I RA Make Changes to system configuration I, C RA Connecting PV system on Network I RA Configure network parameters on OS I RA AIX Software &amp; Patch Management Follow up patches/fixes updates of the OS I RA Evaluate and assess patch effect on infrastructure C RA Test patch deployment C RA Decide on deployment of patches updates of the OS C RA Propose deployment of major updates of the OS C RA Decide on deployment of major updates of the OS (Via RFC process) RA C Distribute (install) patches/fixes/tooling or releases of the OS to server systems I RA Definition of a non-standard patch frequency CI RA Monitoring Monitoring Agent Deployment RA Monitoring Plan - OS Level RA Monitor, report and solve OS system errors and problems I RA Monitor Capacity (CPU, Storage, Network) I RA Hardware platform Hardware support RA Software support (OS and Tooling) RA Software support - Business applications RA I Setup, replaced and customize Hardware RA Hardware Monitoring RA Capacity Monitoring (CPU, Storage) RA Facilities (Electricity, Cooling) RA Virtual platform Manage the virtual platform (Hypervisors, HA,...) RA Define new VM requirements RA C Deploy new VM I RA VM Configuration Change (vCPU, vRAM, vStorage) C RA Remove VM C RA Backup platform See "Storage &amp; Backup" sheet Maintain technical scripts regarding Backup C RA Storage shared Provide storage capacity as needed by &lt;klant&gt; C RA Manage storage controller platform RA Manage storage virtualization platform RA Extend capacity of the storage platform RA Manage storage replication between datacenters RA Manage  storage snapshots RA Resolve identified storage performance problems I RA Monitor storage platform RA Create LUN I RA Delete LUN I RA Extend LUN I RA Provide storage network capacity as needed by &lt;klant&gt; C RA Manage storage presentation RA Manage storage network platform RA Extend capacity of the storage network platform RA Monitor storage network platform RA Resolve identified storage access problems C RA Maintain technical scripts regarding daily snapshots C RA Restore snapshots A,I RC User and group Operations Reset User Password CI RA Delete group CI RA Disable User CI RA Enable User CI RA Delete User CI RA Change User CI RA Add new user/group account CI RA Change Users in Group CI RA Create Group CI RA Change Group CI RA Monitoring &amp; Reporting This feature is focused on status and availability monitoring and includes: The list of standard monitoring settings and the list of monitored system parameters are documented in a standard monitoring plan. This is used as a basis for a customized monitoring plan to fit the needs of &lt;klant&gt;. &lt;klant&gt; has an insight in the outcome of monitoring by means of monthly reports. An external monitoring portal can be provided as an option to &lt;klant&gt;.</Content>
+  </Section>
+  <Section name="Order &amp; billing information">
+    <Header>Order &amp; billing information</Header>
+    <Category>GENERAL</Category>
+    <Content>Part numbers O.0140_0010_0010_M_S.000 SPH platform management - Shared Power Hosting - platform management O.0300_0010_0010_A_S.000 Single Datacenter - Virtual Server Resources (IBM i  / IOS) - IBM i; sytem unit single datacenter / 76 CPW / 1 GB Ram / unlimited i5 OS V7Rx + user licenses / BU agent License (BRMS) / (minimum 7 units per partition required) O.0320_0060_0010_A_S.000 Single Datacenter - Storage (IBM i  / IOS) - Managed SAN capacity  / GB (single storage system/datacenter) - High End (FS900 Flash) (S-T0) (Min 200 GiB + extra 50 GiB blocks) O.0340_0060_0010_A_S.000 Backup (IBM i  / IOS) - LPAR back-up - per GB used (compressed) space on back-up storage device (EMC² data domain) (Min 200 GiB + extra 50 GiB blocks) - Storage Replication Measurement A report is generated on a monthly basis, this report is based on the CMDB and lists all servers and service details for which a Cegeka datacentre – Managed iSeries OS Service is delivered. Billing The units are billed against the price of their respective SKU’s. (“Price/Unit” x “Quantity of Virtual – Gold Units”) + (“Price/Unit” x “Quantity of Virtual – Silver Units”) + (“Price/Unit” x “Quantity of Virtual – Bronze Units”).</Content>
+  </Section>
+</ServiceDescription>

@@ -1,0 +1,47 @@
+[2026-03-18 14:27:51] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:27:51] HTML saved: extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:27:51] extract_html OK
+[2026-03-18 14:27:51] START parse_html for: extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:27:51] PARSE OK → output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:43:04] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:43:04] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:43:04] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:43:04] HTML saved: extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:43:04] extract_html OK
+[2026-03-18 14:43:04] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:43:05] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:43:05] PARSE OK → output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:43:05] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:43:05] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:43:05] auto_map OK → output\mapped\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.json
+[2026-03-18 14:43:05] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:43:05] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:43:06] PIPELINE OK
+[2026-03-18 14:48:39] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:48:39] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:48:39] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 14:48:40] HTML saved: extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:48:40] extract_html OK
+[2026-03-18 14:48:40] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:48:40] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 14:48:40] PARSE OK → output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:48:40] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:48:40] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 14:48:40] auto_map OK → output\mapped\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.json
+[2026-03-18 14:48:40] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:48:40] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 14:48:41] PIPELINE OK
+[2026-03-18 15:02:27] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 15:02:27] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 15:02:28] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].docx
+[2026-03-18 15:02:28] HTML saved: extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 15:02:28] extract_html OK
+[2026-03-18 15:02:28] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 15:02:28] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].html
+[2026-03-18 15:02:28] PARSE OK → output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 15:02:28] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 15:02:28] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0].json
+[2026-03-18 15:02:28] auto_map OK → output\mapped\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.json
+[2026-03-18 15:02:28] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 15:02:28] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - TAM Oracle Data Integrator ODI [PRD.0.L.138][PV0.8][DV1.0]_mapped.xml
+[2026-03-18 15:02:29] PIPELINE OK

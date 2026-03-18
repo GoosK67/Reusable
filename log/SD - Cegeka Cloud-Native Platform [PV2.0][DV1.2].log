@@ -1,0 +1,47 @@
+[2026-03-18 14:27:44] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:27:45] HTML saved: extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:27:45] extract_html OK
+[2026-03-18 14:27:46] START parse_html for: extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:27:46] PARSE OK → output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:42:06] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:42:06] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:42:06] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:42:07] HTML saved: extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:42:07] extract_html OK
+[2026-03-18 14:42:07] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:42:08] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:42:09] PARSE OK → output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:42:09] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:42:09] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:42:09] auto_map OK → output\mapped\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.json
+[2026-03-18 14:42:09] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:42:09] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:42:10] PIPELINE OK
+[2026-03-18 14:47:52] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:47:52] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:47:52] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 14:47:53] HTML saved: extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:47:53] extract_html OK
+[2026-03-18 14:47:53] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:47:54] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 14:47:55] PARSE OK → output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:47:55] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:47:55] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 14:47:55] auto_map OK → output\mapped\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.json
+[2026-03-18 14:47:55] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:47:55] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:47:56] PIPELINE OK
+[2026-03-18 15:01:41] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 15:01:41] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 15:01:42] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.5] Cegeka Digital Cloud Platforms\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].docx
+[2026-03-18 15:01:43] HTML saved: extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 15:01:43] extract_html OK
+[2026-03-18 15:01:43] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 15:01:43] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].html
+[2026-03-18 15:01:44] PARSE OK → output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 15:01:44] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 15:01:44] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2].json
+[2026-03-18 15:01:44] auto_map OK → output\mapped\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.json
+[2026-03-18 15:01:44] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 15:01:44] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 15:01:45] PIPELINE OK

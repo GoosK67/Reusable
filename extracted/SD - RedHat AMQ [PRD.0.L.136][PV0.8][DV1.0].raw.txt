@@ -1,0 +1,203 @@
+ 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Technical Application Management
+The Service provides the tasks and activities needed to manage the RedHat AMQ application (The Application) from a technical perspective. Together with the underlaying obligatory Platform services, Cegeka unburdens the customer with all technical aspects from infrastructure up to the technical Application.
+The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.
+The Customer is responsible for the functional AMQ usage (usage of queues by business applications). The Customer will be able to use all functionalities of the Application. Cegeka ensures the functionalities of the Application.
+
+
+The Application
+Red Hat AMQ is a messaging system that allows exchange of messages (data) between senders and receivers. A “broker” handles the exchange of the messages between sending and receiving clients. It is also capable of coordinating with other brokers, storing messages on persistent storage and the monitoring and management of the various components of the messaging system. 
+
+Below a graphical overview of a typical set-up: 
+
+
+Service features 
+Standard Service features 
+Application knowledge
+Cegeka ensures skilled engineers with experience on the RedHat AMQ technology in order to perform the Service.
+Technical setup
+Cegeka advises in the setup of the underlaying platform in order to set it up according to the technology requirements of the Application. This may be different for each Customer environment (DTAP - Development, Test, Acceptance, Production and it’s variants).
+High availability setup: this setup advise includes also the setup of HA (High Available) environments where needed. Cegeka will advise a cost effective solution within the context  of the available platform(s) of the Customer and the best practices of the Application.
+
+Cegeka performs and maintains the technical installation of the Application on the agreed platform ensuring its correct working. 
+Technical setup is documented on operational level and is available to the Customer.
+Technical management
+Cegeka is responsible for the technical operation of the Application and to assure it’s correct running  and availability of the platform functionalities (queues) during the agreed availability windows.
+This includes operational activities such as creating and deleting queue’s, assigning users and groups, etc. This applies to the Broker configuration.
+Queues/ACL provisioning
+The Service deals with the creation/deletion/modification of queues and ACL’s and maintenance of the existing ones in the broker, based upon the content and requirements, provided by the functional business application manager. Cegeka as technical application managers ensure that the queues and ACL’s are provisioned on the systems following the best practices in place. The Customer is responsible for configuring the connections and parameters in the applications. For systems in scope of Cegeka management, the clients (or libraries) are updated and configured per that service (i.e., JBoss).  
+
+Usage of message queuing
+How the applications connect to this Service and the application components responsible for that, are not in scope of this Service. Cegeka does provide guidance on the required configuration and parameters for these clients. Clients that are controlled by Cegeka are covered in their respective services. This applies for instance to Linux servers or containers running JBoss (the JBoss application management ensures that the connection is implemented and maintained). Cegeka assists in providing best practices for connection settings and on request can force specific parameters to align with customer security requirements. 
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Application. Automation is applied where possible. 
+Proactive management
+Housekeeping includes following regular checks:
+The setup and the running of the Application on its platform
+Inspection of the Application log content on irregularities
+Inspection of technical Application settings on irregularities
+system trends (trends of CPU/memory/disk usage) on deviations in evolution
+perform and check log rotation (cleanup of older logs)
+assure application settings are part of the backup of the underlaying platform
+
+Resolution actions are triggered when needed and followed to assure the SLA.
+
+Patching
+The service includes a maximum of 4 patch cycles (per environment) per year for the managed Application (inclusive the system database(s) if applicable). Patching is done in accordance to the operational Patch Plan.
+Additional patching can be done on RFC basis. 
+Patching (includes minor updates) of the underlying platform is part of the Service of that platform.
+Life Cycle Management
+Cegeka monitors the Technology version of the service and notifies the Customer in accordance with the agreed LCM policy (see cross-functional Services) when used versions are subject to end-of-support or end-of-life. Appropriate actions (updates, replacement or other actions) are planned in accordance with agreed maintenance windows and will be executed on T&M basis in case of major updates. Patches and minor updates are included in the service cost as part of ‘Patching’.
+
+Monitoring
+Cegeka monitors the correct working of the Application on all Customer environments.
+This is done by means of scripts to check the correct technical application functionality.
+The checks are executed every 3 minutes.
+Monitoring improvements will be done during the lifecycle of the Service and are based on evaluation of incidents, problem management or other suggestions.
+
+The underlaying platform is also monitored according to the related Service Description of the platform.
+Monitoring events are evaluated during the Service Window in accordance to the Service Level of the individual environment. Notable events are treated as Incident tickets and are handled according to regular incident management.
+Security and Compliance
+Management of technical users
+User and Access Management is limited to configuring and maintaining a connection to a central authentication source (LDAP/AD) available in the environment of the customer. Assigning groups and ACL’s to queue’s is performed during creation of a queue and can be changed/updated during the lifetime of an ACL/Queue through the standard change process (in an automated fashion). Administering users and groups (i.e., creating a new user or group) in the central LDAP or AD environment is not part of this Service. 
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+SIEM
+Additional monitoring can be done based on System and/or Application logs, which can be forwarded to a Customer SIEM solution (Security reason) or other solution (compliance reason, e.g. central collection of application logs to oversee the application stack) on request.
+Underlaying Platform hardening
+The underlaying platform and OS will be hardened as part of and according to the Service Description of the related Services.
+Backup and Restore
+The operational Backup Plan contains the information on frequency and retention of the backups in accordance to the Customer backup policy.
+Restores can be done both on file and on full system level. These can be requested via the regular RFC process.
+Duration of a restore is dependant of the request (file or full; size of the item(s) to be restored).
+Application settings are subject to the backup of the underlaying platform. 
+Incident and problem management
+Besides monitoring incidents (see ‘Monitoring’) also other incidents can be reported by both the Customer and Cegeka. These will be subject to the regular incident management process (See Cross-functionals).
+Related to incident management, Cegeka performs also problem management (See Cross-functionals).
+Customers responsibility
+The functional usage and monitoring of the Application is the responsibility of the Customer.
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+
+The following optional features are possible with the Service. 
+(there are no optional features)
+
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+
+
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. Specifically: 
+Infrastructure and OS services required for running the application, this can be obtained through  separate services 
+License purchase and ownership 
+Functional usage of the platform and queue’s, including management of the queue’s themselves 
+Management of the clients 
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+Virtual machine on Cegeka Cloud with OS management
+Backup/restore service to cover the backup platform and storage, job management and follow-up. NB. The activities for Backup management are part of this Service. 
+Cegeka owned Licenses and/or subscriptions
+The licenses and/or subscriptions listed in this section and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+
+Customer owned Licenses and/or subscriptions
+The licenses and/or subscriptions listed in this section and their cost are not included in this Service.
+It is the customers responsibility to maintain license and/or subscription compliance. Cegeka will report & advise on demand regarding license management.
+
+Conditions 
+It is mandatory to use the License Compliance platform to be able to report on installed software 
+Service delivery location
+This Service is delivered remotely from the Cegeka (virtual) Office environment.
+Service Reporting
+The Cross-functional reporting is part of this Service Reporting where it is applicable for this service (see section ‘Relation to Cross-Functional Services’).
+
+
+More advanced reporting can be provided when on-boarding the Red AMQ environment in the Dynatrace APM environment. In that case specific dashboards, reporting and follow up on application level can be provided. This is handled through the Dynatrace APM service and is not included in this service. 
+Data classification
+Cegeka requires no access to confidentional and/or personal data to perform this Service.
+Engineer credentials do not need to access such data for the purpose of this Service.
+In case of assistance in investigations of functional issues, Cegeka personnel may see or receive fragments of such data in case it is shared by the Customer (data fragments in the sense of exports, screen sharing, screen shots, etc. for investigation purposes).
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+RedHat
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+(none)
+Miscellaneous 
+n/a
+RACI Matrix
+
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+Adherence to Cross-Functional Services 
+The Service described in this Service Description adheres to the Cross-functional Services as described in  the contract where this Service is residing unless documented in the table below:
+All Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+
+Service Level Management
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+
+Availability
+
+The following Availability KPI’s are provided for the Service:
+
+
+
+ The availability measurement is monthly and calculated as:
+(Total time of service window of the measured period – time of outage based on Cegeka infrastructure monitoring during the measured period) / Total time of service window of the measured period) * 100
+
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+ 
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+the quantities are determined by the number of customer environments which are used in the billing month.
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+n/a
+Service Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis.
+Document control
+
+
+Document approval
+
+

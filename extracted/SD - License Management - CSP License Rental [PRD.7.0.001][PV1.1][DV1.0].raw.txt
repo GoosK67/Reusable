@@ -1,0 +1,95 @@
+ 
+
+
+
+
+
+Standard Service Description
+
+Introduction
+The My Brokering – Citrix CSP licensing Service is an optional service for customers using Citrix Virtual Apps and Desktop and / or Citrix Daas. It provides a flexible licensing program to these customers, based on actual consumption of the environment. 2 license types can be provided with this service.
+
+Citrix User license:
+A license for each individual user logging on the environment.  
+A license is counted for every user who has logged on at least once to the environment in any given month (Monthly Active user)
+License type is Citrix Universal Hybrid Multi-Cloud
+Netscaler license is included in the Citrix User license
+Netscaler Device license:
+A license for each Netscaler device pair (High Availability)
+Netscaler Device license only needed for customers who are not subscribing to the Citrix User license
+Customer owns Citrix User licenses and chooses not to use their own Netscaler licenses.
+Customer uses a license type that does not include Netscaler licensing.
+License is provided monthly
+License type is Netscaler Premium
+What is the added business value?
+The My Brokering – Citrix CSP licensing Service allows customers to make use of a Citrix Virtual Apps and Desktops and / or Citrix DaaS environment without purchasing or subscribing licenses themself. Cegeka counts the actual usage and invoices the customer monthly on the actual used licenses.
+
+Flexibility
+Licenses are counted based on actual usage of the environment.
+Scalability
+Customers do not need to think about how many licenses are needed for their environment, Cegeka will make sure that sufficient licenses are available in every scenario (upscale / down)
+Cost-efficiency
+Licenses are only counted for actual usage of the environment. Customers do not need to provide additional licenses for peak usage.
+Security
+The My Brokering – Citrix CSP licensing Service allows the usage of the latest products, therefore increases security.
+Always up-to-date
+CSP Licenses always allow the usage of the latest products, features and updates of all products related to Citrix Virtual Apps and Desktops and Citrix DaaS.
+Ease of management
+Licenses are always available, independent on the usage of the environment.
+What is included in the service?
+Standard services
+Cegeka will provide the following standard functionalities and corresponding activities in the My Brokering – Citrix CSP licensing Service:
+Host shared license server(s) where customer environment can acquire licenses.
+Pro-active management of the licensing environment including:
+License renewal
+Updates licenses every year upon expiration
+License capacity
+Monitors and increase licenses when needed
+Report monthly on the license usage
+Optional services
+No optional services are available.
+Responsibility matrix
+Responsibility Matrix below provides the appropriate RACI tags for Customer and Cegeka with respect to the activities for the Standard and Optional Services.
+
+= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive.
+= Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive.
+= Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive.
+= Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.
+SKU overview  
+Service SKUs
+
+Standard changes SKUs
+Table below represents the Standard Changes for this Service, where each Standard Change
+has a corresponding fixed one-off price as mentioned in the Pricing Model
+has a corresponding  ‘Service Level Target (SLT) for each Standard Change, expressed in elapsed working days as mentioned in Table below
+follows the ‘Standard Change Management process’ as mentioned in Section “Cross-Functional Services”
+
+Non-standard changes SKUs
+Non-standard changes
+are billed in time & material
+follow the ‘Change Management process’ as mentioned in Section “Cross-Functional services”
+
+Service Level Agreement
+Service Support window
+Table below gives an overview of the applicable Service Support Windows for each Standard & Optional service
+
+Specific service levels
+3rd Party SLA
+This service makes use of a third party PAAS provider. For the SLA’s concerning uptime and/or availability of the 3rd party platform we refer to the following documentation
+Service Level Agreements (SLA) for Online Services
+Service Level Agreement | Citrix Cloud
+Service delivery location
+This Service is delivered from Belgium, The Netherlands and Romania.
+Conditions
+Customer has been validated by Cegeka that Citrix CSP licenses can be delivered, service is excluded from Premier Commercial and Enterprise customer types defined by Citrix.
+Direct network connectivity to the Cegeka Shared License environment is required to license certain Citrix components.
+Management of the Citrix environment is performed by Cegeka.
+Compute of Netscaler VPX is not included in the service.
+This Service applies to the following platform components:
+Citrix Virtual Apps and Desktops
+Citrix DaaS
+Citrix Netscaler
+Out of scope
+Licensing of other Citrix products not included in Citrix Universal Hybrid Multi-Cloud.
+Cross-functional services
+In order to guarantee the Service quality, Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's.

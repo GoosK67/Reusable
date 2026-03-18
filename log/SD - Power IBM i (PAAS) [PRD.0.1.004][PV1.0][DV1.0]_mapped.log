@@ -1,0 +1,18 @@
+[2026-03-18 14:42:00] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:00] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:42:00] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 14:42:00] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 14:42:00] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:42:00] XML→DOCX OK → output\docx\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 14:47:46] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:47:46] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:47:46] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 14:47:46] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 14:47:46] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:47:46] XML→DOCX OK → output\docx\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:01:35] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:36] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:01:36] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 15:01:36] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 15:01:36] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 15:01:36] XML→DOCX OK → output\docx\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped_FINAL.docx

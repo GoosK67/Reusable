@@ -1,0 +1,33 @@
+[2026-03-18 14:28:03] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 14:28:03] HTML saved: extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 14:28:03] extract_html OK
+[2026-03-18 14:28:04] START parse_html for: extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 14:28:04] PARSE OK → output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 14:49:46] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 14:49:46] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 14:49:46] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 14:49:46] HTML saved: extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 14:49:46] extract_html OK
+[2026-03-18 14:49:46] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 14:49:47] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 14:49:47] PARSE OK → output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 14:49:47] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 14:49:47] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 14:49:47] auto_map OK → output\mapped\SD - Generic - Site-to Site VPN_mapped.json
+[2026-03-18 14:49:47] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - Site-to Site VPN_mapped.xml
+[2026-03-18 14:49:47] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - Site-to Site VPN_mapped.xml
+[2026-03-18 14:49:47] PIPELINE OK
+[2026-03-18 15:03:33] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 15:03:33] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 15:03:34] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Generic - Site-to Site VPN.docx
+[2026-03-18 15:03:34] HTML saved: extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 15:03:34] extract_html OK
+[2026-03-18 15:03:34] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 15:03:34] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - Site-to Site VPN.html
+[2026-03-18 15:03:34] PARSE OK → output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 15:03:34] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 15:03:34] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - Site-to Site VPN.json
+[2026-03-18 15:03:34] auto_map OK → output\mapped\SD - Generic - Site-to Site VPN_mapped.json
+[2026-03-18 15:03:34] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - Site-to Site VPN_mapped.xml
+[2026-03-18 15:03:34] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - Site-to Site VPN_mapped.xml
+[2026-03-18 15:03:35] PIPELINE OK

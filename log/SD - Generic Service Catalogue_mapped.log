@@ -1,0 +1,39 @@
+[2026-03-18 14:42:45] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic Service Catalogue_mapped.xml
+[2026-03-18 14:42:45] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:42:45] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 14:42:45] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibilities'
+[2026-03-18 14:42:45] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:42:45] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service description'
+[2026-03-18 14:42:45] Filled SDT 'PRODUCT_SUMMARY' with XML section 'ISAE reporting'
+[2026-03-18 14:42:45] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibility'
+[2026-03-18 14:42:45] Filled SDT 'SERVICE_DESCRIPTION_LINK' with XML section '7.3.2	Service description'
+[2026-03-18 14:42:45] Filled SDT 'KEY_FEATURES' with XML section 'Governance and organization'
+[2026-03-18 14:42:45] Filled SDT 'SLA_KPI' with XML section 'Service Health'
+[2026-03-18 14:42:47] TOTAL SDT FIELDS FILLED: 10
+[2026-03-18 14:42:47] XML→DOCX OK → output\docx\SD - Generic Service Catalogue_mapped_FINAL.docx
+[2026-03-18 14:48:25] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic Service Catalogue_mapped.xml
+[2026-03-18 14:48:25] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:48:25] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 14:48:25] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibilities'
+[2026-03-18 14:48:25] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:48:25] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service description'
+[2026-03-18 14:48:25] Filled SDT 'PRODUCT_SUMMARY' with XML section 'ISAE reporting'
+[2026-03-18 14:48:25] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibility'
+[2026-03-18 14:48:25] Filled SDT 'SERVICE_DESCRIPTION_LINK' with XML section '7.3.2	Service description'
+[2026-03-18 14:48:25] Filled SDT 'KEY_FEATURES' with XML section 'Governance and organization'
+[2026-03-18 14:48:25] Filled SDT 'SLA_KPI' with XML section 'Service Health'
+[2026-03-18 14:48:27] TOTAL SDT FIELDS FILLED: 10
+[2026-03-18 14:48:27] XML→DOCX OK → output\docx\SD - Generic Service Catalogue_mapped_FINAL.docx
+[2026-03-18 15:02:15] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic Service Catalogue_mapped.xml
+[2026-03-18 15:02:15] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:02:15] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 15:02:15] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibilities'
+[2026-03-18 15:02:15] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:02:15] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service description'
+[2026-03-18 15:02:15] Filled SDT 'PRODUCT_SUMMARY' with XML section 'ISAE reporting'
+[2026-03-18 15:02:15] Filled SDT 'CLIENT_RESPONSIBILITIES' with XML section 'Responsibility'
+[2026-03-18 15:02:15] Filled SDT 'SERVICE_DESCRIPTION_LINK' with XML section '7.3.2	Service description'
+[2026-03-18 15:02:15] Filled SDT 'KEY_FEATURES' with XML section 'Governance and organization'
+[2026-03-18 15:02:15] Filled SDT 'SLA_KPI' with XML section 'Service Health'
+[2026-03-18 15:02:16] TOTAL SDT FIELDS FILLED: 10
+[2026-03-18 15:02:16] XML→DOCX OK → output\docx\SD - Generic Service Catalogue_mapped_FINAL.docx

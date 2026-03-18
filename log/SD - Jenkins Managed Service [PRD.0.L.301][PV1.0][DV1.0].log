@@ -1,0 +1,47 @@
+[2026-03-18 14:27:55] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:27:55] HTML saved: extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:27:55] extract_html OK
+[2026-03-18 14:27:56] START parse_html for: extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:27:56] PARSE OK → output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:42:14] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:42:14] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:42:15] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:42:15] HTML saved: extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:42:15] extract_html OK
+[2026-03-18 14:42:15] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:42:15] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:42:16] PARSE OK → output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:42:16] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:42:16] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:42:16] auto_map OK → output\mapped\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.json
+[2026-03-18 14:42:16] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:16] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:16] PIPELINE OK
+[2026-03-18 14:48:00] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:48:00] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:48:00] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 14:48:00] HTML saved: extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:48:00] extract_html OK
+[2026-03-18 14:48:00] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:48:00] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 14:48:00] PARSE OK → output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:48:00] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:48:00] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 14:48:00] auto_map OK → output\mapped\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.json
+[2026-03-18 14:48:01] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:48:01] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:48:01] PIPELINE OK
+[2026-03-18 15:01:49] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 15:01:49] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 15:01:49] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Cegeka Cloud Services & Solutions\[PRD.0.L.301] Jenkins Managed Service\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].docx
+[2026-03-18 15:01:50] HTML saved: extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 15:01:50] extract_html OK
+[2026-03-18 15:01:50] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 15:01:50] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].html
+[2026-03-18 15:01:50] PARSE OK → output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 15:01:50] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 15:01:50] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0].json
+[2026-03-18 15:01:50] auto_map OK → output\mapped\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.json
+[2026-03-18 15:01:50] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:50] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:51] PIPELINE OK

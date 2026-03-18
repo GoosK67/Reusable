@@ -1,0 +1,47 @@
+[2026-03-18 14:27:47] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:27:48] HTML saved: extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:27:48] extract_html OK
+[2026-03-18 14:27:48] START parse_html for: extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:27:48] PARSE OK → output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:42:35] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:42:35] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:42:35] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:42:35] HTML saved: extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:42:35] extract_html OK
+[2026-03-18 14:42:35] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:42:36] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:42:36] PARSE OK → output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:42:36] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:42:36] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:42:36] auto_map OK → output\mapped\SD - Generic - OS Management Windows_mapped.json
+[2026-03-18 14:42:36] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 14:42:36] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 14:42:37] PIPELINE OK
+[2026-03-18 14:48:18] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:48:18] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:48:19] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 14:48:19] HTML saved: extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:48:19] extract_html OK
+[2026-03-18 14:48:19] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:48:19] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 14:48:19] PARSE OK → output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:48:19] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:48:19] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 14:48:19] auto_map OK → output\mapped\SD - Generic - OS Management Windows_mapped.json
+[2026-03-18 14:48:19] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 14:48:19] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 14:48:20] PIPELINE OK
+[2026-03-18 15:02:08] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 15:02:08] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 15:02:08] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - OS Management Windows.docx
+[2026-03-18 15:02:09] HTML saved: extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 15:02:09] extract_html OK
+[2026-03-18 15:02:09] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 15:02:09] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - OS Management Windows.html
+[2026-03-18 15:02:09] PARSE OK → output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 15:02:09] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 15:02:09] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - OS Management Windows.json
+[2026-03-18 15:02:09] auto_map OK → output\mapped\SD - Generic - OS Management Windows_mapped.json
+[2026-03-18 15:02:09] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 15:02:09] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - OS Management Windows_mapped.xml
+[2026-03-18 15:02:09] PIPELINE OK

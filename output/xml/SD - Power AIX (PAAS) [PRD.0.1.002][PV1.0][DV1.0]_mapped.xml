@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ServiceDescription>
+  <Section name="UNCLASSIFIED">
+    <Header>UNCLASSIFIED</Header>
+    <Category>GENERAL</Category>
+    <Content>I SD - Power AIX (PAAS) Prepared by: ludo.quirynen@abnamrocomfin.com Date: [Publish Date] Cegeka reference: &lt;Comments&gt; CONFIDENTIAL</Content>
+  </Section>
+  <Section name="Document history">
+    <Header>Document history</Header>
+    <Category>GENERAL</Category>
+    <Content>Version Date Comment Author 0.1 01/08/2022 First draft Ludo Quirynen Table of contents Document history	2 1	Service description	5 1.1	Service summary	5 1.2	Service description: features and functionalities	5 1.3	Standard services	5 1.3.1	Landing zone	5 1.3.1.1	Governance	5 1.3.1.2	Technical:	5 1.3.2	CPC Power AIX PaaS service description	6 1.3.2.1	Single Lpar build	6 1.3.2.2	Dual Lpar build:	6 1.3.2.3	Set up activities	6 1.4	Optional services	6 1.5	Operational services	7 1.5.1	Incident &amp; Problem Management	7 1.5.2	Availability Management	7 1.5.3	User &amp; Access Management	7 1.5.4	Patching	7 1.5.5	Lifecycle Management (LCM)	8 1.5.6	Security	8 1.5.7	Capacity Management	8 1.5.8	License Management (LM)	8 1.5.9	Responsibility matrix	9 1.6	Eligibility and Prerequisites	10 1.6.1	Out of scope	10 1.6.2	Conditions	10 1.7	Service Support	10 1.7.1	Service level agreement	10 1.7.1.1	Service Hours	10 1.7.1.2	Incident priority	10 1.7.1.3	Service Level	10 1.7.1.4	Disaster recovery	11 1.7.2	Monitoring &amp; Reporting	11 1.8	Order &amp; billing information	11 1.8.1	SKU’s	11 1.8.2	Recurring options	12 1.8.3	Non-recurring options - Standard changes	13 1.8.4	Non - Standard changes	13</Content>
+  </Section>
+  <Section name="Service description">
+    <Header>Service description</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service summary">
+    <Header>Service summary</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The CPC Power AIX PaaS service is the platform-based solution that virtualizes and brings the customer’s Power AIX environment to the cloud using a scalable model based on IBM power systems.</Content>
+  </Section>
+  <Section name="Service description: features and functionalities">
+    <Header>Service description: features and functionalities</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>This service provides Power AIX based Lpars for which initial setup and recurring services are provided. Supported operating system is 7.1 or higher (*). It gives your business peace of mind with disaster recovery and high availability solution (HA/DR). This includes cold and warm off-site recovery depending on the scenario adopted. Two types of deployments are provided: (*) Although AIX 6.1 is out of supported by IBM since May 2017, we can provide support (Base Level 6100-09-03) on best effort for legacy AIX environments. AIX 7.1 is supported on IBM Power 9 systems or older.</Content>
+  </Section>
+  <Section name="Standard services">
+    <Header>Standard services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Cegeka provides the standard services listed below, however the SLA will determine:</Content>
+  </Section>
+  <Section name="Landing zone">
+    <Header>Landing zone</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="CPC Power AIX PaaS service description">
+    <Header>CPC Power AIX PaaS service description</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The setup of a single Lpar on a power system including following building stones (in this scenario there is no high availability Lpar provided to ensure redundancy) Setup up of a primary Lpar along with a 2 nd Lpar to ensure high availability.</Content>
+  </Section>
+  <Section name="Operational services">
+    <Header>Operational services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Incident &amp; Problem Management">
+    <Header>Incident &amp; Problem Management</Header>
+    <Category>SUPPORT</Category>
+    <Content>Based on incidents logged by monitoring, Cegeka proactively takes the following actions:</Content>
+  </Section>
+  <Section name="Availability Management">
+    <Header>Availability Management</Header>
+    <Category>GENERAL</Category>
+    <Content>This service is based on the Cegeka Cloud platform which has the following availability targets: Above targets apply as SLA for the operating services running on the Cegeka power cloud platform. For services running on customer premise or in the public cloud these targets apply as SLO (Service Level Objectives) as Cegeka is not responsible for the underlaying infrastructure.</Content>
+  </Section>
+  <Section name="Backup, Restore, Disaster Recovery">
+    <Header>Backup, Restore, Disaster Recovery</Header>
+    <Category>GENERAL</Category>
+    <Content>Following features are included in this service</Content>
+  </Section>
+  <Section name="User &amp; Access Management">
+    <Header>User &amp; Access Management</Header>
+    <Category>GENERAL</Category>
+    <Content>The Cegeka CPC team members need to have credentials with (adopted) full rights, in order to allow to setup, configure, and administer the Lpar.  As part of standard changes, users and accesses can be created, modified or removed by Cegeka. Administrator account will always be managed by Cegeka</Content>
+  </Section>
+  <Section name="Patching">
+    <Header>Patching</Header>
+    <Category>GENERAL</Category>
+    <Content>Patching of the Power AIX Lpars is defined at the start of the contract with a mandatory minimum of once per year for compliance reasons.</Content>
+  </Section>
+  <Section name="Lifecycle Management (LCM)">
+    <Header>Lifecycle Management (LCM)</Header>
+    <Category>GENERAL</Category>
+    <Content>CPC lifecycle management will follow the IBM release life cycle for the OS installed on the Lpar. IBM will announce end of program support date with at least 12 months’ notice prior to the effective termination date. Customers with Lpars that are in the last 12 months of the support cycle will be informed and encouraged to upgrade to more recent OS version. Customer not in a position or willing to upgrade can make use of the IBM service extension offering. On expiration of this extended offering, customers will still have to upgrade or sign a risk waiver. For the hardware lifecycle management, we refer to the underlaying IaaS service description.</Content>
+  </Section>
+  <Section name="Security">
+    <Header>Security</Header>
+    <Category>SECURITY</Category>
+    <Content>Cegeka has defined a security baseline. It describes the Cegeka recommended security rules to achieve an appropriate level of security on Power systems and the CPC environment. The result is the balance between the vendor and Cegeka recommendations and what is practically feasible. Customers can, in consultation with Cegeka, have their additional security baselines implemented on request and at additional cost. However, these must not prevent Cegeka from properly managing the systems or from fulfilling its service responsibility on the Lpar.</Content>
+  </Section>
+  <Section name="Capacity Management">
+    <Header>Capacity Management</Header>
+    <Category>GENERAL</Category>
+    <Content>Capacity management of the CPC environment is included in this service in order to guarantee necessary resources for current and future business. In this regard, Cegeka is entitled to switch LPARS between Power servers and customer needs to apply for new license keys if necessary. Customers are informed about capacity related activities only if customer impact is expected.</Content>
+  </Section>
+  <Section name="License Management (LM)">
+    <Header>License Management (LM)</Header>
+    <Category>LICENSE</Category>
+    <Content>This service has the Cegeka Cloud Services included. License Categories administration capacity compliancy Cegeka Cloud Services Cegeka Cegeka Cegeka Customer owned applications licenses Customer Customer Customer Examples of Cegeka cloud services are: shared internet bandwidth, Firewall service, Virtual Machine Service Storage service and operating system. Examples of “Cloud independent” services are: database management, services and Technical Application Management Administration of licenses involves: License compliancy Customer remains accountable and responsible for license compliancy for all licenses not included in the Cegeka Cloud Services service.</Content>
+  </Section>
+  <Section name="Responsibility matrix">
+    <Header>Responsibility matrix</Header>
+    <Category>GENERAL</Category>
+    <Content>ACTIVITY MATRIX Customer CEGEKA Service desk / TSC CI R Governance (service management) CI R Fire wall CI R S2S VPN R CI Single Lpar setup I R Dual Lpar setup I R Service time CI R Compute per hour CI R Standard changes CI R Flash copy implementation CI R Switch test CI R Add/remove Hardware CI R Monitoring &amp; reporting CI R Data &amp; Software CI R Security CI R Audit &amp; testing CI R Tape handling CI R Snapshot management CI R Incident management CI R Capacity management CI R Availability management CI R User &amp; Access management CI R Lifecycle management CI R Security CI R Hardening, privacy, compliancy &amp; logging CI R License management CI R Add/remove monitored item CI R Migration from single to dual Lpar CI R Migration form dual to single Lpar CI R Decommission Lpar CI R Patch management CI R R esponsible: The party who is responsible for the execution of the activity. C onsulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. I nformed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.</Content>
+  </Section>
+  <Section name="Eligibility and Prerequisites">
+    <Header>Eligibility and Prerequisites</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Out of scope">
+    <Header>Out of scope</Header>
+    <Category>SCOPE</Category>
+    <Content>Everything that is not included in this service description is by default out of scope.</Content>
+  </Section>
+  <Section name="Conditions">
+    <Header>Conditions</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service Support">
+    <Header>Service Support</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service level agreement">
+    <Header>Service level agreement</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>This section describes which service level agreements are applicable for this service Incidents, related to this Service have a priority of P3 by default. The following table indicates which types of incidents have a higher priority. INCIDENT Priority Production unavailable for multiple users P1 Non-production unavailable for multiple users P2 Incidents are resolved with the following time frames: PRioriy WINDOW MAX RESOLUTIOn TIME P1 Service Hours &lt;  4 hours P2 Cegeka Office Hours &lt;  8 hours P3 Cegeka Office Hours &lt;  24 hours P4 Cegeka Office Hours &lt;  48 hours The resolution time measurement is based on the incident tickets, registered in the Cegeka ITSM. For P3 and P4 incidents, a minimum of 20 incidents must be registered in order for the resolution time measurements to be valid. RPO RTO For service levels that include dual setup systems, the target system will be available within the timeframe of the previous switch test time plus 50%. Service levels that include single setup systems have an RTO that is equal to the time of the yearly restore test plus 50%. Architecture RTO (hours) RPO (hours) Single lpar Last restore time + 50% 24 hours Dual lpar Last switch test time + 50% Last transaction</Content>
+  </Section>
+  <Section name="Monitoring &amp; Reporting">
+    <Header>Monitoring &amp; Reporting</Header>
+    <Category>MONITORING</Category>
+    <Content>Cegeka has built a unique and tailored monitoring solution that offers a clear view on the performance and availability of this service. It also keeps track of historical data allowing to visualize trends. Additionally, several components of the infrastructure make us of a ‘call home’ function that will be triggered in case of a technical issue.</Content>
+  </Section>
+  <Section name="Order &amp; billing information">
+    <Header>Order &amp; billing information</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="SKU’s">
+    <Header>SKU’s</Header>
+    <Category>GENERAL</Category>
+    <Content>Service numbers Name SKU Unit Horizon SKU Virtual OS Gold per managed server Horizon SKU Virtual OS Silver per managed server Horizon SKU Virtual OS Bronze per managed server Measurement A report is generated on a monthly basis, this report is based on the CMDB and lists all servers and service details for which a Cegeka datacentre – Managed Windows OS Service is delivered. Calculation (“Price/Unit” x “Quantity of Virtual – Gold Units”) + (“Price/Unit” x “Quantity of Virtual – Silver Units”) + (“Price/Unit” x “Quantity of Virtual – Bronze Units”).</Content>
+  </Section>
+  <Section name="Recurring options">
+    <Header>Recurring options</Header>
+    <Category>GENERAL</Category>
+    <Content>Consultancy : Business value: Analyze and detect potential risks and weaknesses in your environment. Business value: know where you stand, be aware of what can happen and Setup a first line of defense. Business value: know what happens on your systems. Business value: avoid system downs (HA), reduced recovery times in case of disaster. Security Services Business value: system monitoring makes sure that problems of all sort of nature are detected in time so we can react adequately. Additional services Business value: The most important is that you stay on a release which is supported by IBM so you can get support in case of problems. Problems in previous releases are solved. New techniques concerning security and cyber resilience are deployed. Business value: Applying fixes on a regular basis is important as on any platform. It prevents you from having problems which are already known from other customers and which are already solved. Business value: Upgrading your hardware to the latest firmware levels ensures that all the components in your infrastructure stay compatible with each other. Business value: With Live Partition Mobility you can migrate from one server to another without any down time. Business value: Storage replication ensures high availability in case one site goes down for some reason. Systems are replicated to a fail over site and can be brought up immediately in case of failure of the other side. Business value: Permanent surveillance of the customer’s equipment. First line is located in Romania. Second and third line is performed by people in Belgium. Business value: Customer can create tickets time of day. If needed customers can contact service managers. Permanent follow up by service managers.</Content>
+  </Section>
+  <Section name="Non-recurring options - Standard changes">
+    <Header>Non-recurring options - Standard changes</Header>
+    <Category>GENERAL</Category>
+    <Content>Standard changes are defined and executed after mutual agreement between the customer and Cegeka on a as need basis.</Content>
+  </Section>
+  <Section name="Non - Standard changes">
+    <Header>Non - Standard changes</Header>
+    <Category>GENERAL</Category>
+    <Content>Non-standard changes are billed in time &amp; material or at fixed price if defined in the Request For Change (RFC) process. Security Services Business value: SSO elevates user experience (only remember one password). SSO saves time. Single sign-on improves speed where it matters the most. ... SSO helps with regulatory compliance (same rules on each system for each user) Cuts down IT Helpdesk costs Business value: Centralized user management. Same advantages is for SSO Business value: apply security according to your business needs. Business value: Simplifies security management. Business value: With Live Partition Mobility you can migrate from one server to another without any down time. Business value: Storage replication ensures high availability in case one site goes down for some reason. Systems are replicated to a fail over site and can be brought up immediately in case of failure of the other side. Business value: PowerHA ensures business continuity in case of one site going down. PowerHA switches automatically to the other site. Business value: A performance study that gives insight in the bottlenecks (if any) on your machine. It allows to identify peak moments. When performed on a regular basis it gives you a situation to compare with when a machine is having difficulties. It allows for capacity planning in the future. Business value: Flash Copy snapshots allow you to create point in time situation to which you can return when rolled back. It can be used as a sort of copy when performing release upgrades, applying fixes etc… to which you can return if the intended action fails. It can also be used (in combination with full services flash copy toolkit) to reduce backup windows to practically 0. Business value: Compute on demand can be useful if you need resources (e.g. processor power) for a small amount of time. E.g. if you just need it at the end of the month and not the whole time. You can ask for more resources only when you need it. Business value: SVC allows you to share storage among different systems. You can add, remove, move storage capacity on a very flexible basis. It lowers the cost when you compare it to systems which have all their own storage. SVC has functionalities which makes managing storage easy: Easy replication (metro and global mirroring) Easy making duplicates via snapshots (snapshot, clone, backup) Business value: Immutable data copy/ backup copy allows you to create a backup which is 100% safe from being corrupted or changed by malicious software like ransom software. The backup copy is checked and verified and can’t be changed afterwards. These immutable copies allow for fast recovery if needed. Business value: A very experienced team of engineers can assist you to perform all sorts of migrations. Our experience in the field is our biggest advantage. Business value: A very experienced team of engineers can assist you to perform all sorts of migrations. Our experience in the field is our biggest advantage. Business value: Again, years of experience in the field is our advantage. It allows us to assist the customer where needed. Business value: a platform is created, maintained, optimized and monitored in which the customer’s applications can run Business value: If appropriate the customer can ask for an engineer who will be working for them on a permanent basis. Business value: Years of experience in the field and knowledge of the product. Business value: This way the customer can have a backup which is located remote. Business value: Power VC is interesting when customer has a lot of partitions to manage and when the environment changes frequently. E.g. creation and deletion of lpars, zoning etc… Business value: Centrally manage security and compliance on for all IBMi, AIX® and Linux® on Power endpoints. Facilitate security management when you have a mixed environment. Business value: Allows a customer to move to the cloud without rewriting or refactoring Business value: Replication on storage level with automatic fail over when needed. The machine decides when to swap to the opposite site. Business value: Set up and exploit backups by an experienced team of engineers. Business value: Set up and exploit Tape drives by an experienced team of engineers.</Content>
+  </Section>
+</ServiceDescription>

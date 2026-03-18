@@ -1,0 +1,16 @@
+[2026-03-18 14:49:01] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:01] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:49:01] Filled SDT 'CLIENT_NEEDS' with XML section 'SKU overview'
+[2026-03-18 14:49:01] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Support window'
+[2026-03-18 14:49:01] Filled SDT 'SLA_KPI' with XML section 'Specific service levels'
+[2026-03-18 14:49:01] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 14:49:01] TOTAL SDT FIELDS FILLED: 5
+[2026-03-18 14:49:01] XML→DOCX OK → output\docx\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:02:49] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:02:49] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:02:49] Filled SDT 'CLIENT_NEEDS' with XML section 'SKU overview'
+[2026-03-18 15:02:49] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Support window'
+[2026-03-18 15:02:49] Filled SDT 'SLA_KPI' with XML section 'Specific service levels'
+[2026-03-18 15:02:49] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 15:02:49] TOTAL SDT FIELDS FILLED: 5
+[2026-03-18 15:02:49] XML→DOCX OK → output\docx\SD - eXperience Management [PRD.7.2.001][PV1.0][DV1.0]_mapped_FINAL.docx

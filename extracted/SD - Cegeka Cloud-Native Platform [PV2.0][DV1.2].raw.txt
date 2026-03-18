@@ -1,0 +1,673 @@
+ 
+ 
+
+
+
+
+
+
+
+
+
+Introduction
+About the document
+This document is the service description of Cegeka’s Cloud-Native Platform. 
+
+The service description details what is part of the offered service and how the service is delivered. This includes the way the service is setup, how the service is managed after the setup and which types of service levels are provided when delivering the service. 
+
+It also describes the prerequisites which must be fulfilled to deliver the service and what subjects of the service are considered out-of-scope.
+
+Finally, the document provides a comprehensive RACI, detailing the roles and responsibility for both Cegeka and the customer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service introduction
+
+
+
+Cegeka’s Cloud-Native Platform enables customers to deploy scalable cloud native applications. 
+
+By using the provided container orchestrator and associated cloud native tooling, everything is at hand to build and deploy cloud native applications supporting DevSecOps principles which leads to shorter delivery times, scalable & flexible applications and increased automation.
+
+
+Cegeka’s Cloud-Native Platform provides a managed service on 3 distinct layers:
+
+Layer 1 - Managed infrastructure
+A container platform relies on infrastructure. Compute, storage, networking components, etc… are all crucial components to host a container platform. With Cegeka’s Cloud-Native Platform, the infrastructure is fully managed as a service. The servicing includes but is not limited to provisioning, maintenance, life cycle management, incident management, problem management and overall support. 
+Cegeka’s Cloud-Native Platform can be deployed on two types of cloud infrastructure:
+Public Cloud (eg. Azure cloud) for scalability & cost-savings 
+Private Cloud (eg. Cegeka cloud) for scalability but without GDPR/confidentiality issues
+
+
+
+
+Layer 2 - Kubernetes container orchestration
+The second layer is the container platform, hosted on top of the infrastructure layer. The container platform is based on Kubernetes, a community supported container orchestrator. 
+As part of Cegeka’s Cloud-Native Platform, the container orchestrator is fully managed as a service. Similar to Layer 1, this servicing includes provisioning, maintenance, lifecycle management, incident management, problem management and overall support. 
+Next to the container orchestration layer, the platform is enriched with standard tooling to support running applications on the platform. Layer 2 provides:
+Persistent storage - three types of persistent storage are available within the platform:
+Blob (object) storage
+Block storage
+File storage
+Basic Platform components: A Kubernetes cluster requires standard tooling to support deploying, running and interacting with applications on the platform. These tools are provided by Cegeka as part of the service.
+Base Observability tooling: Logging and metrics tools that provide an insight in applications running on the platform. Application logs and metrics are shown in standard dashboards which are part of the platform, including the possibility to create custom dashboards. Details of these tools can be found in chapter 4.3
+Documentation portal: A dynamic webportal provides you with information on your cluster and how to access it, as well as detailed information on the tools which are part of the service (see Layer 3). The documentation portal acts as a dynamic user manual, automatically tailored to the tools and features that are active on the platform. 
+
+
+Layer 3 - Cloud-native tooling
+Cloud native applications are built, deployed, managed, and observed using an ecosystem of tools. Besides, these cloud native applications typically consisting of different microservices, rely on technologies that make it possible to ensure systems are loosely coupled (eg. message busses, API gateways,…)
+Cegeka’s Cloud-Native Platform Layer 3 aims to deliver this ecosystem in an easy and integrated way, ensuring it is fully managed and kept up to date. As part of the service, only the technical management of the tools is delivered, and no functional management is part of the service.
+The following tooling categories are available - for a customer to chose from - and can be added to the  platform. Each supported tool is discussed in detail in chapter 4.3
+CI/CD tooling: Enabling you to realize your DevSecOps journey through orchestration, GitOps, integration and quality control.
+Advanced Observability tooling: Layer 2 provides basic observability tooling which offers an insight into the running applications through logging and metrics. In Layer 3 advanced observability tooling is provided through distributed tracing, including further integration with the metrics and logging tooling. Cegeka’s Cloud-Native Platform embraces the OpenTelemetry standard and will provide support for custom tracing (through application code). This complete observability toolset provides an invaluable advantage when running cloud native applications.
+Security tooling, necessary to allow vulnerability and/or compliance scanning, integrate web application firewalling functionality, secure container communication (via a service mesh) and an API gateway are all included and available out of the box. 
+Advanced platform tooling, typically part of any container platform, such as an automatic PKI certification issuing system, a vault, a container registry and the Kubernetes dashboard are part of the platform.
+App Stack components: A cloud native application landscape has a lot of challenges. There are tools out there to solve these problems and to provide the functionality you need. Examples of such tools include Kafka (event streaming), RabbitMQ (message broker), Apache Spark (stream processing), etc…
+Other cloud native tooling: The Cloud Native Computing Foundation provides a detailed overview of all cloud native tools. This is a very extensive list of tools which have general or more specific purposes. Extra cloud native tooling from this list can be added to the platform. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service overview
+Service deployment types
+The service is available in 4 deployment types: Local Redundant, Zone Redundant (Azure public cloud only), Geo-Zone Redundant (Azure public cloud only) and Disaster Recovery (Cegeka private cloud only). Below you can find a high-level description of these deployment types, detailing the general use cases for each type:
+Local Redundant (LR): Intended for non-production environments. This setup makes use of Kubernetes’ redundancy capabilities by having multiple VMs as part of the cluster. Depending on the available spare capacity in the platform, nodes can be lost as part of the cluster with limited impact. No site or zone-redundancy is available.
+Disaster Recovery (DR): This setup is only available in the Cegeka private cloud. Intended for production environments with high business criticality. The setup can be described as the Local Redundant flavor being set-up twice, both set up in a different datacenter. In case of disaster, where one datacenter would become unavailable, the second datacenter serves as back-up. On top, 24/7 support is included in this service.
+On network level, the firewall and loadbalancer are streched over both datacenters and provide seamless failover in case of disaster. Clusters are located in dedicated VLANs which are only used within that site. Storage replication is performed on the application level. Selected data inside the platform is actively synced over the two datacenters in an asynchronous way to enable failover to the other datacenter.
+
+
+Illustration: Local Redundant vs Disaster Recovery
+
+Zone Redundant (ZR): This setup is only available on Azure public cloud. Intended for production environments, up to high business criticality. This setup consists of 3 availability zones (datacenters). The Kubernetes cluster is stretched over the zones with an equal number of nodes in every zone. By relying on multiple zones, a single zone can fail without interruption of availability. All zones are located within a single-geo location. On top, 24/7 support is provided on the platform.
+Geo-Zone Redundant (GZR): This setup is only available on Azure public cloud. Intended for production environments with very-high business criticality. The setup can be described as the Zone Redundant flavor being deployed twice, each deployment in a different geo-location. In case of disaster, where one geo-location would become unavailable, the second geo-location serves as back-up. The service entails both site- and zone-redundancy. On top, 24/7 support is provided on the platform.
+On network level, the layer 2 VLANs are contained within a single site, failover to the other site is handled at the IP layer (Layer 3). This network setup is the most robust one and recommended. Selected data inside the platform is actively synced in an asynchronous way over the 2 geo-locations to enable failover to the other geolocation. 
+
+
+Illustration: Zone Redundant vs Geo-Zone Redundant
+
+
+
+
+Service table
+The following overview shows the different services items part of the managed service, which are included by default and which ones are considered optional.
+Recap:
+service deployment type LR is available on both Cegeka & Azure Cloud
+service deployment types ZR and GZR are only available on Azure Cloud
+service deployment type DR is only available on the Cegeka Cloud
+
+Service table - Cloud-Native Platform on Cegeka Cloud 
+* 	Cegeka plans and executes patches, customer is informed about planned patches
+
+Service table - Cloud-Native Platform on Azure Cloud 
+
+* 	Cegeka plans and executes patches, customer is informed about planned patches
+** 	Another geo-location is required if Cegeka’s private cloud is one of the geo locations.
+
+
+Service Setup
+Platform setup
+Cegeka’s Cloud-Native Platform is automatically provisioned by Cegeka and consists of a number of components, which will be discussed in detail in the following sections.
+
+
+Platform Foundation
+The Platform Foundation is an essential and mandatory component of the service, dedicated per customer and deployed once per geo location. It contains the network layer, security components (eg. a firewall and web application firewall, loadbalancer) and the management cluster used by Cegeka to provision and manage the customer’s environment. Note: the management cluster is not accessible by the customer. 
+
+Once the Platform Foundation is in place, all required components are available to start deploying workload clusters.
+
+Workload Clusters 
+One or more workload clusters can be added to the customer’s environment. As an example, the diagram below illustrates the deployment and availability of a single workload cluster. 
+
+
+
+
+A workload cluster consist of different types of nodes:
+System nodes, hosting the Kubernetes core components and managed by Cegeka. Each cluster consists of 3x system nodes. Depending on the size of the workload cluster, the resource sizing of the system node may vary. 
+System nodes are not suited, nor available for hosting customer applications and are crucial to the cluster at any given moment.
+
+Tooling nodes, hosting cloud native tools which provide additional services and functionality to the platform. The different cloud native tools which are (or can be) deployed on tooling nodes are described in further detail - see chapters 4.2 and 4.3
+Just like the system nodes, tooling nodes are not suited, nor available for hosting customer applications.
+User nodes, hosting the customer’s actual application(s).
+
+
+Node pools
+For each of these types of nodes, there is a corresponding node pool. Node pools are required to avoid interference between the customer’s applications and the services provided and managed by Cegeka.
+
+A node pool is a logical group of nodes marked for a specific purpose and is sized based on the load it must sustain. The number of nodes within each node pool are scalable in function of application resource demand.
+
+
+Node sizing
+
+Sizing of the tooling nodes depends on the amount of tools deployed within the platform. By default a minimum of 2x tooling nodes are included in a workload cluster. If more resources are needed, extra tooling nodes will be added to the platform. The number of tooling nodes will also take into account high availability to withstand the loss of at least 1 tooling node.
+For bigger tools like Elasticsearch or a heavy loaded Apache Kafka cluster, additional dedicated node pools can be created. The sizing of these nodes will then be calculated based on the needs of the tool.
+Sizing of the user nodes depends on the requirements of the running application(s): some applications are more CPU intensive, others more memory demanding. The memory to cpu -ratio can be adjusted for user node pools. As a baseline configuration, we typically use nodes with 8 CPU’s and 32GB of memory, with an optimal resource load of 70-80% during usage. By default a minimum of 2x user nodes are included in a workload cluster.
+If the Cloud-Native Platform is deployed on Cegeka private cloud infrastructure, persistent storage volumes are created through the use of the Ceph cloud native tool or by integrating with Global Ops storage services. Ceph1 provides a unified solution for object storage, block storage, and file storage within a single cluster. Using Ceph requires a number of dedicated storage nodes for every workload cluster. If integration with the shared GlobalOps storage solutions is selected, this is added as another product next to the Cloud-Native Platform.  
+
+1 Storage volumes will be discussed in detail in section 4.1.3
+
+
+
+1 Ceph storage nodes only applies to Cloud-Native Platform deployments on Cegeka private cloud infrastructure if Ceph storage is selected.
+2 Since Ceph uses a mirror or 4+2replication setup - comparable to RAID6 in a disk array - the raw storage capacity amounts to 1.5TB with 6 nodes, or 1TB netto storage capacity in case of 4+2 and to 750 GB for mirrored storage, which by default is the minimum amount of netto storage per cluster. Data stored on Ceph volumes will be backed up by the Cegeka centralized Commvault backup solution.
+3 For every extra disk on a Ceph node, 1 vCPU and 6 GB of RAM is added to the node as is required by the Ceph storage system. 
+4 For cluster with lots of data in Ceph, Ceph storage volumes might be bigger in size.
+
+Persistent Storage 
+As part of the platform, persistent storage addresses the need for data persistence and reliability in containerized environments, enabling the effective deployment and scaling of stateful applications while ensuring data integrity and availability. This section describes the different types of persistent storage available within the platform.
+Block Storage
+Definition: With Block storage, data is divided into fixed-sized blocks. Each block acts like a separate unit, and applications can read from or write to these blocks individually. It allows applications to interact with individual blocks of data as if they were locally attached storage devices.
+Application: recommended for stateful applications requiring accessible storage via a mountpoint
+Performance profile: Medium performant
+Backup available: Yes
+Support for DR or Geo Replication: Yes
+Infrastructure as Code capable: Yes
+File Storage
+Definition: File storage organizes data as files within a hierarchical structure, typically using a file system. It provides shared access to files over a network - typically using NFS or SMB protocols - allowing multiple clients to read and write to the same files simultaneously. Commonly used for storing user data, application files, and shared resources in traditional file servers and network-attached storage (NAS) systems.
+Application: recommended for archiving, backup or multi-access purposes
+Performance profile: Low performant
+Backup available: Yes
+Support for DR or Geo Replication: Yes
+Infrastructure as Code capable: Yes
+
+Blob Storage
+Definition: Blob storage is a cloud-based storage service for storing large amounts of unstructured data, like images, videos, or documents. It provides a simple, scalable solution without the need for managing complex file systems or directories. Each piece of data stored in blob storage is called a blob, and it can be accessed over the internet using HTTP or HTTPS protocols. Blob storage is commonly used for media storage, backups, and data archiving in cloud environments..
+Application: recommended for cloud native applications for its easy accessibility. It is also recommended for archiving and storing objects
+Performance profile: Medium performant
+Backup available: Yes
+Support for DR or Geo Replication: Yes
+Infrastructure as Code capable: Yes
+Cegeka shared services integration
+During deployment, the platform components will integrate with the following Cegeka shared services:
+Cegeka CMDB
+Cegeka Monitoring
+Cegeka Backup
+Cegeka Security services
+Cegeka Asset management
+Layer 2 tooling
+The Cloud-Native Platform includes a set of tools required to support any application running on the container platform. These tools can be split in two categories: 
+Basic observability components
+Platform components and Integrations
+
+The following table contains the standard list of tools, which are part of the managed service and available within every workload cluster. Each tool will be discussed in detail in the next sections. 
+
+
+
+
+
+
+
+Basic observability components
+
+Metrics
+This function provides to the platform users the possibility to view metrics of the platform and/or the applications. The tools provided will contain one standard dashboard supporting container platform metrics. The possibility to create new dashboards will be part of the platform. This functionality is delivered as a combination of two tools: a metrics collector (Prometheus) and a dashboard tool (Grafana).
+
+
+
+Logging
+Handling logging on a container platform is not as simple as handling logging on a traditional server. Logs cannot be stored in the container (since it might lose data when restarted) or on a node, since the container might be running on another node a few minutes later. To solve this, logs are collected from containers and stored in a log aggregation tool. Different solutions are available, but we have chosen to use Grafana Loki by default. 
+
+When using Grafana Loki, the Loki datasource will be added to the Grafana dashboards in the platform. This means that dashboards with metrics and logging information in the same dashboard can be made. It also means that users only need to use the Grafana insterface to have both logging and metrics at their disposal.
+
+
+
+
+
+As alternative, the well-known EFK stack is available as well. This stack consists of 3 tools working together: Elasticsearch, Fluentd and Kibana. To collect the logs, we selected Fluentd over Logstash (ELK-stack), since it is best suited for collecting container logging. Note: the EFK stack will require additional licensing.
+
+An EFK stack consists out of 3 tools working together:
+
+
+
+
+
+
+
+
+
+
+
+Kubernetes Dashboard
+To ease administration, better understand and monitor the cluster, the Kubernetes Dashboard will be deployed inside the platform by default.
+
+
+Platform components
+To support applications running on the platform, some additional tools are required to store container images, allow routing of incoming traffi, manage certificates, etc.... 
+This section describes these different features.
+
+Container Registry 
+To be able to build and deploy custom created container images, a container registry is needed. Most customers will have a centralized container registry like Sonatype Nexus, but to make sure a developer is able to locally create and test images, a light-weight container registry is part of the platform.
+
+
+
+Service Mesh
+A service mesh is a tool for adding observability, security, and reliability features to applications by inserting these features at the platform layer rather than the application layer.
+The service mesh is typically implemented as a scalable set of network proxies deployed alongside application code (a pattern sometimes called a sidecar). These proxies handle the communication between the microservices and act as a point at which the service mesh features can be introduced. The proxies comprise the service mesh’s data plane and are controlled by its control plane.
+
+
+Ingress Controller
+To support incoming traffic into the platform, an ingress controller must be deployed inside the container platform. This ingress controller will handle incoming traffic and route it to the correct application. This ingress controller consists out of 2 components. The first one is the loadbalancer, which is traditionally provided by an external component to the platform (Haproxy, Loadbalancer appliance, …). We selected the BigIP F5 loadbalacer for the task to provide a robuust and stable entry point to the platform. The 2nd part is the ingress controller. This runs on the platform and will receive requests from the loadbalancer. The ingress controller is fully aware of the current state of the kubernetes cluster and will be able to route any traffic to the correct application pods.
+For the platform, we decided to use the ingress controller from the service mesh Istio, which is already part of the platform.
+
+For different network traffic towards the platform, different loadbalancer vips and ingress controllers can be setup: e.g. internet or intranet traffic.
+
+
+
+
+Certificate Manager - Public Key Infrastructure (PKI)
+To secure endpoints in a container platform, you need certificates. Generating and managing these certificates can be time consuming and risky (certificate expiration). As part of the platform, we provide a component that creates and manages the certificates that are used by your endpoints. In the base setup of the platform, a base configuration with a self-signed root-certificate is used. All certificates will be signed with this platform root certificate. This system secures your platform for development and test use. 
+
+However, if required, integration with the customer’s PKI or an Internet CA (eg. Let’s Encrypt) is possible.
+
+
+
+
+
+Layer 3 tooling
+As part of the Cloud-Native Platform, a number of industry-standard cloud-native tools can be provided on top of the container platform. These tools have been carefully selected and are regularly updated by our Cegeka experts to ensure all the right tools are available to build, monitor, debug and secure your cloud-native applications.
+
+There are 4 main categories in which the cloud-native tooling can be grouped:
+Advanced Observability components
+Continuous Integration/Continuous Delivery components
+Security & Connectivity components
+App Stack components
+
+
+The following table contains the standard list of tools, which are part of the managed service and available within every workload cluster. Each tool will be discussed in detail in the next sections. 
+
+
+
+Advanced observability components
+Distributed tracing
+As part of the container platform, basic observability tooling is provided, yet when using cloud native tooling, debugging applications becomes exponentially more complex. To be able to follow calls as they move through the system, distributed tracing is a functionality that is unavoidable. 
+
+By default Grafana Tempo is added to the platform as this is fully integrated with the rest of the Grafana stack (Grafana Loki and Grafana dashboarding for Prometheus metrics).  
+As an alternative, Jaeger can be used as well.
+
+
+
+
+
+
+
+CI/CD components
+Code quality
+Maintaining high code quality is essential for ensuring reliable, maintainable, and secure software. Code quality and analysis tools play a pivotal role in this process by automatically inspecting code for potential issues and providing actionable insights to developers. Among the prominent tools in this category is SonarQube.
+
+
+
+
+Orchestration
+In the modern software development landscape, Continuous Integration and Continuous Delivery (CI/CD) are critical practices that enable teams to deliver high-quality software rapidly and reliably. CI/CD tools automate the processes of building, testing, and deploying applications, ensuring seamless integration of code changes and continuous feedback. The orchestrator can be hosted inside the platform (e.g. Jenkins) or can be a cloud service. A cloud service (e.g. GitHub, Azure DevOps, …) must be integrated with the platform via an agent. The agent of one of the services can be integrated with the platform. We support Azure DevOps, GitHub Actions and GitLab runners (which can also be a local GitLab installation)
+
+
+
+
+
+
+
+
+Deployment and GitOps
+GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD tooling, and applies them to infrastructure automation. GitOps main ability is to control what is deployed and to control it afterwards. Any change to the infrastructure managed by GitOps must be done to the source control which describes the environment (Infrastructure As Code). This way, any change is logged and full traceability is available.
+
+This functionality adds to the platform the ability to use GitOps practices to deploy applications onto the platform. 
+
+
+
+
+
+
+
+Security & Connectivity components
+
+Vault
+The way secrets are stored in Kubernetes is not really secure. Secrets are base64 encoded when stored, but you can easily reverse the encryption. To store secrets in a secure way in Kubernetes, you need a secure Vault inside the platform.
+
+
+Hashicorp Vault requires a license when it is added to the Cloud-Native Platform.
+
+
+Security Scanning
+Container orchestration systems like Kubernetes provide a simpler way to set up and manage containers at scale. As container adoption has increased, usage of these orchestration systems has skyrocketed. Kubernetes, for example, provides orchestration for more than three-quarters of containerized applications today. Of course, the popularity of these platforms makes them common targets for cyber criminals. Kubernetes combats this risk by offering pod security policies and drift management to help secure containers in development — but what happens when containers go to runtime?
+While Docker and Kubernetes offer numerous tools for building security into containers, they don’t secure the runtime environment itself. As a result, a rich runtime stack of tools, processes, and policies has emerged that does the work of securing containers in production.
+To provide the highest level op protection, Cegeka incorporates the Cegeka C-SOR²C services as part of the platform.  
+With our Cyber Security Operations, Response & Recovery Center (C-SOR²C), Cegeka offers a modern SOC, drawing upon our extensive security expertise and with R² we add Response and Recover to Security Operations via Comprehensive cyber security services.
+We deliver a wide range of cyber security services that assist in detecting, responding to and recovering from attacks:
+Detect: We provide 24x7 security monitoring for potential security incidents, industry-leading threat intelligence for threat detection, and experienced SOC analysts who engage in threat hunting. 
+Respond: We counter threats with containment actions and continuously enhance your cyber resilience through security advisories. 
+Recover: End-to-end recovery is embedded in our solution. In the event of a high-priority cyber-attack, you can rely on our Computer Security Incident Response Team (CSIRT) expertise.
+
+Web Application Firewall
+Cloud-native WAF is like an entry point for all web and internet-based applications which is configured as a reverse proxy. It uses the scalability and computation of cloud infrastructure to detect the security challenges and quickly isolate them from the threat.
+
+
+
+App Stack
+
+API Gateway
+API Gateway is an essential component in the full lifecycle API management. It is responsible for API configuration, release, version rollback, security, and load balancing in the production environment. In addition, API gateway is the entrance of all client traffic, responsible for routing the client’s API request to the correct upstream service for processing and then returning the returned data to the original requester while ensuring safety, reliability, and low latency of the entire process.
+
+
+
+
+
+
+
+
+Event Streaming
+Cloud-native streaming & messaging services are one of the most important aspects of the cloud native landscape. Acting as “the middleware of cloud-native”, they enable microservices to communicate while remaining loosely coupled and lightweight.
+
+
+
+
+
+Data Analytics
+Corporations typically deal with much data. This data can give valuable insights when processed the right way. With the correct data analytics tooling, one is able to process the data at hand by joining, merging and filtering multiple datasets to come to revealing insights.
+
+
+
+
+
+
+
+
+
+Caching
+In traditional applications, temporary data like session data is stored inside the application (usually in memory or in a local db/file). In modern applications, were scaling needs to be possible, storing data inside a running instance is not an option since you are not sure on what instance the next call will arrive. To avoid loss of data between instances, data is stored outside the instance in centralised systems. If temporary data must be stored, storing the data in a caching system is a good option.
+
+
+
+
+
+
+
+Managed Service
+In general, following managed services are in place for Cegeka’s Cloud-Native Platform:
+Service scope
+
+
+
+
+Service availability
+The availability of the Cloud-Native Platform depends on the service deployment type - as described in detail in chapter 3.1 - and availability SLA’s are defined on the three different layers the managed service consists of.
+Local Redundant 
+
+
+
+
+
+Zone Redundant 
+
+
+
+
+
+Geo Zone Redundant 
+
+
+
+
+
+
+
+Product release management
+The managed service is an inherent part of the product. The product is continuously developed and tested. Each provisioned instance of the product is deployed with a certain version. New versions are released frequently, and updates are pushed regularly towards the running Cloud-Native Platform instances.  
+
+Versioning
+
+Regular updates of the product will be released. The new releases will follow semantic versioning.  Semantic versioning works with 3 different version numbers:
+
+
+Every product release will have one of the following version changes: 
+Major release: A complete new version of the product is released, with fundamental and even breaking changes. This type of version change will be very rare. It will contain major or minor updates for the different components.
+Minor release: A minor version contains new features and new minor version releases of components in the platform.  
+Patch release: this release only contains bugfixes. Bugfixes can be limited to bugfixes of the platform itself or it can contain bugfix updates of components of the platform (tooling, Kubernetes, …).
+
+Release cycles
+The following table gives an overview of the type of patching to be expected throughout the year:
+
+
+Patch windows
+As part of the managed service, the product will be patched at regular intervals. A new version will be rolled out in waves. This means there are 3 patch windows for a certain release. The customer will be able to register his workload clusters to any of the 3 patch windows, meaning a customer can have a different patch date for the production workload cluster than for a test or development workload cluster.   
+
+
+Let’s illustrate this with an example. A customer has 3 workload clusters: DEV, TEST and PRD.  
+
+
+The patch calendar will be published months in advance.
+A customer can then link its workload clusters to one of the patch window numbers. This is a static setting and is assumed to stay the same throughout the complete lifecycle of the platform.
+
+
+Security management
+Security is a very important part of the platform. Some security features are there to keep the platform itself secure, others are available to the customer to keep applications running on the platform secure.
+To provide the highest level op protection, Cegeka will incorporate the Cegeka C-SOR²C services as part of the platform. With our Cyber Security Operations, Response & Recovery Center (C-SOR²C), Cegeka offers a modern SOC, drawing upon our extensive security expertise and with R² we add Response and Recover to Security Operations via Comprehensive cyber security services.
+We deliver a wide range of cyber security services that assist in detecting, responding to and recovering from attacks:
+Detect: We provide 24x7 security monitoring for potential security incidents, industry-leading threat intelligence for threat detection, and experienced SOC analysts who engage in threat hunting. 
+Respond: We counter threats with containment actions and continuously enhance your cyber resilience through security advisories. 
+Recover: End-to-end recovery is embedded in our solution. In the event of a high-priority cyber-attack, you can rely on our Computer Security Incident Response Team (CSIRT) expertise.
+
+Based on the requirements of the customer some or all services will be included in the platform.
+
+
+
+In this section we describe the security features that are integrated with the platform:
+Build-in firewall 
+The platform is deployed with its own firewall cluster. This firewall cluster is securely designed and uses all security best-practices.  
+
+Vulnerability scanning
+Vulnerability scanning is the process of discovering, analysing, and reporting on security flaws and vulnerabilities. Vulnerability scans are conducted via automated vulnerability scanning tools to identify potential risk exposures and attack vectors across an organization’s networks, hardware, software, and systems. Vulnerability scanning and assessment is an essential step in the vulnerability management lifecycle.
+
+Cegeka has a vulnerability scanning service that is part of the Cegeka security stack. The platform and all of its components will be scanned at regular intervals and actions are taken if urgent vulnerabilities pop-up as part of these scans.
+
+A vulnerability dashboard will be provided towards the customer with results of applications scans running on the platform (runtime scanning). This dashboard is informative, and no actions will be taken by Cegeka based on the results.  
+CIS compliancy
+CIS (Center for Internet Security) is a forward-thinking non-profit that harnesses the power of a global IT community to safeguard public and private organizations against cyber threats.  
+
+CIS provides security benchmarks for all sorts of infrastructure components (eg. OS, Kubernetes).  The CIS Controls CIS sets as part of their benchmarks are seen as the reference for securing infrastructure systems.
+
+the Cloud-Native Platform is designed with CIS compliancy in mind. This means that the Security Controls that CIS provides are built into the platform. To make sure these Controls are not changed between releases or at runtime, CIS benchmark scans are performed at a regular basis.
+Service Mesh
+Microservices have particular security needs, including protection against man-in-the-middle attacks, flexible access controls, auditing tools, and mutual TLS.  These needs can be met by using a service mesh. This service mesh can provide strong identity, powerful policy, transparent TLS encryption, and authentication, authorization and audit tools to protect your services and data.  
+ 
+Regulatory Compliancy
+Navigating the continually evolving regulatory landscape of data privacy and security presents significant challenges for organizations. Cegeka’s Compliant Cloud can give assistance in adhering to these regulations, providing businesses peace of mind when it comes to their data and business resilience.
+
+The Cloud-Native Platform offering is in line with Cegeka’s Compliant Cloud principles.
+
+
+
+Reporting
+Thorough reporting ensures the customer is informed about the platform and its performance as a whole. Information on the platform components, the platform’s availability, known & resolved incidents, executed changes and SLA performance all form a crucial part in achieving fully transparent communication.
+
+Component information
+The platform comes with a documentation portal. The documentation portal dynamically shows all components part of the set-up, giving a clear overview of what is included in the set-up and making these components easily accessible. When additional (optional) cloud-native tools are added, these will appear in the documentation portal as well.
+Monitoring
+Via built-in Grafana dashboards, the customer can monitor the cluster nodes and cloud-native tools. Being the industry standard and because of the included Prometheus instance, a customer can easily create new dashboards and alerts to monitor its applications. Prometheus can be integrated with a wide range of external alert receivers.  
+Incidents
+Being a proactive service, the Cloud-Native Platform will automatically detect infra-, container platform or tooling incidents via the monitoring instances in place. Once detected, this will invoke the creation of a ticket. For P1 and P2 incidents, the customer will be informed via e-mail about these incidents.
+
+In case of an additional incident, issue, problem or feature request, a ticket can always be created via Horizon by the customer. Via Cegeka’s ticketing system, all issues can be followed up closely. Additionally, a history of resolved and closed tickets is available to review past platform performance.
+
+Changes
+Standard change requests can be requested via Horizon. Afterwards, the status of the change requests can be consulted in Horizon. This will help the customer keep track of which changes have been executed over time.
+
+Standard changes include: 
+
+
+
+The overview of standard change request accessible from the Horizon order catalogue: 
+
+
+Invoicing
+Via monthly invoicing, the customer will be informed about the total amount of nodes and their CPU, memory and storage. Additionally the invoice will report on the additional block, blob & file storage consumed.
+
+
+Eligibility and Prerequisites
+Out of scope
+By default, the Cloud-Native Platform is provided based on community supported tooling. License costs and specific vendor support are out of scope for this document. However, if vendor support on certain tooling is required by the customer, different tools might be selected and provided with enterprise versions instead of community versions. 
+Conditions
+Core Infrastructure management
+The Cloud-Native Platform must be deployed on a Cegeka managed Layer 1 “Core infrastructure”. The following underlying platforms are supported:
+Microsoft Azure Cloud
+Cegeka Private Cloud
+Dedicated hardware, hosted and managed by Cegeka
+ 
+Capacity management
+A container platform is able to optimize hardware investments to the fullest since it can shift workload around and use all available resources to the maximum. Workloads might grow over time and cause high pressure on the platform. This can be CPU or memory pressure. If CPU or memory pressure is too high, the platform might become unstable or cause more than normal application restarts to keep the cluster out of problems. 
+
+As part of the service, the capacity of the platform will be closely monitored. If the platform load is too high, the customer will be requested to limit the load or to extend the platform by adding more resources. If this request is denied and the load stays high on the platform, SLA will shift to best-effort and business hours only.
+Lifecycle management
+The platform support is based on running the latest version of the platform. Regular updates will be pushed to the platform. This will be done outside business hours and communicated in advance to the customer. No impact analysis for the updates will be done for the applications running on the platform. A changelog will be provided to the customer in advance and updates will be delivered according to the DTAP configuration of the customer to allow the possibility of testing for the customer. 
+
+If, however, the customer refuses updates, and the version of the platform falls outside the Cegeka supported versions, the SLA will shift to best-effort and business hours only. Upgrading to a supported version will result in extra costs.
+Responsibilities
+RACI
+
+
+
+Specific to Cloud Native components :
+
+
+
+Responsible: The party who is responsible for the execution of the activity. 
+Accountable: The party answerable for correct and thorough completion of the task
+Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication.
+Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annex
+Terminology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform benefits
+Introduction
+Traditional IT infrastructure setups and collaboration between development and operational teams are not in line with today’s agile methodologies and release strategies. Performing changes in a traditional infrastructure environment requires the involvement of multiple teams, sometimes from different companies. Even though engineers usually try to connect over the boundaries of teams and companies to find common ground, getting them all on the same page and at the same time is a real challenge. For that reason, project leaders try to find these common grounds and orchestrate calls with lots of people involved.
+
+To overcome these problems, organizations form DevOps teams that improve collaboration between teams and introduce new processes in the organization. These DevOps teams are usually in charge of the whole application stack, including infrastructure components. DevOps teams achieve great results since they can work together without any traditional obstacles. 
+
+However, in recent years, problems around this approach have emerged while application environments that are build this way are running in production and trying to withstand the test of time. DevOps teams usually operate in line with development practices and traditional operational processes are lost this way. This causes problems in terms of life cycle management, security, availability, data protection, … We also see that developers in the DevOps teams start spending more and more time on operational related tasks, resulting in higher costs.
+
+To overcome these problems, organizations setup development platforms that provide all the components development teams need without all the overhead of managing it themselves. The “platform team” providing the “developer platform” follows operational processes in terms of life cycle management, security audits, availability, data protection, …. This way of working is called “Platform Engineering”. 
+
+On first glance, this looks like a step back into the old ways of doing IT, however, the difference is in the self-service development teams have on that development platform. Development teams should not be blocked on requests for infra at any given time. The Platform team provides the platform and will provide the resources needed for development teams to provision the application environments they need. Development teams use Infrastructure As Code methodologies to provision the application environment inside the platform without involvement of the operations teams.
+
+In this section, we will describe the benefits of using Cegeka’s Cloud-Native Platform for cloud native application development.
+
+
+
+
+
+
+Self-Service
+A key aspect of the Cloud-Native Platform is the self-service capabilities for its users. Users should be able to perform any necessary task without being blocked by manual processes like traditional change processes. However, providing users full access and control to infrastructure is dangerous and might lead to outages. The best way to achieve user agility with limited risk is to use an IaC link between the platform and the infrastructure. Traditional infrastructure components like storage, loadbalancers, certificates, … are provisioned from code inserted into the platform by the application deployment system. Development teams will thus be able to provision all the resources they need without requesting infrastructure components. If resources are not needed anymore, they are deleted from the code and that will result in a decom action of the infrastructure resources.
+In this section, we will go over these different infrastructure components that can be provisioned using IaC inside the platform.
+Storage
+As discussed, the platform contains 3 types of storage: block, blob and file storage. In a traditional setup, storage is provisioned to VM’s on request of application teams and provided by infrastructure teams. In this setup, the infrastructure team provides a certain amount of storage to the platform. The development team is able to provision the application storage with infrastructure as code inside the platform. 
+
+When the storage isn’t needed anymore, the definition is deleted from the platform, leading to a decommission action on the storage system. 
+
+To achieve this, Kubernetes uses CSI’s (Container Storage Interfaces) to connect to different storage providers. The Cloud-Native Platform provides a dynamic storage layer (with Ceph) that provides dynamic and flexible storage to the platform. All 3 types of storage can be provisioned using a CSI in the platform. 
+Network components
+The platform comes with a set of firewalls pre-configured. These firewall rules are configured based on what the platform needs to operate. They also include rules that er needed for applications to be available and reachable. In the future, it will also expose ports based on configuration in the container platform (e.g. when a VIP is created).
+
+Using this way of working can significantly reduce costs of network actions.
+Certificates
+Creating, signing, replacing, monitoring, … certificates can be very time consuming. It can even cause outages when an imminent expiring certificate goes undetected.
+
+The platform provides a component that manages these certificates (if it is supported by the CA). An internal PKI can be integrated with the platform or an internet CA like Let’s Encrypt, so the platform can sign certificates and assign them to applications. The Certificate manager will also replace certificates in time (after 2/3th of its lifetime) automatically and delete them if they are no longer needed. Not every internet CA supports this system yet, but the CA’s that do support the system are growing (DigiCert, Let’s Encrypt, Google Trust Services, Entrust, Sectigo, …)
+
+Using this system takes away all the work around managing certificates and can result in a massive increase of cost savings related to certificate management.
+Backup
+The backup of data inside the platform will integrate with the Cegeka backup system based on Commvault. Backup policies can be selected for data inside the platform, de-worrying developers on data protection.
+Tooling configuration
+Cloud Native tooling in a Cloud Native Application Platform includes observability tooling, message busses, API gateways, Vaults, Caching, Orchestration, Security components, …
+Getting all of these components configured in a traditional platform would require different teams and dozens of changes. 
+
+the Cloud-Native Platform provides ways to automatically configure every tool in the platform through IaC or API calls. Popular provisioning tools like terraform and ansible can be used for several tools inside the platform. For most tools, a GUI is available that provides easy insights into the configuration and can increase the learning curve significantly. This way of working enables full automation of an application environment via IaC. 
+
+Deploying applications this way, can massively decrease deployment costs and increase the time to market significantly.
+Operator based automation
+Operators in Kubernetes can be compared with a perfect engineer, looking at the platform 247. It will detect certain situations and act on them with predefined actions. These perfect engineers can be used to make the life of users a lot easier. Well known operators are CSI’s (Container Storage Interfaces) and Certificate manager.
+
+Cloud native tools sometimes lack features that make them easy to use in all circumstances and the CI/CD pipeline should contain logic to overcome these issues, however, this isn’t always simple. Our product development team designs and created new operators in the platform to overcome these problems and to unburden the customer (and thus the CI/CD pipeline). 
+Prerequisites
+The deployment of the platform is depended on some prerequisites:
+Known customer: the customer must be known in the systems of Cegeka. If this is not the case, the onboarding procedure for the customer must first be done. 
+Learning curve
+The platform usage guide is available on a documentation portal. This documentation portal provides insight into the platform and its components. Every component is described, and examples are provided to use the components in an automated way. The platform team will be available to answer questions and will continuously improve the documentation, based on the feedback of the users.
+
+This makes sure that teams are able to make a kickstart using the platform and provide a lower learning curve. Understanding how to use the platform should be easy based on the documentation and the interfaces provided by the platform. This way, the user can focus on the functional aspect of the application instead of the technical aspect of the components.
+Platform value
+The Cloud-Native Platform enables teams to define infrastructure components and tooling in an IaC way enabling DevOps teams to deliver applications in an agile way resulting in a much lower costs and faster time to market. This will result in a higher return on investment. 
+Product development
+The platform delivered will be improved constantly with bugfixes, patches and new features. The product development team will keep following the Cloud Native Community and, based on user feedback, will keep adding new features and functionality to the platform. New versions of the platform will thus not only contain new versions of the tooling, but might also include a new feature that is delivered out of the box.
+
+Improvements will be the subject of patch management and life cycle management. The improvements include but are not limited to:
+Automation: The deployment and management of the managed service is fully automated. This automation is continually improved and updated as part of the product development and release processes.
+Bug fixes: problems encountered in one of the platforms at one of the customers, will be fixed in all platforms at all customers.
+Lifecycle management: New product versions will be deployed at regular intervals on a pre-determined update window. The customer will be informed about the patch windows. If a new product version has “breaking changes”, the customer will be provided with a changelog of these breaking changes at least 4 weeks in advance so that application changes can be planned to support the new version.
+New features: The cloud native community is moving rapidly and constantly providing new functionalities to developers. New releases will regulary contain new features or functionalities that can speed up development and/or can lead to more robust applications. 
+
+The Customer will be kept up to date of these new features via a release web page.

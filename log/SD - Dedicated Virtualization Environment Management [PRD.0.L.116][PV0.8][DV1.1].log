@@ -1,0 +1,47 @@
+[2026-03-18 14:27:47] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:27:47] HTML saved: extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:27:47] extract_html OK
+[2026-03-18 14:27:47] START parse_html for: extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:27:47] PARSE OK → output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:42:32] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:42:32] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:42:32] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:42:32] HTML saved: extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:42:32] extract_html OK
+[2026-03-18 14:42:32] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:42:33] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:42:33] PARSE OK → output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:42:33] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:42:33] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:42:33] auto_map OK → output\mapped\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.json
+[2026-03-18 14:42:33] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:42:33] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:42:34] PIPELINE OK
+[2026-03-18 14:48:15] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:48:15] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:48:16] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 14:48:16] HTML saved: extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:48:16] extract_html OK
+[2026-03-18 14:48:16] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:48:16] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 14:48:16] PARSE OK → output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:48:16] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:48:16] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 14:48:16] auto_map OK → output\mapped\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.json
+[2026-03-18 14:48:17] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:48:17] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:48:17] PIPELINE OK
+[2026-03-18 15:02:05] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 15:02:05] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 15:02:06] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].docx
+[2026-03-18 15:02:06] HTML saved: extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 15:02:06] extract_html OK
+[2026-03-18 15:02:06] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 15:02:06] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].html
+[2026-03-18 15:02:06] PARSE OK → output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 15:02:06] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 15:02:07] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1].json
+[2026-03-18 15:02:07] auto_map OK → output\mapped\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.json
+[2026-03-18 15:02:07] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 15:02:07] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Dedicated Virtualization Environment Management [PRD.0.L.116][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 15:02:07] PIPELINE OK

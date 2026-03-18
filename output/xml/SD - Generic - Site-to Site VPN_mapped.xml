@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ServiceDescription>
+  <Section name="UNCLASSIFIED">
+    <Header>UNCLASSIFIED</Header>
+    <Category>GENERAL</Category>
+    <Content>Introduction The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.) Document history Version Date Comment Author 0.5 10-10-2023 1st Draft Ron Rigter 0.9 02-11-2023 Ready for Review Ron Rigter</Content>
+  </Section>
+  <Section name="Security &amp; Networking">
+    <Header>Security &amp; Networking</Header>
+    <Category>SECURITY</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Site-to-Site VPN">
+    <Header>Site-to-Site VPN</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service summary">
+    <Header>Service summary</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The Cegeka offering includes Site-to-Site connectivity for customers or third parties towards the customer networks in the datacenter based on IPSec connections over the Internet (or when required, over WAN connections). Depending on the type of VPN tunnel and the number of tunnels required, Cegeka will either host the tunnel end-point on the customer dedicated virtual firewall instance or on separate VPN end-point hardware. Both Policy Based and Route Based VPNs are supported. Note that with route based VPNs, it is possible to create high-available VPN connections (by means of secondary VPN connections that can be automatically failed over to in case of primary connection failure) and also to use these as backup to a primary (routed) WAN connection.</Content>
+  </Section>
+  <Section name="Standard service components">
+    <Header>Standard service components</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Cegeka shall be responsible in providing the following Services: Security The Service is certified against ISO27001. Processes for managing this service are part of the yearly ISAE3000 statement. Patching &amp; Lifecycle management Cegeka performs patches according to the vendor's schedule. Capacity Management Cegeka performs proactive capacity management. When necessary, Cegeka performs upgrades on the central equipment.</Content>
+  </Section>
+  <Section name="Optional service components">
+    <Header>Optional service components</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>There are no optional service component for this service.</Content>
+  </Section>
+  <Section name="Eligibility and Prerequisites">
+    <Header>Eligibility and Prerequisites</Header>
+    <Category>GENERAL</Category>
+    <Content>Conditions This Service does not require any explicit conditions to be met. Maintenance &amp; Licenses Cegeka is responsible for the proper operation of the service. This includes the number of licenses and maintenance. Responsibility matrix Activity Customer Cegeka Monitoring &amp; Reporting A monthly report will be made available on de Horizon Portal.</Content>
+  </Section>
+  <Section name="Order &amp; billing information">
+    <Header>Order &amp; billing information</Header>
+    <Category>GENERAL</Category>
+    <Content>Part numbers O.0480_0010_0010_A_S.000 VPN Monthly cost for site-to-site VPN - Policy-based policy based O.0480_0010_0020_A_S.000 VPN Monthly cost for site-to-site VPN - Route-based route based Measurement A report is generated on a monthly basis, this report is based on the CMDB and lists all Site-to-Site VPNs and will be made available on the Horizon Portal. Billing The units are billed against the price of their respective part numbers. Changes Changes are brought up through the normal service management process.</Content>
+  </Section>
+</ServiceDescription>

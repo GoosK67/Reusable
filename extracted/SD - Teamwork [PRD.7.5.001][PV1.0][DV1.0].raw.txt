@@ -1,0 +1,116 @@
+
+
+
+
+
+
+Standard Service Description
+
+Introduction
+The “My Online Collaboration” Service ensures the operational management of 
+Communication (mail, calendaring, chat, basic voice), 
+Collaboration (workspaces, document co-authoring)
+Information (personal files, document management) 
+solutions in the Digital Workplace.
+What is the added business value?
+Enabling the new world of hybrid work
+In today’s world, productivity isn’t about being in the office from 09.00h to 17.00h anymore – it’s about getting things done. The hybrid work context supports the workforce to be productive from anywhere, at any time and on any device. This requires the right set of tools to empower the end-user. Meaning, taking advantage of the benefits of the cloud, such as connectivity & availability, but also an always up-to-date platform, centralization of data, mobile applications, data protection, integration, …
+In the current, rapidly evolving, SaaS-context, continuous platform management and configuration improvements are key in maintaining a healthy Workplace environment. 
+This Service ensures the proper operation and continuity of the communication & collaboration platform and it’s fundamentals. 
+
+Efficient communication platforms
+One of the fundamental requirements for great teamwork is efficient communication. Productivity today is greatly improved by conversations – whether it’s a quick chat message, a call, an online meeting or an email. The mix of text, voice, video and content sharing in a centralized environment (preserving only “one version of the truth”) is strongly leveraging the experience for the end-user. It allows them to connect with colleagues, customers, partners, … more easily and efficiently.
+This Service ensures that the communication-related features and functionalities are available via a reliable SaaS platform.
+
+Internal and external collaboration
+Collaborative applications are business-critical assets. There’s more than one way to organize collaboration with peers, a team or a workgroup.
+This Service offers the management of all components necessary to ensure that collaboration, whether it’s ad-hoc or highly structured, can happen in a secure context, inside or outside the organization.
+Centralized information management
+Where teamwork is happening, content is being created and edited in all kinds of formats: documents, lists, video, images, minutes, templates, … Whether the content is personal, restricted to a team, corporately available or shared externally, the key to success relies in the manageability of the platform and findability of the information. Therefore, functionalities like file sharing, versioning and version history, metadata, approval workflows, document templates, a search engine, security and permissions, offline use, … are an absolute must to keep the overview and structure.
+This Service manages the components needed to offer these information management functionalities to the end-user.
+
+Access to personal data, anytime, anywhere on any device
+With the new workplace, users will use a personal cloud space for their personal professional data. This enables users to share data more easily with colleagues, securely accessing their personal data from anywhere and on any device. The data itself is also available for offline use. This enables the user to access their personal data even in an environment without internet connectivity.
+
+
+Which services are included?
+Standard services
+Cegeka will provide the following standard functionalities and corresponding activities in the “My Online Collaboration” Service:
+Communication (mail, calendaring, chat, basic voice):
+Monthly reporting, providing recommendations and L2/L3 Technical Incident Handling on
+permissions
+anti-spam & anti-malware protection
+mail flow
+recipients (User Mailboxes, Shared Mailboxes, Equipment Mailboxes, Room Mailboxes)
+basic security improvements for mail
+sharing & collaboration settings
+
+Collaboration (workspaces, document co-authoring):
+Monthly reporting, providing recommendations and L2/L3 Technical Incident Handling on
+permissions
+retention settings
+external sharing settings
+basic security improvements for workspaces
+active site usage & storage usage
+
+Information (personal files, document management):
+Monthly reporting, providing recommendations and L2/L3 Technical Incident Handling on
+activity & storage use
+guest & external access settings
+Optional services
+N/A
+Responsibility matrix
+This Responsibility Matrix provides the appropriate RACI tags for the Customer and Cegeka with respect to the activities for the Standard and Optional Services.
+Communication
+
+Collaboration
+
+Information
+
+= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive.
+= Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity maximum one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive.
+= Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive.
+= Informed: Party to be informed/kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.
+
+SKU overview
+Service SKUs
+* mandatory SKU
+
+Measurement
+The pricing of the Service is user-based within a tenant.  A tenant is an isolated, individual and virtualized section of the public cloud vendor platform, identified by a unique URL and ID, and a single user repository/licensing system. A user is identified by an enabled and assigned Microsoft 365/Office 365 license. 
+
+Calculation
+(“Price/Unit” x “Number of users”) 
+Standard changes SKUs
+ Table below represents the Standard Changes for this Service, where each Standard Change
+has a corresponding fixed one-off price as mentioned in the Pricing Model
+has a corresponding  ‘Service Level Target (SLT) for each Standard Change, expressed in elapsed working days as mentioned in Table below
+follows the ‘Standard Change Management process’ as mentioned in Section “Cross-functional services”
+
+Non-standard changes SKUs
+Non-standard changes
+are billed in time & material
+follow the ‘Change Management process’ as mentioned in Section “Cross-Functional Services”
+List below is an non-exhaustive list of non-standard changes.
+Service Level Agreement
+Service Support window
+Table below gives an overview of the applicable Service Support Windows for each Standard & Optional service
+Specific service levels
+This service makes use of a third party SAAS provider. For the SLA’s concerning uptime and/or availability of the 3rd party platform we refer to the following documentation  Service Level Agreements (SLA) for Online Services
+Conditions
+The required access to Cegeka and licenses are available in order to operate this Service.
+This Service applies to the following Microsoft 365 SaaS platform components:
+My Communication: Microsoft Exchange Online, Microsoft Exchange Online Protection, M365 Security & Compliance, Microsoft Teams
+My Collaboration: Microsoft Teams
+My Information: Microsoft SharePoint Online, Microsoft OneDrive for Business
+When the M365 platform is used to provide functionalities described in this Service, the identity management using Entra ID is mandatory, as described in the service description for “My Identity”.
+The security improvements apply to the Microsoft Secure Score in the Security Center.  
+An Office 365 tenant (minimally).
+The customer disposes of the required M365/O365 licenses, where a user is identified by an enabled and assigned Microsoft 365/Office 365 license.
+A server to host the hybrid exchange management role, only in case when the on-premises identity is leading (AD sync to Entra ID).
+Out of scope
+Everything that is not included in the description of this Service.
+Handling of Service related incidents by the Cegeka Service Desk (L1 support activities)
+Cross-functional services
+In order to guarantee the Service quality, Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's.
+

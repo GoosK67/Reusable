@@ -1,0 +1,47 @@
+[2026-03-18 14:27:45] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:27:46] HTML saved: extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:27:46] extract_html OK
+[2026-03-18 14:27:46] START parse_html for: extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:27:46] PARSE OK → output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:42:25] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:42:25] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:42:26] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:42:26] HTML saved: extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:42:26] extract_html OK
+[2026-03-18 14:42:26] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:42:26] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:42:26] PARSE OK → output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:42:27] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:42:27] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:42:27] auto_map OK → output\mapped\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.json
+[2026-03-18 14:42:27] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 14:42:27] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 14:42:28] PIPELINE OK
+[2026-03-18 14:48:10] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:48:10] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:48:10] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 14:48:11] HTML saved: extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:48:11] extract_html OK
+[2026-03-18 14:48:11] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:48:11] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 14:48:11] PARSE OK → output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:48:11] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:48:11] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 14:48:11] auto_map OK → output\mapped\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.json
+[2026-03-18 14:48:11] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 14:48:11] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 14:48:12] PIPELINE OK
+[2026-03-18 15:02:00] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 15:02:00] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 15:02:00] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].docx
+[2026-03-18 15:02:00] HTML saved: extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 15:02:00] extract_html OK
+[2026-03-18 15:02:01] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 15:02:01] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].html
+[2026-03-18 15:02:01] PARSE OK → output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 15:02:01] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 15:02:01] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3].json
+[2026-03-18 15:02:01] auto_map OK → output\mapped\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.json
+[2026-03-18 15:02:01] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 15:02:01] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud Shared Backup Services [PRD.0.L.133][PV0.8][DV1.3]_mapped.xml
+[2026-03-18 15:02:02] PIPELINE OK

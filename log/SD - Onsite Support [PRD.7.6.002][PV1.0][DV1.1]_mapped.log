@@ -1,0 +1,18 @@
+[2026-03-18 14:49:17] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 14:49:17] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:49:17] Filled SDT 'CLIENT_NEEDS' with XML section 'Service SKU overview'
+[2026-03-18 14:49:17] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Windows'
+[2026-03-18 14:49:17] Filled SDT 'SLA_KPI' with XML section 'Service Levels'
+[2026-03-18 14:49:17] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Delivery Locations'
+[2026-03-18 14:49:17] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:49:18] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:49:18] XML→DOCX OK → output\docx\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped_FINAL.docx
+[2026-03-18 15:03:05] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 15:03:05] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:03:05] Filled SDT 'CLIENT_NEEDS' with XML section 'Service SKU overview'
+[2026-03-18 15:03:05] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Windows'
+[2026-03-18 15:03:05] Filled SDT 'SLA_KPI' with XML section 'Service Levels'
+[2026-03-18 15:03:05] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Delivery Locations'
+[2026-03-18 15:03:05] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:03:05] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 15:03:05] XML→DOCX OK → output\docx\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped_FINAL.docx

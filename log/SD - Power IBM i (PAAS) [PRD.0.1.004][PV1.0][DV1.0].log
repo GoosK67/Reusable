@@ -1,0 +1,47 @@
+[2026-03-18 14:27:53] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:27:53] HTML saved: extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:27:53] extract_html OK
+[2026-03-18 14:27:53] START parse_html for: extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:27:53] PARSE OK → output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:41:58] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:41:58] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:41:58] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:41:59] HTML saved: extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:41:59] extract_html OK
+[2026-03-18 14:41:59] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:41:59] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:41:59] PARSE OK → output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:41:59] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:41:59] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:41:59] auto_map OK → output\mapped\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.json
+[2026-03-18 14:41:59] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:41:59] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:00] PIPELINE OK
+[2026-03-18 14:47:44] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:47:44] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:47:45] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 14:47:45] HTML saved: extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:47:45] extract_html OK
+[2026-03-18 14:47:45] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:47:45] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 14:47:45] PARSE OK → output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:47:45] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:47:45] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 14:47:46] auto_map OK → output\mapped\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.json
+[2026-03-18 14:47:46] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:47:46] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:47:46] PIPELINE OK
+[2026-03-18 15:01:34] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 15:01:34] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 15:01:35] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.1] Cegeka IBM Power Services & Solutions\[PRD.0.1.004] Power IBM i\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].docx
+[2026-03-18 15:01:35] HTML saved: extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 15:01:35] extract_html OK
+[2026-03-18 15:01:35] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 15:01:35] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].html
+[2026-03-18 15:01:35] PARSE OK → output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 15:01:35] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 15:01:35] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0].json
+[2026-03-18 15:01:35] auto_map OK → output\mapped\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.json
+[2026-03-18 15:01:35] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:35] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Power IBM i (PAAS) [PRD.0.1.004][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:36] PIPELINE OK

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ServiceDescription>
+  <Section name="UNCLASSIFIED">
+    <Header>UNCLASSIFIED</Header>
+    <Category>GENERAL</Category>
+    <Content>SD - Digital Identity Services [Document subtitle] Prepared by Arjan Vroege Date 14/07/2025 Cegeka reference [Comments] CONFIDENTIAL Cegeka nv Corda 3, Kempische Steenweg 307 B-3500 Hasselt www.cegeka. com</Content>
+  </Section>
+  <Section name="0 VERSION CONTROL">
+    <Header>0 VERSION CONTROL</Header>
+    <Category>GENERAL</Category>
+    <Content>General Document Digital Employee eXperience Solutions – Digital Identity Services – Service Description Owner of document Arjan Vroege Date 14-07-2025 Current version 1.2  Version Control Table Version Date Remarks  / change log Author 0.2 26-05-2025 Initial Version Arjan Vroege 0.9 07-07-2025 Review Version Arjan Vroege 1.0 14-07-2025 Final Version Arjan Vroege 1.1 07-08-2025 Updated final version Arjan Vroege 1.2 10-11-2025 Rebranding Arjan Vroege Reviewers Version Distribution to – Name of person Function / Role 0.2 Tom Speijer, Niels Wijnja Product Manager and Product Delivery Authority 0.9 Mark Bierman, Rob Munter Design Authority, IAM Consultant 1.0 Bogdan Ghiculescu, Mihaela Zaria Global Delivery Center 1.2 Productteam Digital Identity Services Design Auth and owner, Delivery Auth and owner Approval Version Approval date Approved by (name person + role/function Reference Version Date Name Document Remarks Table of Contents 0 VERSION CONTROL	2 1	Definition	4 2	Service Description	4 2.1	Service Summary	4 2.2	Services	5 2.2.1	Standard Services	5 2.2.2	Optional Services	6 2.2.3	Service Request	6 2.2.4	Out of scope	7 2.3	Service Characteristics	7 2.3.1	Obligatory Services	7 2.3.2	Prerequisites &amp; Conditions	7 2.3.3	Cegeka owned licenses and/or subscriptions	8 2.3.4	Customer owned licenses and/or subscriptions	8 2.3.5	Location	8 2.3.6	Ownership	9 2.3.7	Miscellaneous	9 2.3.8	RACI Matrix	9 3	Onboarding	10 4	Service Levels Management	11 4.1	Service Window	11 4.2	Service Level	11 5	Service Billing	13 5.1	Standard Service Billing	13 5.2	Optional Service Billing	13 5.3	Service Request Billing	13 6	Relation to Enabling Services	15</Content>
+  </Section>
+  <Section name="Definition">
+    <Header>Definition</Header>
+    <Category>GENERAL</Category>
+    <Content>[In this section an overview will be given of the used terms and definition specifically of this product.]</Content>
+  </Section>
+  <Section name="Service Description">
+    <Header>Service Description</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service Summary">
+    <Header>Service Summary</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The Cegeka Digital Identity Services offers operational support and guidance by subject matter experts to ensure that the Identity and Access Management (IAM) solution is maintained, secured, and remains compliant with current regulations. A typical IAM solution is a family of cloud identity and network access products. It enables organizations to implement a Zero Trust security strategy and create a trust fabric that verifies identities, validates access conditions, checks permissions, encrypts connection channels, and monitors for compromise. An IAM solution consists of the following capabilities which will be supported as part of this service: This service helps the customer to build a cybersecurity resilient environment by controlling key areas as required by multiple regulations. The Zero Trust security strategy includes these key principles: The Digital Identity Services service provided by Cegeka maintains the customer's IAM solution and offers proactive recommendations for improvements. Additionally, Cegeka will provide usage insights through a dashboard that contains all essential information, giving the customer a comprehensive overview of the service's usage.</Content>
+  </Section>
+  <Section name="Services">
+    <Header>Services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Standard Services">
+    <Header>Standard Services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The following base services will be delivered as part of the Digital Identity Services service: Evaluate the Identity Secure Score and deliver monthly advice on Security topics to achieve a score which is above typical company average provided by Microsoft. Evaluate the IAM solution and the best practice recommendations and deliver quarterly advice on best practice recommendations. Track identity anomalies and deliver monthly advice how to improve. The following anomalies will be monitored as part of this service: Successful &amp; Failed Sign-ins Successful &amp; Failed Self Service Password Resets Legacy authentication Sign-ins IAM Solution MFA Sign-ins failures Inactive Accounts License assignment failures Conditional Access Gaps and Recommendations from Microsoft Provide Dashboard of the Digital Identity Services service to present information about this service including the KPIs. Monitoring on expiration of application secrets and certificates; Track license group assignments deliver monthly advice how to optimize licensing assignments; Managing, track and deliver quarterly advice on External Identities (B2B) capabilities; Monthly check on Lifecycle Management of the Entra Connect software; Technical L2/L3 incident handling As part of the standard services the following functionality within the IAM solution will be supported: Passwordless Authentication (Hello for Business Hybrid)(*); Temporary Access Pass; (*) Full Passwordless Authentication (without any passwords in-use) requires the additional SKU Management of Full Passwordless Identity Solution the be active. (**) For Face check additional licenses and resources are required, these will be described later in this document.</Content>
+  </Section>
+  <Section name="Optional Services">
+    <Header>Optional Services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The following base services will be delivered as part of the Digital Identity Services service: Management of the full passwordless configuration and providing monthly advice; Additional Technical L2/L3 incident handling for a full passwordless configuration;</Content>
+  </Section>
+  <Section name="Service Request">
+    <Header>Service Request</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>A Service Request can be a •	Request for a Standard Change •	Request for a Standardized Change •	Request for a Non Standard Change •	Request for Information Table below contains all Service Requests for this Service, id TYPE SERVICE REQUEST SERVICE LEVEL TARGET STANDARD CHANGE Standard Change Reset User’s MFA methods 1 day Standard Change Create/Update/delete License assignments 1 day Standard Change Retrieve LAPS Password 3 days STANDARDIZED CHANGE None non STANDARD CHANGE Non Standard Change Add/update/delete non synced users 2 days Non Standard Change Add/update/delete non synced groups 2 days Non Standard Change Configure Custom domain names 5 days Non Standard Change Configure auto-enrollment 2 days Non Standard Change Configure Windows Hello for Business 2 days Non Standard Change Add/update/delete enterprise applications 3 days Non Standard Change Add/update/delete users app registrations 5 days Non Standard Change Add/update/delete users application secrets 5 days Non Standard Change Add/update/delete users SAML certificates 5 days Non Standard Change Restore Deleted Application 2 days Non Standard Change Add/update/delete Application Proxy Connectors 2 days Non Standard Change Add/update/delete Application Proxy Endpoints URLs 2 days Non Standard Change Add/update/delete Application Proxy Connector Groups 2 days Non Standard Change Configure Custom domain names 2 days Non Standard Change Add/Edit/Delete Custom RBAC Roles 2 days Non Standard Change Assign/Remove Custom RBAC Roles 2 days Non Standard Change Add/Edit/Delete directory 2 days Non Standard Change Edit/Update Synchronization Options 2 days Non Standard Change Edit/Update Device Options 2 days Non Standard Change Change/Update Password for service account 2 days Management of Full Passwordless Identity Solution N/A</Content>
+  </Section>
+  <Section name="Out of scope">
+    <Header>Out of scope</Header>
+    <Category>SCOPE</Category>
+    <Content>Everything that is not explicitly mentioned in this service description is by default out of scope.</Content>
+  </Section>
+  <Section name="Service Characteristics">
+    <Header>Service Characteristics</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Obligatory Services">
+    <Header>Obligatory Services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The following service are Obligatory for this service to be delivered:</Content>
+  </Section>
+  <Section name="Prerequisites &amp; Conditions">
+    <Header>Prerequisites &amp; Conditions</Header>
+    <Category>GENERAL</Category>
+    <Content>This service has the following prerequisites and conditions before this service can be delivered: Global Reader Authentication Administrator (Privileged) Application Administrator (Privileged) Cloud Application Administrator (Privileged) Cloud Device Administrator (Privileged) Conditional Access Administrator (Privileged) User Administrator (Privileged) Groups Administrator License Administrator Role restricted to a subset of Engineers: Global Administrator (Privileged)</Content>
+  </Section>
+  <Section name="Cegeka owned licenses and/or subscriptions">
+    <Header>Cegeka owned licenses and/or subscriptions</Header>
+    <Category>LICENSE</Category>
+    <Content>N/A</Content>
+  </Section>
+  <Section name="Customer owned licenses and/or subscriptions">
+    <Header>Customer owned licenses and/or subscriptions</Header>
+    <Category>LICENSE</Category>
+    <Content>These licenses and/or subscriptions and not included in this Service. It is the Customer responsibility to maintain license and/or subscription compliance. License description/remarks Microsoft Entra ID Plan 1 Required for delivering the standard services Azure Subscription Required for delivering the Face check of Verified ID</Content>
+  </Section>
+  <Section name="Location">
+    <Header>Location</Header>
+    <Category>GENERAL</Category>
+    <Content>This service is not delivered from within the Customer premises. Only from the Cegeka (virtual) Office Environment.</Content>
+  </Section>
+  <Section name="Ownership">
+    <Header>Ownership</Header>
+    <Category>GENERAL</Category>
+    <Content>All automation used to deliver this service remains the property of Cegeka at all times.</Content>
+  </Section>
+  <Section name="Miscellaneous">
+    <Header>Miscellaneous</Header>
+    <Category>GENERAL</Category>
+    <Content>[In this section specific topics regarding the service will be listed and shortly described.]</Content>
+  </Section>
+  <Section name="RACI Matrix">
+    <Header>RACI Matrix</Header>
+    <Category>GENERAL</Category>
+    <Content>Listed below are the activities related to the Service; the activities RACI related to enabling services are listed in the Enabling Services Document. ACTIVITY MATRIX CUSTOMER CEGEKA STANDARD SERVICES MANAGEMENT OF IDENTITY &amp; ACCESS MANAGEMENT SOLUTION Monitor Identity Secure Score and deliver monthly advice on Security topics to achieve a score which is above typical company average provided by Microsoft   Monitor the IAM solution and the best practice recommendations and deliver monthly advice on best practice recommendations   Monitor of identity anomalies and deliver monthly advice how to improve   Provide Dashboard of the Digital Identity Services service   Monitor license group assignments deliver monthly advice how to optimize licensing assignments   Managing, Monitoring and deliver quarterly advice on external identities (B2B) capabilities   Monthly  check on Lifecycle Management of the Entra Connect software;   Technical L2/L3 incident handling   OPTIONAL SERVICE Management of Full Passwordless Identity Solution Management of the full passwordless configuration and providing advice   Additional Technical L2/L3 incident handling for a full passwordless configuration   RACI Role definition = Responsible : The party who is responsible for the execution of the activity. = Accountable : The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. = Consulted : The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. = Informed : That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.</Content>
+  </Section>
+  <Section name="Onboarding">
+    <Header>Onboarding</Header>
+    <Category>GENERAL</Category>
+    <Content>(Technical) Implementation Phase This document only describes the implementation steps required for this service. The governance activities around the implementation of this service are not part of this approach and need to be added manually based on the customer project. The implementation phase of the project consists of the following: In the following paragraphs these phases will be described in more detail. Initiation &amp; Design This phase begins with a face-to-face session where the customer defines the requirements for the implementation. During this session, Cegeka will present the standard approach for implementing the service and its components. The standard approach includes a standard design with predefined design choices. Based on the requirements discussed in the session, adjustments to the design can be made where allowed by Cegeka's standards. Additionally, it will be determined which optional services will be implemented along with the base service. This phase has the following set of minimal activities: The results of the phase should be the following documents: Technical Design of the service and a list acceptation criteria for the implementation of the service approved by the customer. Implementation &amp; Testing During this phase, the base service will be implemented along with any additional services. Cegeka will perform the implementation based on the designs prepared in the previous phase. The process begins with implementing and testing the base services. This includes enabling a hybrid identity and authentication solution, which will be configured within Microsoft Entra. Once the base services are implemented, validated, and tested, the additional services will be added and configured. Production Rollout The production rollout of this service will consist of syncing all users towards Microsoft Entra ID. From this moment all users will be able to use the Hybrid Identity for authentication against AD and Entra ID connected resources. Authentication will be configured for all users and this service is activated for all users. Service Onboarding Requirements This service has the following onboarding requirements which need to be in place before this service:</Content>
+  </Section>
+  <Section name="Service Levels Management">
+    <Header>Service Levels Management</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service Window">
+    <Header>Service Window</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Table below gives an overview of the applicable Service Support Windows for each Standard &amp; Optional service: Service Windows Description Service CEGEKA OFFICE HOURS 8x5: 9AM – 5PM CET, Monday up to and including Friday – business day Applicable for standard and optional service CEGEKA EXTENDED OFFICE HOURS 12x5: 7AM – 7PM CET, Monday up to and including Friday – business day [N/A] CEGEKA 24X7 24x7 Applicable for only P1 incident management of standard service</Content>
+  </Section>
+  <Section name="Service Level">
+    <Header>Service Level</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Definition The availability of this service is the ability to use the functionality of Microsoft Entra ID. The availability of Microsoft Entra ID is not part of this service because and defined in the 3rd party SLA described in chapter 2.2.1. Calculation Service Window Cegeka Office Hours / Cegeka 24x7 only for P1 incidents as part of this service Assumptions N/A Frequency Per Month Objectives (SLA) To measure of the performance of the service, the following KPIs will be used: 3 rd Party SLA This service makes use of a third party PAAS provider. For the SLA’s concerning uptime and/or availability of the 3 rd party platform we refer to the following documentation Service Level Agreements (SLA) for Online Services .</Content>
+  </Section>
+  <Section name="Service Billing">
+    <Header>Service Billing</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Measurement The quantity of each billing element is determined on a mentioned monthly basis on the 1 st day of the month: Calculation / Billing The price(s) is/are determined in the pricing schedule where this Service is residing. The Service is billed per billing element:</Content>
+  </Section>
+  <Section name="Standard Service Billing">
+    <Header>Standard Service Billing</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>id Component Billing element BILLING UNIT frequency PRD.7.5.005.01 Management of Identity &amp; Access Management solution Standard Service Per User Per Month</Content>
+  </Section>
+  <Section name="Optional Service Billing">
+    <Header>Optional Service Billing</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>id Component Billing element BILLING UNIT frequency PRD.7.5.005.02 Management of Full Passwordless Identity Solution Optional Service Per User Per Month</Content>
+  </Section>
+  <Section name="Service Request Billing">
+    <Header>Service Request Billing</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>id SERVICE REQUEST TYPE SERVICE REQUEST BILLING method (*) approval method (**) STANDARD CHANGE None Standard Change Reset User’s MFA methods Default Default Standard Change Create/Update/delete License assignments Default Default Standard Change Retrieve LAPS Password Default Default STANDARDIZED CHANGE None non STANDARD CHANGE Non Standard Change Add/update/delete non synced users T&amp;M Approval/CAB Non Standard Change Add/update/delete non synced groups T&amp;M Approval/CAB Non Standard Change Configure Custom domain names T&amp;M Approval/CAB Non Standard Change Configure auto-enrollment T&amp;M Approval/CAB Non Standard Change Configure Windows Hello for Business T&amp;M Approval/CAB Non Standard Change Add/update/delete enterprise applications T&amp;M Approval/CAB Non Standard Change Add/update/delete users app registrations T&amp;M Approval/CAB Non Standard Change Add/update/delete users application secrets T&amp;M Approval/CAB Non Standard Change Add/update/delete users SAML certificates T&amp;M Approval/CAB Non Standard Change Restore Deleted Application T&amp;M Approval/CAB Non Standard Change Add/update/delete Application Proxy Connectors T&amp;M Approval/CAB Non Standard Change Add/update/delete Application Proxy Endpoints URLs T&amp;M Approval/CAB Non Standard Change Add/update/delete Application Proxy Connector Groups T&amp;M Approval/CAB Non Standard Change Configure Custom domain names T&amp;M Approval/CAB Non Standard Change Add/Edit/Delete Custom RBAC Roles T&amp;M Approval/CAB Non Standard Change Assign/Remove Custom RBAC Roles T&amp;M Approval/CAB Non Standard Change Add/Edit/Delete directory T&amp;M Approval/CAB Non Standard Change Edit/Update Synchronization Options T&amp;M Approval/CAB Non Standard Change Edit/Update Device Options T&amp;M Approval/CAB Non Standard Change Change/Update Password for service account T&amp;M Approval/CAB Non Standard Change Restore Deleted Application T&amp;M Approval/CAB (*) Billing Method : (**) Approval Method:</Content>
+  </Section>
+  <Section name="Relation to Enabling Services">
+    <Header>Relation to Enabling Services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>To guarantee the Service quality Cegeka refers to the Enabling Services from the contract document set and their corresponding standard KPI's. The following table lists only relevant specifics regarding enabling services for the product. When in the table no specific is filled, this implies that the service adheres to the standards described in the Enabling Services document. Enabling SERVICE RELATION Support Make use of the Cegeka support ‘processes’ to be able to deliver and manage the product. Event Management Incident Management Problem Management Service Desk  Request &amp; Change Management Make use of the Cegeka processes Request and Change management to be able to deliver and manage the product. Request Management Change Management Patch Management Software Release Management  Operations Make use of the following Cegeka ‘operational’ activities/processes. Operations/Housekeeping Capacity Management Availability Management Hardening Data Management Disaster Recovery Management Life Cycle Management ICT Continuity Management Configuration Management Knowledge &amp; Documentation Management (Information) Security Management Privileged Identity and Access Management Manage Continuous Delivery Make use of the following Cegeka tool(s). Cegeka Customer Portal Reporting &amp; Dashboarding   Standards Make use of the following Cegeka Standards. Compliance &amp; Risk Assurances (incl. ISAE/ISO reporting &amp; Compliance</Content>
+  </Section>
+</ServiceDescription>

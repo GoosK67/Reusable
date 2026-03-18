@@ -1,0 +1,42 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "Introduction The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.) Document history Version Date Comment Author"
+  },
+  "Security & Networking": {
+    "header": "Security & Networking",
+    "category": "SECURITY",
+    "content": ""
+  },
+  "Cegeka Secure Management": {
+    "header": "Cegeka Secure Management",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Service summary": {
+    "header": "Service summary",
+    "category": "FUNCTIONAL",
+    "content": "The Cegeka Management Service includes services related to managing the solution and establishing connectivity to customer environments. This service offers integration with standard services for OS management on both Windows and Linux, monitoring, software asset inventory, vulnerability scanning, and Firewall/VPN services (as part of the Cegeka cloud service)."
+  },
+  "Standard service components": {
+    "header": "Standard service components",
+    "category": "FUNCTIONAL",
+    "content": "Security All components used in this service comply with the following: Patching & Lifecycle management Cegeka maintains the servers and underlying operating systems used for the services. Monthly, the latest security and critical updates are installed for both Windows and Linux systems. The systems in use are always equipped with a vendor-supported version of the operating system."
+  },
+  "Optional Service components": {
+    "header": "Optional Service components",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Eligibility and Prerequisites": {
+    "header": "Eligibility and Prerequisites",
+    "category": "GENERAL",
+    "content": "Conditions This service has dependencies on the OS Management Windows-Linux, Software Asset Inventory Platform, and Vulnerability & Compliance services. The Cegeka Management Service is essential to deliver these services. Anything not explicitly mentioned in this service description is automatically considered out of scope. Maintenance & Licenses To deliver the service, a license for the use of Microsoft products is utilized. Additionally, licenses are required for the monitoring collector, software asset inventory, and vulnerability scanning. The licenses used are integral to this service. Responsibility matrix Activity Customer Cegeka Setup and maintain a server monitoring plan including a list of relevant resources, thresholds and measuring intervals I R, A Setup and maintain a URL monitoring plan including a list of relevant resources, thresholds and measuring intervals C R, A Set thresholds triggering alerts R, A Monitor thresholds R, A Initiate the necessary actions when thresholds are exceeded I R, A Report violations of the monitoring metrics listed in the monitoring plan as monitoring tickets I R, A Provide access to monitoring portal (Horizon) C R, A Provide monitor reports on portal I R, A"
+  },
+  "Order & billing information": {
+    "header": "Order & billing information",
+    "category": "GENERAL",
+    "content": "Part numbers 0.0050_0010_0010_A_S.000 Monitoring Cegeka Horizon portal 0.0060_0020_0010_M_S.000 Management tooling Outsourcing – Light"
+  }
+}

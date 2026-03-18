@@ -1,0 +1,33 @@
+[2026-03-18 14:28:09] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 14:28:10] HTML saved: extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 14:28:10] extract_html OK
+[2026-03-18 14:28:10] START parse_html for: extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 14:28:11] PARSE OK → output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 14:49:40] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 14:49:40] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 14:49:40] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 14:49:41] HTML saved: extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 14:49:41] extract_html OK
+[2026-03-18 14:49:41] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 14:49:41] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 14:49:42] PARSE OK → output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 14:49:42] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 14:49:42] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 14:49:42] auto_map OK → output\mapped\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.json
+[2026-03-18 14:49:42] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.xml
+[2026-03-18 14:49:42] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.xml
+[2026-03-18 14:49:43] PIPELINE OK
+[2026-03-18 15:03:28] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 15:03:28] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 15:03:29] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.5] Networking\[PRD.4.5.002] Cegeka Managed SD-WAN\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].docx
+[2026-03-18 15:03:29] HTML saved: extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 15:03:29] extract_html OK
+[2026-03-18 15:03:29] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 15:03:29] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].html
+[2026-03-18 15:03:30] PARSE OK → output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 15:03:30] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 15:03:30] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2].json
+[2026-03-18 15:03:30] auto_map OK → output\mapped\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.json
+[2026-03-18 15:03:30] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.xml
+[2026-03-18 15:03:30] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Managed SD-WAN - powered by Cisco Meraki [PRD.4.5.002][PV1.0][DV1.2]_mapped.xml
+[2026-03-18 15:03:30] PIPELINE OK

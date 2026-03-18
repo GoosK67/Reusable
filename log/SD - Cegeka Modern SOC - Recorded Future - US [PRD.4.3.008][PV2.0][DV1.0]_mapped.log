@@ -1,0 +1,14 @@
+[2026-03-18 14:49:33] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:34] Filled SDT 'CLIENT_NEEDS' with XML section 'Service Overview'
+[2026-03-18 14:49:34] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 14:49:34] Filled SDT 'KEY_FEATURES' with XML section 'Managed Services'
+[2026-03-18 14:49:34] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 14:49:34] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 14:49:34] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:03:21] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 15:03:21] Filled SDT 'CLIENT_NEEDS' with XML section 'Service Overview'
+[2026-03-18 15:03:21] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 15:03:21] Filled SDT 'KEY_FEATURES' with XML section 'Managed Services'
+[2026-03-18 15:03:21] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 15:03:22] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 15:03:22] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - Recorded Future - US [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx

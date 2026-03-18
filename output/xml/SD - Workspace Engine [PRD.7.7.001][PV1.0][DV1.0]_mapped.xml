@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ServiceDescription>
+  <Section name="UNCLASSIFIED">
+    <Header>UNCLASSIFIED</Header>
+    <Category>GENERAL</Category>
+    <Content>My Productivity – Workspace Engine SD - Workspace Engine Prepared for: Prepared by: Vincent Vandersmissen Date: 30/05/2023 Cegeka reference: [Comments] Cegeka nv Corda 3 – Kempische Steenweg 307 B-3500 Hasselt www.cegeka. com CONFIDENTIAL Table of Contents 1	Service description	3 1.1	Introduction	3 1.2	What is the added business value?	3 1.2.1	Enabling the new world of self-service workspace creation	3 1.2.2	Standardized and compliant collaboration	4 1.2.3	A must have for your information workers	4 1.3	Which services are included?	5 1.3.1	Standard services	5 1.3.2	Optional services	6 1.3.3	Responsibility matrix	6 1.4	SKU overview	7 1.4.1	Service SKUs	7 1.4.2	Standard changes SKUs	7 1.4.3	Non-standard changes SKUs	8 1.5	Service level agreement	8 1.5.1	Service support window	8 1.5.2	Specific service levels	9 1.6	Conditions	9 1.6.1	Service requirements	9 1.7	Out of scope	10 1.8	Cross-functional services	11 1.8.1	Lifecycle Management	11</Content>
+  </Section>
+  <Section name="Service description">
+    <Header>Service description</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Introduction">
+    <Header>Introduction</Header>
+    <Category>GENERAL</Category>
+    <Content>The “Workspace Engine” Service (the ‘Service’) ensures the proper operation of the creation and evolution of collaboration workspaces. By using this solution, information workers can easily request workspaces themselves without needing IT support. This by just selecting the desired predefined and corporate approved template, entering the required information, routing the workspace through an optional approval process and the Workspace Engine will do the rest. The added value for your company is a more standardized way of working, increased productivity, lifecycle management, reduced risks and maintenance costs. In the addendum “Workspace Engine addendum.docx” the Customer gets an overview of all supported functionalities of the Service.</Content>
+  </Section>
+  <Section name="What is the added business value?">
+    <Header>What is the added business value?</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Enabling the new world of self-service workspace creation">
+    <Header>Enabling the new world of self-service workspace creation</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>The Workspace Engine (The Service) serves as a management tool, automating the creation, archiving, and governance of workspaces through the use of templates. This integration ensures that not only document creation but also entire workspace management follows standardized processes, enhancing efficiency, compliance, and control throughout the organization. With the Workspace Engine, users can easily access and utilize approved templates, further streamlining workspace-related tasks, and promoting consistency and compliance. Incorporating standardized templates not only increases your organization's efficiency but also empowers individual users by simplifying tasks and ensuring they deliver high-quality, materials.</Content>
+  </Section>
+  <Section name="A must have for your information workers">
+    <Header>A must have for your information workers</Header>
+    <Category>GENERAL</Category>
+    <Content>The Workspace Engine (The Service) is an indispensable tool for information workers because it addresses several critical needs: In summary, the Workspace Engine is essential for information workers as it not only ensures standardization and compliance but also empowers them, streamlines processes, promotes collaboration, and lightens the IT department's workload. It's a catalyst for productivity and efficiency in the modern digital workplace.</Content>
+  </Section>
+  <Section name="Standardized and compliant collaboration">
+    <Header>Standardized and compliant collaboration</Header>
+    <Category>GENERAL</Category>
+    <Content>Together with the Business Stakeholders we define the requirements of the workspaces. We make sure that functional and technical requirements meet the company’s policies. The added value of these templates is that all requested workspaces are based on a standardized approved corporate template and follow the lifecycle from creation upon to archiving. Each Workspace will contain the same set of functionalities, security configuration and much more. In the end, we achieve compliancy through empowered information workers and minimize the risk of non-standardized workspaces and shadow IT.</Content>
+  </Section>
+  <Section name="Which services are included?">
+    <Header>Which services are included?</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Standard services">
+    <Header>Standard services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Optional services">
+    <Header>Optional services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Not applicable.</Content>
+  </Section>
+  <Section name="Responsibility matrix">
+    <Header>Responsibility matrix</Header>
+    <Category>GENERAL</Category>
+    <Content>This Responsibility Matrix provides the appropriate RACI tags for the customer and Cegeka with respect to the activities for the Standard and Optional Services. ACTIVITY MATRIX CEGEKA CUSTOMER Standard services Automated Workspace Management based on Standardized Workspace templates   Reporting dashboard for Workspace status follow-up   Give information workers access based on the Business and IT requirements via the service   Give information workers access based on their role in the organization via the appropriate security groups   Manually archiving of a workspace   automatically archiving of a workspace   = Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive. = Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive. = Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive. = Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.</Content>
+  </Section>
+  <Section name="SKU overview">
+    <Header>SKU overview</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service SKUs">
+    <Header>Service SKUs</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Monthly SKU DESCRIPTION Unit OF MEASUREMEnt BASE SKUs – USER *   / ** Workspace Engine (0-99 users) Per User Workspace Engine (100-399 users) Per User Workspace Engine (400-999 users) Per User Workspace Engine (1000-1999 users) Per User Workspace Engine (2000-4999 users) Per User * mandatory SKU – at least 1 to be selected per subsection ** A user is an individual who can create/read/collaborate on the provisioned sites. External users, with a Microsoft live id, (Office 365) don’t need a license. Measurement The pricing of the Service is based on the number of users. Calculation Price (range) x number of users</Content>
+  </Section>
+  <Section name="Standard changes SKUs">
+    <Header>Standard changes SKUs</Header>
+    <Category>GENERAL</Category>
+    <Content>Table below represents the Standard Changes for this Service, where each Standard Change Standard Change Service Level OBJECTIVE (elapsed working days) ACTIVATION/DEACTIVATION OF THE WORKSPACE ARCHIVING FUNCTIONALITY 2d DEACTIVATION OF THE WORKSPACE ENGINE 2d</Content>
+  </Section>
+  <Section name="Non-standard changes SKUs">
+    <Header>Non-standard changes SKUs</Header>
+    <Category>GENERAL</Category>
+    <Content>Non-standard changes List below is an non exhaustive list of non-standard changes. Non-Standard Change Category Definition of new WORKSPACE template Workspace Engine Modification and update of existing WORKSPACE templates Workspace Engine Modification and update of existing WORKSPACE sites based on the modified template Workspace Engine Configure existing SharePoint sites or Teams with new functionalities Workspace Engine Integration with line of business applications Workspace Engine Creation of a front-end interface via a PowerApps form or line of business application Workspace Engine Activation of existing sensitivity labels Workspace Engine Activation/deactivation of Workspace Engine parameters (e.g. metadata push to sites, additional owners…) Workspace Engine CREATE/UPDATE Workspace template SUPPORTING a Lifecycle aligned with Customer Business Process(es) Workspace Engine Activation of an approval flow Workspace Engine Move Workspaces to another location (e.g. fileservers, Azure storage) Workspace Engine</Content>
+  </Section>
+  <Section name="Service level agreement">
+    <Header>Service level agreement</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service support window">
+    <Header>Service support window</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Table below gives an overview of the applicable Service support Windows for each Standard &amp; Optional service Service support windows description SERVICE CEGEKA Office hours 8x5: 9AM – 5PM, Monday up to and including Friday All standard &amp; optional services CEGEKA extended office hours 12x5: 7AM – 7PM, Monday up to and including Friday N/A cegeka 24x7 24x7 N/A</Content>
+  </Section>
+  <Section name="Specific service levels">
+    <Header>Specific service levels</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>N/A</Content>
+  </Section>
+  <Section name="Conditions">
+    <Header>Conditions</Header>
+    <Category>GENERAL</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Service requirements">
+    <Header>Service requirements</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>Please find below a table with the required privileges to deploy the Workspace Engine on the customer tenant: Name Type role purpose Admin Account Installation Patching Lifecycle Management Deactivation SharePoint Administrator Application administrator Recurring maintenance (e.g. patching) Service Account Permanent SharePoint Administrator The Workspace Engine requires 1 or 2 app registrations to be registered in Azure AD in the customer tenant. These app registrations are used to connect to Microsoft 365 and MS Graph to create all the artifacts required to a workspace. One app registration is an app only, meaning it contains only AppOnly permissions. The other one is a Delegated app registration, where delegated permissions are required. Both grants can also be added to the same app registration. Cegeka advises this unified app registration. Please be aware that some of these permissions require admin consent before they can be used. With new features these grants may change.</Content>
+  </Section>
+  <Section name="Out of scope">
+    <Header>Out of scope</Header>
+    <Category>SCOPE</Category>
+    <Content></Content>
+  </Section>
+  <Section name="Cross-functional services">
+    <Header>Cross-functional services</Header>
+    <Category>FUNCTIONAL</Category>
+    <Content>In order to guarantee the Service quality Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's.</Content>
+  </Section>
+  <Section name="Lifecycle Management">
+    <Header>Lifecycle Management</Header>
+    <Category>GENERAL</Category>
+    <Content>Lifecycle management of the (Workspace Engine) Service is part of the service offered by Cegeka. The LCM (updates, features, version upgrades) process is performed: The Service is partially based on the PnP Framework ( Link ) - by Microsoft and the Community- , who do not commit on a roadmap or lead time, meaning that Cegeka can only evaluate the new functionalities when they are made available by the PnP Framework, and if useful/necessary for the Client these will be included into the Service not later than 1 quarter of the release in the PnP Framework. Customers are informed about the LCM (updates, features, version upgrades) schedule and possible impact of the LCM-activities (updates, features, version upgrades). In case that The Service will no longer be provisioned by Cegeka (due to Microsoft Strategy) to the customer, Cegeka will assess the possible impact of Microsoft’s change in strategy on The Service and discuss this impact with the customer. Changes in the Workspace Engine follow the standard Change Management process.</Content>
+  </Section>
+  <Section name="Annexes">
+    <Header>Annexes</Header>
+    <Category>GENERAL</Category>
+    <Content># Annex Name Annex Description 1 Workspace Engine addendum.docx Overview of all supported functionalities of the Service</Content>
+  </Section>
+</ServiceDescription>

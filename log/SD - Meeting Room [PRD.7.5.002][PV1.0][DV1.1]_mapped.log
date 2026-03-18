@@ -1,0 +1,12 @@
+[2026-03-18 14:48:56] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 14:48:56] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:48:56] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Support Window'
+[2026-03-18 14:48:56] Filled SDT 'SLA_KPI' with XML section 'Specific Service Levels'
+[2026-03-18 14:48:56] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:48:56] XML→DOCX OK → output\docx\SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1]_mapped_FINAL.docx
+[2026-03-18 15:02:44] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 15:02:44] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:02:44] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Support Window'
+[2026-03-18 15:02:44] Filled SDT 'SLA_KPI' with XML section 'Specific Service Levels'
+[2026-03-18 15:02:45] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 15:02:45] XML→DOCX OK → output\docx\SD - Meeting Room [PRD.7.5.002][PV1.0][DV1.1]_mapped_FINAL.docx

@@ -1,0 +1,213 @@
+
+
+
+ 
+0 VERSION CONTROL
+General
+
+ 
+Version Control Table
+
+Reviewers
+
+Approval
+
+Reference
+Service Description
+Service Summary
+The Cegeka Secure Workplace Access Service focuses on providing secure connectivity towards the customers Microsoft 365 tenant, internet and private resources. This service is mainly focusing on the Microsoft 365 services which provide these capabilities.
+
+Microsoft Global Secure Access is a comprehensive solution designed to secure your organization's Microsoft 365, internet and private access needs. By integrating Microsoft Entra Internet Access and Microsoft Entra Private Access, it provides a seamless, identity-aware, and cloud-delivered network perimeter. This ensures secure access to applications and data from anywhere, enhancing your security posture with Zero Trust principles.
+
+
+Zero Trust is a security strategy that assumes no implicit trust and verifies every request as though it originates from an open network. The core principles of Zero Trust are:
+
+Verify explicitly: Always authenticate and authorize based on all available data points, including user identity, network location, device health, service or workload, data classification, and anomalies.
+Use least privilege access: Limit user access with Just-In-Time (JIT) and Just-Enough-Access (JEA), risk-based adaptive policies, and data protection to minimize the blast radius and prevent lateral movement.
+Assume breach: Minimize the impact of a breach by segmenting access, verifying end-to-end encryption, and using analytics to get visibility, drive threat detection, and improve defenses.
+
+These principles are integral to the Secure Access Service Edge (SASE) architecture, Microsoft Entra Internet Access and Microsoft Entra Private Access - coupled with Microsoft Defender for Cloud Apps - are uniquely built as a solution that converges network, identity, and endpoint access controls so you can secure access to any app or resource, from anywhere. 
+
+This service gives the customer the following business value to his Digital Employee eXperience: 
+
+Enhanced Security: By adopting Zero Trust principles, customers can significantly reduce the risk of data breaches and unauthorized access, ensuring that only verified users and devices can access sensitive information through a secure network.
+Improved User Experience: The seamless integration of internet and private access allows users to securely access applications and data from anywhere, without compromising on performance or security.
+Operational Efficiency: With a unified security solution, organizations can streamline their security operations, reduce complexity, and lower operational costs by eliminating the need for multiple point solutions.
+Scalability and Flexibility: Microsoft Global Secure Access is designed to scale with your organization's needs, providing the flexibility to adapt to changing business requirements and evolving security threats.
+Compliance and Governance: The solution helps organizations meet regulatory requirements and maintain compliance by providing robust security controls and comprehensive visibility into user activities and data access.
+
+The Secure Workplace Access service provided by Cegeka maintains the customer's Global Secure Access environment and offers proactive recommendations for improvements. Additionally, Cegeka will provide usage insights through a dashboard that contains all essential information, giving the customer a comprehensive overview of the service's usage. 
+Services
+Standard Services
+The following base services will be delivered as part of this service:
+Management of the Global Secure Access Platform
+Maintain the Global Secure Access management platform;
+Provide pro-active advice about the use of Global Secure Access;
+Maintain the Microsoft 365 Traffic Profile within Global Secure Access;
+Maintain and keep Global Secure Access clients up to date;
+Only when not integrated in the core of the corresponding operating system;
+Provide Dashboard of the Global Secure Access Platform including the following information:
+Alerts and Notifications (last 24 hours);
+Client Activity Status
+Traffic Insights;
+Technical L2/L3 incident handling for Global Secure Access Platform and the Microsoft 365 traffic profile & Private Access
+Optional Services
+The following optional service can be added to the standard services as part of this service:
+Internet Access
+The following additional services will be delivered as part of this additional service:
+Management of the Internet Access Platform
+Maintain Internet Access Traffic Profile within Global Secure Access;
+Maintain Internet Access Features like:
+Security Profile
+Web content Filtering Policies
+Provide Dashboard of the Internet Access including the following information:
+Alerts and Notifications (last 24 hours);
+Traffic Insights for Internet Access;
+Additional Technical L2/L3 incident handling for Entra Internet Access Platform
+Private Access
+The following additional services will be delivered as part of this additional service:
+Management of the Entra Private Access Platform
+Maintain Private Access Features like:
+Quick Access with or without Private DNS;
+Application Discovery
+Enterprise Applications
+Conditional Access support for applications within Private Access
+Maintain Private Access Traffic Profile within Global Secure Access
+Maintain on Private Access Connectors;
+Updating the connectors with at least n-1 version of the connector software;
+High availability of the connector groups (at least 2 connectors per group);
+Provide Dashboard of the Private Access including the following information:
+Alerts and Notifications (last 24 hours);
+Connector Status
+Traffic Insights Private Access;  
+Service Request 
+A Service Request can be a
+•	Request for a Standard Change
+•	Request for a Standardized Change
+•	Request for a Non Standard Change
+•	Request for Information
+
+Table below contains all Service Requests for this Service,
+
+
+
+A Request for Information is not part of the Standard or Optional Services and will be charged as an Incident Ticket.
+
+Detailed definitions of all Service Types can be found in the ‘Enabling Services Document’, cfr. Chapter ‘Relation to Enabling Services’.
+
+Out of scope
+Everything that is not explicitly mentioned in this service description is by default out of scope.
+Service Characteristics 
+Obligatory Services
+The following service are Obligatory for this service to be delivered:
+Digital Employee eXperience – My Support – Remote Support or equivalent;
+Digital Employee eXperience - Platform – My Physical OS;
+Digital Employee eXperience – Platform – Remote Support;
+Digital Employee eXperience – Teamwork – Digital Identity Services;
+Hybrid Cloud – OS Management Gold on all connector servers or equivalent.
+Prerequisites & Conditions 
+This service has the following prerequisites and conditions before this service can be delivered:
+The Service requires a central identity & management platform, an instance of the Microsoft 365 SaaS platform component Microsoft Entra & Microsoft Intune;
+This Service only works with managed workplaces, this service does not support Bring-Your-Own-Devices as this is a limitation of the product used to deliver this service;
+Correct licenses are available and assigned for each device/user;
+The Cegeka Digital Employee eXperience team has the necessary roles in Microsoft SaaS platform:
+“Application Administrator”
+“Global Secure Access Administrator”
+“Global Reader”
+To engage Microsoft Premier Support, an active GDAP connection is required.
+Cegeka owned licenses and/or subscriptions
+N/A
+Customer owned licenses and/or subscriptions
+These licenses and/or subscriptions and not included in this Service. It is the Customer responsibility to maintain license and/or subscription compliance.
+
+Location 
+This service is not delivered from within the Customer premises. Only from the Cegeka (virtual) Office Environment.
+Ownership 
+All automation used to deliver this service remains the property of Cegeka at all times.
+Miscellaneous 
+N/A
+RACI Matrix
+Listed below are the activities related to the Service; the activities RACI related to enabling services are listed in the Enabling Services Document.
+
+
+RACI Role definition
+= Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive.
+= Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity maximum one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive.
+= Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive.
+= Informed: Party to be informed/kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive.
+Onboarding
+(Technical) Implementation Phase
+This document only describes the implementation steps required for this service. The governance activities around the implementation of this service are not part of this approach and need to be added manually based on the customer project. The implementation phase of the project consists of the following:
+Initiation & Design
+Implementation & Testing
+Production Rollout
+
+In the following paragraphs these phases will be described in more detail. 
+Initiation & Design
+This phase begins with a face-to-face session where the customer defines the requirements for the implementation. During this session, Cegeka will present the standard approach for implementing the service and its components. The standard approach includes a standard design with predefined design choices. Based on the requirements discussed in the session, adjustments to the design can be made where allowed by Cegeka's standards. Additionally, it will be determined which optional services will be implemented along with the base service. This phase has the following set of minimal activities:
+Face-to-face kickoff session with customer defining requirements and the service;
+Writing technical design of the service with all design rules and choices;
+Defining the acceptation criteria for the test activities during the implementation;
+The results of the phase should be the following documents: Technical Design of the service and a list acceptation criteria for the implementation of the service approved by the customer.
+
+Implementation & Testing
+During this phase, the base service will be implemented along with any additional services. Cegeka will perform the implementation based on the designs prepared in the previous phase. The process begins with implementing and testing the base services. This includes enabling client installation, which will be configured within Microsoft Intune where feasible. Once the base services are implemented, validated, and tested, the additional services will be added and configured. 
+When the additional service Internet Access is provided, the necessary policies will be established as part of the service setup. These policies will be enabled through the customer's Conditional Access policies. Any activities required to modify the conditional access policies will be included in the implementation of this service.
+The additional service, Private Access, will begin with the deployment of connectors to route traffic towards private applications within the customer's environment. Once the connectors are activated within Global Secure Access, an initial quick access configuration will be provided. This can later be translated into a per-application configuration using application discovery. Application discovery will identify applications, and their traffic based on the usage of the quick access configuration. This phase has the following set of minimal activities:
+Enablement of the Global Access Platform;
+Testing of the deployment of the Global Access clients toward each operating system in scope;
+[Optional] Enablement of the Internet Access capabilities;
+[Optional] Enablement of the Private Access capabilities;
+Technical validation of the Global Access service;
+Signed Acceptance Criteria report by customer;
+Release-to-production process followed resulting in the service in run phase;
+Production Rollout
+The production rollout of this service will consist of the deployment of the Global Secure Access client to all operating systems in scope of the project. After the agents are deployed the Microsoft 365 Traffic profile can be implemented by activating the corresponding conditional access policy
+For Internet Access the additional conditional access policies will be activated and monitored. For Private Access the first step is activating the Quick Access configuration. Based on the data additional per application policies will be created. This can be done during the project phase or when this service is running. When this service is in the run phase, changes per application need to be created. In the project phase, this can be coordinated by the project manager and no change per application is required.
+This phase has the following set of minimal activities:
+Rollout of the Global Secure Access clients to production workplaces;
+Activation of the Microsoft 365 Traffic Profile and assignment of corresponding conditional access policies;
+[Optional] Activation of the Internet Access Traffic Profile assignment of the corresponding conditional access policies;
+[Optional] Activation of the Private Access Traffic Profile assignment of the corresponding conditional access policies;
+
+Service Onboarding Requirements
+This service has the following onboarding requirements which need to be in place before this service:
+Cegeka Global Secure Access design or equivalent. If the design is not the official Cegeka design, it needs to be validated by the Product Delivery Authority;
+If the service is activated as part of a project and/or transition the implementation needs to be approved by the Release-To-Delivery process;
+If the service is sold as part of a takeover of an existing environment, a health check needs to be executed on the environment and results should be approved by the Product Delivery Authority;
+Incident Areas and Change Categories are activated for the customer;
+All Prerequisites & Conditions of Chapter [2.3.2] are fulfilled and present;
+
+Service Levels Management
+Service Window
+Table below gives an overview of the applicable Service Support Windows for each Standard & Optional service:
+
+Service Level
+3rd Party SLA
+This service makes use of a third party PAAS provider. For the SLA’s concerning uptime and/or availability of the 3rd party platform we refer to the following documentation  documentation  Service Level Agreements (SLA) for Online Services.
+Service Billing
+Measurement 
+
+The quantity of each billing element is determined on a mentioned monthly basis, on the 1st day of the month:
+the quantities for the standard service are determined by the number of users with an assigned license to the corresponding standard service
+the quantities for the optional services are determined by the number of users with an assigned license to the corresponding optional service
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing. The Service is billed per billing element:
+price of each 'billing element' * quantity of each 'billing unit' as defined in the measurement
+Standard Service Billing
+
+Optional Service Billing
+
+
+Service Request Billing
+
+(*) Billing Method: 
+Default: pre-agreed fixed price per standard change
+T&M: Time & Material
+(**) Approval Method:
+Default: pre-approved by customer
+Approval/CAB: separate approval necessary prior to execution
+
+Relation to Enabling Services
+To guarantee the Service quality Cegeka refers to the Enabling Services from the contract document set and their corresponding standard KPI's. The following table lists only relevant specifics regarding enabling services for the product. When in the table no specific is filled, this implies that the service adheres to the standards described in the Enabling Services document.

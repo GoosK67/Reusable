@@ -1,0 +1,18 @@
+[2026-03-18 14:42:16] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:16] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Description'
+[2026-03-18 14:42:16] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 14:42:16] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 14:42:16] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:42:16] XML→DOCX OK → output\docx\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 14:48:01] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:48:01] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Description'
+[2026-03-18 14:48:01] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 14:48:01] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 14:48:01] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:48:01] XML→DOCX OK → output\docx\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:01:50] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:50] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Description'
+[2026-03-18 15:01:50] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 15:01:50] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 15:01:51] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 15:01:51] XML→DOCX OK → output\docx\SD - Jenkins Managed Service [PRD.0.L.301][PV1.0][DV1.0]_mapped_FINAL.docx

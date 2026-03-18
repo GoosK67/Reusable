@@ -1,0 +1,33 @@
+[2026-03-18 14:28:01] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 14:28:02] HTML saved: extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 14:28:02] extract_html OK
+[2026-03-18 14:28:03] START parse_html for: extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 14:28:04] PARSE OK → output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 14:49:13] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 14:49:13] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 14:49:14] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 14:49:14] HTML saved: extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 14:49:14] extract_html OK
+[2026-03-18 14:49:14] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 14:49:14] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 14:49:17] PARSE OK → output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 14:49:17] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 14:49:17] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 14:49:17] auto_map OK → output\mapped\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.json
+[2026-03-18 14:49:17] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 14:49:17] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 14:49:18] PIPELINE OK
+[2026-03-18 15:03:01] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 15:03:01] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 15:03:01] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Digital Employee eXperience\[7.4] Cegeka Support Solutions\[PRD.7.6.002] Onsite Support\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].docx
+[2026-03-18 15:03:02] HTML saved: extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 15:03:02] extract_html OK
+[2026-03-18 15:03:02] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 15:03:02] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].html
+[2026-03-18 15:03:04] PARSE OK → output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 15:03:05] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 15:03:05] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1].json
+[2026-03-18 15:03:05] auto_map OK → output\mapped\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.json
+[2026-03-18 15:03:05] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 15:03:05] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Onsite Support [PRD.7.6.002][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 15:03:05] PIPELINE OK

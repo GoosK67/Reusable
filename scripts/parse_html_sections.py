@@ -1,52 +1,65 @@
-from bs4 import BeautifulSoup
 from pathlib import Path
-import json
 import sys
-import re
+import json
+from bs4 import BeautifulSoup
+from datetime import datetime
 
-def clean_html(text):
-    # remove UTF-8 BOM if present
-    if text.startswith("\ufeff"):
-        text = text.replace("\ufeff", "", 1)
+# -----------------------------------------
+# LOGGING (ALTIJD APPEND)
+# -----------------------------------------
+LOG_FOLDER = Path("log")
+LOG_FOLDER.mkdir(exist_ok=True)
 
-    # remove <style>, <script>, <xml>, <m:math> blocks
-    text = re.sub(r"<style.*?>.*?</style>", "", text, flags=re.S|re.I)
-    text = re.sub(r"<script.*?>.*?</script>", "", text, flags=re.S|re.I)
-    text = re.sub(r"<xml.*?>.*?</xml>", "", text, flags=re.S|re.I)
-    text = re.sub(r"<m:math.*?>.*?</m:math>", "", text, flags=re.S|re.I)
+def log(msg, sd_name="GENERAL"):
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{ts}] {msg}\n"
+    logfile = LOG_FOLDER / f"{sd_name}.log"
 
-    return text
+    with open(logfile, "a", encoding="utf-8", errors="ignore") as f:
+        f.write(line)
 
+    print(line, end="")
+
+# -----------------------------------------
+# HTML PARSER
+# -----------------------------------------
 if __name__ == "__main__":
     html_file = Path(sys.argv[1])
-    output_folder = Path("output/json")
-    output_folder.mkdir(parents=True, exist_ok=True)
+    sd_name = html_file.stem
 
-    raw = html_file.read_text(encoding="utf-8", errors="ignore")
-    cleaned = clean_html(raw)
+    log(f"START parse_html for: {html_file}", sd_name)
 
-    soup = BeautifulSoup(cleaned, "html.parser")
+    try:
+        html_text = html_file.read_text(encoding="utf-8", errors="ignore")
+        soup = BeautifulSoup(html_text, "html.parser")
 
-    sections = {}
-    current = "preamble"
-    sections[current] = ""
+        sections = {}
 
-    # robust detection
-    for tag in soup.find_all(True):
-        name = tag.name.lower()
+        # 🟩 CRUCIALE FIX: fallback moet ALTIJD bestaan
+        current_header = "UNCLASSIFIED"
+        sections[current_header] = ""
 
-        if name in ["h1", "h2", "h3"]:
-            current = tag.get_text(strip=True).lower()
-            sections.setdefault(current, "")
-            continue
+        for el in soup.find_all(["h1", "h2", "h3", "p"]):
+            if el.name in ("h1", "h2", "h3"):
+                current_header = el.get_text(strip=True)
+                sections[current_header] = ""
+            else:
+                sections[current_header] += el.get_text(" ", strip=True) + " "
 
-        if name == "p":
-            text = tag.get_text(" ", strip=True)
-            if text:
-                sections[current] += text + "\n"
-            continue
+        # SAVE RESULT
+        out_folder = Path("output/json")
+        out_folder.mkdir(parents=True, exist_ok=True)
 
-    out_path = output_folder / f"{html_file.stem}.json"
-    out_path.write_text(json.dumps(sections, indent=2, ensure_ascii=False), encoding="utf-8")
+        out_file = out_folder / f"{sd_name}.json"
+        out_file.write_text(
+            json.dumps(sections, indent=2, ensure_ascii=False),
+            encoding="utf-8",
+            errors="ignore"
+        )
 
-    print(f"✔ Robust parsed → {out_path}")
+        log(f"PARSE OK → {out_file}", sd_name)
+        sys.exit(0)
+
+    except Exception as e:
+        log(f"PARSE ERROR: {e}", sd_name)
+        sys.exit(1)

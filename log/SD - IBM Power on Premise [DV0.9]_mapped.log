@@ -1,0 +1,21 @@
+[2026-03-18 14:42:02] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - IBM Power on Premise [DV0.9]_mapped.xml
+[2026-03-18 14:42:02] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:42:02] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 14:42:02] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 14:42:02] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 14:42:02] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 14:42:02] XML→DOCX OK → output\docx\SD - IBM Power on Premise [DV0.9]_mapped_FINAL.docx
+[2026-03-18 14:47:48] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - IBM Power on Premise [DV0.9]_mapped.xml
+[2026-03-18 14:47:48] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:47:48] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 14:47:48] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 14:47:48] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 14:47:48] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 14:47:48] XML→DOCX OK → output\docx\SD - IBM Power on Premise [DV0.9]_mapped_FINAL.docx
+[2026-03-18 15:01:37] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - IBM Power on Premise [DV0.9]_mapped.xml
+[2026-03-18 15:01:37] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:01:37] Filled SDT 'TERMS_CONDITIONS' with XML section 'Conditions'
+[2026-03-18 15:01:37] Filled SDT 'SLA_KPI' with XML section 'Service level agreement'
+[2026-03-18 15:01:37] Filled SDT 'KEY_FEATURES' with XML section 'Monitoring & Reporting'
+[2026-03-18 15:01:38] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 15:01:38] XML→DOCX OK → output\docx\SD - IBM Power on Premise [DV0.9]_mapped_FINAL.docx

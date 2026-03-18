@@ -1,0 +1,72 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+
+
+Hybrid Cloud
+Hypervisor management
+Service summary
+The Hypervisor management service includes the technical management of a Hypervisor on physical environment. 
+Standard service components
+This Service includes technical management of the Hypervisor. Cegeka shall be responsible in providing the following Services:
+Hardware management
+CPU/RAM
+Physical NICs
+HBAs / FC adapters / iSCSI adapter
+Physical storage
+iLO
+Managing hypervisor Hosts and Clusters represents supporting:
+hypervisor Clusters (including SCVMM, Hyper-V Manager, Admin Center, vSphere vCenter, XenServer, XenCenter)
+host licensing
+availability, capacity and performance
+Datastores / Cluster Shared Volumes (VMDK /RDM / VHDX disks)
+High availability
+host profiles
+Virtual switches
+time settings
+SNMP settings
+resource pools
+VM Resources
+VM options
+Startup/shutdown options
+VMware tools / XenServer tools / Hyper-V integration services
+Roles and accounts
+Auditing
+AD authentication
+Security
+snapshots, checkpoints and machine images
+Power management
+Security
+The following activities are part of this service Security component:
+Manage lockdown mode
+Manage security certificates
+Manage Single Sign On
+Manage network security policies
+Secure storage migration traffic
+Manage guarded fabrics
+Manage shielded VMs
+Quarterly patch management
+Monitoring
+Eligibility and Prerequisites
+Conditions
+This service supports the following products:
+VMware vSphere ESXi and vCenter
+Microsoft Hyper-V and SCVMM
+Citrix XenServer and XenCenter
+Responsibility matrix
+
+Order & billing information
+Part numbers
+O.0120_0020_0070_A_S.000 Physical - Hypervisor
+O.0120_0040_0130_A_S.000 Physical Onsite - Hypervisor
+O.0120_0040_0140_A_S.000 Hyperconverged management (incl. Hypervisor)
+
+Measurement
+A report is generated on a monthly basis, this report is based on the CMDB and lists all servers and service details for which a Cegeka datacentre – Managed Hypervisor OS Service is delivered.
+Billing
+The units are billed against the price of their respective SKU’s.
+(“Price/Unit” x “Quantity of Virtual – Gold Units”) +
+(“Price/Unit” x “Quantity of Virtual – Silver Units”) + 
+(“Price/Unit” x “Quantity of Virtual – Bronze Units”).

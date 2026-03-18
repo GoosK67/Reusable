@@ -1,0 +1,12 @@
+[2026-03-18 14:49:26] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:26] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 14:49:26] Filled SDT 'KEY_FEATURES' with XML section 'DFIR services'
+[2026-03-18 14:49:26] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 14:49:26] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 14:49:26] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:03:12] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 15:03:12] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 15:03:12] Filled SDT 'KEY_FEATURES' with XML section 'DFIR services'
+[2026-03-18 15:03:12] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 15:03:13] TOTAL SDT FIELDS FILLED: 3
+[2026-03-18 15:03:13] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - DFIR - EU [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx

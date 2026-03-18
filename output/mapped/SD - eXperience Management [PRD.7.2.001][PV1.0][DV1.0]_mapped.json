@@ -1,0 +1,127 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "My Experience – End-User Experience Monitoring & Management Standard Service Description Prepared for: <Customer name> Prepared by: Bart Weemaels Date: [Publish Date] Cegeka reference: -[Comments] Table of Contents 1\tStandard Service Description\t3 1.1\tIntroduction\t3 1.2\tOur approach\t4 1.2.1\tEstablishing the baseline – the metrics\t4 1.3\tWhat is the added business value?\t7 1.3.1\tImprove Employee Productivity\t7 1.3.2\tImprove User Satisfaction through Proactive Problem Management\t8 1.3.3\tFaster problem resolution\t8 1.3.4\tAugmentation of operational insights and visibility\t8 1.3.5\tBetter correlation of issues\t8 1.3.6\tCross-domain and business level monitoring strategy\t8 1.4\tWhat is included in the service?\t8 1.4.1\tStandard Services\t8 1.4.2\tGovernance of the Service\t9 1.4.3\tResponsibility matrix\t10 1.5\tSKU overview\t12 1.5.1\tService SKUs\t12 1.5.2\tStandard changes SKUs\t13 1.5.3\tNon-standard changes SKUs\t13 1.6\tService Level Agreement\t14 1.6.1\tService Support window\t14 1.6.2\tSpecific service levels\t14 1.7\tConditions\t14 1.8\tCross-functional services\t15"
+  },
+  "Standard Service Description": {
+    "header": "Standard Service Description",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Introduction": {
+    "header": "Introduction",
+    "category": "GENERAL",
+    "content": "End-User Experience Management provides insight into the performance and end user experience of the digital workplace. Together with visibility of devices, operating systems, virtual environments, and networks we create  a unified, real-time view of end user experience. This service not only monitors the resources an employee interacts with, but also takes it a step further: it enables the ability to proactively remediate issues to improve employees’ digital experience. End User Experience Management focuses purely on employee experience while adding AI-driven analytics, scoring, sentiment gathering, and automated remediation. Just as the field of Customer Experience has grown to address the full range of customer interactions, End User Experience Management now serves the distinct needs of the IT organization in monitoring and improving employees’ digital experience. It combines technical metrics and employee sentiment to provide a complete view and objective measurement of employee experience across all resources. At Cegeka, we provide End-User Experience Monitoring & Management (EUEM) as a Managed Service to incorporate Digital Experience into the customer strategy and processes.  By identifying, monitoring & tracking the end-user digital experience, and implement a continuous service improvement plan and continuously ‘put the finger to the wrist’, we are able to create a sustainable & productive end-user work environment."
+  },
+  "Our approach": {
+    "header": "Our approach",
+    "category": "GENERAL",
+    "content": "The steps are as follows:"
+  },
+  "Establishing the baseline – the metrics": {
+    "header": "Establishing the baseline – the metrics",
+    "category": "GENERAL",
+    "content": "A great Digital Experience should connect all the significant parts of an organization to fully understand the employee experience. Below, a high-level view is presented on the different components that go into calculating the digital experience score of the customer.  The most important and actual items that make up the score and the data types used to calculate are highlighted:   What results are we, Cegeka and the Customer, able to deliver after we implemented the Digital Experience Score? By connecting above system metrics with employee sentiment, you will have the following: Companies now agree that being able to get direct and continuous feedback from employees is crucial. And being able to smartly corroborate that feedback with device-level details is game-changing. Having access to the best of both worlds enables IT to stop incidents before they become significant problems. Getting feedback produces several benefits for the employees and the company as a whole. It allows IT to: By communicating directly with your employees, you’ll get a holistic view of their technical environment and their feelings about it. The key to collecting quality feedback is to set up, together, an engagement campaign that elicits actionable information. Collecting employee sentiment, bringing it in correlation with the ‘tangible’ metrics will not only deliver the Digital User Experience Score, but will also: To stabilize the environment in function of the Digital Experience Score and to tackle the employees’ technical problems and to react faster is to embed a Digital Employee Experience platform that provides us with the capabilities discussed earlier in this chapter: But the remediated actions should also be part of stabilizing the existing environment and improving the end-user experience. Deploying automated self-healing remediation : Automated self-healing allows us to solve problems in just a few clicks. The desired state of computing is maintained by continuous monitoring. If a problem is detected, it is resolved by automating a solution in real-time without disturbing the user. Providing IT with customizable scripts can trigger one-click fixes to prevent or resolve issues quickly. For example, if an app crashes, a self-healing app would automatically detect the program’s crash, delete the log file, and restart it. Automating the process reduces the number of reported incidents and increases end-user productivity. One great benefit of automated remediation is that this will result in reduced incidents perceived by employees and faster resolution times, which is, directly part of our service desk Shift-2-Left & Shift-Out vision. For the tickets that do get submitted, you’ll have a quicker resolution without escalating the issue. Without spending time on unnecessary call center tickets, IT is freed up to focus on strategy and not put out fires. To accommodate this data (the combination of employee sentiment and hard metrics), Cegeka will setup a ‘virtual’ user experience office to report and solve performance problems as they impact the employee experience. The user experience office will communicate up and down the customer hierarchy (of course with respect to the established governance) in order to identify trends and fix incidents before they become big problems. One of the most important tactical fora to present the results of the data correlation will be the change advisory boards. The experience office has the standard process of collecting the user experience score, reporting to the governance layers, resulting in user adoption programs and/or change requests (projects) in order to increase the user experience. After execution of the program/project, the monitoring will reveal the impact of the change in the organization, with a positive increase of the user experience score. As you’ve probably noticed, the user experience office and the data collection + correlation does NOT only make use of the user experience management platform (tooling) but will also correlate this data (hard metrics & sentiment) with other end-user impacted services like data analytics from the service desk and feedback from program and project management. The conventional service level agreement (SLA) is a commitment to Customer that sets standards that Cegeka must maintain concerning production, uptime, speed, volume, and so on. SLAs have likely had no, or barely any, involvement from end-users. This is one of the biggest mistakes you can make when devising XLAs. Experience level agreements should be directly linked to end-user experience; therefore, it is pivotal that you involve them in XLA discussions. Another common mistake is using a “one-size fits all” approach, similar to what has been found in SLA usage. XLAs need to be tailored to experience and organizations problems or needs. Furthermore, SLAs focus on what you can physically measure: time, budgets, tickets etc. This completely misses the most important thing - the end-users experience. Although there is so much more to say about SLA & XLA, the differences and the benefits, the dos and don’ts, Cegeka is preparing the journey to onboard customers in the XLA driven outsourcing model. Though nothing is perfect we strive to be a partner into giving all employees their best possible experience and we would like to embrace this in a partnership – between the Customer & Cegeka – and actively involve the Customer in this journey and our tactical initiative to embed XLA based reporting into our service model."
+  },
+  "What is the added business value?": {
+    "header": "What is the added business value?",
+    "category": "GENERAL",
+    "content": "End-user experience monitoring plays an instrumental role in a customer’s organization growth and success. By providing constantly monitoring for end-users, the IT teams have more visibility of the entire digital workplace. Using these key insights, Cegeka can now take proactive and predictive remediations using the powerful automation engine of this new proposed End-User Experience Monitoring platform. This new service will also allow Cegeka to make improvements as-needed as new insights will become visible through new dashboards and reporting. Putting in place new remediation processes, the overall user satisfaction will become higher. With the platform The Customer will gain a holistic understanding of the entire IT landscape that support your business. Having only infrastructure monitoring is not sufficient anymore to understand the relation of your applications and its underlying services. Incidents that manifest themselves as performance degradation on a user’s device can often be traced back to underlying infrastructure issues."
+  },
+  "Improve Employee Productivity": {
+    "header": "Improve Employee Productivity",
+    "category": "GENERAL",
+    "content": "By monitoring endpoint devices, the End-User Experience Monitoring (EUEM) service problems can be detected faster and if feasible, will be solved automatically. It will help to mitigate the impact of configurations changes, changes to the end-user environment. By implementing use cases specified on impact, effort and time lost we can accurately track the gained productivity."
+  },
+  "Improve User Satisfaction through Proactive Problem Management": {
+    "header": "Improve User Satisfaction through Proactive Problem Management",
+    "category": "SUPPORT",
+    "content": "Employee engagement is improved by continuously capturing employee sentiment, scoring performance and automated remediation. The results are then investigated and taken into account when discussing issues and new remediations."
+  },
+  "Faster problem resolution": {
+    "header": "Faster problem resolution",
+    "category": "SUPPORT",
+    "content": "By monitoring end-user experience proactively, the service will track the most critical transactions and will prevent impact on the end-users. The data that comes along with this monitoring service will help with an improved root cause analysis and will bring real measurements to the service desk. This will in turn improve the MTTI/MTR of the service desk and will help solve other issues the employee is experiencing at the same time."
+  },
+  "Augmentation of operational insights and visibility": {
+    "header": "Augmentation of operational insights and visibility",
+    "category": "GENERAL",
+    "content": "By augmenting the data of the EUEM, greater insights will improve the experience and help improve users’ satisfaction. The additional dashboards and reports will provide additional insights in the digital experience of the end-user and the IT landscape of the customer."
+  },
+  "Better correlation of issues": {
+    "header": "Better correlation of issues",
+    "category": "GENERAL",
+    "content": "EUEM is focused on understanding user experiences through interaction with applications. The analytics and data that will become available can also be used to monitor the performance of business applications or can detect new insights in recurring issues, e.g., for example the network area. These insights will help with inventory lists or hardware refreshes because of performance issues."
+  },
+  "Cross-domain and business level monitoring strategy": {
+    "header": "Cross-domain and business level monitoring strategy",
+    "category": "MONITORING",
+    "content": "The EUEM will complement all the areas of IT monitoring. Performance visibility gaps will be detected from different perspectives and monitoring will not cover only the underlying infrastructure but also the internals of the applications."
+  },
+  "What is included in the service?": {
+    "header": "What is included in the service?",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Standard Services": {
+    "header": "Standard Services",
+    "category": "FUNCTIONAL",
+    "content": "The following activities are included in the End-User Experience Monitoring Service:"
+  },
+  "Governance of the Service": {
+    "header": "Governance of the Service",
+    "category": "FUNCTIONAL",
+    "content": "Measuring is an important first step, but it is even more important to do something with the insights you get through this Digital Experience Score. What is going well or badly? What works technically well, but still gets a low score in terms of user experience? This is of course the real value of this monitoring. Standard Governance recurring activities: For this we optionally propose a User Experience Office (UEO), where the responsibility for the user experience will be placed. The UEO is headed by the User Experience Manager (UEM), whose role is further explained below The user experience is continuously monitored by analysing and correlating both technical performance data and user insights flowing from the User Experience Monitoring Platform. The parameterization of the Platform is based on the requirements that are captured in the consultation forums for work leak services. The goal of the UEO is to provide an up-to-date and high-quality service to the Customer, focused on user experience and automation. The UEO monitors all areas of the workplace and develops a new approach to address improvements in the environment and be ready for the changes that occur and turn this into programs to increase user experience and awareness. Means for doing this include User Adoption ( The User Experience Office is led by the User Experience Manager, who must monitor the user experience on five levels: • Service Readiness; • Service Improvement; • Real Time Analytics; • Knowledge Management. The User Experience Manager and office are responsible for following activities:"
+  },
+  "Responsibility matrix": {
+    "header": "Responsibility matrix",
+    "category": "GENERAL",
+    "content": "The table below reflects the responsibilities of Cegeka and Customer for the new end-user experience monitoring service. Activity CEGEKA CUSTOMER end-user experience monitoring Workstation device, user experience or application monitoring from the end-user viewpoint   Analyse common threats between application's performance and workstations issues.   Provide user and device reporting   Assess impact of application, network infrastructure or devices changes in the enterprise   Notification services and configure alerts to the service desk   Discover shadow-it & report on it   Management EUEM Platform Technical troubleshooting system errors and incidents related to the monitoring platform   Maintain system documentation   Maintain user management within the platform   Provide access to the agreed EUEM Dashboards and make them available  Ensure license provisioning and allocate the license units required to monitor the contractual scope of end-user devices to be monitored   Limited data access and setup required privileges for data access and audit   END-USER EXPERIENCE MANAGEMENt Create compliancy & regulatory dashboard / report   Report on Device lifecycle management based smart data & historic trends   Report on automations to reduce MTTD / MTTR, moving from reactive to proactive   Report on complimentary or overcapacity on software licenses and/or subscriptions   Identify fluctuations of DEX score between Home/Remote office & HQ   Provide adoption initiatives with end-user landscape sentiment & hard metrics to create change with impact   Proactive change management (eg. User Adoption, Application migration) by baselining before and after change. Create lessons learned based on new DEX insights.   = Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive. = Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity exactly one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive. = Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive. = Informed: Party to be informed / kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive."
+  },
+  "SKU overview": {
+    "header": "SKU overview",
+    "category": "GENERAL",
+    "content": "One overview (table) of all offered services (SKUs), together with their unit of measurement & frequency of billing… If applicable, standard & non-standard changes should also be defined. If applicable, it can be indicated if SKUs are mandatory or optional"
+  },
+  "Service SKUs": {
+    "header": "Service SKUs",
+    "category": "FUNCTIONAL",
+    "content": "Monthly SKU Unit OF MEASUREMEnt My Experience - End-User Experience Monitoring & Management Full (Without Customer Access) Per endpoint My Experience - End-User Experience Monitoring & Management Full (With Customer Access) Per endpoint This SKU includes the service for monitoring and management and the customer will be able to get access to the monitoring. Any employee of the customer will be able to get access to the monitoring and do analysis or use cases in cooperation with Cegeka. If the customer is working on the Experience Office this SKU is a requirement. This service includes the subscriptions of the End-User Experience monitoring platform and the service activities described in chapter 1.4. The pricing is per endpoint in scope of Cegeka Management +2% (with a minimum of 25) for Lifecycle Management rounded up to a multiple of 100 with a minimum of 500. For example: A customer has 1066 endpoints in his environment. 1066 +2% (21.32) = 1087.32. As a minimum 25 licenses are needed for LCM so the total comes to 1091. The number of licenses to need would be 1100. The End-User Experience Management is part of the governance, see chapter 1.4.2 where pricing for the governance roles will be included in the governance pricing (and thus excluded from this SKU pricing)"
+  },
+  "Standard changes SKUs": {
+    "header": "Standard changes SKUs",
+    "category": "GENERAL",
+    "content": "Table below represents the Standard Changes for this Service, where each Standard Change STANDARD CHANGE CATEGORY Standard SLO add/change/delete custom report Experience Monitoring & Management 5 working days add/change/delete policy Experience Monitoring & Management 3 working days add/delete surveys Experience Monitoring & Management 5 working days ADD/CHANGE/DELETE Automation Experience Monitoring & Management 5 working days REquest for information User (GDPR) Experience Monitoring & Management 5 working days Request for Anonimization User (GDPR) Experience Monitoring & Management 5 working days This standard change will add, change or delete a custom report to or from the repository from the available reports for the customer This standard change will add, change or delete a policy on specific request & approval from the customer This standard change will add or delete surveys with regards to the engagement & correlation of hard metrics and user sentiment. Surveys that correlate directly with the Digital Experience cannot be deleted. This standard change is for users who request their information through GDPR. The user has to identify him/herself after which the users collected information will securely be shared. This standard change is for users who want their information anonymized through GDPR. The user has to identify him/herself after which the users collected information will be permanently anonymized."
+  },
+  "Non-standard changes SKUs": {
+    "header": "Non-standard changes SKUs",
+    "category": "GENERAL",
+    "content": "Non-standard changes List below is a non-exhaustive list of non-standard changes. NON-STANDARD CHANGE CATEGORY ADD/CHANGE/REMOVE CUSTOM FUNCTIONALITY CUSTOM INTEGRATION INTO CUSTOM ITSM CUSTOM"
+  },
+  "Service Level Agreement": {
+    "header": "Service Level Agreement",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Service Support window": {
+    "header": "Service Support window",
+    "category": "FUNCTIONAL",
+    "content": "Table below gives an overview of the applicable Service Support Window Service windows description SERVICE CEGEKA Office hours 8x5: 9AM – 5PM, Monday up to and including Friday All standard services"
+  },
+  "Specific service levels": {
+    "header": "Specific service levels",
+    "category": "FUNCTIONAL",
+    "content": "This service makes use of a third party PAAS provider. For the SLA’s concerning uptime and/or availability of the 3 rd party platform we refer to the documentation of Nexthink [1]"
+  },
+  "Conditions": {
+    "header": "Conditions",
+    "category": "GENERAL",
+    "content": "Support will be delivered to Nexthink supported OS’es only and must be in scope of Cegeka delivered managed workplaces."
+  },
+  "Cross-functional services": {
+    "header": "Cross-functional services",
+    "category": "FUNCTIONAL",
+    "content": "In order to guarantee the Service quality as specified in Cegeka provides the required Cross-Functional Services as specified in “Cross-Functional-Services.doc” https://docs.nexthink.com/legal/ ↑"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "SD - Teamwork My Online Collaboration – Standard Service Description Prepared for: <Customer name> Prepared by: Cegeka DWP Date: [Publish Date] Cegeka reference: [Comments] README for (pre)sales Specify the field <Customer name> (name of the targeted customer) Document can be used in two ways: DELETE THIS PAGE FOR CUSTOMERS README for product managers This document is the template for the commercial description of solutions. As the name states, the goal is to have a commercially attractive description of a solution, which can be used as a standard informative document towards the customer, or as input text for another offer/proposal document (cross solution & customizable). The prime focus should be on capturing the needs and added value for the customer, and not on a fully-inclusive textual description of the service (which is for the (legal) service description) How to use the template: DELETE THIS PAGE FOR CUSTOMERS Document history for product managers Version Date Comment Author 0.1 14/04/2022 First Draft, however Benefits Section still to be elaborated/validated on Tue 19/4/22 Gert Vanmechelen 0.2 20/04/2022 Rework of comments Bart Swerts 0.3 03/05/2022 Replied on all comments, reworked where possible Gert Vanmechelen 0.4 09/06/2022 Draft for validation on Product Council Christophe Van der Veken/Bart Swerts/ Gert Vanmechelen 0.5 16/05/2023 Review Christophe Van der Veken 0.6 05/07/2023 Review Tom Speijer 0.7 05/07/2023 Review Bart Weemaels 0.8 04/10/2023 Validation on Product Council 0.9 01/04/2025 Removal of duplicate activities with respect to My Adv Sec. Link to My Identity Mgmt. Replacement of Azure AD by Entra ID. Ready for validation by Corp Prod Mgmt. Gert Vanmechelen DELETE THIS PAGE FOR CUSTOMERS Table of Contents 1\tStandard Service Description\t6 1.1\tIntroduction\t6 1.2\tWhat is the added business value?\t6 1.2.1\tEnabling the new world of hybrid work\t6 1.2.2\tEfficient communication platforms\t6 1.2.3\tInternal and external collaboration\t7 1.2.4\tCentralized information management\t7 1.2.5\tAccess to personal data, anytime, anywhere on any device\t7 1.3\tWhich services are included?\t8 1.3.1\tStandard services\t8 1.3.2\tOptional services\t8 1.3.3\tResponsibility matrix\t9 1.4\tSKU overview\t10 1.4.1\tService SKUs\t10 1.4.2\tStandard changes SKUs\t11 1.4.3\tNon-standard changes SKUs\t12 1.5\tService Level Agreement\t14 1.5.1\tService Support window\t14 1.5.2\tSpecific service levels\t15 1.6\tConditions\t15 1.7\tOut of scope\t15 1.8\tCross-functional services\t15"
+  },
+  "Standard Service Description": {
+    "header": "Standard Service Description",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Introduction": {
+    "header": "Introduction",
+    "category": "GENERAL",
+    "content": "The “My Online Collaboration” Service ensures the operational management of solutions in the Digital Workplace."
+  },
+  "What is the added business value?": {
+    "header": "What is the added business value?",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Enabling the new world of hybrid work": {
+    "header": "Enabling the new world of hybrid work",
+    "category": "GENERAL",
+    "content": "In today’s world, productivity isn’t about being in the office from 09.00h to 17.00h anymore – it’s about getting things done . The hybrid work context supports the workforce to be productive from anywhere, at any time and on any device. This requires the right set of tools to empower the end-user. Meaning, taking advantage of the benefits of the cloud, such as connectivity & availability, but also an always up-to-date platform, centralization of data, mobile applications, data protection, integration, … In the current, rapidly evolving, SaaS-context, continuous platform management and configuration improvements are key in maintaining a healthy Workplace environment. This Service ensures the proper operation and continuity of the communication & collaboration platform and it’s fundamentals."
+  },
+  "Efficient communication platforms": {
+    "header": "Efficient communication platforms",
+    "category": "GENERAL",
+    "content": "One of the fundamental requirements for great teamwork is efficient communication. Productivity today is greatly improved by conversations – whether it’s a quick chat message, a call, an online meeting or an email. The mix of text, voice, video and content sharing in a centralized environment (preserving only “one version of the truth”) is strongly leveraging the experience for the end-user. It allows them to connect with colleagues, customers, partners, … more easily and efficiently. This Service ensures that the communication-related features and functionalities are available via a reliable SaaS platform."
+  },
+  "Internal and external collaboration": {
+    "header": "Internal and external collaboration",
+    "category": "GENERAL",
+    "content": "Collaborative applications are business-critical assets. There’s more than one way to organize collaboration with peers, a team or a workgroup. This Service offers the management of all components necessary to ensure that collaboration, whether it’s ad-hoc or highly structured, can happen in a secure context, inside or outside the organization."
+  },
+  "Centralized information management": {
+    "header": "Centralized information management",
+    "category": "GENERAL",
+    "content": "Where teamwork is happening, content is being created and edited in all kinds of formats: documents, lists, video, images, minutes, templates, … Whether the content is personal, restricted to a team, corporately available or shared externally, the key to success relies in the manageability of the platform and findability of the information. Therefore, functionalities like file sharing, versioning and version history, metadata, approval workflows, document templates, a search engine, security and permissions, offline use, … are an absolute must to keep the overview and structure. This Service manages the components needed to offer these information management functionalities to the end-user."
+  },
+  "Access to personal data, anytime, anywhere on any device": {
+    "header": "Access to personal data, anytime, anywhere on any device",
+    "category": "GENERAL",
+    "content": "With the new workplace, users will use a personal cloud space for their personal professional data. This enables users to share data more easily with colleagues, securely accessing their personal data from anywhere and on any device. The data itself is also available for offline use. This enables the user to access their personal data even in an environment without internet connectivity."
+  },
+  "Which services are included?": {
+    "header": "Which services are included?",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Standard services": {
+    "header": "Standard services",
+    "category": "FUNCTIONAL",
+    "content": "Cegeka will provide the following standard functionalities and corresponding activities in the “My Online Collaboration” Service:"
+  },
+  "Optional services": {
+    "header": "Optional services",
+    "category": "FUNCTIONAL",
+    "content": "N/A"
+  },
+  "Responsibility matrix": {
+    "header": "Responsibility matrix",
+    "category": "GENERAL",
+    "content": "This Responsibility Matrix provides the appropriate RACI tags for the Customer and Cegeka with respect to the activities for the Standard and Optional Services. Activity CEGEKA customer standard services reporting and providing recommendations on permissions   reporting and providing recommendations on anti-spam & anti-malware protection   reporting and providing recommendations on mailflow   reporting and providing recommendations on recipients   reporting  and providing recommendations on sharing & collaboration settings   L2/L3 technical incident handling   Activity CEGEKA customer standard services Reporting and providing recommendations guest & external access settings   reporting on active site usage & storage usage   reporting on retention settings   reporting and providing recommendations on external sharing settings   L2/L3 technical incident handling   Activity CEGEKA customer standard services Reporting on activity & storage use   Reporting and providing recommendations on guest & external access settings   L2/L3 technical incident handling   = Responsible: Party responsible for performing the activity and/or achieve the task. One party is Responsible, although other Parties can be delegated to assist in the actual work if required. An Accountable must sign off (approve) on work that Responsible provides. Responsible is by default proactive. = Accountable: Party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by Responsible. For each task and/or activity maximum one Accountable must be specified. Accountable has the mandate to accept/dismiss on work provided by Responsible. Accountable is by default reactive. = Consulted: Party to be consulted (whose opinions are sought in two-way communication) when performing tasks and/or activities. Consulted may also provide requirements on scope, result expectations, etc. Consulted is by default reactive. = Informed: Party to be informed/kept up-to-date on tasks and/or activities (just one-way communication). Informed often only on completion of the task and/or activity. Informed no formal role in realization and therefore by default reactive."
+  },
+  "SKU overview": {
+    "header": "SKU overview",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Service SKUs": {
+    "header": "Service SKUs",
+    "category": "FUNCTIONAL",
+    "content": "Monthly SKU DESCRIPTION Unit OF MEASUREMEnt My Online Collaboration – User * Providing monthly Per user * mandatory SKU Measurement The pricing of the Service is user-based within a tenant.  A tenant is an isolated, individual and virtualized section of the public cloud vendor platform, identified by a unique URL and ID, and a single user repository/licensing system. A user is identified by an enabled and assigned Microsoft 365/Office 365 license. Calculation (“Price/Unit” x “Number of users”)"
+  },
+  "Standard changes SKUs": {
+    "header": "Standard changes SKUs",
+    "category": "GENERAL",
+    "content": "Table below represents the Standard Changes for this Service, where each Standard Change Standard Change Service Level TARGET (elapsed working days) Create/Adjust/Delete mailbox 3d Create/Adjust/Delete mailbox delegation 3d Create/Adjust/Delete Resource mailbox (room, equipment) 2d Create/Adjust/Delete contact 2d Create/Adjust/Delete distribution group 2d Adjust External Sharing settings for SharePoint 3d Adjust External Sharing settings for OneDrive 3d Adjust storage limits for OneDrive 3d Adjust sync settings for OneDrive & SharePoint 3d Create/Archive/Delete Team in MS Teams 3d Specify Team owner in MS Teams 3d Create Office 365 Group 3d Adjust Guest & External Access setting for MS Teams 3d Create/Adjust/Delete Role-based permissions 3d Create/Adjust/Delete Role Groups 3d Enable/Disable Exchange Online Archive for mailboxes 3d Create/Adjust/Delete transport rules 3d Out of Office Activation 2d Create/Adjust/Delete Public folders & Site Mailboxes 3d Create mail tracking report on request 5d Create Auditing report(including e-discovery) 5d Create/Adjust/Delete disclaimer messages 3d ADD Alias to Mailbox 2d Create/Adjust/Delete Permissions on site 3d Adjust sharing policies on site 3d Adjust Site URLs in SharePoint 3d"
+  },
+  "Non-standard changes SKUs": {
+    "header": "Non-standard changes SKUs",
+    "category": "GENERAL",
+    "content": "Non-standard changes List below is an non-exhaustive list of non-standard changes. Non-Standard Change Create/Adjust/Delete Role Assignment Policies Create/Adjust/Delete retention policies, labels & tags Manage in-place hold for mailboxes Manage litigation hold for mailboxes Create/Adjust/Delete DLP policies Create/Adjust/Delete journaling policies & rules Create/Adjust/Delete eDiscovery Create/Adjust/Delete connector Migrate mailbox from cloud to on-premises Migrate mailbox from on-premises to cloud Create/Adjust/Delete accepted domains Create/Adjust/Delete anti-spam policies (inbound/outbound) Create/Adjust/Delete anti-malware options (EOP) Create/Adjust/Delete content filter policy Create/Adjust/Delete tenant allow/block lists Create/Adjust/Delete allow/block lists for message senders Create/Adjust/Delete ATP Safe Link policy Create/Adjust/Delete ATP Safe Attachments policy Create/Adjust/Delete Connection Filter policy Create/Adjust/Delete email address policies Create/Adjust/Organization Sharing settings Manage Audit logging Restore cloud mailbox Export cloud mailbox content Manage mobile device policies Manage mail encryption Restore deleted site Adjust External Sharing by domain Adjust External Sharing settings for specific security group Adjust automatic expiry after x days for sites & OneDrive Adjust default sharing permissions Adjust Access Control Settings to allow access to content in SharePoint & OneDrive Adjust landing site for intranet Adjust notification settings for site activity Adjust default settings for new sites Adjust automatic/manual site storage limits Adjust retention settings for OneDrive or SharePoint Configure SharePoint Storage Settings Adjust monitoring for app usage in SharePoint Adjust SharePoint app licenses Adjust site create settings in SharePoint Activate/Deactive Site Collections Change User Profiles Configure site collection recycle bin Customize login page Create/Adjust MS Teams policies Create/Adjust MS Teams meeting policies Create/Adjust MS Teams meeting settings Create/Adjust Live event policies in MS Teams Create/Adjust Live event settings in MS Teams Create/Adjust messaging policies in MS Teams Manage Apps (allow/block) for MS Teams Adjust Teams Upgrade Settings in MS Teams Manage policy packages in MS Teams Adjust teams settings in MS Teams Implement mail signature tooling"
+  },
+  "Service Level Agreement": {
+    "header": "Service Level Agreement",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Service Support window": {
+    "header": "Service Support window",
+    "category": "FUNCTIONAL",
+    "content": "Table below gives an overview of the applicable Service Support Windows for each Standard & Optional service Service SUPPORT window description SERVICE CEGEKA Office hours 8x5: 9AM – 5PM, Monday up to and including Friday All standard & optional services CEGEKA extended office hours 12x5: 7AM – 7PM, Monday up to and including Friday N/A cegeka 24x7 24x7 N/A"
+  },
+  "Specific service levels": {
+    "header": "Specific service levels",
+    "category": "FUNCTIONAL",
+    "content": "This service makes use of a third party SAAS provider. For the SLA’s concerning uptime and/or availability of the 3 rd party platform we refer to the following documentation Service Level Agreements (SLA) for Online Services"
+  },
+  "Conditions": {
+    "header": "Conditions",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Out of scope": {
+    "header": "Out of scope",
+    "category": "SCOPE",
+    "content": ""
+  },
+  "Cross-functional services": {
+    "header": "Cross-functional services",
+    "category": "FUNCTIONAL",
+    "content": "In order to guarantee the Service quality, Cegeka refers to the cross-functional Services from the contract document set and their corresponding standard KPI's."
+  }
+}

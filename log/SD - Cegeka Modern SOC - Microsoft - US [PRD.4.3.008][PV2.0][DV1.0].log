@@ -1,0 +1,33 @@
+[2026-03-18 14:28:07] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 14:28:08] HTML saved: extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 14:28:08] extract_html OK
+[2026-03-18 14:28:08] START parse_html for: extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 14:28:09] PARSE OK → output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 14:49:28] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 14:49:28] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 14:49:28] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 14:49:29] HTML saved: extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 14:49:29] extract_html OK
+[2026-03-18 14:49:29] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 14:49:29] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 14:49:29] PARSE OK → output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 14:49:29] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 14:49:29] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 14:49:30] auto_map OK → output\mapped\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.json
+[2026-03-18 14:49:30] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:30] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:30] PIPELINE OK
+[2026-03-18 15:03:15] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 15:03:15] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 15:03:15] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.1] Cybersecurity\[PRD.4.3.008] Cegeka Modern SOC\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].docx
+[2026-03-18 15:03:16] HTML saved: extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 15:03:16] extract_html OK
+[2026-03-18 15:03:16] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 15:03:16] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].html
+[2026-03-18 15:03:16] PARSE OK → output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 15:03:16] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 15:03:16] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0].json
+[2026-03-18 15:03:16] auto_map OK → output\mapped\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.json
+[2026-03-18 15:03:17] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 15:03:17] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 15:03:17] PIPELINE OK

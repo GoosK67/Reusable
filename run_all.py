@@ -1,246 +1,190 @@
+import argparse
+import json
 import subprocess
 import sys
-from pathlib import Path
-import json
-import xml.etree.ElementTree as ET
-import zipfile
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
-import threading
-import os
+from pathlib import Path
 
-# ---------------------------------------------------------
-# FORCE UTF‑8 OUTPUT (NO MORE UNICODE CRASHES)
-# ---------------------------------------------------------
-os.environ["PYTHONIOENCODING"] = "utf-8"
-sys.stdout.reconfigure(encoding="utf-8", errors="ignore")
-sys.stderr.reconfigure(encoding="utf-8", errors="ignore")
+from lxml import etree
 
-# ---------------------------------------------------------
-# CONFIG
-# ---------------------------------------------------------
+BASE_DIR = Path(__file__).parent.resolve()
+SCRIPTS_DIR = BASE_DIR / "scripts"
+LOG_DIR = BASE_DIR / "log"
+DEFAULT_SD_ROOT = Path(r"C:\Users\koengo\Cegeka\Product Management - Product Management Library")
 
-BASE = Path(__file__).parent.resolve()
+EXTRACT_SCRIPT = SCRIPTS_DIR / "extract_html.py"
+PARSE_SCRIPT = SCRIPTS_DIR / "parse_html_sections.py"
+AUTO_MAP_SCRIPT = SCRIPTS_DIR / "auto_map_sections.py"
+XML_TO_DOCX_SCRIPT = SCRIPTS_DIR / "xml_to_docx.py"
+DASHBOARD_SCRIPT = SCRIPTS_DIR / "generate_dashboard.py"
 
-SD_ROOT = Path(r"C:\Users\koengo\Cegeka\Product Management - Product Management Library")
-SCRIPTS = BASE / "scripts"
-TEMPLATE_XML = BASE / "templates" / "presales_template_sdt.xml"
-TEMPLATE_DOCX = BASE / "templates" / "presales_template_sdt.docx"
-OUTPUT = BASE / "presales"
-LOG_FOLDER = BASE / "log"
-MAPPED = BASE / "mapped"
-DASHBOARD = BASE / "dashboard"
-
-ns = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
-
-LOG_FOLDER.mkdir(exist_ok=True)
-MAPPED.mkdir(exist_ok=True)
-DASHBOARD.mkdir(exist_ok=True)
-
-RUN_LOG = LOG_FOLDER / f"run_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
-LOCK = threading.Lock()
-
-MAX_THREADS = 4
+LOG_DIR.mkdir(exist_ok=True)
 
 
-# ---------------------------------------------------------
-# SAFE UTF‑8 LOGGING (APPEND‑MODE, NEVER read_text)
-# ---------------------------------------------------------
-
-def log(msg, sd_file=None):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    tid = threading.get_ident()
-    line = f"[{timestamp}] [TID:{tid}] {msg}\n"
-
-    with LOCK:
-        # Global log
-        with open(RUN_LOG, "a", encoding="utf-8", errors="ignore") as f:
-            f.write(line)
-
-        # SD log
-        if sd_file:
-            sd_log = LOG_FOLDER / f"{sd_file.stem}.log"
-            with open(sd_log, "a", encoding="utf-8", errors="ignore") as f:
-                f.write(line)
-
-    print(line, end="", flush=True)
+def log(message: str, sd_name: str = "GENERAL") -> None:
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{ts}] {message}"
+    log_file = LOG_DIR / f"{sd_name}.log"
+    with open(log_file, "a", encoding="utf-8", errors="ignore") as f:
+        f.write(line + "\n")
+    print(line, flush=True)
 
 
-# ---------------------------------------------------------
-# DEBUG SUBPROCESS RUNNER
-# ---------------------------------------------------------
-
-def run_debug(command, sd_file, step_name):
-    log(f"[DEBUG] Running step: {step_name}", sd_file)
-    log(f"[DEBUG] Command: {command}", sd_file)
-
-    result = subprocess.run(command, capture_output=True, text=True)
-
-    if result.stdout:
-        log(f"[DEBUG][stdout] {result.stdout}", sd_file)
-    if result.stderr:
-        log(f"[DEBUG][stderr] {result.stderr}", sd_file)
-
-    if result.returncode != 0:
-        raise Exception(f"[{step_name}] FAILED with exit code {result.returncode}")
-
-    log(f"[DEBUG] Step '{step_name}' OK", sd_file)
+def run_step(script_path: Path, input_path: Path, sd_name: str) -> None:
+    cmd = [sys.executable, str(script_path), str(input_path)]
+    log(f"RUN {script_path.name} -> {input_path}", sd_name)
+    subprocess.run(cmd, check=True, cwd=str(BASE_DIR))
 
 
-# ---------------------------------------------------------
-# XML HELPERS
-# ---------------------------------------------------------
-
-def load_sdt_fields(xml_root):
-    fields = {}
-    for sdt in xml_root.findall(".//w:sdt", ns):
-        tag = sdt.find(".//w:tag", ns)
-        if tag is not None:
-            fields[tag.attrib[f"{{{ns['w']}}}val"]] = sdt
-    return fields
-
-
-def set_sdt_text(sdt_node, text):
-    content = sdt_node.find(".//w:sdtContent", ns)
-    for child in list(content):
-        content.remove(child)
-
-    p = ET.SubElement(content, f"{{{ns['w']}}}p")
-    r = ET.SubElement(p, f"{{{ns['w']}}}r")
-    t = ET.SubElement(r, f"{{{ns['w']}}}t")
-    t.text = text
-
-
-def auto_map(sections):
-    txt = {k.lower(): v for k, v in sections.items()}
-
-    def pick(*keys):
-        for k in keys:
-            for head in txt:
-                if k in head:
-                    return txt[head]
+def sanitize_xml_text(text: str) -> str:
+    if text is None:
         return ""
-
-    return {
-        "PRODUCT_SUMMARY": pick("service introduction", "service overview"),
-        "CLIENT_NEEDS": pick("needs"),
-        "PRODUCT_DESCRIPTION": pick("product"),
-        "ARCHITECTURAL_DESCRIPTION": pick("technical implementation"),
-        "KEY_FEATURES": pick("features"),
-        "SCOPE": pick("scope"),
-        "REQUIREMENTS": pick("eligibility"),
-        "VALUE_PROPOSITION": pick("value"),
-        "DIFFERENTIATORS": pick("differentiators"),
-        "OPERATIONAL_SUPPORT": pick("support"),
-        "TERMS_CONDITIONS": pick("conditions"),
-        "ASSUMPTIONS_RISKS": pick("risks"),
-        "PRICING_ELEMENTS": pick("pricing"),
-        "SERVICE_DESCRIPTION_LINK": pick("service description"),
-    }
+    return "".join(ch for ch in text if ch in ("\t", "\n", "\r") or ord(ch) >= 0x20)
 
 
-# ---------------------------------------------------------
-# DOCX BUILDER
-# ---------------------------------------------------------
+def mapped_json_to_xml(mapped_json_path: Path, sd_name: str) -> Path:
+    mapped = json.loads(mapped_json_path.read_text(encoding="utf-8", errors="ignore"))
 
-def generate_docx(xml_path, out_docx):
-    with zipfile.ZipFile(TEMPLATE_DOCX, "r") as zin:
-        with zipfile.ZipFile(out_docx, "w") as zout:
-            for item in zin.infolist():
-                if item.filename == "word/document.xml":
-                    zout.writestr(item, xml_path.read_bytes())
-                else:
-                    zout.writestr(item, zin.read(item.filename))
+    root = etree.Element("ServiceDescription")
+
+    for header, entry in mapped.items():
+        section = etree.SubElement(root, "Section")
+        section.set("name", sanitize_xml_text(str(header)))
+
+        header_el = etree.SubElement(section, "Header")
+        header_el.text = sanitize_xml_text(str(header))
+
+        category_el = etree.SubElement(section, "Category")
+        category_el.text = sanitize_xml_text(str(entry.get("category", "")))
+
+        content_el = etree.SubElement(section, "Content")
+        content_el.text = sanitize_xml_text(str(entry.get("content", "")))
+
+    out_dir = BASE_DIR / "output" / "xml"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    out_file = out_dir / f"{sd_name}_mapped.xml"
+    out_file.write_bytes(
+        etree.tostring(root, encoding="UTF-8", xml_declaration=True, pretty_print=True)
+    )
+
+    log(f"JSON->XML OK -> {out_file}", sd_name)
+    return out_file
 
 
-# ---------------------------------------------------------
-# PROCESS ONE SD
-# ---------------------------------------------------------
+def process_one(sd_docx: Path) -> bool:
+    sd_name = sd_docx.stem
 
-def process(sd):
     try:
-        log(f"START {sd.name}", sd)
+        log(f"START PIPELINE for {sd_docx}", sd_name)
 
-        # 1) Extract HTML
-        html_file = Path("extracted_html") / f"{sd.stem}.html"
-        run_debug([sys.executable, str(SCRIPTS/"extract_html.py"), str(sd)], sd, "extract_html")
+        run_step(EXTRACT_SCRIPT, sd_docx, sd_name)
 
-        # 2) Parse HTML
-        json_file = Path("output/json") / f"{sd.stem}.json"
-        run_debug([sys.executable, str(SCRIPTS/"parse_html_sections.py"), str(html_file)], sd, "parse_html")
+        html_path = BASE_DIR / "extracted_html" / f"{sd_docx.stem}.html"
+        if not html_path.exists():
+            raise FileNotFoundError(f"Missing HTML output: {html_path}")
 
-        # 3) Auto‑map → mapped/sections_x.json
-        sd_map = MAPPED / f"sections_{sd.stem}.json"
-        run_debug([sys.executable, str(SCRIPTS/"auto_map_sections.py"), str(json_file)], sd, "auto_map")
+        run_step(PARSE_SCRIPT, html_path, sd_name)
 
-        # 4) Load mapping
-        sections = json.loads(sd_map.read_text(encoding="utf-8", errors="ignore"))
-        mapping = auto_map(sections)
+        json_path = BASE_DIR / "output" / "json" / f"{sd_docx.stem}.json"
+        if not json_path.exists():
+            raise FileNotFoundError(f"Missing JSON output: {json_path}")
 
-        # 5) Fill XML
-        xml_tree = ET.parse(TEMPLATE_XML)
-        fields = load_sdt_fields(xml_tree.getroot())
+        run_step(AUTO_MAP_SCRIPT, json_path, sd_name)
 
-        for tag, text in mapping.items():
-            if tag in fields:
-                set_sdt_text(fields[tag], text)
+        mapped_json_path = BASE_DIR / "output" / "mapped" / f"{sd_docx.stem}_mapped.json"
+        if not mapped_json_path.exists():
+            raise FileNotFoundError(f"Missing mapped JSON output: {mapped_json_path}")
 
-        filled_xml = OUTPUT / f"{sd.stem}_filled.xml"
-        xml_tree.write(filled_xml, encoding="utf-8")
+        mapped_xml_path = mapped_json_to_xml(mapped_json_path, sd_docx.stem)
 
-        # 6) Build DOCX
-        out_docx = OUTPUT / f"{sd.stem}_presales.docx"
-        generate_docx(filled_xml, out_docx)
+        run_step(XML_TO_DOCX_SCRIPT, mapped_xml_path, sd_name)
 
-        log(f"FINISHED {sd.name}", sd)
-        return f"OK {sd.name}"
+        log("PIPELINE OK", sd_name)
+        return True
 
-    except Exception as e:
-        log(f"ERROR {sd.name}: {e}", sd)
-        return f"ERROR {sd.name}: {e}"
+    except subprocess.CalledProcessError as exc:
+        log(f"STEP FAILED ({exc.returncode}): {exc}", sd_name)
+        return False
+    except Exception as exc:
+        log(f"PIPELINE ERROR: {exc}", sd_name)
+        return False
 
 
-# ---------------------------------------------------------
-# DASHBOARD GENERATOR
-# ---------------------------------------------------------
+def discover_docx(input_path: Path, recursive: bool) -> list[Path]:
+    if input_path.is_file():
+        return [input_path]
 
-def generate_dashboard():
-    dashboard_script = SCRIPTS / "generate_dashboard.py"
-    if dashboard_script.exists():
-        log("Generating dashboard...", None)
-        subprocess.run(
-            [sys.executable, str(dashboard_script)],
-            capture_output=True, text=True
+    pattern = "**/SD*.docx" if recursive else "SD*.docx"
+    return sorted(input_path.glob(pattern))
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description=(
+            "Run SD pipeline in sequence: extract_html.py -> parse_html_sections.py "
+            "-> auto_map_sections.py -> xml_to_docx.py"
         )
+    )
+    parser.add_argument(
+        "input",
+        nargs="?",
+        default=str(DEFAULT_SD_ROOT),
+        help=(
+            "Path to one SD .docx file or a folder containing SD*.docx "
+            "(default: Product Management Library root)"
+        ),
+    )
+    parser.add_argument(
+        "--recursive",
+        action="store_true",
+        default=True,
+        help="Recursively search for SD*.docx when input is a folder (default: enabled)",
+    )
+    parser.add_argument(
+        "--no-recursive",
+        dest="recursive",
+        action="store_false",
+        help="Disable recursive search when input is a folder",
+    )
+    return parser.parse_args()
 
 
-# ---------------------------------------------------------
-# MAIN
-# ---------------------------------------------------------
+def main() -> int:
+    args = parse_args()
+    input_path = Path(args.input)
 
-def main():
-    OUTPUT.mkdir(exist_ok=True)
+    if not input_path.exists():
+        log(f"Input path not found: {input_path}")
+        return 1
 
-    log(f"Scanning SD directory: {SD_ROOT}")
-    sd_files = list(SD_ROOT.rglob("SD*.docx"))
+    sd_files = discover_docx(input_path, recursive=args.recursive)
 
-    log(f"Found {len(sd_files)} SD files")
+    if not sd_files:
+        log(f"No SD*.docx files found in: {input_path}")
+        return 1
 
-    results = []
-    with ThreadPoolExecutor(max_workers=MAX_THREADS) as pool:
-        futures = [pool.submit(process, sd) for sd in sd_files]
-        for f in as_completed(futures):
-            results.append(f.result())
+    log(f"Found {len(sd_files)} SD file(s) to process")
 
-    # Summary
-    for r in results:
-        log(r)
+    ok_count = 0
+    fail_count = 0
 
-    # Dashboard refresh
-    generate_dashboard()
+    for sd in sd_files:
+        if process_one(sd):
+            ok_count += 1
+        else:
+            fail_count += 1
 
-    log("🚀 FULL RUN COMPLETED (UTF‑8 SAFE + DASHBOARD FIXED)")
+    try:
+        log("Generating dashboard...")
+        subprocess.run([sys.executable, str(DASHBOARD_SCRIPT)], check=True, cwd=str(BASE_DIR))
+        log("Dashboard generated")
+    except Exception as exc:
+        log(f"Dashboard generation failed: {exc}")
+
+    log(f"DONE - OK: {ok_count} | FAILED: {fail_count}")
+    return 0 if fail_count == 0 else 2
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

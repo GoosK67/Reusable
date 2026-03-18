@@ -1,0 +1,256 @@
+ 
+ 
+
+
+Service Description
+Service identification
+Service summary 
+Technical Application Management
+The Service provides the tasks and activities needed to manage an Oracle Database environment (The Application) from a technical perspective. Together with the underlaying obligatory Platform services, Cegeka unburdens the customer with all technical aspects from infrastructure up to the technical Application.
+The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.
+The Customer is responsible for the functional setup and functional management of the actual databases on the environment.
+This service consists of the activities related to the Customer Oracle database environment. The following definitions apply: 
+A database server or RDBMS: logical set of software, resources and processes required to make one or more databases operationally available. 
+A database: a set of structured data that is used as one logical, functional whole. A database consists of data, data structures and relational structures required to use the data in a logical and consistent way. 
+The table below provides an overview of the definitions above applied to the different database products: 
+
+The Application
+Oracle Database environments offer cost-optimized and high-performance versions of Oracle Database.
+An Oracle database server or RDBMS is logical set of software, resources and processes required to make one or more databases operationally available.
+From the perspective of the application, a logical database can consist of one or more technical schemas/databases. This is a measure unit for invoicing combined with the number of instances/nodes within the cluster. When referring to the word “instance” in the below document, it must be understood as the total of processes for one database installed and/or running on one database server. 
+
+
+Service features 
+Standard Service features 
+Application knowledge
+Cegeka ensures skilled engineers with experience on the Oracle database environment in order to perform the Service.
+Technical setup
+Cegeka advises in the setup of the underlaying platform in order to set it up according to the technology requirements of the Application. This may be different for each Customer environment (DTAP - Development, Test, Acceptance, Production and it’s variants).
+High availability setup: this setup advise includes also the setup of HA (High Available) environments where needed. Cegeka will advise a cost effective solution within the context  of the available platform(s) of the Customer and the best practices of the Application.
+Disaster recovery
+Disaster recovery protection depends on the architecture of the underlying platform. Disaster recovery protection is mandatory for Gold databases and for Silver+DR databases.
+Disaster for this Service is defined as either:
+the outage of the datacenter, where the Service is hosted
+in case of DBMS-level synchronous replication to other datacenter, the RPO is Near zero (last commit) and the RTO is 2 hours
+in case there is no standby in the other datacenter, the DR protection is subject to restore from backups. The RPO is depending on the backup scheme of the database(s).
+encryption of the database due to a ransomware attack 
+the RPO is the last available valid backup. No RTO guarantee can be given.
+
+
+Cegeka performs and maintains the technical installation of the Application on the agreed platform ensuring its correct working. 
+Technical setup is documented on operational level and is available to the Customer.
+
+Technical management
+Cegeka is responsible for the technical operation of the Application and to assure it’s correct running during the agreed availability windows.
+
+Job management in the DMBS scheduler
+Jobs are used for DBMS maintenance activities.
+Job management deals with the addition of new jobs and maintenance of existing jobs in the DBMS-related scheduler, based upon the content and scheduling requirements, provided by the functional application manager. 
+The database administrators ensure that the new job does not conflict with existing maintenance jobs and is scheduled in the most optimal way. 
+In order to optimize the job schedule, the execution of individual jobs are monitored and start times can be adjusted. This way, additional load on the system (e.g. if the number of transactions increases) can be compensated. 
+ 
+Scheduled jobs are executed in compliance with customer’s functional requirements and run without conflicts with other jobs 
+Optimizations to the job schedules are identified, proposed to the customer, and after approval developed and implemented via the Change management process as described in the cross-functionals.
+
+Specific incident priority
+
+
+
+Housekeeping
+Recurrent maintenance activities (housekeeping) are needed to ensure the correct working of the Application. Automation is applied where possible. 
+Proactive management
+Housekeeping includes following regular checks:
+The technical setup and the running of the Application on its platform
+Inspection of the Application log content on irregularities
+Inspection of technical Application settings on irregularities
+system trends (trends of CPU/memory/disk usage) on deviations in evolution
+perform and check log rotation (cleanup of older logs)
+Resolution actions are triggered when needed and followed to assure the SLA.
+
+Patching
+The service includes a maximum of 4 patch cycles (per environment) per year for the managed Application (inclusive the system database(s) if applicable). Patching is done in accordance to the operational Patch Plan.
+The scope of the patching is the Oracle DBMS software, including RAC, Dataguard and FarSync.
+Deployment is limited to applying the patches to the DBMS as is, excluding configuration changes and activation of functionality added by the patch(es) or patch set(s). The latter is done via RFC containing content, scope and exceptions. 
+
+Additional patching can be done on RFC basis. 
+Patching of the underlying platform is part of the Service of that platform.
+
+Life Cycle Management
+Cegeka monitors the Technology version of the service and notifies the Customer in accordance with the agreed LCM policy (see cross-functional Services) when used versions are subject to end-of-support or end-of-life. Appropriate actions (updates, replacement or other actions) are planned in accordance with agreed maintenance windows and will be executed on T&M basis in case of major updates. Patches and minor updates are included in the service cost as part of ‘Patching’.
+LCM of databases is preferably combined with the LCM of the underlaying OS.
+
+Monitoring
+Cegeka monitors the correct working of the Application on all Customer environments.
+Cegeka has developed a wide range of database checks to monitor availability of different components and available resource capacity. Most of them are pro-active based on target thresholds while others are reactive. The monitoring checks and associated thresholds are documented in the monitoring plan.
+
+Monitoring improvements will be done during the lifecycle of the Service and are based on evaluation of incidents, problem management or other suggestions.
+The underlaying platform is also monitored according to the related Service Description of the platform.
+Monitoring events are evaluated during the Service Window in accordance to the Service Level of the individual environment. Notable events are treated as Incident tickets and are handled according to regular incident management.
+Security and Compliance
+Management of technical users
+The management of technical users (for engineers) is done by Cegeka in agreement with the Customer and in accordance to the Customer IAM policies.
+Detection of security incidents
+The security management is performed following the Cegeka internal security policies and the contractual Customer security policies.
+Security incidents are created in case a security breach is detected and is immediately communicated to the Customer and Cegeka stakeholders.
+SIEM
+Additional monitoring can be done based on System and/or Application logs, which can be forwarded to a Customer SIEM solution (Security reason) or other solution (compliance reason, e.g. central collection of application logs to oversee the application stack) on request.
+Underlaying Platform hardening
+The underlaying platform and OS will be hardened as part of and according to the Service Description of the related Services.
+Backup and Restore
+The operational Backup Plan contains the information on frequency and retention of the backups in accordance to the Customer backup policy.
+Restores can be done both on file and on full system level. These can be requested via the regular RFC process.
+Duration of a restore is dependant of the request (file or full; size of the item(s) to be restored).
+The backup of the Oracle databases is done on top of the backup of the underlaying platform. Frequency and retention is also documented in the operational Backup Plan.
+The backup contains all data that is needed to provide a full restore of a database when needed. This includes for instance the relevant Oracle Redo-log files.
+Incident and problem management
+Besides monitoring incidents (see ‘Monitoring’) also other incidents can be reported by both the Customer and Cegeka. These will be subject to the regular incident management process (See Cross-functionals).
+Related to incident management, Cegeka performs also problem management (See Cross-functionals).
+Customers responsibility
+The functional setup and monitoring of the Application is the responsibility of the Customer.
+For the Oracle Database environment this means the functional use of  Oracle databases (schemes and data) running on the environment 
+
+Optional Service features 
+This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features.
+
+Performance improvement and SQL code tuning 
+Customer often struggle with the way their jobs and applications interact with the database. Applications are often designed to deliver the correct functionality to the business data and sometimes not necessarily in the most optimal or efficient way.  
+Over the years Cegeka has gathered expertise to cover for this specific level of expert advice and recommendations. Customers can call such service on a T&M manner. 
+ 
+Architectural review  and improvements
+Implementations are mostly done at a specific time within a specific known context and assumptions toward the future. Very often reality turns out differently than originally planned or predicted for different reasons: technological evolution, changing business requirements, business scaling or changed service levels. The original solution might gradually show its shortcomings or loose relevance. 
+ 
+Database architect can review existing database solution and work out an improved solution in line with the new insights and way ahead. Customers can call such service on a T&M manner. 
+Requests
+Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI).
+There are multiple types of requests:
+Service Request
+This is a pre-defined request
+Some can be requested via Horizon: these are pre-approved and pre-defined requests
+Service request that is not pre-approved will be executed after approval by the CAB
+Service Requests are executed as a change ticket and will be delivered within the indicated lead time. 
+The pre-defined execution is optimal automated. 
+This is used for requests that are often needed (multiple times per month).
+These have a fixed price.
+Normal Changes :
+these are other non pre-defined requests
+they need an evaluation and analysis where Cegeka needs to deliver a proposal and impact analysis to address the change request (with a T&M estimation).
+A successive review, approval and planning (maintenance window) by a CAB of the proposal is needed prior to execution.
+These are billed on T&M basis.
+The handling of Requests is subject to the regular change management process (see Cross-functionals).
+
+Out of scope 
+Everything that is not explicitly mentioned in this service description is by default out of scope of this Service. Specifically: 
+Infrastructure and OS services required for running the RDBMS, this can be obtained through  separate services 
+License purchase and ownership 
+Oracle XE or Oracle Database Express Edition is excluded from the guaranteed services in this document and will only be managed on a best effort basis. 
+The database schema is not actively managed within this service and is the underlaying set of user or application objects that contain and manage de business dataset. It is mostly under the responsibility of application support. 
+Hardening of a database, which is not set up in this Service is not in scope.  A database must be hardened in the scope of a project or via the change process. Cegeka commits to hardening all new databases during Cegeka executed projects. 
+Oracle client software and settings (tnsname.ora etc).
+Service characteristics 
+Obligatory
+The following services are mandatory for the delivery of this service:
+A platform to run the Oracle database environments: virtual machine on Cegeka Cloud or Oracle PCA or Oracle Exadata with OS management
+Backup/restore services.
+Cegeka owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below.
+
+Customer owned Licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are not included in this Service.
+It is the customers responsibility to maintain license and/or subscription compliance.
+
+Administration of licenses involves: 
+buying the license and/or support contract; 
+the timely extension of the licenses; 
+the timely cancellation of the licenses.  
+Capacity management 
+Detected installations versus Software contract numbers:  
+Scan the Customer environment to detect the presence of Software components on all servers; 
+Deliver a detailed scan report containing all Software components detected by the tooling; 
+When additional licenses are required, it is up to the Customer to initiate the ordering process;
+Report these capacity numbers in the appropriate governance meetings 
+The reporting service is delivered by Cegeka based on the mandatory Software Asset Management (SAM) service. 
+License compliancy 
+Customer has to share the available licenses with Cegeka. Cegeka uses the licenses in the DBMS configurations. Cegeka reports to the Customer which options are activated when new databases are created or when options for the database are changed.
+Cegeka will assist in customer license compliance by providing knowledge and reporting on use of licenses and license requirements.
+Cegeka ensures to implement or activate features that are only in-line with the licenses owned by the customer.
+Conditions 
+Cegeka database administrators must have access to the database servers and have sufficient access rights, in accordance to the agreed Customer Security policy.
+For Cegeka to perform license management activities, Customer must specify which database licenses and maintenance contracts are owned by Customer 
+ 
+Service delivery location
+This Service is delivered remotely from the Cegeka (virtual) Office environment.
+Service Reporting
+Monthly reporting will be provided to inform on the availability and meeting the SLA’s and to provide insights on the capacity and expected extensions required.
+
+Specific reports are  provided: 
+Incident & Problem management through existing service level reporting 
+Availability 
+Patch schedule
+Security status/events 
+Capacity activities with impact 
+License update and advise, if applicable 
+
+Data classification
+Cegeka requires no access to confidentional and/or personal data to perform this Service.
+Engineer credentials do not need to access such data for the purpose of this Service.
+In case of assistance in investigations of functional issues, Cegeka personnel may see or receive fragments of such data in case it is shared by the Customer (data fragments in the sense of exports, screen sharing, screen shots, etc. for investigation purposes).
+Use of Subcontractor/Sub-outsourcer
+This service is delivered with:
+Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues):
+Oracle support
+Sub-outsourcer (Cegeka delegates the Service to an external party):
+(none)
+Miscellaneous 
+n/a
+RACI Matrix
+
+RACI role definition:
+R-Responsible: The party who is responsible for the execution of the activity.  
+A- Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+C-Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+I-Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+Adherence to Cross-Functional Services 
+The Service described in this Service Description adheres to the Cross-functional Services as described in  the contract where this Service is residing unless documented in the table below:
+
+The Cross -Functional services rely on the Cegeka standard framework for processes and tooling.
+Service Level Agreement
+Service Window 
+The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract.
+Service Level
+Service Levels of the cross-functional services are defined in the related Service Level Management document to this contract.
+
+Availability
+
+The following Availability KPI’s are provided for the Service:
+ 
+The availability measurement is monthly and calculated as:
+(Total time of service window of the measured period – time of outage based on Cegeka database monitoring during the measured period) / Total time of service window of the measured period) * 100
+Service Billing
+Standard Service Billing
+The service is billed on a monthly basis.
+ 
+Measurement 
+The quantity of each billing element is determined on a monthly basis:
+the quantities are determined by the number of databases as described in the SLA of this document which are used in the billing month.
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+Optional Service Billing
+n/a
+Change Request Billing
+Changes are billed on a monthly basis.
+
+Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact.
+
+Non-standard change requests are billed on T&M basis. 
+
+
+Document control
+
+
+Document approval
+	

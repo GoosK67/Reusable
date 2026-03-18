@@ -1,0 +1,153 @@
+ 
+ 
+VERSION CONTROL 
+General
+
+Version Control Table
+
+Reviewers
+
+Approval
+
+Reference
+Service Description
+Service summary 
+With Automation as a Service we focus on automating repetitive tasks or services to improve efficiency and reduce errors. From a technology point-of-view we use the Cegeka Hybrid Cloud standard software tools to streamline processes and enhance service delivery across various sectors.
+Key aspects of Service Automation
+Purpose: Service Automation aims to increase efficiency, improve accuracy, enhance customer experience, reduce costs, and provide scalability. 
+Components: 
+Process Definition: Documenting steps involved in a workflow
+Workflow Management: Monitoring and controlling task flow
+Task Automation: Automating individual tasks within the workflow
+Integration: Connecting with other systems and data sources
+Reporting and Analytics: Tracking and analyzing performance metrics
+Applications: 
+ICT Automation: Includes configuration management, self-service, workflow automation, monitoring and maintenance and syncing & provisioning.
+Benefits: 
+Reduced errors and improved accuracy
+Time and cost savings
+Enhanced resource allocation
+Improved scalability
+Increased customer satisfaction
+
+Services
+Standard Services
+Provide automation support for the HC and DWP competences from ideation over analysis & design to implementation phase
+Automation support has to be considered on different levels and aspects:
+Implementing service requests and link with Horizon
+Providing shared libraries: global (supported within automation) vs team (supported within the CC’s)
+Assisting in and/or creating of Jenkins pipelines: integration to Cegeka tooling (Horizon/USD/etc), while the CC can focus on their specific technical pipeline
+Oros reporting & dashboarding
+Scheduling support with supported schedulers (at this moment: IWS) (enterprise grade + low-level tool)
+Framework & guidelines usage of Jenkins
+etc
+Automation requests are collected & consolidated based on the input of the other competences (technical CC’s within delivery, change management & architecture)
+Improving existing automations
+Designing and implementing new automations in close cooperation with the other competences for technology-specific coding
+Functional analysis will be foreseen from within the automation team 
+
+Optional Services
+N/A.  
+
+Service Request 
+Requests related to this Service can be ordered and will result in the execution of that request by means of a Cegeka change order. 
+Each request has a throughput time to deliver the request (after approval or pre-approval on the customer’s CAB).
+ 
+Out of scope 
+Everything that is not explicitly mentioned in this service descriptions is by default out of scope.
+
+
+
+Service Characteristics 
+Obligatory Services
+N/A
+
+Prerequisites & Conditions 
+The tooling to support automations needs to be provided and maintained by Cegeka competence teams.
+For example:
+Jenkins
+GitLab
+Jira
+Confluence
+Terraform
+…
+A test environment will be set up to test the automations for HC, DWP and DIO.
+Cegeka owned licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are included in this Service.
+It is Cegeka’s responsibility to maintain license and/or subscription compliance.
+
+Licenses and/or subscriptions used for Enabling Services are included in the Service and are not listed below.
+
+
+Customer owned licenses and/or subscriptions
+These licenses and/or subscriptions and their cost are not included in this Service.
+It is Customer responsibility to maintain license and/or subscription compliance.
+
+
+Location 
+This Service is not delivered from within the Customer premises. Only from the Cegeka (virtual) Office Environment.
+
+Ownership 
+All development and hardware used to disclose the automations remains property of Cegeka. Scripts and automation flows are intellectual property of Cegeka, even the ones specifically developed for the customer.
+Miscellaneous 
+N/A.
+
+
+
+RACI Matrix
+Listed below are the activities related to the Service, the activities RACI related to enabling services are listed in the Enabling Services Document.
+
+
+RACI Role definition
+Responsible: The party who is responsible for the execution of the activity.  
+Accountable: The party ultimately accountable for the correct and thorough completion of the task and/or activity as performed by the Responsible. For each task and/or activity exactly one Accountable must be specified. The Accountable has the mandate to accept/dismiss on work provided by the Responsible. The Accountable is by default reactive. 
+Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. 
+Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.
+
+
+Onboarding
+Service Levels Management
+Service Window
+
+
+Service Level
+
+
+Service Billing
+Measurement 
+The quantity of each billing element is determined on a mentioned frequency basis (e.g. monthly):
+the quantities are determined by the number of deployed entities which are used in the billing month.
+
+Calculation / Billing 
+The price(s) is/are determined in the pricing schedule where this Service is residing.
+The Service is billed per billing element:
+price of each ‘billing element’ * quantity of each ‘billing element’ as defined in the measurement
+
+Standard Service Billing
+ 
+ 
+
+Optional Service Billing
+
+
+
+Service Request Billing
+
+
+(*) Billing Method: 
+Default: pre-agreed fixed price per standard change
+T&M: Time& Material
+(**) Approval Method:
+Default: pre-approved by customer
+Approval/CAB: separate approval necessary prior to execution
+
+Non-Standard Change Billing
+Non-Standard change billing can be done as follows:
+Default: billed in Time & Material follow the ‘Change Management process’
+Optional: by a fixed price agreement after formal offering and approvement by both parties
+Relation to Enabling Services
+[In order to guarantee the Service quality Cegeka refers to the Enabling Services from the contract document set and their corresponding standard KPI's.]
+[The following table listed only relevant specifics regarding enabling services for the product.
+When in the table no specific is filled, this implies that the service adheres to the standards described in the Enabling Services document.]
+
+

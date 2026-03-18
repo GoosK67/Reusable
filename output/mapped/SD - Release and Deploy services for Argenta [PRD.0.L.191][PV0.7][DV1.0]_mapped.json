@@ -1,0 +1,157 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "Prepared by: Johan Pauwels Date: 21/01/2025 Cegeka reference: PRD.0.L.191 DV1.1 CONFIDENTIAL Service Description PRD.0.L.191 Release and Deploy services for Argenta Table of contents 1\tService Description\t4 1.1\tService identification\t4 1.2\tService summary\t4 1.2.1\tRelease and Deploy services\t4 1.3\tService features\t5 1.3.1\tStandard Service features\t5 1.3.2\tOptional Service features\t7 1.3.3\tRequests\t8 1.3.4\tOut of scope\t8 1.4\tService characteristics\t9 1.4.1\tObligatory\t9 1.4.2\tCegeka owned Licenses and/or subscriptions\t9 1.4.3\tCustomer owned Licenses and/or subscriptions\t9 1.4.4\tConditions\t9 1.4.5\tService delivery location\t9 1.4.6\tService Reporting\t10 1.4.7\tData classification\t10 1.4.8\tUse of Subcontractor/Sub-outsourcer\t10 1.4.9\tMiscellaneous\t10 1.4.10\tRACI Matrix\t11 1.5\tAdherence to Cross-Functional Services\t11 2\tService Level Management\t12 2.1\tService Window\t12 2.2\tService Level\t12 3\tService Billing\t12 3.1\tStandard Service Billing\t12 3.2\tOptional Service Billing\t13 3.3\tChange Request Billing\t13 4\tDocument control\t14 5\tDocument approval\t15"
+  },
+  "Service Description": {
+    "header": "Service Description",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Service identification": {
+    "header": "Service identification",
+    "category": "FUNCTIONAL",
+    "content": "Service Release and Deploy services for Argenta Unique ID PRD.0.L.191 Service Model Application Management Service (AMS). This service is independent of other layers."
+  },
+  "Service summary": {
+    "header": "Service summary",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Release and Deploy services": {
+    "header": "Release and Deploy services",
+    "category": "FUNCTIONAL",
+    "content": "This service provides Argenta with the necessary assistance to support them in their release & deploy activities. Whereas Argenta is responsible for the creation of the deploy scripts and testing them in the DVL environment, Cegeka is responsible for the execution of these tested scripts in the ACC, SIM, VAL & PRD environment. All deployment is documented in tickets and are tracked within the Argenta ITSM tool, as such the Cegeka deploy engineers will need access to the tooling to be able to perform their jobs. In case database deployments are needed, the Cegeka deploy engineers will log a standard change on the Cegeka portal which will be routed towards the Cegeka database engineers. The quality of the scripts and the outcome of the correct execution of these scripts is Argenta’s sole responsibility. In case of errors the Cegeka engineers will assist to the best of their knowledge (best effort). Release activities will be coordinated by the Argenta Release Managers."
+  },
+  "Service features": {
+    "header": "Service features",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Standard Service features": {
+    "header": "Standard Service features",
+    "category": "FUNCTIONAL",
+    "content": "SERVICE DESCRIPTION Major releases Major releases are releases to production. Major releases are executed during weekends. Cegeka employees fulfill a planned and active role during a major release, the employees will stay online until Argenta release management announce the end of the release. The following principles are applicable for these major releases: Other Cegeka teams (like SQL, Unix, Wintel, NS, TAM, etc.) will be standby during the release weekend The runbook of the specific major release needs to be communicated to Cegeka at latest the preceding Thursday end of business day, small updates can be done after this communication. It is expected that Argenta performs its business tests directly following the deploy activities done by Cegeka. Independent releases Independent releases are releases without impact on de customers of Argenta, they can occur on production environments. Independent releases are executed during weekends. The general release window for independent releases is on Sunday morning from 8:00 to 12:00 Cegeka employees will execute  deploys and stay online or are standby until the tests are executed on the applications after that the employees stays  standby and when needed plays active role for  the independent release. A maximum of 24 independent releases per year are foreseen (every other weekend). All Cegeka deploy activities for these independent releases will happen remote (meaning no onsite presence required) and the scope of work needs to be limited so it can be executed by 1 Cegeka deploy engineer and 1 Cegeka DBA. If needed The timing of the release window and the estimated ‘size’ of the release needs to be communicated by latest on the preceding Monday. The final runbook of the specific independent release needs to be communicated to Cegeka at latest the preceding Thursday end of business day. It is expected that Argenta performs its business tests directly following the deploy activities done by Cegeka. If this is not the case and errors should come out of the test, the rerun will be done the next business day during the normal office hours. Execution of ad-hoc tasks Ad-hoc tasks are tasks not part of major or independent releases and can be requested by Argenta on an ad-hoc basis. Ad-hoc task will be executed during Office Hours or outside Office Hours when planned and agreed with Cegeka. Database deploys Database deploys will follow a queueing system whereby requests before 16:00 will be executed the same business day. Requests entering the queue after 16:00 will be executed the next business day or on best effort the same day (depending on availability). Standby/On call The Cegeka Release & Deploy service foresees, 1 deploy engineer in 24/7 standby and on call duty according to the following principles: Exceptional releases An exceptional release is a major or independent release that is not communicated in time as defined. In case Argenta wishes to perform additional release activities outside of the above possibilities, an exception can be requested to the Cegeka SDM based on the following: Reporting Cegeka will use the report agreed with Argenta and based on the 4ME data to provide a reporting of the number of tasks on a monthly basis based . This reported number of tasks will be used for monthly invoicing as stipulated in the Standard Service Billing. Tasks The total number of tasks for a month for the major releases, independent releases and ad-hoc requests will be determined like this:"
+  },
+  "Optional Service features": {
+    "header": "Optional Service features",
+    "category": "FUNCTIONAL",
+    "content": "This section describes the features that can be optionally added to the standard Service features and that will be priced (when applicable) on top of the standard Service features. The following optional features are possible with the Service:"
+  },
+  "Requests": {
+    "header": "Requests",
+    "category": "GENERAL",
+    "content": "Both the Customer and Cegeka can issue a Request for Change (RFC) or a Request for Information (RFI). There are multiple types of requests: The handling of Requests is subject to the regular change management process (see Cross-functionals). request type Description Lead time Service Requests (No service requests for this Service) Normal Changes Any other request. Indicated case-by-case during the analysis of the request."
+  },
+  "Out of scope": {
+    "header": "Out of scope",
+    "category": "SCOPE",
+    "content": "Everything that is not explicitly mentioned in this service description is by default out of scope of this Service."
+  },
+  "Service characteristics": {
+    "header": "Service characteristics",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Obligatory": {
+    "header": "Obligatory",
+    "category": "GENERAL",
+    "content": "The following services are mandatory for the delivery of this service:"
+  },
+  "Cegeka owned Licenses and/or subscriptions": {
+    "header": "Cegeka owned Licenses and/or subscriptions",
+    "category": "LICENSE",
+    "content": "The licenses and/or subscriptions listed in this section and their cost are included in this Service. It is Cegeka’s responsibility to maintain license and/or subscription compliance. Licenses and/or subscriptions used for Cross-Functional Services are included in the Service and are not listed below. License description/remarks (no Cegeka owned licenses) -"
+  },
+  "Customer owned Licenses and/or subscriptions": {
+    "header": "Customer owned Licenses and/or subscriptions",
+    "category": "LICENSE",
+    "content": "The licenses and/or subscriptions listed in this section and their cost are not included in this Service. It is the customers responsibility to maintain license and/or subscription compliance. License description/remarks (no Customer owned licenses) -"
+  },
+  "Conditions": {
+    "header": "Conditions",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Service delivery location": {
+    "header": "Service delivery location",
+    "category": "FUNCTIONAL",
+    "content": "This Service is delivered on Customer premise and remotely from the Cegeka (virtual) Office environment."
+  },
+  "Service Reporting": {
+    "header": "Service Reporting",
+    "category": "FUNCTIONAL",
+    "content": "The Cross-functional reporting is part of this Service Reporting where it is applicable for this service (see section ‘Relation to Cross-Functional Services’). There are no specific (recurrent) reports for this Service. Note: the reporting of the number of tasks executed by Cegeka is delivered by Argenta and is essential for the monthly invoicing. This has been agreed with Argenta, rather than having a Cegeka created report for the amount of tasks."
+  },
+  "Data classification": {
+    "header": "Data classification",
+    "category": "GENERAL",
+    "content": "Cegeka requires no access to confidential and/or personal data to perform this Service. Engineer credentials do not need to access such data for the purpose of this Service. In case of assistance in investigations of functional issues, Cegeka personnel may see or receive fragments of such data in case it is shared by the Customer (data fragments in the sense of exports, screen sharing, screen shots, etc. for investigation purposes)."
+  },
+  "Use of Subcontractor/Sub-outsourcer": {
+    "header": "Use of Subcontractor/Sub-outsourcer",
+    "category": "GENERAL",
+    "content": "This service is delivered with: Subcontractor (Cegeka manages the Service with own engineers which are supported by an external party for escalations or technology specific questions or issues): (none) Sub-outsourcer (Cegeka delegates the Service to an external party): (none)"
+  },
+  "Miscellaneous": {
+    "header": "Miscellaneous",
+    "category": "GENERAL",
+    "content": "n/a"
+  },
+  "RACI Matrix": {
+    "header": "RACI Matrix",
+    "category": "GENERAL",
+    "content": "Activity Cegeka Customer Release and Deploy services Creation of deploy scripts C,I A,R Testing of deploy scripts in DVL environment C,I A,R Execution of tested scripts in other environments A,R C,I Coordination of releases C,I A,R Reporting I A,R RACI role definition:"
+  },
+  "Adherence to Cross-Functional Services": {
+    "header": "Adherence to Cross-Functional Services",
+    "category": "FUNCTIONAL",
+    "content": "The Service described in this Service Description does not adhere to the Cross-functional Services as described in the contract. Note: this service description performs the specific applicative release and deploy which is not the same as the technology release and deploy stipulated in the Cross-functional services."
+  },
+  "Service Level Management": {
+    "header": "Service Level Management",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Service Window": {
+    "header": "Service Window",
+    "category": "FUNCTIONAL",
+    "content": "The Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract."
+  },
+  "Service Level": {
+    "header": "Service Level",
+    "category": "FUNCTIONAL",
+    "content": "n/a for this service"
+  },
+  "Service Billing": {
+    "header": "Service Billing",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Standard Service Billing": {
+    "header": "Standard Service Billing",
+    "category": "FUNCTIONAL",
+    "content": "The service is billed on a monthly basis. ID Component Billing element BILLING UNIT SKU.0.L.191.L11 Release and deploy services Execution of Major Release Time & Material SKU.0.L.191.L12 Execution of Independent Release Per Independent release SKU.0.L.191.L13 Standby Fee Amount SKU.0.L.191.L14 Tasks (1800/month) Amount SKU.0.L.191.L15 Extra 90 tasks/month Number of bundles  Measurement The quantity of each billing element is determined on a monthly basis: Calculation / Billing The price(s) is/are determined in the pricing schedule where this Service is residing. The Service is billed per billing element: The following pricing principles apply:"
+  },
+  "Optional Service Billing": {
+    "header": "Optional Service Billing",
+    "category": "FUNCTIONAL",
+    "content": "n/a"
+  },
+  "Change Request Billing": {
+    "header": "Change Request Billing",
+    "category": "GENERAL",
+    "content": "Changes are billed on a monthly basis. Changes as result of Pre-approved and Normal Service requests are billed according to the defined prices in the pricing document of the related contact. Non-standard change requests are billed on T&M basis."
+  },
+  "Document control": {
+    "header": "Document control",
+    "category": "GENERAL",
+    "content": "Document version Date Author Notes DV1.0 31/05/2024 Johan Pauwels First version aligned with structural Service Description requirements. DV1.1 21/01/2025 Johan Pauwels Comments removed, document cleanup for PDF."
+  },
+  "Document approval": {
+    "header": "Document approval",
+    "category": "GENERAL",
+    "content": "Cegeka Customer Date: ____ / _____ / ____________ Date: ____ / _____ / ____________ Name, function and signature Name, function and signature"
+  }
+}

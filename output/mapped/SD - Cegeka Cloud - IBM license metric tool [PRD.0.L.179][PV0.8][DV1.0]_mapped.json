@@ -1,0 +1,27 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "IBM License Metric Tool": {
+    "header": "IBM License Metric Tool",
+    "category": "LICENSE",
+    "content": ""
+  },
+  "Introduction": {
+    "header": "Introduction",
+    "category": "GENERAL",
+    "content": "The IBM License Metric Tool helps you maintain an inventory of the Processor Value Unit (PVU) based software deployed for your Full Capacity or Virtualization (Sub-) Capacity environment, and measures the PVU licenses required by software Product. It is intended to help you manage your IBM software licensing requirements, and help you maintain an audit ready posture."
+  },
+  "Service description": {
+    "header": "Service description",
+    "category": "FUNCTIONAL",
+    "content": "Standard services The IBM License Metric Tool service provides a platform to: Reporting Monthly creation of a report that will be emailed to the service delivery manager. The report provides information about computers in your infrastructure and information about the computer health: Scope The service IBM License Metric Tool manages the components of the IBM License Metric Tool infrastructure. These components are: Conditions Part number"
+  },
+  "RACI": {
+    "header": "RACI",
+    "category": "GENERAL",
+    "content": "Description Cegeka NIBC Technical Platform Management A,R I Change management A,R C Executing standard changes (request) A,R I Executing non-standard changes (request) A,R I Monthly creation audit report A,R I Analysis audit report A,R,C,I Distribution audit report A,R,C,I"
+  }
+}

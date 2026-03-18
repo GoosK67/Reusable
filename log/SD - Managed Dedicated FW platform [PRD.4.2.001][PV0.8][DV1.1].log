@@ -1,0 +1,33 @@
+[2026-03-18 14:28:04] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 14:28:05] HTML saved: extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 14:28:05] extract_html OK
+[2026-03-18 14:28:05] START parse_html for: extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 14:28:05] PARSE OK → output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 14:49:49] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 14:49:49] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 14:49:49] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 14:49:50] HTML saved: extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 14:49:50] extract_html OK
+[2026-03-18 14:49:50] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 14:49:50] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 14:49:50] PARSE OK → output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 14:49:50] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 14:49:50] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 14:49:50] auto_map OK → output\mapped\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.json
+[2026-03-18 14:49:50] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:49:50] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 14:49:51] PIPELINE OK
+[2026-03-18 15:03:37] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 15:03:37] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 15:03:37] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Security & Compliance\[4.L] Outsourcing Services\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].docx
+[2026-03-18 15:03:37] HTML saved: extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 15:03:37] extract_html OK
+[2026-03-18 15:03:37] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 15:03:37] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].html
+[2026-03-18 15:03:37] PARSE OK → output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 15:03:37] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 15:03:38] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1].json
+[2026-03-18 15:03:38] auto_map OK → output\mapped\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.json
+[2026-03-18 15:03:38] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 15:03:38] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Managed Dedicated FW platform [PRD.4.2.001][PV0.8][DV1.1]_mapped.xml
+[2026-03-18 15:03:38] PIPELINE OK

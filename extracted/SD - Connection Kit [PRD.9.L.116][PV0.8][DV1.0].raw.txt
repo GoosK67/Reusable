@@ -1,0 +1,37 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+Security & Networking
+Cegeka Secure Management
+Service summary
+The Cegeka Management Service includes services related to managing the solution and establishing connectivity to customer environments. This service offers integration with standard services for OS management on both Windows and Linux, monitoring, software asset inventory, vulnerability scanning, and Firewall/VPN services (as part of the Cegeka cloud service).
+Standard service components
+Secure management access to the client environment through user gateways and a stepping stone server.
+Monitoring data collector
+Software asset inventory Gateway
+Vulnerability scanning Gateway
+Firewall and site-to-site VPN
+Security
+All components used in this service comply with the following:
+CIS level and reporting
+OS Hardening
+ISAE 3402/3000 assurance + ISO27001 certification
+Privacy
+Required Patch levels
+Patching & Lifecycle management
+Cegeka maintains the servers and underlying operating systems used for the services. Monthly, the latest security and critical updates are installed for both Windows and Linux systems. The systems in use are always equipped with a vendor-supported version of the operating system.
+Optional Service components
+N/A
+Eligibility and Prerequisites
+Conditions
+This service has dependencies on the OS Management Windows-Linux, Software Asset Inventory Platform, and Vulnerability & Compliance services. The Cegeka Management Service is essential to deliver these services. Anything not explicitly mentioned in this service description is automatically considered out of scope.
+Maintenance & Licenses 
+To deliver the service, a license for the use of Microsoft products is utilized. Additionally, licenses are required for the monitoring collector, software asset inventory, and vulnerability scanning. The licenses used are integral to this service.
+Responsibility matrix
+
+Order & billing information
+Part numbers
+0.0050_0010_0010_A_S.000 Monitoring Cegeka Horizon portal 
+0.0060_0020_0010_M_S.000 Management tooling Outsourcing – Light

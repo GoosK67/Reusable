@@ -1,0 +1,76 @@
+Introduction
+The content of this service description (Chapter 1) is used to compile a service catalog that is used in the contract with the client. This introduction and document history below are for internal use only. 
+It is allowed to merge Chapter 1 with other service descriptions into a single service catalog. Modifying the content of Chapter 1 for individual clients is not allowed. (If necessary, any adjustments can only be made with approval from the responsible service owner of product manager.)
+Document history
+
+
+
+Digital Workplace
+Office 365 Backup
+Service summary
+Cegeka provides <klant> with an Office 365 Back-up solution. The Cegeka Shared Backup is powered by Commvault. It includes data back-up of: Outlook 365, OneDrive for Business, SharePoint online and Microsoft Teams.  By implementing Cegeka Shared Backup:
+Data remains accessible even when O365 is offline;
+Improved search capabilities are put in place;
+Improved resiliency against cyber threats is ensured;
+<klant> avoids cloud lock-in;
+The native O365 protection is extended and expanded.
+Standard service components
+Cegeka shall be responsible in providing backup service for the following Office 365 Services: 
+
+Microsoft 365 – Mail & Calendar
+Infinite retention of mail *
+Self-service restore 
+Microsoft 365 - OneDrive for Business
+Infinite retention of data **
+Self-service restore 
+Microsoft 365 - SharePoint online
+Full & incremental backup schedule
+Self-service restore
+Microsoft 365 - Teams
+Team conversations as stored in O365 mailbox(hidden folder) backup*** 
+Team SharePoint site and document library backup
+Wiki page library backup
+Self-service restore
+
+* Fair use policy – see service description
+** Fair use policy – see service description. Deleted files kept indefinitely
+*** In-place restores into Teams is not possible. (Microsoft limitation)
+
+Optional service components
+N/A
+Eligibility and Prerequisites
+Conditions
+Microsoft 365 Teams backup requires Exchange and SharePoint backup to be set-up.
+Out of scope
+The packaging, patching and updating of applications are not in scope of this Service;
+Licensing, support and patching of software published through this Service is not in scope of this Service;
+This service does not include the related Cloud & on-premise infra resource consumption;
+Activities that are related to replacing out-of-support or obsolete hardware are not in scope of this Service.
+Responsibility matrix
+
+Cross-functional services
+In order to guarantee the Service quality as specified in
+“Service Level Definitions.doc”
+Section “Service Level Agreement” in this document for possible specific service levels for this Service
+Cegeka provides the required Cross-Functional Services as specified in “Cross-Functional-Services.doc”
+Order & billing information
+Service SKUs
+* mandatory SKU – at least 1 to be selected per subsection
+** When O365 mailbox/User is already included in backup, otherwise additional per user cost 
+Service Part number(s) 
+O.0340_0010_0030_A_S.000 Replicated backup in 10 GB cf. backup retentions per 10 GiB on backup medium
+
+Measurement
+The pricing of the Service consists of a platform-based, user-based, image-based, server-based and optional Add-On SKU’s
+Calculation
+(“Price/Unit” x “Number of setups/platforms”) + (“Price/Unit” x “Number of users”) + (“Price/Unit” x “Number of images”) + (“Price/Unit” x “Number of servers”) + (“Price/Unit” x “Number of ADC pairs”).
+Standard changes SKUs
+Table below represents the Standard Changes for this Service, where each Standard Change
+has a corresponding fixed one-off price as mentioned in the Pricing Model
+has a corresponding  ‘Service Level Objective (SLO) for each Standard Change, expressed in elapsed working days as mentioned in Table below
+follows the ‘Standard Change Management process’ as mentioned in Section “Cross-Functional Services”
+
+Non-standard changes SKUs
+Non-standard changes
+are billed in time & material
+follow the ‘Change Management process’ as mentioned in Section “Cross-Functional services”

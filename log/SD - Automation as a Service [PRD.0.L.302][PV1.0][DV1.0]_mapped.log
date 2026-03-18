@@ -1,0 +1,27 @@
+[2026-03-18 14:42:17] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:42:17] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 14:42:17] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:42:17] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 14:42:17] Filled SDT 'SLA_KPI' with XML section 'Service Level'
+[2026-03-18 14:42:17] Filled SDT 'SLA_KPI' with XML section 'Service Billing'
+[2026-03-18 14:42:17] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Request Billing'
+[2026-03-18 14:42:18] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:42:18] XML→DOCX OK → output\docx\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 14:48:02] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 14:48:02] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 14:48:02] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:48:02] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 14:48:02] Filled SDT 'SLA_KPI' with XML section 'Service Level'
+[2026-03-18 14:48:02] Filled SDT 'SLA_KPI' with XML section 'Service Billing'
+[2026-03-18 14:48:02] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Request Billing'
+[2026-03-18 14:48:03] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:48:03] XML→DOCX OK → output\docx\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:01:52] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped.xml
+[2026-03-18 15:01:52] Filled SDT 'SLA_KPI' with XML section 'Service Request'
+[2026-03-18 15:01:52] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:01:52] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 15:01:52] Filled SDT 'SLA_KPI' with XML section 'Service Level'
+[2026-03-18 15:01:52] Filled SDT 'SLA_KPI' with XML section 'Service Billing'
+[2026-03-18 15:01:52] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Request Billing'
+[2026-03-18 15:01:52] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 15:01:52] XML→DOCX OK → output\docx\SD - Automation as a Service [PRD.0.L.302][PV1.0][DV1.0]_mapped_FINAL.docx

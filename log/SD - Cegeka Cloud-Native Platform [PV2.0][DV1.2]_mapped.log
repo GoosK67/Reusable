@@ -1,0 +1,27 @@
+[2026-03-18 14:42:09] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:42:09] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:42:09] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service introduction'
+[2026-03-18 14:42:09] Filled SDT 'SLA_KPI' with XML section 'Service table'
+[2026-03-18 14:42:09] Filled SDT 'KEY_FEATURES' with XML section 'Managed Service'
+[2026-03-18 14:42:09] Filled SDT 'SLA_KPI' with XML section 'Service Mesh'
+[2026-03-18 14:42:09] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:42:10] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:42:10] XML→DOCX OK → output\docx\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped_FINAL.docx
+[2026-03-18 14:47:55] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 14:47:55] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:47:55] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service introduction'
+[2026-03-18 14:47:55] Filled SDT 'SLA_KPI' with XML section 'Service table'
+[2026-03-18 14:47:55] Filled SDT 'KEY_FEATURES' with XML section 'Managed Service'
+[2026-03-18 14:47:55] Filled SDT 'SLA_KPI' with XML section 'Service Mesh'
+[2026-03-18 14:47:55] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:47:56] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:47:56] XML→DOCX OK → output\docx\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped_FINAL.docx
+[2026-03-18 15:01:45] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped.xml
+[2026-03-18 15:01:45] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:01:45] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service introduction'
+[2026-03-18 15:01:45] Filled SDT 'SLA_KPI' with XML section 'Service table'
+[2026-03-18 15:01:45] Filled SDT 'KEY_FEATURES' with XML section 'Managed Service'
+[2026-03-18 15:01:45] Filled SDT 'SLA_KPI' with XML section 'Service Mesh'
+[2026-03-18 15:01:45] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:01:45] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 15:01:45] XML→DOCX OK → output\docx\SD - Cegeka Cloud-Native Platform [PV2.0][DV1.2]_mapped_FINAL.docx

@@ -1,0 +1,123 @@
+
+ 
+Service description
+
+Definitions
+The following definitions shall have the meanings hereby respectively assigned to them. 
+
+“Business Hours”: Monday through Friday from 8:00 to 18:00 CET/CEST excluding Belgian official holidays.
+“Horizon” : Customer Portal provided by Cegeka for reporting and change management
+“Initial Priority” : the priority which is pre-assigned automaticity to a Security Alert specific to a technology.
+“SOC/CSIRT Analyst” : Member of the SOC performing Incident Response activities
+“Security Event” : data recorded by a security system which represent security related occurrence, such as a failed or successful login attempt, allowed connection through a firewall, … 
+“Security Alert” :  a notification of a potential security anomaly as detected by one or more of the SOC detection technologies which requires further investigation.
+“Security Incident” :  a violation of security policies based upon a human reported event or a generated Security Alert.
+“Service” : Managed Detection & Response services
+
+
+
+Transition Services
+Operational Readiness
+The goal of Operational Readiness is that both customer and Cegeka have a clear understanding of the governance and operational processes related to the DFIR service.
+Cegeka will perform the following activities during the Operational Readiness:
+Agreement on the project governance containing:
+Project Plan
+Ready For Service (RFS)
+Align on Incident Response Plan procedures.
+Exchange information required to perform the Service.
+Agreement on asset scope information
+The Operational Readiness will be formalized on a per project basis in a Customer Scoping Document. This document will include all the operational agreements related to the Service.
+The Customer is responsible for informing Cegeka of any changes which may impact the Service.
+RFS - Ready-for-Service
+The RFS indicates that all the prerequisites are completed during the transition period to start the Service. This is the moment Cegeka will perform the Managed Services on the full contracted scope and invoicing will start accordingly.
+The prerequisites for the RFS are:
+
+The RFS date has a maximum term of three (3) months after signing the contract unless explicitly agreed otherwise.
+
+Managed Services
+DFIR services
+DFIR services are additional services not included in the MDR Service which can assist customers in more advanced incident response activities.
+Incident Response Retainer
+The goal of the Incident Response Retainer is to perform the following:
+Provide emergency response for an active security Incident to perform an initial assessment based upon Cegeka Threat Intel and experience. This initial assessment will always be done remotely.
+Provide an emergency response Time SLA which provides a response time for an Incident Responder is remotely available to assist with any of the DFIR services.
+Provide Incident Response credits which can be used to perform one or more of the DFIR services as part of the Incident Response Retainer. The Incident Response credits are valid for 1-year, if credits remain not consumed within the 1-year period those are seen as forfeited by the Customer.
+Performing a one-time Incident Response Readiness Assessment at the start of the Incident Response retainer. 
+Provide on-site interventions upon request and agreement between Cegeka and the customer. In case the Incident Responder works on-site, a minimum of 8 hours per day is charged. The cost of travel, travel time (round trip time) and accommodation will also be charged towards the customer.
+
+For Cegeka to able to effectively perform ‘Incident Response retainer’, the customer is responsible for:
+Formally confirm the activation of the Incident Response Retainer through mail and phone.
+Facilitate all communication internally, towards public authorities and any other 3rd parties involved.
+Negotiations with threat actors in case of major Security Incidents
+
+Incident Response Readiness assessment
+The goal of the Incident Response Readiness assessment is to evaluate an organization's ability to detect, investigate, and respond to security incidents. The assessment will identify gaps in the organization's incident response capabilities and to provide recommendations for improving their readiness to handle security incidents.
+During an Incident Response Readiness Assessment, Cegeka will perform the following activities:
+Agreeing on the scope of the assignment: define the boundaries of the project and ensure that the objectives are clear.
+Assessment of existing policies, procedures, and documentation: review the organization's incident response policies, procedures, and documentation to identify any gaps or areas for improvement.
+Technical assessment: assess the organization's technical capabilities for incident response, including their monitoring, detection, and analysis tools and processes.
+Reporting and debriefing: provide a comprehensive report that details the findings and recommendations for improving the organization's incident response capabilities. A debriefing session with the organization's leadership to discuss the findings and recommendations.
+Each Incident Response Readiness Assessment is formalized in a Statement of Work document that outlines the scope, objectives, and timeline for the project.
+
+Red Teaming assessment
+The goal of the Red Teaming assessment is to evaluate an organization's security posture by simulating an attack from a real-life adversary. The goal of Red Teaming is to identify vulnerabilities and weaknesses in an organization's security controls and processes, as well as to test the effectiveness of their incident response capabilities.
+During a Red Teaming assessment, Cegeka will perform the following activities:
+Agreeing on the scope of the assignment: define the boundaries of the project and ensure that the objectives are clear.
+Reconnaissance:  collecting information about the target organization, including their infrastructure, employees, and potential vulnerabilities.
+Threat modeling: based on the information gathered in the reconnaissance phase, a potential attack scenario will be identified and prioritize them based on their impact and likelihood.
+Attack simulation: An attack will be simulated on the target organization using a combination of social engineering techniques, network attacks, and physical penetration testing.
+Reporting and debriefing: provide a comprehensive report that details the vulnerabilities and weaknesses discovered during the assessment, along with recommendations for improving security. A debriefing session with the organization's leadership to discuss the findings and recommendations.
+
+Each Red Teaming assessment is formalized in a Statement of Work document that outlines the scope, objectives, and timeline for the project. 
+
+Digital Forensics
+The goal of the Digital Forensics is to extract data from the digital assets, process it into actionable intelligence and present the findings. Digital Forensics can be host or log based. For example, artifacts can be found in filesystems, operating systems, network devices and other sources for the sake of reconstruction of the events. 
+When working on a Digital Forensics assignment, Cegeka will follow a specific set of activities, including:
+Agreeing on the scope of the assignment: define the boundaries of the project and ensure that the objectives are clear.
+Collecting artifacts together with the customer from the environment: this step involves collecting digital data from the relevant sources for analysis.
+Analysis of the found artifacts: the collected artifacts are then analyzed to extract relevant information that can help reconstruct the attack chain or identify potential perpetrators.
+If possible, reconstruct the attack chain: this step involves piecing together the sequence of events that led to the incident to understand the scope and impact of the attack.
+Create a report containing the full investigation, findings, and lessons learned: the final step is to document the findings and present them in a report that can be used for or to improve future security measures.
+Each Digital Forensics assignment will be formalized on a per project basis in a Statement of Work document, which outlines the scope, deliverables, and timelines for the project.
+Compromise Assessment
+The goal of the Compromise Assessment is to identify whether an organization has been compromised and if so, to determine the extent of the compromise, how the attacker gained access, and what actions they took while inside the network.
+Cegeka will perform the following activities regarding compromise assessment:
+Agreeing on the scope of the assignment: define the boundaries of the project and ensure that the objectives are clear.
+Technology deployment: Assist the customer with deploying Endpoint agents to gain required access to potential compromised systems.
+Collection of data and artifacts: Collect data and artifacts from the organization's systems to determine if there has been any compromise. This may include log files, network traffic data, and endpoint data.
+Analysis of the data and artifacts: Analyze the data and artifacts collected to identify any evidence of a security breach or compromise.
+Investigation and mitigation: if a compromise is detected, the Cegeka team will investigate the extent of the compromise, how the attacker gained access, and what actions they took while inside the network. They will also provide recommendations for mitigating the breach.
+Reporting and debriefing: provide a comprehensive report that details the findings and recommendations for improving the organization's security. They will also hold a debriefing session with the organization's leadership to discuss the findings and recommendations.
+
+Each compromise assessment will be formalized on a per project base in a Statement of Work document, which outlines the scope, deliverables, and timelines for the project.
+
+Governance
+Process
+Authorized Contacts
+For security reasons, only people identified as Authorized Contact are allowed to collaborate with our Cegeka SOC. Only they can interact with the Cegeka SOC. All other persons will automatically be prevented and will be notified towards the Customer. These are also the people who will receive the monthly report.
+The Authorized Contacts will be formalized in the Customer Scoping document.
+Operational & Escalation Contact
+Any new Security Incident will result in a notification towards the customer Operational Contact(s). 
+If any blocking issues prevents Cegeka from continuing the Service as agreed, an escalation towards the customer Escalation Contact will be done.
+The Operational & Escalation contact(s) will be formalized in the Customer Scoping document.
+Decommissioning process
+At the end of the MDR Service, Cegeka retains the right to:
+Remove any of the Intellectual Property used during the Service to improve the overall quality.
+
+At the end of the MDR Service, the customer retains the right to:
+Gain full access to the management of customer owned technologies used within the MDR service.
+
+At the end of the MDR Service, the customer has thirty (30) days from the date of termination to retain the right to:
+Request a copy of the customer’s data to a designated location. Cegeka will transfer the data to the designated location owned by the customer. The data will contain all possible information which is technically possible to provide. This will be priced via Time and Material. Such requests must be submitted via e-mail. If Customer does not request the data within the 30-day period described above, Cegeka will permanently destroying all data no longer under a valid Service contract. 
+
+Service Levels
+Emergency Response Time
+Responsibilities
+RACI
+The table below reflect the responsibilities of Cegeka and Customer for the Cegeka Managed Detection & Response Services.
+
+
+
+Responsible: The party who is responsible for the execution of the activity. 
+Consulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication.
+Informed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication.

@@ -1,0 +1,18 @@
+[2026-03-18 14:49:30] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 14:49:30] Filled SDT 'CLIENT_NEEDS' with XML section 'Service Overview'
+[2026-03-18 14:49:30] Filled SDT 'KEY_FEATURES' with XML section 'Transition Services'
+[2026-03-18 14:49:30] Filled SDT 'ARCHITECTURAL_DESCRIPTION' with XML section 'Technical implementation'
+[2026-03-18 14:49:30] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 14:49:30] Filled SDT 'KEY_FEATURES' with XML section 'Managed Services'
+[2026-03-18 14:49:30] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 14:49:30] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 14:49:30] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx
+[2026-03-18 15:03:17] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped.xml
+[2026-03-18 15:03:17] Filled SDT 'CLIENT_NEEDS' with XML section 'Service Overview'
+[2026-03-18 15:03:17] Filled SDT 'KEY_FEATURES' with XML section 'Transition Services'
+[2026-03-18 15:03:17] Filled SDT 'ARCHITECTURAL_DESCRIPTION' with XML section 'Technical implementation'
+[2026-03-18 15:03:17] Filled SDT 'KEY_FEATURES' with XML section 'Operational Readiness'
+[2026-03-18 15:03:17] Filled SDT 'KEY_FEATURES' with XML section 'Managed Services'
+[2026-03-18 15:03:17] Filled SDT 'KEY_FEATURES' with XML section 'Process'
+[2026-03-18 15:03:17] TOTAL SDT FIELDS FILLED: 6
+[2026-03-18 15:03:17] XML→DOCX OK → output\docx\SD - Cegeka Modern SOC - Microsoft - US [PRD.4.3.008][PV2.0][DV1.0]_mapped_FINAL.docx

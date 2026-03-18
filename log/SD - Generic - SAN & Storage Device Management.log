@@ -1,0 +1,47 @@
+[2026-03-18 14:27:48] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:27:48] HTML saved: extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:27:48] extract_html OK
+[2026-03-18 14:27:48] START parse_html for: extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:27:48] PARSE OK → output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:42:37] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:42:37] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:42:37] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:42:37] HTML saved: extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:42:37] extract_html OK
+[2026-03-18 14:42:37] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:42:37] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:42:37] PARSE OK → output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:42:38] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:42:38] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:42:38] auto_map OK → output\mapped\SD - Generic - SAN & Storage Device Management_mapped.json
+[2026-03-18 14:42:38] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 14:42:38] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 14:42:38] PIPELINE OK
+[2026-03-18 14:48:20] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:48:20] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:48:20] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 14:48:20] HTML saved: extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:48:20] extract_html OK
+[2026-03-18 14:48:20] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:48:20] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 14:48:20] PARSE OK → output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:48:20] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:48:21] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 14:48:21] auto_map OK → output\mapped\SD - Generic - SAN & Storage Device Management_mapped.json
+[2026-03-18 14:48:21] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 14:48:21] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 14:48:21] PIPELINE OK
+[2026-03-18 15:02:09] START PIPELINE for C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 15:02:09] RUN extract_html.py -> C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 15:02:10] START extract_html for: C:\Users\koengo\Cegeka\Product Management - Product Management Library\Business Line - Cloud and Digital Platforms\[0.L] Outsourcing Services\SD - Generic - SAN & Storage Device Management.docx
+[2026-03-18 15:02:10] HTML saved: extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 15:02:10] extract_html OK
+[2026-03-18 15:02:10] RUN parse_html_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 15:02:10] START parse_html for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\extracted_html\SD - Generic - SAN & Storage Device Management.html
+[2026-03-18 15:02:10] PARSE OK → output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 15:02:10] RUN auto_map_sections.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 15:02:10] START auto_map for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\json\SD - Generic - SAN & Storage Device Management.json
+[2026-03-18 15:02:10] auto_map OK → output\mapped\SD - Generic - SAN & Storage Device Management_mapped.json
+[2026-03-18 15:02:10] JSON->XML OK -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 15:02:10] RUN xml_to_docx.py -> C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Generic - SAN & Storage Device Management_mapped.xml
+[2026-03-18 15:02:11] PIPELINE OK

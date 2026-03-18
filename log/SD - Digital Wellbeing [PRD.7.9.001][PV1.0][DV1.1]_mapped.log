@@ -1,0 +1,14 @@
+[2026-03-18 14:49:10] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 14:49:10] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 14:49:10] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 14:49:10] Filled SDT 'SLA_KPI' with XML section 'Specific Service Levels'
+[2026-03-18 14:49:10] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 14:49:11] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 14:49:11] XML→DOCX OK → output\docx\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1]_mapped_FINAL.docx
+[2026-03-18 15:02:58] START xml_to_docx_v3_fixed for: C:\Users\koengo\OneDrive - Cegeka\Documents\Reusable Assets\Products\output\xml\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1]_mapped.xml
+[2026-03-18 15:02:58] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Introduction'
+[2026-03-18 15:02:58] Filled SDT 'PRODUCT_SUMMARY' with XML section 'Service Window'
+[2026-03-18 15:02:58] Filled SDT 'SLA_KPI' with XML section 'Specific Service Levels'
+[2026-03-18 15:02:58] Filled SDT 'SCOPE' with XML section 'Out of scope'
+[2026-03-18 15:02:58] TOTAL SDT FIELDS FILLED: 4
+[2026-03-18 15:02:59] XML→DOCX OK → output\docx\SD - Digital Wellbeing [PRD.7.9.001][PV1.0][DV1.1]_mapped_FINAL.docx

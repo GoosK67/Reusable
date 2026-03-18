@@ -1,0 +1,137 @@
+{
+  "UNCLASSIFIED": {
+    "header": "UNCLASSIFIED",
+    "category": "GENERAL",
+    "content": "Prepared by: Willem Janssens Version: 1.8.0 Cegeka reference: Service Description - Modern SOC - Vectra AI - US CONFIDENTIAL Service Description - Modern SOC Vectra AI Table of contents 1\tService description\t4 1.1\tDefinitions\t4 1.2\tService Overview\t5 1.3\tTransition Services\t7 1.3.1\tTechnical implementation\t7 1.3.2\tOperational Readiness\t7 1.3.3\tRFS - Ready-for-Service\t8 1.4\tManaged Services\t9 1.4.1\tAdvanced Threat Intelligence\t10 1.4.2\tThreat hunting\t10 1.4.3\t24x7 Security Monitoring\t10 1.4.3.1\tSecurity Incident Priority\t11 1.4.3.2\tSecurity Incident Area\t11 1.4.3.3\tCommunication Plan\t13 1.4.4\tThreat Response\t14 1.4.5\tCyber Security Advisory\t14 1.4.5.1\tService Meetings\t14 1.4.5.2\tService Reporting\t15 1.4.5.3\tHorizon Portal\t15 1.4.5.4\tCyber Security Advisor\t15 1.4.6\tPlatform Management\t15 1.4.6.1\tLicense Management\t15 1.4.6.2\tConfiguration & Release Management\t15 1.4.6.3\tHealth Monitoring\t16 1.4.6.4\tUser Management\t16 1.5\tGovernance\t16 1.5.1\tProcess\t16 1.5.1.1\tAuthorized Contacts\t16 1.5.1.2\tOperational & Escalation Contact\t16 1.5.1.3\tDecommissioning process\t16 1.5.2\tTechnology\t18 1.5.2.1\tNETWORK – Vectra AI NDR\t18 1.5.2.2\tIDENTITY – Vectra AI Identity\t20 1.6\tService Levels\t21 1.6.1\tAvailability\t21 1.6.2\tTime to Triage\t21 1.6.3\tTime to Investigate\t21 1.6.4\tTime to Respond\t22 1.7\tEligibility and Prerequisites\t23 1.7.1\tOut of scope\t23 1.8\tResponsibilities\t24 1.8.1\tRACI\t24"
+  },
+  "Service description": {
+    "header": "Service description",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Definitions": {
+    "header": "Definitions",
+    "category": "GENERAL",
+    "content": "The following definitions shall have the meanings hereby respectively assigned to them. “Business Hours”: Monday through Friday from 8:00 to 18:00 EST. “Log Source” : device or system which generates Security Events “Horizon” : Customer Portal provided by Cegeka for reporting and change management “Initial Priority” : the priority which is pre-assigned automaticity to a Security Alert specific to a technology. “SOC/CSIRT Analyst” : Member of the SOC performing Incident Response activities “Security Event” : data recorded by a security system which represent security related occurrence, such as a failed or successful login attempt, allowed connection through a firewall, … “Security Alert” :  a notification of a potential security anomaly as detected by one or more of the SOC detection technologies which requires further investigation. “Security Incident ” :  a violation of security policies based upon a human reported event or a generated Security Alert. “Service ” : Managed Detection & Response services"
+  },
+  "Service Overview": {
+    "header": "Service Overview",
+    "category": "FUNCTIONAL",
+    "content": "The Managed Detection & Response (MDR) services can be delivered through different technological types: Each Service will start with the Transition Service(s) to bring it into production which will start the Run Services. The Transition Services consists of two (2) types: After the transition, the Managed Services will start which consist of three (3) types: The following table consists of a high-level overview of the Transition & Run services: Managed Detection & Response for Vectra IA Type NETWORK IDENTITY Scope Per IP Per User DETECTION Advanced Threat Intelligence x x Threat Hunting 24x7 Security Monitoring RESPONSE Threat Response x x Cyber Security Advisory PLATFORM License Management Configuration & Release management x x Health Monitoring User Management TRANSITION Technical Implementation x x Operational Readiness x x"
+  },
+  "Transition Services": {
+    "header": "Transition Services",
+    "category": "FUNCTIONAL",
+    "content": "Transition Services consists of two (2) types of activities: These two (2) activities form a consistent approach in completing the transition of the MDR Service towards Run Services. The start of the Transition Services begins when the contract is signed and ends when the “Ready for Service” requirements are met which are described below.  During the Transition Services Cegeka will not perform Security Alerts / Security Incident handling."
+  },
+  "Technical implementation": {
+    "header": "Technical implementation",
+    "category": "GENERAL",
+    "content": "The goal of the technical implementation is to implement all technical measures as stated in the Statement of Work. Cegeka will perform the following activities during the technical implementation: For Cegeka to be able to effectively perform the technical implementation, the customer is responsible for: The technical implementation will be formalized on a per project base in a Technical Design document. This document will include all the technical decisions related to the Service."
+  },
+  "Operational Readiness": {
+    "header": "Operational Readiness",
+    "category": "GENERAL",
+    "content": "The goal of Operational Readiness is that both customer and Cegeka have a clear understanding of the governance and operational processes related to the Managed Detection & Response service. Cegeka will perform the following activities during the Operational Readiness: The Operational Readiness will be formalized on a per project basis in a Customer Scoping Document . This document will include all the operational agreements related to the Service. The Customer is responsible for informing Cegeka of any changes which may impact the Service."
+  },
+  "RFS - Ready-for-Service": {
+    "header": "RFS - Ready-for-Service",
+    "category": "FUNCTIONAL",
+    "content": "The RFS indicates that all the prerequisites are completed during the transition period to start the Service. This is the moment Cegeka will perform the Managed Services on the full contracted scope and the invoice will start accordingly. The prerequisites for the RFS are: Prerequisites To reduce the operational pressure for the customer, a one-month learning period is applied after the start of the RFS date to fine-tune the environment to reduce the number of false positives. This implies that all Security Alerts will only be handled during Business Hours until the learning period has ended, and no SLAs are measured. After this period, the Service will go into full operational mode including all SLA. The RFS date has a maximum term of three (3) months after signing the contract unless explicitly agreed otherwise."
+  },
+  "Managed Services": {
+    "header": "Managed Services",
+    "category": "FUNCTIONAL",
+    "content": "Cegeka works with a standardized “Security Incident Response Plan (S-IRP)” which describes how Cegeka handles information Security Incidents as part of the Managed Detection & Response Service to Customers. Every occurrence of a Security Alert potentially resulting in a Security Incident is handled logically as described in this plan. The assignment of roles & responsibilities as well as the services and products available to Cegeka within a specific context will determine which parts of the plan will be executed by Cegeka, its customer or 3 rd parties mandated by either or both. This document describes the entire process, but the contractual agreements and Security Customer Scoping Document (S-CSD) will determine which of the process phases and activities will be handled by Cegeka under which conditions.  High-level representation of the S-IRP The S-IRP consists of the following steps: Included in Technical Implementation & Operational Readiness Included in Advanced Threat Intelligence , Threat Hunting & 24x7 Security Monitoring Included in Threat Response Only follow up and support are part of this service. Only follow up and support are part of this service. Included in Cyber Security Advisory"
+  },
+  "Advanced Threat Intelligence": {
+    "header": "Advanced Threat Intelligence",
+    "category": "GENERAL",
+    "content": "Our SOC platform incorporated Advanced Threat Intelligence feeds by default. This helps improve real-time detection of the latest emerging threats and a more effective investigation of Security Alerts/Incidents. Based upon the nature and type of threat, the following activities will be done to improve detection: Based upon the nature and type of Security Alerts/Incidents, the following enrichments will be done:"
+  },
+  "Threat hunting": {
+    "header": "Threat hunting",
+    "category": "GENERAL",
+    "content": "On a monthly basis a threat hunter will proactively search through Security Events to find suspicious, or risky activities that have evaded detection by existing tools. Threat hunting will also consider historical data when searching for anomalies/outliers. Cegeka will perform the following activities regarding Threat Hunting:"
+  },
+  "24x7 Security Monitoring": {
+    "header": "24x7 Security Monitoring",
+    "category": "MONITORING",
+    "content": "The goal of Security Monitoring is to continuously monitor the customer’s environment based upon the scoped technologies and uncover potential security incidents which need to be act upon. Cegeka will perform the following activities regarding Security Monitoring: For Cegeka to able to effectively perform Security Monitoring, the customer is responsible for: The priority of each Security Incident will be determined according to urgency and impact of the Security Incident. Based upon those two factors, the appropriate priority will be assigned accordingly: URGENCY IMPACT L M H L P4 (Low) P4 (Low) P3 (Medium) M P4 (Low) P3 (Medium) P2 (High) H P3 (Medium) P2 (High) P1 (Critical) The priority can change during the Security Incident Response Process. Each Security Incident will be classified with a Security Incident Area which represents the type of Security Incident which best suits the events seen during our investigations. Cegeka uses 17 standardized Security Incident Areas to classify Security Incidents: Databreach Definition Accidental or purposeful disclosure of information related involving personal data Examples Disclosure of information Definition Accidental or purposeful disclosure of information NOT containing any personal data Examples Loss or theft of equipment Definition Loss or theft of any device/medium that contains Customer-related data Examples Reconnaissance Definition Reconnaissance activities which have been observed on a device or the network. Reconnaissance activities are typically low-interaction and relying upon normal operation of a device/network and the information it discloses. Typically, no malicious payload is sent. Examples Malware Definition Infection of a device with malicious software Examples  Technical intrusion Definition (Possibility of) access to data or devices without authorization, possibly followed by malicious activities. This incident area is also used whenever a combination of more than one incident type is identified. Examples Policy violation Definition An end-user has performed an action that is against the Customer’s security policy Examples Denial-Of-Service Definition Purposeful disruption or degradation of IT services Examples Vulnerability Definition Detection of presence/exploitation of a known vulnerability Examples Social engineering Definition Detection of (attempted) attacks on information systems by use of non-technical or low-technology means - such as lies, impersonation, tricks, bribes, blackmail, and threats. Used for each such detection except phishing, for which a separate incident area exists Examples Probing Definition Detection of attempts of sending actual payloads to a system with the objective to learn something about the system or exploit the system. Probing often follows initial reconnaissance. Examples Brute forcing Definition Detection of activities using a cryptanalysis technique or other kind of attack method involving an exhaustive procedure that tries all possibilities, one-by-one. Examples Compliance Definition Detection of a technical non-compliance with security baselines Examples Phishing Definition Report of e-mail with malicious content Examples Identity theft Definition Detection of events indicating someone wrongfully obtains and uses another person’s personal data in some way that involves fraud or deception Examples SOC Definition A yet to be categorized security incident to be handled by Cegeka SOC. This incident area is used for monitoring alerts on security related services. Tickets should never be closed with this area selected. Examples N/A Other Definition A security incident that does not fit into any of the other Security Incident Area Examples N/A – all known Security Incident Area should fit into one of the other areas at the time of writing The Security Incident Area can change during the Security Incident Response Process. Once a Security Incident has been identified, the customer will receive information about the Security Incident in the following ways based upon the priority: P1 P2 P3 P4 Initial Notification By Telephone x x By Mail x x x By Portal x x x x Security Incident Updates Frequency Per hour Per 4 Business Hours Per Business Day Per mail x x x Post Incident Activities Security Incident Report x upon request [1] Security Incident Documentation x x x x Follow up actions x x x x The Initial Notification will be done once the Security Incident Ticket has been created and will be communicated towards the Operational Contact(s) which is defined in the Customer Scoping document . The Security Incident Updates are pro-active notifications from our SOC given to the customer on a recurring base depending on the priority of the Security Incident. These notifications will start once a Security Incident Ticket has been created and will stop when a containment action is performed, or advice is given."
+  },
+  "Threat Response": {
+    "header": "Threat Response",
+    "category": "GENERAL",
+    "content": "The goal of Threat Response is to contain an active Security Incident to reduce further impact in the customer’s environment. A threat Response only includes containment actions and does not include any activities related to eradicating malicious files or recovering impacted systems. Containment actions must always be approved by the customer before Cegeka can execute the recommended actions. The approval   can either be “pre-approved” or ad-hoc. Based upon the nature of the Security Incident, the following response action(s) can be executed in the customer’s environment. Each response action has a technical requirement to be available for the customer. Action Description REQUIREMENTS Host Responses Isolate Host ( Vectra integrated) Restricting network access to and from the endpoint using an EDR platform CrowdStrike Falcon MS Defender for Endpoint SentinelOne Singularity The pre-approved containment action(s) and relevant scope will be formalized in the Customer Scoping document ."
+  },
+  "Cyber Security Advisory": {
+    "header": "Cyber Security Advisory",
+    "category": "SECURITY",
+    "content": "Service meetings are standard included monthly unless explicitly mentioned otherwise. During monthly Service meetings, the Cyber Security Advisor will present security Service reporting. Service Meetings will be held during Business hours unless explicitly agreed otherwise. The Service Reporting contains all insights regarding the Managed Detection & Response Service during that month. The following insights will be reported: The Horizon platform is a central digital engagement point for customers which can be consulted via the user-friendly web interface. The Horizon Portal can be used for the following activities: This platform will continuously be improved and developed with more features. The Cyber Security Advisor is the point of contact for all tactical and strategic security topics and acts as a liaison between Customer’s security stakeholders and Cegeka. The Cyber Security Advisor has the following responsibilities: The Cyber Security Advisory is delivered based on an agreed number of days per month, including monthly security Service meetings, all activities required to prepare the meetings and the actions related to decisions agreed upon during the meetings."
+  },
+  "Platform Management": {
+    "header": "Platform Management",
+    "category": "GENERAL",
+    "content": "The licenses for the technologies are not part of the Service itself but can be provided by Cegeka if required. The goal of Configuration & Release Management is to ensure the quality and performance of the technology used within the Managed Detection & Response service. Cegeka is responsible for the following activities regarding Configuration & Release Management: The goal of Health Monitoring is to continuously monitor the health of the technology used within the Managed Detection & Response service. Cegeka is responsible for the following activities regarding Health Monitoring: For Cegeka to able to effectively perform Health Monitoring, the customer is responsible for: TYPE SCOPE managed by CEGEKA Cloud Platform owned by Cegeka all users Cloud Platform owned by Customer Cegeka users On-prem platform hosted by Cegeka all users On-prem platform hosted by Customer Cegeka users"
+  },
+  "Governance": {
+    "header": "Governance",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Process": {
+    "header": "Process",
+    "category": "GENERAL",
+    "content": "For security reasons, only people identified as Authorized Contact are allowed to collaborate with our Cegeka SOC. Only they can interact with the Cegeka SOC. All other persons will automatically be prevented and will be notified towards the Customer. These are also the people who will receive the monthly report. The Authorized Contacts will be formalized in the Customer Scoping document . Any new Security Incident will result in a notification towards the customer Operational Contact (s). If any blocking issues prevents Cegeka from continuing the Service as agreed, an escalation towards the customer Escalation Contact will be done. The Operational & Escalation contact(s) will be formalized in the Customer Scoping document . At the end of the MDR Service, Cegeka retains the right to: At the end of the MDR Service, the customer retains the right to: At the end of the MDR Service, the customer has thirty (30) days from the date of termination to retain the right to:"
+  },
+  "Technology": {
+    "header": "Technology",
+    "category": "GENERAL",
+    "content": "The following technologies can be supported in our Managed Detection & Response service. Cegeka will provide the Managed Detection & Response service based upon Vectra AI NETWORK. When receiving Security Alerts from Vectra, the following Initial Priority will be assigned: Vectra Assessment Initial Priority Hosts or Accounts with Threat Score between 80-100 and Certainty score between 80-100 2 Hosts or Accounts with Threat Score between 50-80 3 Any other Security Alert N/A Cegeka will take ownership for the technology Vectra as described below: Vectra platform CEGEKA CUSTOMER Provide on-prem virtual host for Vectra Brain (if required) C R Installation Vectra Brain R C Installation Vectra Sensors R C Integrate with Active Directory, Network and EDR data supported by Vectra R I Configuration of Vectra Respond UX / Quadrant UX C R Review and define detection exclusions according to Incident Response Plan R C Platform upgrades & updates R C Back-up of Vectra Brain R I The following elements are required for Cegeka to perform the Service based upon Vectra: VECTRA requirements Cegeka will provide the Managed Detection & Response service based upon Vectra AI Identity. When receiving Security Alerts from Vectra, the following Initial Priority will be assigned: Vectra Assessment Initial Priority Hosts or Accounts with Threat Score between 80-100 and Certainty score between 80-100 2 Hosts or Accounts with Threat Score between 50-80 3 Any other Security Alert N/A Cegeka will take ownership of the technology Vectra AI as described below: Vectra platform CEGEKA CUSTOMER Review prerequisites to activate Vectra AI - Identity R C Set up Data Source Connectors to collect logs from AD and Azure AD R I Configuration of Vectra RespondUX / QuadrantUX C R Review and define detection exclusions according to Incident Response Plan R C Platform upgrades & updates R C The following elements are required for Cegeka to perform the Service: microsoft defender for IDENTITY (MDI) requirements"
+  },
+  "Service Levels": {
+    "header": "Service Levels",
+    "category": "FUNCTIONAL",
+    "content": ""
+  },
+  "Availability": {
+    "header": "Availability",
+    "category": "GENERAL",
+    "content": "This Service Level is applicable to all technologies. Definition The Availability is determined by the ability of Cegeka’s SOC platform to process new and existing security alerts/incidents. This is not the availability of the supported customers technologies. Calculation Service Window 24x7 Frequency Per Month Objective (SLA) ≥ 99.5%"
+  },
+  "Time to Triage": {
+    "header": "Time to Triage",
+    "category": "GENERAL",
+    "content": "This Service Level is applicable to all technologies. Definition The amount of time measured from the time a Security Alert is created in our SOC platform to the time a SOC analyst is assigned and Triage will start. Calculation T0 : the time a Security Alert is generated in our SOC platform. T1 : the time a SOC analyst is assigned to perform Triage. Assumptions Frequency Per Month Objective (SLA) 90% P1 30 min P2 30 min P3 30 min during Business Hours P4 N/A"
+  },
+  "Time to Investigate": {
+    "header": "Time to Investigate",
+    "category": "GENERAL",
+    "content": "This Service Level is applicable to all technologies. Definition The amount of time measured from the time a Security Alert is created in our SOC platform to the time a Security Incident is created, and in-depth investigation will start. Calculation T0 : the time a Security Alert is generated in our SOC platform T2 : the time a Security Incident is created, and in-depth investigation will start. Assumptions Frequency Per Month Objective (SLA) 90% P1 60 min P2 2 hours P3 1 Business Days P4 N/A"
+  },
+  "Time to Respond": {
+    "header": "Time to Respond",
+    "category": "GENERAL",
+    "content": "This Service Level is applicable to all technologies. Definition The amount of time measured from the time a Security Incident is created to the time when a first response is given. Calculation T2 : the time a Security Incident is created. T3 : the time when a first response is given. Assumptions Frequency Per Month Objective (SLA) 90% P1 90 min P2 4 hours P3 2 Business Days P4 N/A"
+  },
+  "Eligibility and Prerequisites": {
+    "header": "Eligibility and Prerequisites",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "Out of scope": {
+    "header": "Out of scope",
+    "category": "SCOPE",
+    "content": ""
+  },
+  "Responsibilities": {
+    "header": "Responsibilities",
+    "category": "GENERAL",
+    "content": ""
+  },
+  "RACI": {
+    "header": "RACI",
+    "category": "GENERAL",
+    "content": "The table below reflect the responsibilities of Cegeka and Customer for the Cegeka Managed Detection & Response Services. Cegeka SOC CUSTOMER DETECTION Advanced Threat Intelligence – Threat News update R I Advanced Threat Intelligence – IoC Matching R C Security Monitoring – Alert & Event Collection R C Security Monitoring – Triage R I Security Monitoring – In-Depth Investigation R C Security Monitoring – Customer Feedback C R Security Monitoring – Security Incident Notification R C Threat Hunting – Threat Hunt report R I Threat Hunting – Recurring Threat Hunts R I RESPONSE Threat Response – Pre-approved Containment actions R I Threat Response – Containment actions R C Threat Response – Containment approval & validation I R Threat Response – Follow Containment Advice I R Cyber Security Advisory – Service reporting R C Cyber Security Advisory – Service Meetings R C  R esponsible: The party who is responsible for the execution of the activity. C onsulted: The party who must be consulted and must approve or provide input prior to execution. This party (partly) gives direction to the result. This is about two-way communication. I nformed: That is the person/party who is informed about the decisions, progress and results achieved, so that the next step can be taken. This is about one-way communication. Not included in standard service and will be provided in Time and Material. ↑"
+  }
+}
