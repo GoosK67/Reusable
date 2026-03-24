@@ -1,0 +1,79 @@
+3: [Heading 1] Presales instructions & checks
+6: [Heading 3] Cegeka contacts
+7: [Normal] The Cegeka persons that should be contacted in case of questions (e.g. Design authority vs technical vs sales vs prod mgmt.)
+9: [Heading 3] Presales checks
+10: [Normal] A list of mandatory checks that need to be done before selling the product.
+11: [Normal] Any specific Cegeka requirements? (tooling server xyz)
+13: [Heading 3] SKU information
+14: [Normal] The SKU itself is mentioned in the service description. Goal of this section is to make sure the additional information, prerequisite SKU’s (for example monitoring) or linked SKU’s (for example different flavours of an offering) are mentioned in this section. 
+15: [Normal] Which set of SKUs are optional, which mandatory, how can they be combined,….: include a link to the right SKU section in the service description
+17: [Heading 3] Other conditional solutions
+18: [Normal] Other solutions/SKUs/packages that are always sold together with this solution (e.g. service delivery manager not part of the solution and should always be added) 
+20: [Heading 3] Q&A customers
+21: [Normal] Which information is required to sell a certain product? Which questions and information do we need 
+22: [Normal] See Due Diligence document: <link>
+41: [Heading 1] Offer sections
+44: [Heading 2] Product summary (MVP)
+45: [Normal] Short introduction giving context to the described solution (e.g. Cyberattacks are ubiquitous etc…)
+48: [Heading 2] Understanding the Client’s Needs
+49: [Normal] What are the use-cases for this offering. Summary of the client's current state or challenges (if applicable). Goals and desired outcomes. Key pain points to be addressed.
+51: [Heading 2] Product Description (MVP)
+52: [Normal] Commercial description of a product
+54: [Heading 3] Architectural description
+55: [Normal] A more detailed description of the components of the Product (hardware, software, network, etc). Illustrate how the components interact. Provide specific standards, tools and best practices.  The text should provide the “big picture” for a customer and can decide if the solution can find a fit in their business. Goal is not to provide a low level design. 
+56: [Normal] Technology stack or platforms involved.
+57: [Normal] Design diagram
+59: [Heading 3] Key features and functionalities
+61: [Heading 3] Scope / out-of-scope
+63: [Heading 3] Requirements and Prerequisites
+66: [Heading 2] Value Proposition
+67: [Normal] Describe the needs of the target customers and how this solution can solve these needs
+68: [Normal] Business benefits of your solution, like: Cost savings; Operational efficiency; Risk mitigation;  Competitive advantage; Return on investment (ROI) analysis (if possible); Success stories or case studies of similar implementations.
+69: [Normal] Give each need a separate subtitle
+70: [Normal] Need 1 (change subtitle name)
+71: [Normal] …. (add subtitles for other needs)
+75: [Heading 2] Key Differentiators
+76: [Normal] What sets Cegeka apart from competitors:
+77: [Normal]     Unique features of your offering.
+78: [Normal]     Proprietary tools or methodologies.
+79: [Normal]     Certifications, partnerships, or alliances.
+80: [Normal] Testimonials or awards (optional).
+83: [Heading 2] Transition & Transformation (MVP)
+85: [Heading 3] Transition and/or Transformation project description
+87: [Heading 3] Project Scope and out of scope
+90: [Heading 3] Client responsibilities
+93: [Heading 3] Assumptions
+95: [Heading 3] Delivery milestones and deliverables.
+97: [Heading 3] Roles at Cegeka
+99: [Heading 3] Roles at <customer>
+103: [Heading 2] Client responsibilities
+104: [Normal] Which responsibilities do we expect that the <customer> will pick up.   
+106: [Heading 2] Operational Support
+107: [Normal] Team structure and roles involved.
+108: [Normal] Post-implementation support and maintenance.
+111: [Heading 2] Terms and Conditions
+112: [Normal] Standard contractual terms
+114: [Heading 3] Assumptions & Risks
+116: [Heading 3] Acceptance criteria
+117: [Normal] When is Cegeka considering the solution as ready? What is the timeline for acceptance?  
+119: [Heading 3] SLA & KPI Management 
+120: [Normal] KPI metrics are defined in the service description. These metrics help set customer contract expectations about the service and are usually non-technical or lightly detailed. Service description includes high-level KPI’s: used for a broad audience and to communicate essential expectations.
+121: [Normal] Within this document more details are addressed like: monitoring mechanisms, escalation paths, and penalties/rewards for breaches. Include operational-level SLAs tied to specific parts of the solution, such as cloud infrastructure response times, data recovery objectives, or API performance. Solution contains precise technical, operational, and contractual commitments making sure that IT teams, architects, and operational managers who need to understand the detailed commitments and how SLAs align with the technical design.
+122: [Normal] Examples:
+123: [Normal] Service description providing KPI definitions:
+124: [List Paragraph] "This service guarantees 99.9% uptime per month."
+125: [List Paragraph] "Critical support requests will receive a response within 2 hours."
+126: [Normal] Presales guide contains SLA conditions:
+127: [List Paragraph] "API latency will not exceed 200ms for 95% of requests, measured monthly."
+128: [List Paragraph] "Data backup recovery point objective (RPO) is 4 hours, and recovery time objective (RTO) is 24 hours."
+130: [Heading 2] Cost/Pricing elements 
+131: [Normal] One overview (table) of all the costing elements required to build a price towards the customer. This can be for example specific license information, labor workloads, specific hardware, etc. When translating the costing input to a price, are there considerations to think on? What is the breakdown of the SKU? 
+132: [Normal] The price of the SKU, documented in the service offering, will help to set the direction. But often both inputs need to come together into a RFP (pricebook customer) to complete the deliverables in a bid. 
+134: [Heading 3] One time cost elements
+137: [Heading 3] Recurring costing elements
+141: [Heading 3] Charging mechanism
+144: [Heading 1] Other documents for offer input
+147: [Heading 2] Commercial Sales solution sheet
+148: [Normal] A customer ready solution sheet that contains attractive text/figures and can be found here
+150: [Heading 2] Service description
+151: [Normal] The service description mainly contains legally, fully inclusive text, but can still be used in offers when this is needed (e.g. for SLAs). The service description can be found here.

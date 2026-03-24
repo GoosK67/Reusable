@@ -1,0 +1,693 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "SharePoint data model for Presales pipeline outputs and run tracking.",
+  "site": {
+    "siteKey": "PRESALES_SITE",
+    "urlPlaceholder": "https://<tenant>.sharepoint.com/sites/<site-name>"
+  },
+  "lists": [
+    {
+      "displayName": "Presales SD Documents",
+      "internalName": "PresalesSDDocuments",
+      "purpose": "One row per Service Description (SD) processed by the pipeline.",
+      "primaryKey": [
+        "SDName"
+      ],
+      "indexedColumns": [
+        "SDName",
+        "ProductCode",
+        "PipelineStatus",
+        "LastRunAt"
+      ],
+      "columns": [
+        {
+          "name": "Title",
+          "type": "text",
+          "required": true,
+          "description": "Display title, usually same as SDName."
+        },
+        {
+          "name": "SDName",
+          "type": "text",
+          "required": true,
+          "enforceUniqueValues": true,
+          "maxLength": 255,
+          "description": "Source SD file stem."
+        },
+        {
+          "name": "SourceFilePath",
+          "type": "note",
+          "required": false
+        },
+        {
+          "name": "ProductName",
+          "type": "text",
+          "required": false,
+          "maxLength": 255
+        },
+        {
+          "name": "ProductCode",
+          "type": "text",
+          "required": false,
+          "maxLength": 120
+        },
+        {
+          "name": "PV",
+          "type": "text",
+          "required": false,
+          "maxLength": 40
+        },
+        {
+          "name": "DV",
+          "type": "text",
+          "required": false,
+          "maxLength": 40
+        },
+        {
+          "name": "PipelineStatus",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "OK",
+            "ERROR",
+            "RUNNING",
+            "UNKNOWN"
+          ],
+          "default": "UNKNOWN"
+        },
+        {
+          "name": "LastStep",
+          "type": "text",
+          "required": false,
+          "maxLength": 120
+        },
+        {
+          "name": "LastError",
+          "type": "note",
+          "required": false
+        },
+        {
+          "name": "SDChapters",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "AIChapters",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "OpenChapters",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "EmbeddedImages",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "OutputDocxUrl",
+          "type": "url",
+          "required": false
+        },
+        {
+          "name": "MappingXlsxUrl",
+          "type": "url",
+          "required": false
+        },
+        {
+          "name": "LastRunAt",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        }
+      ]
+    },
+    {
+      "displayName": "Presales SDT Mapping",
+      "internalName": "PresalesSDTMapping",
+      "purpose": "One row per chapter-to-SDT fill event from xml_to_docx pipeline logs.",
+      "primaryKey": [
+        "SDName",
+        "RunId",
+        "OrderInRun"
+      ],
+      "indexedColumns": [
+        "SDName",
+        "RunId",
+        "SDTTag",
+        "FillType"
+      ],
+      "columns": [
+        {
+          "name": "Title",
+          "type": "text",
+          "required": true,
+          "description": "Display title, e.g. '<SDName> - <OrderInRun>'."
+        },
+        {
+          "name": "SDName",
+          "type": "text",
+          "required": true,
+          "maxLength": 255
+        },
+        {
+          "name": "RunId",
+          "type": "text",
+          "required": true,
+          "maxLength": 80,
+          "description": "Run identifier from pipeline run context."
+        },
+        {
+          "name": "OrderInRun",
+          "type": "number",
+          "required": true,
+          "minimum": 1
+        },
+        {
+          "name": "SDTTag",
+          "type": "text",
+          "required": true,
+          "maxLength": 120
+        },
+        {
+          "name": "FillType",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "direct_from_sd_chapter",
+            "ai_related_documents",
+            "ai_missing_chapter",
+            "open_too_little_info"
+          ]
+        },
+        {
+          "name": "SourceChapter",
+          "type": "text",
+          "required": false,
+          "maxLength": 255
+        },
+        {
+          "name": "Details",
+          "type": "note",
+          "required": false
+        },
+        {
+          "name": "CreatedAt",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        }
+      ]
+    },
+    {
+      "displayName": "Presales Pipeline Runs",
+      "internalName": "PresalesPipelineRuns",
+      "purpose": "One row per run_all execution.",
+      "primaryKey": [
+        "RunId"
+      ],
+      "indexedColumns": [
+        "RunId",
+        "StartTime",
+        "EndTime",
+        "Status"
+      ],
+      "columns": [
+        {
+          "name": "Title",
+          "type": "text",
+          "required": true,
+          "description": "Display title, usually same as RunId."
+        },
+        {
+          "name": "RunId",
+          "type": "text",
+          "required": true,
+          "enforceUniqueValues": true,
+          "maxLength": 80
+        },
+        {
+          "name": "StartTime",
+          "type": "datetime",
+          "required": true,
+          "format": "dateTime"
+        },
+        {
+          "name": "EndTime",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        },
+        {
+          "name": "Status",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "RUNNING",
+            "COMPLETED",
+            "FAILED",
+            "COMPLETED_WITH_ERRORS"
+          ],
+          "default": "RUNNING"
+        },
+        {
+          "name": "InputPath",
+          "type": "note",
+          "required": false
+        },
+        {
+          "name": "TotalFiles",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "OkCount",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "FailedCount",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "DurationSeconds",
+          "type": "number",
+          "required": false,
+          "minimum": 0
+        },
+        {
+          "name": "DashboardUrl",
+          "type": "url",
+          "required": false
+        },
+        {
+          "name": "DashboardXlsxUrl",
+          "type": "url",
+          "required": false
+        }
+      ]
+    },
+    {
+      "displayName": "Presales Pipeline Issues",
+      "internalName": "PresalesPipelineIssues",
+      "purpose": "One row per warning/error line emitted during processing.",
+      "primaryKey": [
+        "RunId",
+        "SDName",
+        "Step",
+        "MessageHash"
+      ],
+      "indexedColumns": [
+        "RunId",
+        "SDName",
+        "Severity",
+        "Step"
+      ],
+      "columns": [
+        {
+          "name": "Title",
+          "type": "text",
+          "required": true,
+          "description": "Display title, e.g. '<SDName> - <Step> - <Severity>'."
+        },
+        {
+          "name": "RunId",
+          "type": "text",
+          "required": true,
+          "maxLength": 80
+        },
+        {
+          "name": "SDName",
+          "type": "text",
+          "required": true,
+          "maxLength": 255
+        },
+        {
+          "name": "Step",
+          "type": "text",
+          "required": false,
+          "maxLength": 120
+        },
+        {
+          "name": "Severity",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "ERROR",
+            "WARNING",
+            "INFO"
+          ],
+          "default": "ERROR"
+        },
+        {
+          "name": "Message",
+          "type": "note",
+          "required": true
+        },
+        {
+          "name": "MessageHash",
+          "type": "text",
+          "required": true,
+          "maxLength": 64,
+          "description": "Deterministic hash for idempotent upserts."
+        },
+        {
+          "name": "Timestamp",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        }
+      ]
+    },
+    {
+      "displayName": "Presales Images",
+      "internalName": "PresalesImages",
+      "purpose": "Track individual images extracted from SD documents with detailed metadata, embedding status, and quality metrics.",
+      "primaryKey": [
+        "SDName",
+        "RunId",
+        "ImageId"
+      ],
+      "indexedColumns": [
+        "SDName",
+        "RunId",
+        "Format",
+        "EmbeddedStatus",
+        "ChapterSource",
+        "QualityScore"
+      ],
+      "columns": [
+        {
+          "name": "Title",
+          "type": "text",
+          "required": true,
+          "description": "Display title, e.g. '<SDName> - Image_<ImageId>'."
+        },
+        {
+          "name": "SDName",
+          "type": "text",
+          "required": true,
+          "maxLength": 255,
+          "description": "Source SD document name."
+        },
+        {
+          "name": "RunId",
+          "type": "text",
+          "required": true,
+          "maxLength": 80,
+          "description": "Pipeline run identifier for traceability."
+        },
+        {
+          "name": "ImageId",
+          "type": "text",
+          "required": true,
+          "maxLength": 120,
+          "enforceUniqueValues": true,
+          "description": "Unique identifier within SD (hash or seq number)."
+        },
+        {
+          "name": "FileName",
+          "type": "text",
+          "required": true,
+          "maxLength": 255,
+          "description": "Original filename from SD extraction."
+        },
+        {
+          "name": "FileUrl",
+          "type": "url",
+          "required": false,
+          "description": "URL to image file in library or external store."
+        },
+        {
+          "name": "FileSize",
+          "type": "number",
+          "required": false,
+          "minimum": 0,
+          "description": "File size in bytes."
+        },
+        {
+          "name": "Format",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "PNG",
+            "JPEG",
+            "JPG",
+            "GIF",
+            "BMP",
+            "TIFF",
+            "WEBP",
+            "SVG",
+            "OTHER"
+          ],
+          "description": "Image file format."
+        },
+        {
+          "name": "Width",
+          "type": "number",
+          "required": false,
+          "minimum": 0,
+          "description": "Image width in pixels."
+        },
+        {
+          "name": "Height",
+          "type": "number",
+          "required": false,
+          "minimum": 0,
+          "description": "Image height in pixels."
+        },
+        {
+          "name": "DPI",
+          "type": "number",
+          "required": false,
+          "minimum": 0,
+          "description": "Dots per inch (resolution)."
+        },
+        {
+          "name": "ImageSource",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "extracted_from_sd_html",
+            "found_in_sd_attachment",
+            "user_uploaded",
+            "generated_ai",
+            "other"
+          ],
+          "description": "Where the image came from."
+        },
+        {
+          "name": "ChapterSource",
+          "type": "text",
+          "required": false,
+          "maxLength": 255,
+          "description": "SD chapter where image originated."
+        },
+        {
+          "name": "ExtractionMethod",
+          "type": "choice",
+          "required": false,
+          "choices": [
+            "parse_html_sections",
+            "extract_from_docx",
+            "ocr_conversion",
+            "direct_copy",
+            "other"
+          ],
+          "description": "How the image was extracted from source."
+        },
+        {
+          "name": "EmbeddedStatus",
+          "type": "choice",
+          "required": true,
+          "choices": [
+            "embedded_in_docx",
+            "linked_external",
+            "archived_only",
+            "pending_review",
+            "rejected"
+          ],
+          "default": "pending_review",
+          "description": "Where/how image is used in output."
+        },
+        {
+          "name": "EmbeddedDocxUrl",
+          "type": "url",
+          "required": false,
+          "description": "URL to DOCX file where image was embedded."
+        },
+        {
+          "name": "QualityScore",
+          "type": "number",
+          "required": false,
+          "minimum": 0,
+          "maximum": 100,
+          "description": "Image quality rating (0-100). Can be auto-calculated or manual review."
+        },
+        {
+          "name": "QualityNotes",
+          "type": "note",
+          "required": false,
+          "description": "Notes on quality assessment (e.g., resolution too low, clarity issues)."
+        },
+        {
+          "name": "ReviewRequired",
+          "type": "choice",
+          "required": false,
+          "choices": [
+            "YES",
+            "NO",
+            "PENDING"
+          ],
+          "default": "PENDING",
+          "description": "Flags for manual review before final embedding."
+        },
+        {
+          "name": "ReviewNotes",
+          "type": "note",
+          "required": false,
+          "description": "Reviewer feedback on usage appropriateness."
+        },
+        {
+          "name": "CreatedAt",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        },
+        {
+          "name": "LastModified",
+          "type": "datetime",
+          "required": false,
+          "format": "dateTime"
+        }
+      ]
+    }
+  ],
+  "libraries": [
+    {
+      "displayName": "Presales Pipeline Artifacts",
+      "internalName": "PresalesPipelineArtifacts",
+      "purpose": "Stores raw/mapped JSON, generated DOCX, dashboards, mapping XLSX, and extracted images.",
+      "folders": [
+        "raw_json",
+        "mapped_json",
+        "xml",
+        "docx",
+        "dashboard",
+        "mapping_xlsx",
+        "images"
+      ],
+      "metadataColumns": [
+        {
+          "name": "SDName",
+          "type": "text",
+          "required": false,
+          "indexed": true,
+          "description": "Source SD document name."
+        },
+        {
+          "name": "RunId",
+          "type": "text",
+          "required": false,
+          "indexed": true,
+          "description": "Pipeline run identifier."
+        },
+        {
+          "name": "ArtifactType",
+          "type": "choice",
+          "required": false,
+          "choices": [
+            "raw_json",
+            "mapped_json",
+            "xml",
+            "docx",
+            "dashboard_html",
+            "dashboard_xlsx",
+            "mapping_xlsx",
+            "image_extracted",
+            "image_embedded"
+          ],
+          "description": "Type of artifact stored."
+        },
+        {
+          "name": "ImageId",
+          "type": "text",
+          "required": false,
+          "indexed": false,
+          "description": "Unique image identifier if ArtifactType is image.*"
+        },
+        {
+          "name": "ImageFormat",
+          "type": "choice",
+          "required": false,
+          "choices": [
+            "PNG",
+            "JPEG",
+            "JPG",
+            "GIF",
+            "BMP",
+            "TIFF",
+            "WEBP",
+            "SVG",
+            "OTHER"
+          ],
+          "description": "Image file format."
+        },
+        {
+          "name": "ImageDimensions",
+          "type": "text",
+          "required": false,
+          "maxLength": 40,
+          "description": "Image dimensions as 'WIDTHxHEIGHT' (e.g., '1024x768')."
+        },
+        {
+          "name": "EmbeddedStatus",
+          "type": "choice",
+          "required": false,
+          "choices": [
+            "embedded_in_docx",
+            "linked_external",
+            "archived_only",
+            "pending_review",
+            "rejected"
+          ],
+          "description": "Where/how image is used in output."
+        }
+      ]
+    }
+  ],
+  "syncGuidance": {
+    "upsertStrategy": "Use primaryKey fields for idempotent create/update.",
+    "runOrder": [
+      "PresalesPipelineRuns",
+      "PresalesSDDocuments",
+      "PresalesSDTMapping",
+      "PresalesImages",
+      "PresalesPipelineIssues",
+      "PresalesPipelineArtifacts"
+    ],
+    "imageHandling": {
+      "strategy": "Extract images during parse_html_sections; track each image in PresalesImages list; embed selected images into DOCX during xml_to_docx.",
+      "qualityCheckBefore": "Calculate QualityScore based on resolution (DPI >= 70), dimensions (min 200x200), and file size. Flag low-quality images for ReviewRequired.",
+      "embeddingLogic": "Only embed images marked as embedded_in_docx status. Link external images via FileUrl.",
+      "deduplication": "Use file hash (MD5 of image bytes) to avoid duplicate uploads; reference existing FileUrl if image already stored."
+    },
+    "notes": [
+      "SharePoint list view threshold requires indexed columns for large datasets.",
+      "Prefer incremental sync by RunId + LastRunAt to reduce API calls.",
+      "Store long text content in files; keep list rows concise for filtering and reporting.",
+      "Image tracking enables HITL review workflow: curate images, set QualityScore, toggle EmbeddedStatus before final DOCX delivery.",
+      "Images folder in library can use SDName/RunId subfolders for organizational clarity."
+    ]
+  }
+}

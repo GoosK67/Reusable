@@ -1,5 +1,6 @@
 from pathlib import Path
 import sys
+import os
 import mammoth
 from datetime import datetime
 
@@ -20,6 +21,33 @@ def log(msg, sd_name="GENERAL"):
 
     print(line, end="")
 
+
+def normalize_windows_path(path: Path) -> str:
+    """Return a Windows path string that supports long paths when needed."""
+    p = str(path)
+    if os.name != "nt":
+        return p
+
+    # Keep existing extended paths untouched.
+    if p.startswith("\\\\?\\"):
+        return p
+
+    # Use long-path prefix for deep paths.
+    if len(p) >= 248:
+        return "\\\\?\\" + p
+
+    return p
+
+
+def path_exists(path: Path) -> bool:
+    """Check existence using regular and long-path forms."""
+    if path.exists():
+        return True
+    try:
+        return Path(normalize_windows_path(path)).exists()
+    except Exception:
+        return False
+
 # -----------------------------------------
 # MAIN EXTRACTOR
 # -----------------------------------------
@@ -35,7 +63,12 @@ if __name__ == "__main__":
     out_file = out_folder / f"{sd_file.stem}.html"
 
     try:
-        with open(sd_file, "rb") as f:
+        if not path_exists(sd_file):
+            raise FileNotFoundError(f"Source not accessible: {sd_file}")
+
+        source_path = normalize_windows_path(sd_file)
+
+        with open(source_path, "rb") as f:
             result = mammoth.convert_to_html(f)
             html = result.value
 

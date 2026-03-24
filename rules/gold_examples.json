@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "policy": "Style anchors only. Never use these examples as factual source evidence.",
+  "examples": {
+    "PRODUCT_SUMMARY": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_PRODUCT_SUMMARY_5162917f83207668",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 87,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Bronbundel voor Productsamenvatting:\n\n[UNCLASSIFIED]\nCONFIDENTIAL Table of contents 1\tService Description\t4 1.1\tService identification\t4 1.2\tService summary\t4 1.2.1\tTechnical Application Management\t4 1.2.2\tThe Application\t5 1.3\tService features\t6 1.3.1\tStandard Service features\t6 1.3.1.1\tApplication knowledge\t6 1.3.1.2\tTechnical setup\t6 1.3.1.3\tTechnical management\t7 1.3.1.4\tHousekeeping\t7 1.3.1.5\tMonitoring\t9 1.3.1.6\tSecurity and Compliance\t9 1.3.1.7\tBackup and Restore\t10 1.3.1.8\tIncident and problem management\t10 1.3.1.9\tCustomers responsibility\t10 1.3.2\tOptional Service features\t11 1.3.3\tRequests\t11 1.3.4\tOut of scope\t12 1.4\tService characteristics\t13 1.4.1\tObligatory\t13 1.4.2\tCegeka owned Licenses and/or subscriptions\t13 1.4.3\tCustomer owned Licenses and/or subscriptions\t13 1.4.4\tConditions\t14 1.4.5\tService delivery location\t14 1.4.6\tService Reporting\t14 1.4.7\tData classification\t14 1.4.8\tUse of Subcontractor/Sub-outsourcer\t15 1.4.9\tMiscellaneous\t15 1.4.10\tRACI Matrix\t15 1.5\tAdherence to Cross-Functional Services\t19 2\tService Level Agreement\t20 2.1\tService Window\t20 2.2\tService Level\t20 3\tService Billing\t21 3.1\tStandard Service Billing\t21 3.2\tOptional Service Billing\t21 3.3\tChange Request Billing\t21 4\tDocument control\t22 5\tDocument approval\t23\n\n[Service Reporting]\nThe following reports are provided via a dashboard in Dynatrace:\n\n[Service Window]\nThe Service Window is the time frame during which the agreed support services from Cegeka are available. Service windows are defined in the related Service Level Management document to this contract."
+      }
+    ],
+    "CLIENT_NEEDS": [],
+    "PRODUCT_DESCRIPTION": [],
+    "ARCHITECTURAL_DESCRIPTION": [],
+    "KEY_FEATURES": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_KEY_FEATURES_27cd270e6ad8ea19",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 96,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Genormaliseerde tabel-feiten voor Belangrijkste functionaliteiten:\n- request_type=Service Requests; description=Deployment of OneAgent; lead_time=2 working days (bron: Requests)\n- request_type=Add/remove a key service request; description=2 working days (bron: Requests)\n- request_type=Add/remove a key user action; description=2 working days (bron: Requests)\n- request_type=Add/remove AKS cluster to Dynatrace monitoring; description=2 working days (bron: Requests)\n- request_type=Add/modify/remove a synthetic HTTP monitor (without pre/post-execution scripts); description=2 working days (bron: Requests)\n- request_type=Add/modify/remove a synthetic single-URL browser monitor; description=2 working days (bron: Requests)\n- request_type=Normal Changes*; description=Any other request. Examples: Creation of a dashboard Adding/modifying an application monitoring based on available Application features. Activation/deactivation of Session Replay (after initial setup) Taking additional backups deviating from the backup schedule Performing restores A new deployment (environment for functional configuration) technical support and consultancy on the functional use or debugging of the Application functionality; lead_time=Indicated case-by-case during the analysis of the request. (bron: Requests)\n- request_type=*are not obliged to follow the change management process as they can be executed via the New Delivery Model following a feature. (bron: Requests)\n- cross_functional_service=Anti-Malware management; deviation_from_adherence_to_cross_functional_services=This service is not subject to Anti-Malware management. Anti-Malware management is done on the underlaying OS management layer. (bron: Adherence to Cross-Functional Services)\n- cross_functional_service=Vulnerability management & compliancy management (hardening); deviation_from_adherence_to_cross_functional_services=This service is not subject to vulnerability & compliancy management. Vulnerability & compliancy management is done on the underlaying OS management layer. (bron: Adherence to Cross-Functional Services)"
+      }
+    ],
+    "SCOPE": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_SCOPE_92298daff16640dc",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 87,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Bronbundel voor Scope:\n\n[Out of scope]\nEverything that is not explicitly mentioned in this service description is by default out of scope of this Service. Specifically:\n\n[Technical Application Management]\nApplication Performance Management (Observability) is a Service which foresees in the monitoring of the performance of specific business (critical) applications and its end2end flows. This service is based on the Dynatrace Software Intelligence Platform. The customer can choose out of a range of modular components within Dynatrace which can build up to a full scope APM service. The Service provides the tasks and activities needed to manage an Application Performance Management environment using Dynatrace (The Application) from a technical perspective. Together with the underlaying obligatory platform services, Cegeka unburdens the customer with all technical aspects from infrastructure up to the technical Application. The Standard Service features are focussed to keep the Service up-and-running, to keep it secure and to optimize its technical parameters.\n\n[UNCLASSIFIED]\nCONFIDENTIAL Table of contents 1\tService Description\t4 1.1\tService identification\t4 1.2\tService summary\t4 1.2.1\tTechnical Application Management\t4 1.2.2\tThe Application\t5 1.3\tService features\t6 1.3.1\tStandard Service features\t6 1.3.1.1\tApplication knowledge\t6 1.3.1.2\tTechnical setup\t6 1.3.1.3\tTechnical management\t7 1.3.1.4\tHousekeeping\t7 1.3.1.5\tMonitoring\t9 1.3.1.6\tSecurity and Compliance\t9 1.3.1.7\tBackup and Restore\t10 1.3.1.8\tIncident and problem management\t10 1.3.1.9\tCustomers responsibility\t10 1.3.2\tOptional Service features\t11 1.3.3\tRequests\t11 1.3.4\tOut of scope\t12 1.4\tService characteristics\t13 1.4.1\tObligatory\t13 1.4.2\tCegeka owned Licenses and/or subscriptions\t13 1.4.3\tCustomer owned Licenses and/or subscriptions\t13 1.4.4\tConditions\t14 1.4.5\tService delivery location\t14 1.4.6\tService Reporting\t14 1.4.7\tData classification\t14 1.4.8\tUse of Subcontractor/Sub-outsourcer\t15 1.4.9\tMiscellaneous\t15 1.4.10\tRACI Matrix\t15 1.5\tAdherence to Cross-Functional Services\t19 2\tService Level Agreement\t20 2.1\tService Window\t20 2.2\tService Level\t20 3\tService Billing\t21 3.1\tStandard Service Billing\t21 3.2\tOptional Service Billing\t21 3.3\tChange Request Billing\t21 4\tDocument control\t22 5\tDocument approval\t23"
+      }
+    ],
+    "REQUIREMENTS": [],
+    "VALUE_PROPOSITION": [],
+    "DIFFERENTIATORS": [],
+    "TRANSITION_TRANSFORMATION": [],
+    "CLIENT_RESPONSIBILITIES": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_CLIENT_RESPONSIBILITIES_5a7dcfca93570a11",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 80,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Genormaliseerde tabel-feiten voor Klantverantwoordelijkheden:\n- license_subscription=Dynatrace licenses; description_remarks=Administration by Cegeka Capacity is a mutual responsibility of Cegeka and the Customer* License Compliancy is the responsibility of the Customer These are ‘passthrough’ licenses, meaning that the customers orders the licences via a formal PO and are annually charged. (bron: Customer owned Licenses and/or subscriptions)\n- license_subscription=Support contract with Dynatrace; description_remarks=- (bron: Customer owned Licenses and/or subscriptions)\n- license=(no Cegeka owned licenses); description_remarks=- (bron: Cegeka owned Licenses and/or subscriptions)"
+      }
+    ],
+    "OPERATIONAL_SUPPORT": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_OPERATIONAL_SUPPORT_d14b46d01abe9765",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 85,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Genormaliseerde tabel-feiten voor Operationele ondersteuning:\n- request_type=Service Requests; description=Deployment of OneAgent; lead_time=2 working days (bron: Requests)\n- request_type=Add/remove a key service request; description=2 working days (bron: Requests)\n- request_type=Add/remove a key user action; description=2 working days (bron: Requests)\n- request_type=Add/remove AKS cluster to Dynatrace monitoring; description=2 working days (bron: Requests)\n- request_type=Add/modify/remove a synthetic HTTP monitor (without pre/post-execution scripts); description=2 working days (bron: Requests)\n- request_type=Add/modify/remove a synthetic single-URL browser monitor; description=2 working days (bron: Requests)\n- request_type=Normal Changes*; description=Any other request. Examples: Creation of a dashboard Adding/modifying an application monitoring based on available Application features. Activation/deactivation of Session Replay (after initial setup) Taking additional backups deviating from the backup schedule Performing restores A new deployment (environment for functional configuration) technical support and consultancy on the functional use or debugging of the Application functionality; lead_time=Indicated case-by-case during the analysis of the request. (bron: Requests)\n- request_type=*are not obliged to follow the change management process as they can be executed via the New Delivery Model following a feature. (bron: Requests)"
+      }
+    ],
+    "TERMS_CONDITIONS": [],
+    "SLA_KPI": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_SLA_KPI_ac785c0161fb7a58",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 82,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Genormaliseerde tabel-feiten voor SLA en KPI:\n- kpi_id=KPI.0.135.Gold; kpi_name=TAM Gold; availability_service_window=Gold; metric=% availability in Service Window (bron: Service Level)"
+      }
+    ],
+    "PRICING_ELEMENTS": [
+      {
+        "id": "seed_SD_-_APM_Dynatrace_Application_Performance_Monitoring_PRD_0_L_135_PV0_8_DV1_0__mapped_FINAL_PRICING_ELEMENTS_99d8f3b32ff7d3b4",
+        "status": "approved",
+        "source_doc": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped_FINAL.docx",
+        "seed_source": "SD - APM Dynatrace (Application Performance Monitoring) [PRD.0.L.135][PV0.8][DV1.0]_mapped.log",
+        "quality_overall": 91,
+        "quality_fill_type": "direct_from_sd_chapter",
+        "created_at": "2026-03-24T12:11:33Z",
+        "sample_text": "Genormaliseerde tabel-feiten voor Prijscomponenten:\n- id=SKU.0.L.135.L01; component=APM Dynatrace TAM service; billing_element=base fee; billing_unit=Per Customer (bron: Standard Service Billing)\n- id=SKU.0.L.135.L03; component=APM Dynatrace TAM service; billing_element=Application NON-PRD; billing_unit=Per App NON-PRD (bron: Standard Service Billing)\n- id=SKU.0.L.135.L07; component=APM Dynatrace TAM service; billing_element=application PRD; billing_unit=Per App PRD (bron: Standard Service Billing)\n- license_subscription=Dynatrace licenses; description_remarks=Administration by Cegeka Capacity is a mutual responsibility of Cegeka and the Customer* License Compliancy is the responsibility of the Customer These are ‘passthrough’ licenses, meaning that the customers orders the licences via a formal PO and are annually charged. (bron: Customer owned Licenses and/or subscriptions)"
+      }
+    ]
+  }
+}
