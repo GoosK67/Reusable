@@ -214,6 +214,8 @@ IGNORED_SECTION_HINTS = [
 
 HITL_PREFIX = "AI generated, teverifieren door HITL"
 LOW_INFO_TEXT = "AI agent heeft te weinig info om dit zelf op te stellen"
+HITL_VALIDATION_NOTICE = "Deze tekst is AI generated en moet inhoudelijk gevalideerd worden door HITL."
+AI_DECORATED_FILL_TYPES = {"ai_related_documents", "ai_missing_chapter", "open_too_little_info"}
 
 TEMPLATE_TAG_ORDER = [
     "PRODUCT_SUMMARY",
@@ -368,8 +370,36 @@ def looks_irrelevant_section(section_name):
     return any(hint in name_norm for hint in IGNORED_SECTION_HINTS)
 
 
+def _looks_toc_noise_content(content):
+    text = str(content or "")
+    if not text:
+        return False
+
+    low = normalize(text)
+    if "table of contents" not in low:
+        return False
+
+    numbered_heads = len(re.findall(r"\b\d+(?:\.\d+)+\b", text))
+    return numbered_heads >= 5
+
+
+def _strip_toc_noise(content):
+    text = str(content or "").strip()
+    if not text:
+        return ""
+
+    # Remove common TOC line patterns when they appear in extracted body text.
+    text = re.sub(r"(?i)table\s+of\s+contents", "", text)
+    text = re.sub(r"\b\d+(?:\.\d+)+\s+[A-Za-z][^\n\r]{0,120}?\s+\d{1,3}\b", "", text)
+    text = re.sub(r"\b\d+\s+[A-Za-z][^\n\r]{0,120}?\s+\d{1,3}\b", "", text)
+    text = re.sub(r"\s{2,}", " ", text)
+    return text.strip()
+
+
 def is_relevant_for_tag(tag_name, section_name, section_content):
     if not section_content or len(section_content.strip()) < 30:
+        return False
+    if _looks_toc_noise_content(section_content):
         return False
 
     combined = normalize(f"{section_name} {section_content[:1200]}")
@@ -652,6 +682,295 @@ def _log_quality_for_tag(tag_name, quality, sd_name):
     )
 
 
+def _strip_ai_generated_markers(text):
+    lines = [line.strip() for line in str(text or "").splitlines() if line and line.strip()]
+    cleaned = []
+    for line in lines:
+        lower = line.lower()
+        if lower.startswith("gemiddelde kwaliteitsscore ("):
+            continue
+        if line == HITL_PREFIX:
+            continue
+        if line == HITL_VALIDATION_NOTICE:
+            continue
+        cleaned.append(line)
+    return "\n".join(cleaned).strip()
+
+
+def _chapter_hitl_questions(tag_name, fill_type, body_lines=None, target_label=None, quality_score=0):
+    chapter_label = str(target_label or TAG_LABEL_NL.get(tag_name, tag_name)).strip()
+    raw_lines = [str(x or "").strip() for x in (body_lines or []) if str(x or "").strip()]
+
+    stop = {
+        "voor", "met", "van", "en", "de", "het", "een", "op", "in", "tot", "door", "te", "om", "is", "zijn",
+        "hoofdstuk", "inhoud", "voorlopige", "placeholder", "ai", "generated", "hitl", "bron", "bronnen",
+    }
+    term_candidates = []
+    for line in raw_lines:
+        text = re.sub(r"^[-*\u2022]\s*", "", line)
+        text = re.sub(r"\(bron:[^)]+\)", "", text, flags=re.IGNORECASE)
+        for token in re.findall(r"[A-Za-z0-9][A-Za-z0-9\-_/]{2,}", text):
+            lower = token.lower()
+            if lower in stop:
+                continue
+            if lower.startswith("http"):
+                continue
+            term_candidates.append(token)
+
+    focus_terms = []
+    seen = set()
+    for token in term_candidates:
+        key = token.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        focus_terms.append(token)
+        if len(focus_terms) >= 3:
+            break
+
+    primary = focus_terms[0] if len(focus_terms) >= 1 else chapter_label
+    secondary = focus_terms[1] if len(focus_terms) >= 2 else "operationele invulling"
+    tertiary = focus_terms[2] if len(focus_terms) >= 3 else "governance"
+
+    tag_specific = {
+        "SLA_KPI": [
+            "Welke SLA/KPI-metrics ontbreken nog (targetwaarde, meetmethode, meetfrequentie)?",
+            "Zijn service windows, responstijden en oplostijden expliciet en consistent beschreven?",
+            "Welke uitzonderingen, afhankelijkheden of uitsluitingen bij de SLA moeten nog toegevoegd worden?",
+            "Zijn de KPI-definities meetbaar en contractueel ondubbelzinnig geformuleerd?",
+            "Welke bewijsbron bevestigt de genoemde SLA/KPI-waarden?",
+        ],
+        "PRICING_ELEMENTS": [
+            "Welke prijscomponenten ontbreken nog (eenmalig, recurrent, usage-based)?",
+            "Zijn prijsaannames, volumes en indexeringsregels expliciet gemaakt?",
+            "Welke kosten vallen buiten scope en moeten als uitsluiting worden benoemd?",
+            "Zijn de prijsdrivers en verrekenlogica voldoende transparant voor sales en klant?",
+            "Welke brondata is nodig om dit hoofdstuk financieel valide te maken?",
+        ],
+        "CLIENT_RESPONSIBILITIES": [
+            "Zijn rollen en verantwoordelijkheden van klant en Cegeka expliciet gescheiden?",
+            "Welke verantwoordelijkheden missen nog in onboarding, run en change context?",
+            "Zijn afhankelijkheden op klantinput, tooling of approvals duidelijk benoemd?",
+            "Waar kunnen interpretatieconflicten ontstaan in eigenaarschap of besluitvorming?",
+            "Welke RACI-onderdelen moeten nog worden aangevuld of gecorrigeerd?",
+        ],
+        "CLIENT_RESPONSIBILITIES_2": [
+            "Zijn rollen en verantwoordelijkheden van klant en Cegeka expliciet gescheiden?",
+            "Welke verantwoordelijkheden missen nog in onboarding, run en change context?",
+            "Zijn afhankelijkheden op klantinput, tooling of approvals duidelijk benoemd?",
+            "Waar kunnen interpretatieconflicten ontstaan in eigenaarschap of besluitvorming?",
+            "Welke RACI-onderdelen moeten nog worden aangevuld of gecorrigeerd?",
+        ],
+        "SCOPE": [
+            "Welke in-scope onderdelen missen nog en moeten expliciet worden toegevoegd?",
+            "Welke out-of-scope elementen ontbreken voor heldere afbakening?",
+            "Zijn scopegrenzen meetbaar en toetsbaar geformuleerd?",
+            "Welke afhankelijkheden of precondities beïnvloeden de scope?",
+            "Welke concrete voorbeelden verduidelijken de scope-afbakening?",
+        ],
+        "REQUIREMENTS": [
+            "Welke technische of organisatorische prerequisites ontbreken nog?",
+            "Zijn afhankelijkheden op klantsystemen, toegang en data expliciet beschreven?",
+            "Welke minimale readiness-criteria moeten nog worden vastgelegd?",
+            "Zijn verplichtingen per partij helder toegewezen?",
+            "Welke requirement-bronnen moeten nog gevalideerd worden?",
+        ],
+        "TRANSITION_TRANSFORMATION": [
+            "Welke transitieactiviteiten ontbreken nog in planning en uitvoering?",
+            "Zijn milestones, afhankelijkheden en kritieke paden expliciet uitgewerkt?",
+            "Welke risico's en mitigerende acties moeten nog benoemd worden?",
+            "Zijn handovercriteria en acceptatiecriteria volledig en toetsbaar?",
+            "Welke rollen moeten per transitiefase nog concreet worden toegewezen?",
+        ],
+        "ARCHITECTURAL_DESCRIPTION": [
+            "Welke architectuurcomponenten of integraties ontbreken nog?",
+            "Zijn security-, availability- en schaalbaarheidskeuzes expliciet onderbouwd?",
+            "Welke technische aannames of constraints moeten toegevoegd worden?",
+            "Zijn interfaces, datastromen en verantwoordelijkheden voldoende concreet?",
+            "Welke referentie-architectuur of bron bevestigt deze beschrijving?",
+        ],
+        "TERMS_CONDITIONS": [
+            "Welke contractuele voorwaarden of uitzonderingen ontbreken nog?",
+            "Zijn aansprakelijkheid, beperkingen en afhankelijkheden expliciet benoemd?",
+            "Welke compliance- of governancevoorwaarden moeten nog toegevoegd worden?",
+            "Zijn termen consistent met de rest van het document en contracttemplates?",
+            "Welke juridische reviewpunten moeten nog door HITL worden afgestemd?",
+        ],
+    }
+
+    transition_questions = [
+        "Welke transitieactiviteiten ontbreken nog in planning en uitvoering?",
+        "Zijn milestones, afhankelijkheden en kritieke paden expliciet uitgewerkt?",
+        "Welke risico's en mitigerende acties moeten nog benoemd worden?",
+        "Zijn handovercriteria en acceptatiecriteria volledig en toetsbaar?",
+        "Welke rollen moeten per transitiefase nog concreet worden toegewezen?",
+    ]
+    pricing_questions = [
+        "Welke prijscomponenten ontbreken nog (eenmalig, recurrent, usage-based)?",
+        "Zijn prijsaannames, volumes en indexeringsregels expliciet gemaakt?",
+        "Welke kosten vallen buiten scope en moeten als uitsluiting worden benoemd?",
+        "Zijn de prijsdrivers en verrekenlogica voldoende transparant voor sales en klant?",
+        "Welke brondata is nodig om dit hoofdstuk financieel valide te maken?",
+    ]
+    responsibilities_questions = [
+        "Zijn rollen en verantwoordelijkheden van klant en Cegeka expliciet gescheiden?",
+        "Welke verantwoordelijkheden missen nog in onboarding, run en change context?",
+        "Zijn afhankelijkheden op klantinput, tooling of approvals duidelijk benoemd?",
+        "Waar kunnen interpretatieconflicten ontstaan in eigenaarschap of besluitvorming?",
+        "Welke RACI-onderdelen moeten nog worden aangevuld of gecorrigeerd?",
+    ]
+    scope_questions = [
+        "Welke in-scope onderdelen missen nog en moeten expliciet worden toegevoegd?",
+        "Welke out-of-scope elementen ontbreken voor heldere afbakening?",
+        "Zijn scopegrenzen meetbaar en toetsbaar geformuleerd?",
+        "Welke afhankelijkheden of precondities beïnvloeden de scope?",
+        "Welke concrete voorbeelden verduidelijken de scope-afbakening?",
+    ]
+
+    if tag_name in tag_specific:
+        questions = list(tag_specific[tag_name])
+    elif tag_name.startswith("TRANSITION_"):
+        questions = list(transition_questions)
+    elif tag_name.startswith("COST_") or tag_name in {"CHARGING_MECHANISM", "COMMERCIAL_SHEET", "PRICING_ELEMENTS"}:
+        questions = list(pricing_questions)
+    elif tag_name.startswith("ROLES_") or "RESPONSIBILITIES" in tag_name:
+        questions = list(responsibilities_questions)
+    elif "SCOPE" in tag_name:
+        questions = list(scope_questions)
+    else:
+        questions = [
+            f"Voor '{chapter_label}': welke concrete input ontbreekt nog rond {primary} om dit hoofdstuk toetsbaar te maken?",
+            f"Welke expliciete bronreferenties ontbreken voor de statements over {primary} en {secondary}?",
+            f"Welke meetbare criteria of waarden moeten toegevoegd worden voor '{chapter_label}'?",
+            f"Welke risico's, aannames of afhankelijkheden rond {tertiary} moeten expliciet worden gemaakt?",
+            f"Welke 2-3 productspecifieke voorbeelden ontbreken nog om '{chapter_label}' kwalitatief sterk te finaliseren?",
+        ]
+
+    # Force chapter specificity even for predefined packs by anchoring the chapter label.
+    chapter_specific_questions = []
+    for q in questions[:5]:
+        if chapter_label.lower() in q.lower():
+            chapter_specific_questions.append(q)
+        else:
+            chapter_specific_questions.append(f"Voor '{chapter_label}': {q[0].lower() + q[1:] if len(q) > 1 else q.lower()}")
+    questions = chapter_specific_questions
+
+    if fill_type == "open_too_little_info":
+        questions[0] = (
+            f"Voor '{chapter_label}': welke ontbrekende broninformatie moet eerst worden aangeleverd om dit hoofdstuk inhoudelijk te kunnen invullen?"
+        )
+
+    score = _safe_int(quality_score, 0)
+    if score < 35:
+        score_questions = [
+            f"Voor '{chapter_label}' (score {score}/100): welke 3 ontbrekende feiten leveren de snelste kwaliteitswinst op?",
+            f"Voor '{chapter_label}' (score {score}/100): welke bron (owner + document) moet HITL eerst valideren om hallucinatie-risico te verlagen?",
+        ]
+    elif score < 70:
+        score_questions = [
+            f"Voor '{chapter_label}' (score {score}/100): welke alinea's moeten inhoudelijk worden aangescherpt om van concept naar klantklare tekst te gaan?",
+            f"Voor '{chapter_label}' (score {score}/100): welke 2 meetbare waarden ontbreken nog om claims hard te maken?",
+        ]
+    else:
+        score_questions = [
+            f"Voor '{chapter_label}' (score {score}/100): welke formuleringen moeten juridisch/commercieel worden geharmoniseerd met de offerteksten?",
+            f"Voor '{chapter_label}' (score {score}/100): welke optimalisaties verhogen nog de klantduidelijkheid zonder scope uit te breiden?",
+        ]
+
+    questions = (questions[:3] + score_questions)[:5]
+    return questions
+
+
+def _decorate_ai_generated_text_with_quality(tag_name, generated_text, quality, fill_type=None):
+    if fill_type not in AI_DECORATED_FILL_TYPES:
+        return _strip_ai_generated_markers(generated_text)
+
+    score = 0
+    if isinstance(quality, dict):
+        score = _safe_int(quality.get("overall", 0), 0)
+
+    score_line = f"Gemiddelde kwaliteitsscore ({tag_name}): {score}/100"
+    raw_text = _strip_ai_generated_markers(generated_text)
+    lines = [line.strip() for line in str(raw_text or "").splitlines() if line and line.strip()]
+
+    if not lines:
+        lines = [HITL_PREFIX, LOW_INFO_TEXT]
+
+    if not any(HITL_PREFIX in line for line in lines):
+        lines.insert(0, HITL_PREFIX)
+
+    has_explicit_hitl_notice = any(
+        ("hitl" in line.lower()) and ("valide" in line.lower() or "verifier" in line.lower() or "validate" in line.lower())
+        for line in lines
+    )
+    if not has_explicit_hitl_notice:
+        insert_idx = 1 if lines and HITL_PREFIX in lines[0] else 0
+        lines.insert(insert_idx, HITL_VALIDATION_NOTICE)
+
+    body_lines = [
+        line for line in lines
+        if line not in {HITL_PREFIX, HITL_VALIDATION_NOTICE}
+        and not line.lower().startswith("gemiddelde kwaliteitsscore (")
+    ]
+
+    fill_meta = {
+        "ai_related_documents": {
+            "bronstatus": "AI-voorinvulling op basis van gerelateerde documenten",
+            "inhoud_label": "Inhoud uit gerelateerde bronnen:",
+        },
+        "ai_missing_chapter": {
+            "bronstatus": "AI-voorinvulling wegens ontbrekend hoofdstuk in de bron-SD",
+            "inhoud_label": "Voorlopige hoofdstukinhoud:",
+        },
+        "open_too_little_info": {
+            "bronstatus": "Open placeholder wegens onvoldoende broninformatie",
+            "inhoud_label": "Ontbrekende informatie / placeholder:",
+        },
+    }
+    meta = fill_meta.get(fill_type, {
+        "bronstatus": "AI-voorinvulling",
+        "inhoud_label": "Inhoud:",
+    })
+
+    structured_body = [
+        f"Hoofdstuk: {TAG_LABEL_NL.get(tag_name, tag_name)}",
+        f"Bronstatus: {meta['bronstatus']}",
+        meta["inhoud_label"],
+    ]
+
+    if not body_lines:
+        structured_body.append(f"- {LOW_INFO_TEXT}")
+    else:
+        for line in body_lines:
+            clean = line.strip()
+            if not clean:
+                continue
+            if clean.endswith(":") and len(clean.split()) <= 10:
+                structured_body.append(clean)
+            elif clean.startswith("- "):
+                structured_body.append(clean)
+            else:
+                structured_body.append(f"- {clean}")
+
+    tag_questions = _chapter_hitl_questions(
+        tag_name=tag_name,
+        fill_type=fill_type,
+        body_lines=body_lines,
+        target_label=TAG_LABEL_NL.get(tag_name, tag_name),
+        quality_score=score,
+    )
+
+    structured_body.extend([
+        "HITL-actie:",
+        "- Verifieer de inhoud tegen de SD-bron en/of gevalideerde input.",
+        "- Werk ontbrekende details bij en finaliseer de tekst.",
+        "HITL-vragen voor kwaliteitsverbetering:",
+    ])
+    structured_body.extend([f"- {question}" for question in tag_questions])
+
+    return "\n".join([score_line, HITL_PREFIX, HITL_VALIDATION_NOTICE, *structured_body]).strip()
+
+
 def _parse_table_facts_from_section(section_node):
     raw = section_node.findtext("TableFactsJson", default="").strip()
     if not raw:
@@ -856,6 +1175,12 @@ def _select_best_sources_per_tag(xml_sections):
                 continue
             if looks_irrelevant_section(section_name):
                 continue
+            if _looks_toc_noise_content(content):
+                continue
+
+            content = _strip_toc_noise(content)
+            if len(content) < 30:
+                continue
 
             table_facts = _parse_table_facts_from_section(section_node)
             scored = _semantic_score_section_for_tag(tag, section_name, section_category, content, table_facts)
@@ -905,14 +1230,23 @@ def _merge_selected_source_content(tag_name, sources):
         ]
         return "\n".join(lines).strip()
 
-    if len(sources) == 1:
-        return sources[0]["content"][:MAX_SOURCE_CONTENT_CHARS].strip()
-
-    target_label = TAG_LABEL_NL.get(tag_name, tag_name)
-    blocks = [f"Bronbundel voor {target_label}:"]
+    cleaned_blocks = []
     for src in sources:
-        blocks.append(f"[{src['section_name']}]\n{src['content'][:MAX_SOURCE_CONTENT_CHARS].strip()}")
-    return "\n\n".join(blocks).strip()
+        cleaned = _strip_toc_noise(src.get("content", ""))
+        if not cleaned:
+            continue
+        if _looks_toc_noise_content(cleaned):
+            continue
+        cleaned_blocks.append(cleaned[:MAX_SOURCE_CONTENT_CHARS].strip())
+
+    if not cleaned_blocks:
+        return ""
+
+    if len(cleaned_blocks) == 1:
+        return cleaned_blocks[0]
+
+    # Keep final chapter text clean; traceability remains available in logs/XLSX.
+    return "\n\n".join(cleaned_blocks).strip()
 
 
 def _validate_source_relevance_for_tag(tag_name, source_item):
@@ -1034,6 +1368,12 @@ def _section_evidence_for_tag(tag_name, xml_sections, max_items=3):
         if not section_name or not content:
             continue
         if looks_irrelevant_section(section_name):
+            continue
+        if _looks_toc_noise_content(content):
+            continue
+
+        content = _strip_toc_noise(content)
+        if len(content) < 30:
             continue
 
         combined = normalize(f"{section_name} {content[:2400]}")
@@ -2033,9 +2373,12 @@ def _set_cover_fields(buffer, sd_name):
 
 
 def _set_sdt_text_preserving_structure(content, new_text, ns):
-    def _append_paragraph(parent, text, w_ns):
+    def _append_paragraph(parent, text, w_ns, bold=False):
         p = etree.SubElement(parent, f"{{{w_ns}}}p")
         r = etree.SubElement(p, f"{{{w_ns}}}r")
+        if bold:
+            r_pr = etree.SubElement(r, f"{{{w_ns}}}rPr")
+            etree.SubElement(r_pr, f"{{{w_ns}}}b")
         t = etree.SubElement(r, f"{{{w_ns}}}t")
         t.text = text
 
@@ -2161,6 +2504,7 @@ def _set_sdt_text_preserving_structure(content, new_text, ns):
 
     text_nodes = content.xpath(".//w:t", namespaces=ns)
     safe_text = sanitize_xml_text(new_text).strip()
+    raw_lines = [line.rstrip() for line in sanitize_xml_text(new_text).splitlines()]
 
     lines = [line.strip() for line in safe_text.splitlines() if line and line.strip()]
     table_candidate = _extract_table_candidate(lines) if lines else None
@@ -2182,6 +2526,25 @@ def _set_sdt_text_preserving_structure(content, new_text, ns):
 
         for post in lines[end_idx + 1:]:
             _append_paragraph(content, post, wp)
+        return
+
+    # Keep multi-line structured content readable in Word by writing one paragraph per line.
+    if len(raw_lines) > 1:
+        wp = ns["w"]
+        for child in list(content):
+            content.remove(child)
+
+        for raw in raw_lines:
+            line = str(raw or "").strip()
+            if not line:
+                _append_paragraph(content, "", wp)
+                continue
+
+            is_heading = line.endswith(":") and len(line.split()) <= 8
+            if line.startswith("- "):
+                _append_paragraph(content, f"• {line[2:].strip()}", wp)
+            else:
+                _append_paragraph(content, line, wp, bold=is_heading)
         return
 
     if text_nodes:
@@ -2317,6 +2680,7 @@ def process_docx(buffer, xml_root_data, sd_name, source_dir=None, source_docx=No
                 continue
 
             merged_content = _merge_selected_source_content(tag, sources)
+            merged_content = _strip_ai_generated_markers(merged_content)
             if not merged_content:
                 continue
 
@@ -2356,20 +2720,26 @@ def process_docx(buffer, xml_root_data, sd_name, source_dir=None, source_docx=No
 
             if tag in STRICT_EVIDENCE_TAGS or tag in force_open_tags:
                 generated = _build_low_info_text()
-                replaced = replace_sdt(xml_root, tag, generated)
+                quality = _compute_quality_for_tag(
+                    tag_name=tag,
+                    content=generated,
+                    sources=[],
+                    conflicts=conflict_by_tag.get(tag, []),
+                    has_exact_evidence=False,
+                    fill_type="open_too_little_info",
+                )
+                generated_for_output = _decorate_ai_generated_text_with_quality(
+                    tag,
+                    generated,
+                    quality,
+                    fill_type="open_too_little_info",
+                )
+                replaced = replace_sdt(xml_root, tag, generated_for_output)
                 if replaced > 0:
                     total += replaced
                     filled_tags.add(tag)
                     log(f"Forced open placeholder for hoofdstuk '{tag}' wegens ontbrekende exacte bron-evidence", sd_name)
                     if tag not in quality_logged_tags:
-                        quality = _compute_quality_for_tag(
-                            tag_name=tag,
-                            content=generated,
-                            sources=[],
-                            conflicts=conflict_by_tag.get(tag, []),
-                            has_exact_evidence=False,
-                            fill_type="open_too_little_info",
-                        )
                         _log_quality_for_tag(tag, quality, sd_name)
                         quality_logged_tags.add(tag)
                 continue
@@ -2395,29 +2765,40 @@ def process_docx(buffer, xml_root_data, sd_name, source_dir=None, source_docx=No
                     style_profile=style_profile,
                 )
 
-            replaced = replace_sdt(xml_root, tag, generated)
+            if LOW_INFO_TEXT in generated:
+                fill_type = "open_too_little_info"
+            elif direct_related:
+                fill_type = "ai_related_documents"
+            else:
+                fill_type = "ai_missing_chapter"
+
+            quality = _compute_quality_for_tag(
+                tag_name=tag,
+                content=generated,
+                sources=[],
+                conflicts=conflict_by_tag.get(tag, []),
+                has_exact_evidence=(tag not in STRICT_EVIDENCE_TAGS),
+                fill_type=fill_type,
+            )
+            generated_for_output = _decorate_ai_generated_text_with_quality(
+                tag,
+                generated,
+                quality,
+                fill_type=fill_type,
+            )
+
+            replaced = replace_sdt(xml_root, tag, generated_for_output)
             if replaced > 0:
                 total += replaced
                 filled_tags.add(tag)
                 if LOW_INFO_TEXT in generated:
                     log(f"AI open wegens te weinig info voor hoofdstuk '{tag}'", sd_name)
-                    fill_type = "open_too_little_info"
                 elif direct_related:
                     log(f"AI aangevuld op basis van gerelateerde documenten voor hoofdstuk '{tag}'", sd_name)
-                    fill_type = "ai_related_documents"
                 else:
                     log(f"AI aangevuld voor ontbrekend hoofdstuk '{tag}'", sd_name)
-                    fill_type = "ai_missing_chapter"
 
                 if tag not in quality_logged_tags:
-                    quality = _compute_quality_for_tag(
-                        tag_name=tag,
-                        content=generated,
-                        sources=[],
-                        conflicts=conflict_by_tag.get(tag, []),
-                        has_exact_evidence=(tag not in STRICT_EVIDENCE_TAGS),
-                        fill_type=fill_type,
-                    )
                     _log_quality_for_tag(tag, quality, sd_name)
                     quality_logged_tags.add(tag)
 
@@ -2468,25 +2849,35 @@ def process_docx(buffer, xml_root_data, sd_name, source_dir=None, source_docx=No
                     style_profile=style_profile,
                 )
 
-            _set_sdt_text_preserving_structure(content, generated, ns)
+            if LOW_INFO_TEXT in generated:
+                fill_type = "open_too_little_info"
+            else:
+                fill_type = "ai_related_documents"
+
+            quality = _compute_quality_for_tag(
+                tag_name=tag,
+                content=generated,
+                sources=[],
+                conflicts=conflict_by_tag.get(tag, []),
+                has_exact_evidence=(tag not in STRICT_EVIDENCE_TAGS),
+                fill_type=fill_type,
+            )
+            generated_for_output = _decorate_ai_generated_text_with_quality(
+                tag,
+                generated,
+                quality,
+                fill_type=fill_type,
+            )
+
+            _set_sdt_text_preserving_structure(content, generated_for_output, ns)
             total += 1
             filled_tags.add(tag)
             if LOW_INFO_TEXT in generated:
                 log(f"AI open wegens te weinig info voor hoofdstuk '{tag}'", sd_name)
-                fill_type = "open_too_little_info"
             else:
                 log(f"AI aangevuld op basis van gerelateerde documenten voor hoofdstuk '{tag}'", sd_name)
-                fill_type = "ai_related_documents"
 
             if tag not in quality_logged_tags:
-                quality = _compute_quality_for_tag(
-                    tag_name=tag,
-                    content=generated,
-                    sources=[],
-                    conflicts=conflict_by_tag.get(tag, []),
-                    has_exact_evidence=(tag not in STRICT_EVIDENCE_TAGS),
-                    fill_type=fill_type,
-                )
                 _log_quality_for_tag(tag, quality, sd_name)
                 quality_logged_tags.add(tag)
 
